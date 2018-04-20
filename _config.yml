@@ -1,0 +1,14 @@
+permalink: /blog/:title
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: rouge
+
+title : The Software Engineering Research Group homepage
+tagline:
+author :
+  name : SERG
+  email : gousiosg@gmail.com
+  github : serg-delft
+  twitter : serg_delft
+
+production_url : serg.ewi.tudelft.nl
