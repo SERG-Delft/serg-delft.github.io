@@ -24,7 +24,7 @@ title: People
   </div>
 </div>
 
-##### Associate professors
+##### Associate professor
 
 <div class="card">
   <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
@@ -38,7 +38,7 @@ title: People
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Card image cap">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
       <h5 class="card-title"><a href="http://www.mauricioaniche.com">dr. Mauricio Aniche</a></h5>
       <p class="card-text">...</p>
