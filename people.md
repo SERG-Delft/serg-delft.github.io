@@ -83,7 +83,22 @@ title: People
 
 </div>
 
-### Postdocs
+#### Postdocs
+
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src=https://avatars3.githubusercontent.com/u/16877168?v=4 alt="Enrique Larios Vargas">
+    <div class="card-body">
+      <h5 class="card-title"><a href="http://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">dr. Enrique Larios Vargas</a></h5>
+      <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+</div>
 
 ### Research associates
 
