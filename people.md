@@ -30,8 +30,14 @@ title: People
   <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">dr. Andy Zaidman</h5>
-    <p class="card-text">Software Testing</p>
+    <p class="card-text">Software Testing, Software Evolution</p>
   </div>
+  <div class="card-footer bg-transparent border-success">
+      <a href="http://twitter.com/azaidman"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/azaidman"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/andyzaidman/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/ae-zaidman(3d1ac38d-7304-44f4-bccb-087b6db66072)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
 </div>
 
 ##### Assistant professors
