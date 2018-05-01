@@ -86,17 +86,6 @@ title: People
 
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
-    <div class="card-body">
-      <h5 class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">dr. Enrique Larios Vargas</a></h5>
-      <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-    <div class="card">
         <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/334256?s=460&v=4" alt="Moritz Beller">
     <div class="card-body">
       <h5 class="card-title"><a href="https://inventitech.com">Moritz Beller (Inventitech)</a></h5>
@@ -107,6 +96,17 @@ title: People
       <a href="https://github.com/inventitech"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/inventitech"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/mm-beller(32e3c6c5-065f-4b6e-b373-30442d051144)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
+    <div class="card-body">
+      <h5 class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">dr. Enrique Larios Vargas</a></h5>
+      <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 </div>
