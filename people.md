@@ -60,7 +60,7 @@ title: People
     <div class="card-footer bg-transparent border-success">
       <a href="http://twitter.com/gousiosg"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/gousiosg"><i class="fab fa-github"></i></a>
-      <a href="www.linkedin.com/in/gousiosg"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/gousiosg"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
