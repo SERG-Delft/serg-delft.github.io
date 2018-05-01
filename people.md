@@ -33,7 +33,7 @@ title: People
     <p class="card-text">Software Testing, Software Evolution</p>
   </div>
   <div class="card-footer bg-transparent border-success">
-      <a href="http://twitter.com/azaidman"><i class="fab fa-twitter"></i></a>
+      <a href="https://twitter.com/azaidman"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/azaidman"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/andyzaidman/"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/ae-zaidman(3d1ac38d-7304-44f4-bccb-087b6db66072)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
@@ -46,7 +46,7 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
-      <h5 class="card-title"><a href="http://www.mauricioaniche.com">dr. Mauricio Aniche</a></h5>
+      <h5 class="card-title"><a href="https://www.mauricioaniche.com">dr. Mauricio Aniche</a></h5>
       <p class="card-text">...</p>
     </div>
   </div>
@@ -58,7 +58,7 @@ title: People
       <p class="card-text">Software analytics, software ecosystems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="http://twitter.com/gousiosg"><i class="fab fa-twitter"></i></a>
+      <a href="https://twitter.com/gousiosg"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/gousiosg"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/gousiosg"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
@@ -88,7 +88,7 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
     <div class="card-body">
-      <h5 class="card-title"><a href="http://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">dr. Enrique Larios Vargas</a></h5>
+      <h5 class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">dr. Enrique Larios Vargas</a></h5>
       <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
     </div>
     <div class="card-footer bg-transparent border-success">
