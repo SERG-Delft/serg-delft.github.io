@@ -16,7 +16,7 @@ title: People
   </div>
 
   <div class="card">
-    <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+    <img class="card-img-top" src="https://placehold.it/100x180" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">prof. dr. ir. Rini van Solingen</h5>
       <p class="card-text">Global Software Engineering (0.2fte) </p>
