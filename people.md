@@ -98,6 +98,21 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/mm-beller(32e3c6c5-065f-4b6e-b373-30442d051144)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+  
+ <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2269396?s=400&amp;v=4" alt="Maria Kechagia">
+    <div class="card-body">
+      <h5 class="card-title"><a href="https://mkechagia.github.io/">dr. Maria Kechagia</a></h5>
+      <p class="card-text">Verification, Crash analytics, Mining software repositories</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mkechagia"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mkechagia"><i class="fab fa-github"></i></a>
+      <a href="https://nl.linkedin.com/in/maria-kechagia-3958b381"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+ </div>
+  
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
     <div class="card-body">
