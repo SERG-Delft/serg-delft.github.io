@@ -109,7 +109,7 @@ title: People
       <a href="https://twitter.com/mkechagia"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/mkechagia"><i class="fab fa-github"></i></a>
       <a href="https://nl.linkedin.com/in/maria-kechagia-3958b381"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/" title="Publications"><i class="fas fa-edit"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/m-kechagia(6f4b34f6-603a-43fe-ac6e-04401a84ecfe)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
  </div>
   
