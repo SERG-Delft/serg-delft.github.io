@@ -130,6 +130,20 @@ title: People
 
 ### PhD Students
 
+<div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/2521475?s=460&v=4" alt="Joseph Hejderup">
+    <div class="card-body">
+      <h5 class="card-title"><a href="https://twitter.com/jhejderup">ir. Joseph Hejderup</a></h5>
+      <p class="card-text">Software analytics, Software ecosystems, Program analysis</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/jhejderup"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/jhejderup"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/josephhejderup"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
 ### Support
 
 ### Alumni
