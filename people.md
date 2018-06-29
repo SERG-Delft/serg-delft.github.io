@@ -13,7 +13,7 @@ title: People
       <p class="card-text">Group Leader, Software Technology Department Head</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://avandeursen.com"><i class="fab fa-home"></i></a>
+      <a href="https://avandeursen.com"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/avandeursen"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/avandeursen"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/avandeursen/"><i class="fab fa-linkedin"></i></a>

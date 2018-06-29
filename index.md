@@ -1,9 +1,11 @@
 ---
 layout: index
-title: Software Engineering Research Group
+title: The Software Engineering Research Group
 ---
 
-# SERG: The TU Delft Software Engineering Research Group
+# The Software Engineering Research Group
+
+## Delft University of Technology
 
 Welcome to the home page of the Software Engineering Research Group!
 
