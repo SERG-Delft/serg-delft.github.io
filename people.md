@@ -12,6 +12,13 @@ title: People
       <div class="card-title">Arie van Deursen</div>
       <p class="card-text">Group Leader, Software Technology Department Head</p>
     </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://avandeursen.com"><i class="fas fa-home"></i></a>
+      <a href="https://twitter.com/avandeursen"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/avandeursen"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/avandeursen/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/a-van-deursen(949eb2cc-4db0-4f33-bd56-13425fa5c24a)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
   </div>
 
   <div class="card">
