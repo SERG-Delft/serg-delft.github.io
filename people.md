@@ -4,6 +4,7 @@ title: People
 ---
 
 ### Professors
+
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Arie van Deursen">
@@ -53,7 +54,7 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
     <div class="card-body">
       <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
-      <p class="card-text">Software analytics, software ecosystems</p>
+      <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/gousiosg"><i class="fab fa-twitter"></i></a>

@@ -1,46 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-  <meta name="description" content="{{ page.description }}">
-  <meta name="author" content="{{ site.author.name }}">
-  <meta http-equiv="Content-Security-Policy" content="child-src https://purexml.ewi.tudelft.nl/">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="{{ site.author.name }}">
+    <meta http-equiv="Content-Security-Policy" content="child-src https://purexml.ewi.tudelft.nl/">
 
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
 
-  <link rel="stylesheet" href="/css/serg.css">
-</head>
+    <link rel="stylesheet" href="/css/serg.css">
+  </head>
 
-<body>
-  <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
-    <a class="navbar-brand" href="/">
-      <img src="/img/serg.png" height="25" class="d-inline-block align-top" alt="">
-    </a>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="/">
+        <img src="/img/serg.png" height="25" class="d-inline-block align-top" alt="">
+      </a>
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-item nav-link" href="/people.html">People</a>
-        <a class="nav-item nav-link" href="/publications.html">Publications</a>
-        <a class="nav-item nav-link" href="/research.html">Research</a>
-        <a class="nav-item nav-link" href="/teaching.html">Teaching</a>
-        <a class="nav-item nav-link" href="/msc-projects.html">Student Projects</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link" href="/people.html">People</a>
+          <a class="nav-item nav-link" href="/publications.html">Publications</a>
+          <a class="nav-item nav-link" href="/research.html">Research</a>
+          <a class="nav-item nav-link" href="/teaching.html">Teaching</a>
+          <a class="nav-item nav-link" href="/msc-projects.html">Student Projects</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="content">
+        {{ content }}
       </div>
     </div>
-  </nav>
-
-  <div class="container">
-
-    <div class="content">
-      {{ content }}
-    </div>
-
-  </div>
-</body>
+  </body>
 
 </html>

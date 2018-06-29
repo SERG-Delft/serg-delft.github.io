@@ -1,3 +1,18 @@
+/*Navbar*/
+.navbar {
+  background-color: #e3f2fd;
+}
+
+/*Content*/
+.content {
+  padding: 2rem;
+}
+
+address {
+  font-size: small;
+}
+
+/*People*/
 h3 {
   font-size: 1.5rem;
   padding-top: 1rem;
@@ -19,4 +34,13 @@ h3 {
 .card-title {
   padding: .25rem;
   font-weight: bold;
+}
+
+.card-text {
+  font-size: smaller;
+  padding: .25rem;
+}
+
+.row {
+  margin: 0rem;
 }
