@@ -3,17 +3,16 @@ layout: index
 title: Software Engineering Research Group
 ---
 
+# SERG: The TU Delft Software Engineering Research Group
+
 Welcome to the home page of the Software Engineering Research Group!
 
+<!--
 _Nice group photo here_
+-->
 
 **Master students:** Are you looking for an MSc thesis topic? Look at our
 [project list](msc-projects.html) and/or contact one of the faculty members.
-
-## Latest news
-
-* Cool news 1
-* Cool news 2
 
 ## Our Mission
 
