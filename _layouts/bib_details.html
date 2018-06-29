@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-md-10">
+<h3>{{ page.entry.title }}</h3>
+
+{% if page.entry.author %}
+
+<p>
+by {{ page.entry.author }}
+</p>
+{% endif %}
+
+{% if page.entry.editor %}
+<p>
+edited by {{ page.entry.editor }}
+</p>
+{% endif %}
+
+{% if page.entry.url %}
+<p>
+<i class="fa fa-book fa-2x" aria-hidden="true"></i>
+You can get a pre-print version from <a href="{{ page.entry.url }}">here</a>.
+
+{% if page.entry.doi %}
+<br/>
+<i class="ai ai-doi ai-2x"></i>
+You can view the publisher's page <a href="http://dx.doi.org/{{ page.entry.doi }}">here</a>.
+{% endif %}
+
+{% endif %}
+
+{% if page.entry.github %}
+<br/>
+<i class="fa fa-github fa-2x" aria-hidden="true"></i>
+See the paper's associated repository on GitHub: <a href="https://github.com/{{
+page.entry.github }}">{{ page.entry.github }}</a>
+{% endif %}
+</p>
+
+{% if page.entry.award %}
+<p>
+<i class="fa fa-trophy research" aria-hidden="true" style="color: goldenrod;"></i>
+This paper received the "{{ page.entry.award }}" award
+</p>
+{% endif %}
+
+{% if page.entry.nomination %}
+<p>
+<i class="fa fa-trophy research" aria-hidden="true" style="color: silver;"></i>
+This paper received a nomination for the "{{ page.entry.nomination }}" award
+</p>
+{% endif %}
+
+{% if page.entry.abstract %}
+<h4>Abstract</h4>
+
+<p>
+{{ page.entry.abstract }}
+</p>
+{% endif %}
+
+<h4>Bibtex record</h4>
+<pre>
+{{ page.entry.bibtex }}
+</pre>
+{% if page.entry.slideshareembed %}
+<h4>Presentation</h4>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/{{page.entry.slideshareembed}}?rel=0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+
+{% endif %}
+
+{% if page.entry.speakerdeck %}
+<h4>Presentation</h4>
+
+<div style="width: 60%;margin-left:auto;margin-right:auto;">
+<script class="speakerdeck-embed" data-id="{{page.entry.speakerdeck}}" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+{% endif %}
+
+{% if page.entry.url %}
+
+<h4>The paper</h4>
+<div style="width: 100%;margin-left:auto;margin-right:auto;">
+<iframe id="viewer" src = "/Viewer.js/#{{page.entry.url}}" width='724'
+  height='1000' allowfullscreen webkitallowfullscreen></iframe>
+</div>
+{% endif %}
+</div>
+<div class="col-md-2">
+  <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_counter_style">
+      <a class="addthis_button_facebook_like"></a><br/>
+      <a class="addthis_button_tweet"></a> <br/>
+      <a class="addthis_button_google_plusone"></a>
+      <a class="addthis_button_compact"></a>
+    </div>
+    <script type="text/javascript"
+      src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50b3d354431ac7e5"></script>
+    <!-- AddThis Button END -->
+  </div>
+</div>

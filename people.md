@@ -3,33 +3,31 @@ layout: page
 title: People
 ---
 
-### Faculty
-
-##### Professors
+### Professors
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Card image cap">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Arie van Deursen">
     <div class="card-body">
-      <h5 class="card-title">prof. dr. ir. Arie van Deursen</h5>
+      <div class="card-title">Arie van Deursen</div>
       <p class="card-text">Group Leader, Software Technology Department Head</p>
     </div>
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="https://placehold.it/100x180" alt="Card image cap">
+    <img class="card-img-top" src="http://rinivansolingen.nl/wp-content/uploads/2012/06/Rini-van-Solingen-2015.jpg" alt="Rini van Solingen">
     <div class="card-body">
-      <h5 class="card-title">prof. dr. ir. Rini van Solingen</h5>
+      <div class="card-title">Rini van Solingen</div>
       <p class="card-text">Global Software Engineering (0.2fte) </p>
     </div>
   </div>
 </div>
 
-##### Associate professor
+### Associate professor
 
 <div class="card">
   <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">dr. Andy Zaidman</h5>
+    <div class="card-title">Andy Zaidman</div>
     <p class="card-text">Software Testing, Software Evolution</p>
   </div>
   <div class="card-footer bg-transparent border-success">
@@ -40,13 +38,13 @@ title: People
     </div>
 </div>
 
-##### Assistant professors
+### Assistant professors
 
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
-      <h5 class="card-title"><a href="https://www.mauricioaniche.com">dr. Mauricio Aniche</a></h5>
+      <div class="card-title"><a href="https://www.mauricioaniche.com">Mauricio Aniche</a></div>
       <p class="card-text">...</p>
     </div>
   </div>
@@ -54,7 +52,7 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
     <div class="card-body">
-      <h5 class="card-title"><a href="http://gousios.org">dr. ir. Georgios Gousios</a></h5>
+      <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
       <p class="card-text">Software analytics, software ecosystems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
@@ -68,7 +66,7 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
     <div class="card-body">
-      <h5 class="card-title"><a href="http://felienne.com">dr. ir. Felienne Hermans</a></h5>
+      <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
       <p class="card-text"></p>
     </div>
   </div>
@@ -76,19 +74,19 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
-      <h5 class="card-title"><a href="http://www.sesa.unisa.it/people/apanichella/">dr. Annibale Panichella</a></h5>
+      <div class="card-title"><a href="http://www.sesa.unisa.it/people/apanichella/">Annibale Panichella</a></div>
       <p class="card-text"></p>
     </div>
   </div>
 </div>
 
-#### Postdocs
+### Postdocs
 
 <div class="card-deck">
   <div class="card">
         <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/334256?s=460&v=4" alt="Moritz Beller">
     <div class="card-body">
-      <h5 class="card-title"><a href="https://inventitech.com">Moritz Beller (Inventitech)</a></h5>
+      <div class="card-title"><a href="https://inventitech.com">Moritz Beller (Inventitech)</a></div>
       <p class="card-text">Software analytics, ecosystems, Continuous Integration</p>
     </div>
     <div class="card-footer bg-transparent border-success">
@@ -98,11 +96,11 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/mm-beller(32e3c6c5-065f-4b6e-b373-30442d051144)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-  
+
  <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2269396?s=400&amp;v=4" alt="Maria Kechagia">
     <div class="card-body">
-      <h5 class="card-title"><a href="https://mkechagia.github.io/">dr. Maria Kechagia</a></h5>
+      <div class="card-title"><a href="https://mkechagia.github.io/">Maria Kechagia</a></div>
       <p class="card-text">Verification, Crash analytics, Mining software repositories</p>
     </div>
     <div class="card-footer bg-transparent border-success">
@@ -112,11 +110,11 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/m-kechagia(6f4b34f6-603a-43fe-ac6e-04401a84ecfe)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
  </div>
-  
+
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
     <div class="card-body">
-      <h5 class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">dr. Enrique Larios Vargas</a></h5>
+      <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
       <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
     </div>
     <div class="card-footer bg-transparent border-success">
@@ -126,14 +124,12 @@ title: People
   </div>
 </div>
 
-### Research associates
-
 ### PhD Students
 
 <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/2521475?s=460&v=4" alt="Joseph Hejderup">
     <div class="card-body">
-      <h5 class="card-title"><a href="https://twitter.com/jhejderup">ir. Joseph Hejderup</a></h5>
+      <div class="card-title"><a href="https://twitter.com/jhejderup">Joseph Hejderup</a></div>
       <p class="card-text">Software analytics, Software ecosystems, Program analysis</p>
     </div>
     <div class="card-footer bg-transparent border-success">

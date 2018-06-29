@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+</div>
+
+<div class="row">
+  <div class="col-md-9">
+    {{ content }}
+    <hr>
+    <div class="pagination">
+      <ul>
+        {% if page.previous %}
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+        {% else %}
+        <li class="prev disabled"><a>&larr; Previous</a></li>
+        {% endif %}
+        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+        {% if page.next %}
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+        {% else %}
+        <li class="next disabled"><a>Next &rarr;</a> {% endif %}
+      </ul>
+    </div>
+    <hr>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = 'gousiosghomepage';
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  </div>
+
+  <div class="col-md-3">
+    <h4>Published</h4>
+    <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
+
+    {% unless page.categories == empty %}
+
+    <br/>
+    <h4>Tags</h4>
+    <ul class="tag_box">
+      {% for tag in page.categories %}
+      <li><a href="{{ BASE_PATH }}/blog/categories.html#{{ tag }}-ref">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
+      {% endfor %}
+    </ul>
+    {% endunless %}
+
+    <br/>
+    <h4>Sharing</h4>
+    <!-- AddThis Button BEGIN -->
+    <a href="http://news.ycombinator.com/submit" class="hn-share-button">Submit to HN</a>
+    <div class="addthis_toolbox addthis_counter_style">
+      <a class="addthis_button_facebook_like"></a><br/>
+      <a class="addthis_button_tweet"></a> <br/>
+      <a class="addthis_button_google_plusone"></a>
+      <a class="addthis_button_compact"></a>
+    </div>
+    <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50b3d354431ac7e5"></script>
+    <!-- AddThis Button END -->
+  </div>
+</div>
+
+<script>
+  (function(d, t) {
+    var g = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
+    g.src = '//hnbutton.appspot.com/static/hn.min.js';
+    s.parentNode.insertBefore(g, s);
+  }(document, 'script'));
+</script>
