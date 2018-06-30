@@ -1,6 +1,18 @@
+body {
+  font-family: Arial, sant-serif;
+}
+
 /*Navbar*/
-.navbar {
-  background-color: #e3f2fd;
+.navbar, .tudelft {
+  background-color: #00A6D6;
+}
+
+.navbar-light .navbar-nav .nav-link, .tudelft {
+  color: #fff;
+}
+
+a {
+  color: #00A6D6;
 }
 
 /*Content*/
