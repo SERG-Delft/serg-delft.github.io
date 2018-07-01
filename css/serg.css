@@ -56,3 +56,9 @@ h3 {
 .row {
   margin: 0rem;
 }
+
+/*Footer*/
+.myfooter {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+}
