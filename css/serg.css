@@ -1,6 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+a {
+  color: #00A6D6;
+}
+
+address {
+  font-size: small;
+}
+
+h3 {
+  font-size: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 /*Navbar*/
-.navbar {
-  background-color: #e3f2fd;
+.navbar, .tudelft {
+  background-color: #00A6D6;
+}
+
+.navbar-light .navbar-nav .nav-link, .tudelft {
+  color: #fff;
 }
 
 /*Content*/
@@ -8,17 +30,7 @@
   padding: 2rem;
 }
 
-address {
-  font-size: small;
-}
-
 /*People*/
-h3 {
-  font-size: 1.5rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 .card {
   max-width: 10rem;
 }
@@ -43,4 +55,10 @@ h3 {
 
 .row {
   margin: 0rem;
+}
+
+/*Footer*/
+.myfooter {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
 }
