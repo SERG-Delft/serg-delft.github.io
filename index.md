@@ -5,12 +5,13 @@ title: The Software Engineering Research Group
 
 # The Software Engineering Research Group
 
-The mission of the TU Delft Software Engineering Research Group is
+The mission of the TU Delft Software Engineering Research Group (SERG) is
 
 1. to develop a deep understanding of how people build and evolve software systems;
 2. to develop novel methods, techniques, theories, and tools that advance the way in which software is built and adjusted;
 3. to ensure that our research results have a lasting impact in software development practice; and
 4. to offer students an education that prepares them to take a leading role in complex software development projects.
+
 
 ## Research
 
@@ -56,3 +57,15 @@ with our students. Our [teaching activities](teaching.html) include:
 - Introductory courses in the TU Delft minor and digital skills programs, offering non-CS students a background in programming, data science, and software engineering;
 
 - On line courses offered through the TU Delft EdX platform, on such topics as data analysis and Scratch programming, which have attracted tens of thousands of students from across the globe.
+
+## Organization
+
+SERG is one of six sections of the [Department of Software Technology][st] (ST).
+Together with the [Intelligent Systems][INSY] department INSY, ST is responsible for research and education in computer science and engineering at [Delft University of Technology][tudelft].
+
+SERG and the Department of Software Technology are part of the TU Delft [Faculty of Electrical Engineering, Mathematics, and Computer Science][eemcs].
+
+[eemcs]: https://www.tudelft.nl/en/eemcs/
+[st]: https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/
+[tudelft]: https://www.tudelft.nl
+[insy]: https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/
