@@ -14,6 +14,8 @@ The mission of the TU Delft Software Engineering Research Group is
 
 ## Research
 
+<image src="img/watchdog.png" style="float:right; width:300px; border:1px solid #000"/>
+
 The research of the TU Delft Software Engineering Research Group is
 characterized by a focus on empirical research, conducted in close collaboration
 with software development practice. Topics of interest include software testing,
@@ -39,6 +41,8 @@ research lines:
 * [Software Testing](softtesting.html)
 
 ## Education
+
+<image src="img/lecture.jpg" style="float:right; width:300px; border:1px solid #000"/>
 
 We have a passion for teaching and a deep desire to share what we learn about software engineering
 with our students. Our [teaching activities](teaching.html) include:
