@@ -9,24 +9,31 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Arie van Deursen">
     <div class="card-body">
-      <div class="card-title">Arie van Deursen</div>
+      <div class="card-title"><a href="https://avandeursen.com">Arie van Deursen</a></div>
       <p class="card-text">Group Leader, Software Technology Department Head</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://avandeursen.com" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/avandeursen" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/avandeursen" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/avandeursen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://nl.linkedin.com/in/avandeursen" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=jjCkWXgAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/a-van-deursen(949eb2cc-4db0-4f33-bd56-13425fa5c24a)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
   <div class="card">
-    <img class="card-img-top" src="http://rinivansolingen.nl/wp-content/uploads/2012/06/Rini-van-Solingen-2015.jpg" alt="Rini van Solingen">
+    <img class="card-img-top" src="img/rini-van-solingen.jpeg" alt="Rini van Solingen">
     <div class="card-body">
-      <div class="card-title">Rini van Solingen</div>
+      <div class="card-title"><a href="http://www.rinivansolingen.nl/">Rini van Solingen</a></div>
       <p class="card-text">Global Software Engineering (0.2fte) </p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="http://www.rinivansolingen.nl/" title="Home page"><i class="fas fa-home"></i></a>
+      <a href="https://twitter.com/solingen" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://nl.linkedin.com/in/solingen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=9LxiPOUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/dm-van-solingen(2669c7b5-81a6-4f70-9d9d-e21ead041426)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 </div>
