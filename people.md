@@ -72,9 +72,11 @@ title: People
       <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/gousiosg"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/gousiosg"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/gousiosg"><i class="fab fa-linkedin"></i></a>
+      <a href="https://gousios.org" title="Home page"><i class="fas fa-home"></i></a>
+      <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="http://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
