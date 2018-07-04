@@ -138,11 +138,26 @@ title: People
       <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/8514257?v=4" alt="Xavier Devroey">
+    <div class="card-body">
+      <div class="card-title"><a href="http://xdevroey.be">Xavier Devroey</a></div>
+        <p class="card-text">Software Testing, Search Based Software Engineering, Variability-Intensive Systems</p>
+      </div>
+      <div class="card-footer bg-transparent border-success">
+        <a href="https://twitter.com/xdevroey"><i class="fab fa-twitter"></i></a>
+        <a href="https://github.com/xdevroey"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/xdevroey"><i class="fab fa-linkedin"></i></a>
+        <a href="https://pure.tudelft.nl/portal/en/persons/xdm-devroey(374ab5e8-0b73-417d-a03b-7db03e3f1203)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      </div>
+    </div>
 </div>
 
 ### PhD Students
 
-<div class="card">
+<div class="card-deck">
+  <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/2521475?s=460&v=4" alt="Joseph Hejderup">
     <div class="card-body">
       <div class="card-title"><a href="https://twitter.com/jhejderup">Joseph Hejderup</a></div>
@@ -155,6 +170,45 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/1183394?s=460&v=4" alt="Mozhan Soltani">
+    <div class="card-body">
+      <div class="card-title">Mozhan Soltani</div>
+      <p class="card-text">Search based software testing, Crash replication, Evolutionary algorithms</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/Mozhan"><i class="fab fa-github"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/m-soltani(12bb18d0-3bd3-45c6-b95f-d6a67b121bf6)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/16692536?s=460&v=4" alt="Qianqian Zhu">
+    <div class="card-body">
+      <div class="card-title">Qianqian Zhu</div>
+      <p class="card-text">Software testing, Mutation testing, Selection criteria</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/qzhu90"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/qianqianzhu"><i class="fab fa-github"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/q-zhu(61ceb2fb-83c4-4272-9001-6e954f09ba09)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5176953?s=460&v=4" alt="Pouria Derakhshanfar">
+    <div class="card-body">
+      <div class="card-title">Pouria Derakhshanfar</div>
+      <p class="card-text">Search based software testing, Seeding strategies, DevOps</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/pderakhshanfar"><i class="fab fa-github"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/p-derakhshanfar(5ae55462-83f6-4fbd-ad32-9613d3f8329e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+</div>
 
 ### Support
 
