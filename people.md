@@ -115,6 +115,20 @@ title: People
     </div>
   </div>
 
+  <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/8514257?v=4" alt="Xavier Devroey">
+    <div class="card-body">
+      <div class="card-title"><a href="http://xdevroey.be">Xavier Devroey</a></div>
+        <p class="card-text">Software Testing, Search Based Software Engineering, Variability-Intensive Systems</p>
+      </div>
+      <div class="card-footer bg-transparent border-success">
+        <a href="https://twitter.com/xdevroey"><i class="fab fa-twitter"></i></a>
+        <a href="https://github.com/xdevroey"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/xdevroey"><i class="fab fa-linkedin"></i></a>
+        <a href="https://pure.tudelft.nl/portal/en/persons/xdm-devroey(374ab5e8-0b73-417d-a03b-7db03e3f1203)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      </div>
+    </div>
+
  <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2269396?s=400&amp;v=4" alt="Maria Kechagia">
     <div class="card-body">
@@ -141,24 +155,24 @@ title: People
     </div>
   </div>
 
-  <div class="card">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/8514257?v=4" alt="Xavier Devroey">
-    <div class="card-body">
-      <div class="card-title"><a href="http://xdevroey.be">Xavier Devroey</a></div>
-        <p class="card-text">Software Testing, Search Based Software Engineering, Variability-Intensive Systems</p>
-      </div>
-      <div class="card-footer bg-transparent border-success">
-        <a href="https://twitter.com/xdevroey"><i class="fab fa-twitter"></i></a>
-        <a href="https://github.com/xdevroey"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/xdevroey"><i class="fab fa-linkedin"></i></a>
-        <a href="https://pure.tudelft.nl/portal/en/persons/xdm-devroey(374ab5e8-0b73-417d-a03b-7db03e3f1203)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-      </div>
-    </div>
 </div>
 
 ### PhD Students
 
 <div class="card-deck">
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5176953?s=460&v=4" alt="Pouria Derakhshanfar">
+    <div class="card-body">
+      <div class="card-title">Pouria Derakhshanfar</div>
+      <p class="card-text">Search based software testing, Seeding strategies, DevOps</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/pderakhshanfar"><i class="fab fa-github"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/p-derakhshanfar(5ae55462-83f6-4fbd-ad32-9613d3f8329e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
   <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/2521475?s=460&v=4" alt="Joseph Hejderup">
     <div class="card-body">
@@ -195,18 +209,6 @@ title: People
       <a href="https://twitter.com/qzhu90"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/qianqianzhu"><i class="fab fa-github"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/q-zhu(61ceb2fb-83c4-4272-9001-6e954f09ba09)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5176953?s=460&v=4" alt="Pouria Derakhshanfar">
-    <div class="card-body">
-      <div class="card-title">Pouria Derakhshanfar</div>
-      <p class="card-text">Search based software testing, Seeding strategies, DevOps</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/pderakhshanfar"><i class="fab fa-github"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/p-derakhshanfar(5ae55462-83f6-4fbd-ad32-9613d3f8329e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
