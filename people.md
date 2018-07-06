@@ -212,7 +212,7 @@ title: People
       <p class="card-text">Software engineering, modern code review, fine-grained defect prediction</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/Lucapascarella5"><i class="fab fa-twitter"></i></a>
+      <a href="https://twitter.com/Lucapascarella5" target="_blank"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/lucapascarella" target="_blank"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/luca-pascarella-5b168254/" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/l-pascarella(1e287bab-85b8-4c97-8412-8e82b78e72e7)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
