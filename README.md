@@ -21,7 +21,7 @@ templates to make the look and feel more consistent.
 
 #### Adding yourself to People
 
-To add yourself to the People page, copy and modify accordingly the following code snippet:
+To add yourself to the People page, copy and modify accordingly the following code snippet. We maintain alphabetic order on the surname.
 
 ```html
 <div class="card">
