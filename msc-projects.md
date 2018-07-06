@@ -13,7 +13,7 @@ The actual research is done in your Master's thesis. A Master's thesis typically
 
 ### Selecting a topic
 
-We maintain a list of [Past and Current MSc Projects](msc-theses.html), which will give you an impression of the sort of projects you can do. The list also includes pointers to the PDF versions of most of the MSc theses completed in our labs. In addition to that, you can find a list of open MSc projects
+We maintain a list of [Past and Current MSc Projects](msc-thesis.html), which will give you an impression of the sort of projects you can do. The list also includes pointers to the PDF versions of most of the MSc theses completed in our labs. In addition to that, you can find a list of open MSc projects
 below. This list is certainly not exhaustive
 
 You can make an appointment with one of the SERG group members to see what projects are currently open, or you can propose your own project. Note that if you want us to supervise you, a constraint in doing your own proposal is that you have to make sure that there is a connection with the research we conduct at our labs. You can contact the following persons for more information:

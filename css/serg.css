@@ -66,6 +66,29 @@ h3 {
 .row {
   margin: 0rem;
 }
+ /*table styling*/
+.table {
+  border: solid 1px #DDEEEE;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font: normal 13px Arial, sans-serif;
+}
+.table thead th {
+  background-color: #00A6D6;
+  border: solid 1px #DDEEEE;
+  color: #fff;;
+  padding: 10px;
+  text-align: left;
+}
+.table tbody td {
+  border: solid 1px #DDEEEE;
+  color: #333;
+  padding: 10px;
+}
+.table-horizontal tbody td {
+  border-left: none;
+  border-right: none;
+}
 
 /*Footer*/
 .outer-footer {
