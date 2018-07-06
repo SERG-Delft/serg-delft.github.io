@@ -174,6 +174,22 @@ title: People
   </div>
 
   <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5766743?s=460&v=4" alt="Marco di Biase">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://mardibiase.github.io" target="_blank">Marco di Biase</a>
+      </div>
+      <p class="card-text">Software quality, Software maintainability, Code Reviews</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mardibiase" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mardibiase" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mardibiase/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/m-di-biase(175bd28e-fb78-485c-816e-fcd1369d5f3d)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/2521475?s=460&v=4" alt="Joseph Hejderup">
     <div class="card-body">
       <div class="card-title"><a href="https://twitter.com/jhejderup">Joseph Hejderup</a></div>
@@ -188,6 +204,24 @@ title: People
   </div>
 
   <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://lucapascarella.com" target="_blank">Luca Pascarella</a>
+      </div>
+      <p class="card-text">Software engineering, modern code review, fine-grained defect prediction</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/Lucapascarella5" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/lucapascarella" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/luca-pascarella-5b168254/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/l-pascarella(1e287bab-85b8-4c97-8412-8e82b78e72e7)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="card-deck" style="padding-top:50px">
+  <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/1183394?s=460&v=4" alt="Mozhan Soltani">
     <div class="card-body">
       <div class="card-title">Mozhan Soltani</div>
@@ -196,6 +230,22 @@ title: People
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/Mozhan"><i class="fab fa-github"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/m-soltani(12bb18d0-3bd3-45c6-b95f-d6a67b121bf6)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/9136821?s=400&v=4" alt="Davide Spadini">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://ishepard.github.io/" target="_blank">Davide Spadini</a>
+      </div>
+      <p class="card-text">Software testing, test code quality, test code review</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/DavideSpadini" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/ishepard" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/davidespadini/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/d-spadini(df3c7c1c-421b-413d-8f61-ba8a6b23b82b)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
