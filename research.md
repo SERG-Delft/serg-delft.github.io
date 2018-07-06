@@ -17,6 +17,7 @@ Our research is organized in 4 research lines:
 * [BSR](http://www.3tu-bsr.nl) - Big Software on the Run, analyzing software systems in vivo
 * [CodeFeedr](https://codefeedr.github.io) - Next generation software analytics
 * [GHTorrent](https://ghtorrent.org) - Mining software engineering data from GitHub
+* [SENECA](https://senecaproject.github.io) - Software Engineering in Enterprise Cloud Applications
 * [STAMP](https://www.stamp-project.eu) - Software Testing Amplification for DevOps
 
 ### Past research projects
