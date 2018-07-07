@@ -266,4 +266,19 @@ title: People
 
 ### Support
 
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="img/shemara-van-der-zwet.jpg" alt="Shemara van der Zwet">
+    <div class="card-body">
+      <div class="card-title">Shemara van der Zwet</div>
+      <p class="card-text">Department and section secretary</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+</div>
+
+<!--
 ### Alumni
+-->
