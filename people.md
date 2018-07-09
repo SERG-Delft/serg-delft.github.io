@@ -98,6 +98,52 @@ title: People
   </div>
 </div>
 
+### Guests
+
+<!-- Alberto Bacchelli, Chushu Gao, Hennie Huijgens -->
+
+<div class="card-deck">
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/668766?&v=4" alt="Alberto Bacchelli">
+    <div class="card-body">
+      <div class="card-title">Alberto Bacchelli</div>
+      <p class="card-text">Software analytics. University of Zurich.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="http://sback.it/" title="Home page"><i class="fas fa-home"></i></a>
+      <a href="https://twitter.com/sback_" title="Twitter"><i class="fab fa-twitter"></i></a>
+       <a href="https://scholar.google.nl/citations?user=Jv-sW70AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/a-bacchelli(229022f2-6585-458b-b6fa-a6a3bd4082ee)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+        <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2743923?v=4" alt="Chushu Gao">
+    <div class="card-body">
+      <div class="card-title">Chushu Gao</div>
+      <p class="card-text">Visiting from Chinese Academy of Sciences</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+       <a href="https://scholar.google.nl/citations?user=uP1V4IcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
+    <div class="card-body">
+      <div class="card-title">Hennie Huijgens</div>
+      <p class="card-text">Software analytics. Visiting from ING.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+</div>
+
 ### Postdocs
 
 <div class="card-deck">
