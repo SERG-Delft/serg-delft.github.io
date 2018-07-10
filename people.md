@@ -92,8 +92,15 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
-      <div class="card-title"><a href="http://www.sesa.unisa.it/people/apanichella/">Annibale Panichella</a></div>
+      <div class="card-title"><a href="https://apanichella.github.io">Annibale Panichella</a></div>
       <p class="card-text"></p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://apanichella.github.io" title="Home page"><i class="fas fa-home"></i></a>
+      <a href="https://twitter.com/AnniPanic" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/apanichella" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/annibale-panichella-84081186/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.it/citations?user=xPQ72u4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 </div>
