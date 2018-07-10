@@ -142,6 +142,18 @@ title: People
     </div>
   </div>
 
+  <div class="card">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
+    <div class="card-body">
+      <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
+      <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
 </div>
 
 ### Postdocs
@@ -188,18 +200,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/m-kechagia(6f4b34f6-603a-43fe-ac6e-04401a84ecfe)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
  </div>
-
-  <div class="card">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
-    <div class="card-body">
-      <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
-      <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
 
 </div>
 
