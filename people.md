@@ -47,9 +47,11 @@ title: People
     <p class="card-text">Software Testing, Software Evolution</p>
   </div>
   <div class="card-footer bg-transparent border-success">
+      <a href="https://azaidman.github.io" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/azaidman"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/azaidman"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/andyzaidman/"><i class="fab fa-linkedin"></i></a>
+    <a href="https://scholar.google.nl/citations?user=CDTfcG4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/ae-zaidman(3d1ac38d-7304-44f4-bccb-087b6db66072)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
 </div>
