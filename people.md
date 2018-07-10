@@ -146,7 +146,7 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
     <div class="card-body">
       <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
-      <p class="card-text">Software analytics, Software Productivity, Feedback-Driven development</p>
+      <p class="card-text">Software analytics, Software Productivity. Visiting from SIG.</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
