@@ -67,6 +67,24 @@ h3 {
   margin: 0rem;
 }
 
+
+/* Tables, for examples used for listing research projects. */
+
+th, td {
+    padding: 6px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #f5f5f5;}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th {
+    background-color: #00A6D6;
+    color: white;
+}
+
+
 /*Footer*/
 .outer-footer {
   position:absolute;
