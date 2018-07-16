@@ -7,9 +7,9 @@ title: Master thesis projects
 
 For students participating in the Delft computer science master's programme we have several openings for MSc projects in our research labs.
 
-Optionally, you can start your research with a 7-8 week literature survey. This assignment is concluded with a report containing an overview of the state-of-the-art in a particular branch of research, along with a presentation.
+Optionally, you can start your research with a 7-8 week literature survey (IN4306). This assignment is concluded with a report containing an overview of the state-of-the-art in a particular branch of research, along with a presentation.
 
-The actual research is done in your Master's thesis. A Master's thesis typically involves the construction or extension of a software artifact. A thesis then describes the construction of this software artifact, together with an evaluation of either the software artifact itself, or the research question that can be solved with the software artifact. The nominal period for doing your Master's thesis is 30 weeks and is concluded by a written report (the Master thesis) and a presentation.
+The actual research is done in your Master's thesis (IN5000). A Master's thesis typically involves the construction or extension of a software artifact. A thesis then describes the construction of this software artifact, together with an evaluation of either the software artifact itself, or the research question that can be solved with the software artifact. The nominal period for doing your Master's thesis is 30 weeks and is concluded by a written report (the Master thesis) and a presentation.
 
 ### Selecting a topic
 
@@ -32,3 +32,4 @@ You can make an appointment with one of the SERG group members to see what proje
 * Purpose-specific graph databases (Georgios Gousios)
 * Fine-level licensing propagation in package networks (Georgios Gousios)
 * An SQL REPL loop for stream processing systems (Georgios Gousios)
+* Good weather versus bad weather tests (Andy Zaidman)

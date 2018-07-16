@@ -20,7 +20,7 @@ The mission of the TU Delft Software Engineering Research Group (SERG) is
 The research of the TU Delft Software Engineering Research Group is
 characterized by a focus on empirical research, conducted in close collaboration
 with software development practice. Topics of interest include software testing,
-software architecture, end user programming, program comprehension, and
+software architecture, end user programming, software evolution, and
 collaborative and distributed software development.
 
 We conduct our research in mixed teams, in collaboration with practitioners and
