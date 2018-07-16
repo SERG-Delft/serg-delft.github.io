@@ -130,7 +130,7 @@ title: People
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="http://www.gemmacatolino.com/" title="Home page"><i class="fas fa-home"></i></a>
-      <a href="hhttps://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
@@ -170,6 +170,19 @@ title: People
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5637220?s=460&v=4" alt="Gema Rodriguez-Perez">
+    <div class="card-body">
+      <div class="card-title"><a href="http://gemarodri.github.io/Presentacion/">Gema Rodriguez-Perez</a></div>
+      <p class="card-text">Code review. Universidad Rey Juan Carlos</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="http://gemarodri.github.io/Presentacion/" title="Home page"><i class="fas fa-home"></i></a>
+      <a href="https://twitter.com/Gerope90" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://www.linkedin.com/in/gema-rodriguez-perez-56253a98/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 
@@ -232,7 +245,7 @@ title: People
       <a href="hhttps://www.linkedin.com/in/ayushirastogi/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=W_V42b4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
-  </div>  
+  </div>
 
 </div>
 
