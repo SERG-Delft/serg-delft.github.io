@@ -67,6 +67,10 @@ h3 {
   margin: 0rem;
 }
 
+.non-top-row {
+  padding-top: 25px
+}
+
 
 /* Tables, for examples used for listing research projects. */
 

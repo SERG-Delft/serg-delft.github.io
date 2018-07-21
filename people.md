@@ -13,10 +13,13 @@ title: People
       <p class="card-text">Group leader, head of Department of Software Technology</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://avandeursen.com" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/avandeursen" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/avandeursen" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://stackoverflow.com/users/165292/avandeursen" title="StackOverflow"><i class="fab fa-stack-overflow"></i></a>
+      <!--
       <a href="https://nl.linkedin.com/in/avandeursen" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    -->
+      <a href="https://speakerdeck.com/avandeursen" title="Presentations"><i class="fab fa-slideshare"></i></a>
       <a href="https://scholar.google.nl/citations?user=jjCkWXgAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/a-van-deursen(949eb2cc-4db0-4f33-bd56-13425fa5c24a)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
@@ -29,7 +32,6 @@ title: People
       <p class="card-text">Global Software Engineering (0.2fte) </p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="http://www.rinivansolingen.nl/" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/solingen" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://nl.linkedin.com/in/solingen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=9LxiPOUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
@@ -40,11 +42,10 @@ title: People
   <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
     <div class="card-body">
-      <div class="card-title">Andy Zaidman</div>
+      <div class="card-title"><a href="https://azaidman.github.io">Andy Zaidman</a></div>
       <p class="card-text">Software Testing, Software Evolution</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://azaidman.github.io" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/azaidman"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/azaidman"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/andyzaidman/"><i class="fab fa-linkedin"></i></a>
@@ -55,12 +56,18 @@ title: People
 
 </div> <!-- deck -->
 
-<div class="card-deck" style="padding-top:25px">
+<div class="card-deck non-top-row">
   <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
       <div class="card-title"><a href="https://www.mauricioaniche.com">Mauricio Aniche</a></div>
-      <p class="card-text">...</p>
+      <p class="card-text">Empirical software engineering</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mauricioaniche" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mauricioaniche" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://scholar.google.nl/citations?user=AyX0Ou0AAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="hhttps://pure.tudelft.nl/portal/en/persons/m-finavaro-aniche(555c2765-502d-4254-82a6-d16ef65db961).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -71,7 +78,6 @@ title: People
       <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://gousios.org" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -84,7 +90,15 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
     <div class="card-body">
       <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
-      <p class="card-text"></p>
+      <p class="card-text">Programming education, end-user computing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/felienne" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/felienne" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://nl.linkedin.com/in/felienne" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=Kzy5f1IAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+     <a href="https://www.slideshare.net/Felienne" title="Presentations"><i class="fab fa-slideshare"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/ffj-hermans(2fe8a348-ec67-4520-8c0a-34ef8d60fcaa)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -92,14 +106,14 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
       <div class="card-title"><a href="https://apanichella.github.io">Annibale Panichella</a></div>
-      <p class="card-text"></p>
+      <p class="card-text">AI-based software engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://apanichella.github.io" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/AnniPanic" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/apanichella" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/annibale-panichella-84081186/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.it/citations?user=xPQ72u4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/a-panichella(48ad3f35-3014-4bab-a9e9-4ba228749fdd)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 </div>
@@ -109,13 +123,25 @@ title: People
 <div class="card-deck">
 
   <div class="card">
+    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/2752631?s=400&v=4" alt="Efthimia Aivaloglou">
+    <div class="card-body">
+      <div class="card-title">Efthimia Aivaloglou</div>
+      <p class="card-text">Computing Education. Open Universiteit.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/feniaiv" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=8PDy_s4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/e-aivaloglou(23414d01-6657-4716-84b1-8b00a422812f)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>  
+
+  <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/668766?&v=4" alt="Alberto Bacchelli">
     <div class="card-body">
-      <div class="card-title">Alberto Bacchelli</div>
+      <div class="card-title"><a href="http://sback.it/">Alberto Bacchelli</a></div>
       <p class="card-text">Software analytics. University of Zurich.</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="http://sback.it/" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/sback_" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://scholar.google.nl/citations?user=Jv-sW70AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/a-bacchelli(229022f2-6585-458b-b6fa-a6a3bd4082ee)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
@@ -129,13 +155,15 @@ title: People
       <p class="card-text">Effort prediction. University of Salerno</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="http://www.gemmacatolino.com/" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+</div>
+
+<div class="card-deck non-top-row">
 
   <div class="card">
       <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2743923?v=4" alt="Chushu Gao">
@@ -173,19 +201,6 @@ title: People
     </div>
   </div>
 
-  <div class="card">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5637220?s=460&v=4" alt="Gema Rodriguez-Perez">
-    <div class="card-body">
-      <div class="card-title"><a href="http://gemarodri.github.io/Presentacion/">Gema Rodriguez-Perez</a></div>
-      <p class="card-text">Code review. Universidad Rey Juan Carlos</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="http://gemarodri.github.io/Presentacion/" title="Home page"><i class="fas fa-home"></i></a>
-      <a href="https://twitter.com/Gerope90" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://www.linkedin.com/in/gema-rodriguez-perez-56253a98/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
 </div>
 
 ### Postdocs
@@ -209,7 +224,7 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/8514257?v=4" alt="Xavier Devroey">
     <div class="card-body">
       <div class="card-title"><a href="http://xdevroey.be">Xavier Devroey</a></div>
-      <p class="card-text">Search-based software testing, variability</p>
+      <p class="card-text">Search-based testing, variability</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/xdevroey"><i class="fab fa-twitter"></i></a>
@@ -240,12 +255,23 @@ title: People
       <p class="card-text">Software analytics</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://ayushirastogi.github.io/" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://github.com/AyushiRastogi"><i class="fab fa-github"></i></a>
       <a href="hhttps://www.linkedin.com/in/ayushirastogi/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=W_V42b4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
+
+ <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5637220?s=460&v=4" alt="Gema Rodriguez-Perez">
+    <div class="card-body">
+      <div class="card-title"><a href="http://gemarodri.github.io/Presentacion/">Gema Rodriguez-Perez</a></div>
+      <p class="card-text">Code review.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/Gerope90" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://www.linkedin.com/in/gema-rodriguez-perez-56253a98/"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>  
 
 </div>
 
@@ -253,13 +279,15 @@ title: People
 
 <!-- Registered in TU Delft EEMCS Graduate School -->
 
+<!-- Robbert, Marleen -->
+
 <div class="card-deck">
 
   <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5176953?s=460&v=4" alt="Pouria Derakhshanfar">
     <div class="card-body">
       <div class="card-title">Pouria Derakhshanfar</div>
-      <p class="card-text">Search based software testing, DevOps</p>
+      <p class="card-text">Search based testing, DevOps</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/pderakhshanfar"><i class="fab fa-github"></i></a>
@@ -298,13 +326,40 @@ title: People
   </div>
 
   <div class="card">
+    <img class="card-img-top" src="https://i1.rgstatic.net/ii/profile.image/285316163358720-1445036082410_Q128/Robert_Holwerda.jpg" alt="Robert Holwerda">
+    <div class="card-body">
+      <div class="card-title">Robert Holwerda</div>
+      <p class="card-text">Social Software. Also at <a href="https://www.han.nl/international/english/">HAN</a></p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://pure.tudelft.nl/portal/en/persons/rna-holwerda(3e73eac8-d892-45ee-8db2-5eaff88bf05b).html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+</div>
+
+<div class="card-deck non-top-row">
+
+ <div class="card">
+    <img class="card-img-top" src="https://scholar.google.nl/citations?view_op=medium_photo&user=egl5tVQAAAAJ&citpid=2" alt="Bas Jansen">
+    <div class="card-body">
+      <div class="card-title">Bas Jansen</div>
+      <p class="card-text">Spreadsheet programming</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/heerbommel"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=egl5tVQAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/b-jansen(bfa125a2-c776-4191-bf18-e776dd145ff1)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>  
+
+  <div class="card">
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/966082298507612161/vkTJqaqD_400x400.jpg" alt="Vladimir Kovalenko">
     <div class="card-body">
       <div class="card-title"><a href="https://vovak.me/">Vladimir Kovalenko</a></div>
-      <p class="card-text">Code reviews, recommender systems</p>
+      <p class="card-text">Code review, recommender systems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://vovak.me/" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/vovak_"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/vovak"><i class="fab fa-github"></i></a>
       <a href="https://www.instagram.com/vovak_/"><i class="fab fa-instagram"></i></a>
@@ -326,9 +381,24 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/l-pascarella(1e287bab-85b8-4c97-8412-8e82b78e72e7)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+  <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5801581?s=400&v=4" alt="Sohon Roy">
+    <div class="card-body">
+      <div class="card-title">Sohon Roy</div>
+      <p class="card-text">Spreadsheet programming, testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/sohonroy"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/sohonroy"><i class="fab fa-github"></i></a>
+      <a href="https://scholar.google.nl/citations?user=VuDRJ2kAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/s-roy(3877362c-2ace-451c-9679-24c6e5b6ecf7)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
 </div>
 
-<div class="card-deck" style="padding-top:25px">
+<div class="card-deck non-top-row">
 
   <div class="card">
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/625589553575895040/rF3zIK2-_400x400.jpg" alt="Anand Sawant">
@@ -337,7 +407,6 @@ title: People
       <p class="card-text">Code reviews, modularization</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="http://anandsaw.github.io/index.html" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/anandsaw"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/anandsaw"><i class="fab fa-github"></i></a>
       <a href="https://scholar.google.com/citations?user=KhhNLyMAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
@@ -372,6 +441,19 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/d-spadini(df3c7c1c-421b-413d-8f61-ba8a6b23b82b)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+ <div class="card">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/7933089?s=400&v=4" alt="Alaaeddin Swidan">
+    <div class="card-body">
+      <div class="card-title"> Alaaeddin Swidan</div>
+      <p class="card-text">Spreadsheets, programming education</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/aeswidan"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=NDkRW44AAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/aas-swidan(20070d35-afd5-49a5-ac87-7d9264fb3906)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>    
 
   <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/16692536?s=460&v=4" alt="Qianqian Zhu">
