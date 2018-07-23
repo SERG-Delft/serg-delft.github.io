@@ -18,18 +18,21 @@ below. This list is certainly not exhaustive
 
 You can make an appointment with one of the SERG group members to see what projects are currently open, or you can propose your own project. Note that if you want us to supervise you, a constraint in doing your own proposal is that you have to make sure that there is a connection with the research we conduct at our labs. You can contact the following persons for more information:
 
-* Annibale Panichella:
-* Andy Zaidman: Software evolution, software re-engineering, mining software repositories, software testing.
+* Mauricio Aniche:
 * Arie van Deursen: Software testing, software architecture, DevOps.
 * Georgios Gousios: Software Analytics, software ecosystems.
 * Felienne Hermans:
-* Mauricio Aniche:
+* Annibale Panichella: Search-based Software Engineering
 * Rini van Solingen: Agile methods, SCRUM, distributed software development.
+* Andy Zaidman: Software evolution, software re-engineering, mining software repositories, software testing.
 
 ### Open projects
 
-* Ecosystem-wide callgraphs for Python/PyPI (Georgios Gousios)
-* Purpose-specific graph databases (Georgios Gousios)
-* Fine-level licensing propagation in package networks (Georgios Gousios)
-* An SQL REPL loop for stream processing systems (Georgios Gousios)
-* Good weather versus bad weather tests (Andy Zaidman)
+Published | Where |  Project Title       | SERG contact           |
+|---------|------|----------------------|------------------------|
+Jul 18    | ING   | [Improving ING's A/B testing pipeline](msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
+Jul 18    | ING   | [Improving ING's Machine Learning pipeline](msctopics/ing-ml-pipeline.html) | Georgios Gousios and Arie van Deursen
+Jul 18    | TUD   | Good weather versus bad weather tests | Andy Zaidman |
+Jun 18    | TUD   | Ecosystem-wide callgraphs for Python/PyPI | Georgios Gousios |
+Jun 18    | TUD   | Licensing propagation in package networks | Georgios Gousios |
+Jun 18    | TUD   | An SQL REPL loop for stream processing systems | Georgios Gousios |

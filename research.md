@@ -3,7 +3,6 @@ layout: page
 title: Research Projects
 ---
 
-
 Our research can be divided into the four main research lines
 [Search Based Software Engineering](sbse.html),
 [Software Analytics](softanalytics.html),
