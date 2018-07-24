@@ -30,9 +30,10 @@ You can make an appointment with one of the SERG group members to see what proje
 
 Published | Where |  Project Title       | SERG contact           |
 |---------|------|----------------------|------------------------|
-Jul 18    | ING   | [Improving ING's A/B testing pipeline](msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
-Jul 18    | ING   | [Improving ING's Machine Learning pipeline](msctopics/ing-ml-pipeline.html) | Georgios Gousios and Arie van Deursen
+Jul 18    | ING   | [Improving ING's A/B testing pipeline](/msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
+Jul 18    | ING   | [Improving ING's Machine Learning pipeline](/msctopics/ing-ml-pipeline.html) | Georgios Gousios and Arie van Deursen
 Jul 18    | TUD   | Good weather versus bad weather tests | Andy Zaidman |
-Jun 18    | TUD   | Ecosystem-wide callgraphs for Python/PyPI | Georgios Gousios |
+Jun 18    | TUD   | [Detecting programming styles](/msctopics/programming-style-detection.html) | Georgios Gousios |
+Jun 18    | TUD   | [Call-based dependency networks for Python/PyPI](/msctopics/python-cdn.html) | Georgios Gousios |
 Jun 18    | TUD   | Licensing propagation in package networks | Georgios Gousios |
-Jun 18    | TUD   | An SQL REPL loop for stream processing systems | Georgios Gousios |
+Jun 18    | TUD   | [An SQL REPL loop for stream processing systems](/msctopics/codefeedr-repl.html) | Georgios Gousios |
