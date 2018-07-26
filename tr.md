@@ -7,7 +7,7 @@ The TU Delft Software Engineering Research Group has maintained a list of techni
 
 Technical reports include a verbatim pdf of the camera-ready version of the underlying publication (i.e., they are [postprints](https://avandeursen.com/2016/11/06/green-open-access-faq/#what-is-a-postprint)), possibly extended with extra appendices that exceed the page limit of the publication. The corresponding wrapper is created in latex using a SERG report style [private link](https://github.com/SERG-Delft/serg-report-style).
 
-In the years 2006-2017 the majority of the group's publications were also made available as techreport: With the university-wide adoption of the instutitional repository [pure.tudelft.nl](https://pure.tudelft.nl) for sharing postprints, we started to directly use Pure](https://avandeursen.com/2016/12/07/self-archiving-publications-in-elsevier-pure-at-tu-delft/) for techreports that are just verbatim copies of published papers. We still use techreports for papers that need an extra appendix, which we then also upload into pure.
+In the years 2006-2017 the majority of the group's publications were also made available as techreport: With the university-wide adoption of the instutitional repository [pure.tudelft.nl](https://pure.tudelft.nl) for sharing postprints, we started to [directly use Pure](https://avandeursen.com/2016/12/07/self-archiving-publications-in-elsevier-pure-at-tu-delft/) for techreports that are just verbatim copies of published papers. We still use techreports for papers that need an extra appendix, which we then also upload into pure.
 
 
 <br/>
