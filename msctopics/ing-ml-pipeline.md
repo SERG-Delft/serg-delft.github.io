@@ -31,4 +31,4 @@ interested are listed below:
 
 * Georgios Gousios (TU Delft)
 * Arie van Deursen (TU Delft)
-* Vaidotas Kurlianskas (ING)
+* [Hennie Huijgens](mailto:hennie.huijgens@ing.com) (ING)
