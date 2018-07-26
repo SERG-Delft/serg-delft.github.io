@@ -25,7 +25,7 @@ Potential project ideas:
 
 * Georgios Gousios (TU Delft)
 * Arie van Deursen (TU Delft)
-* Kevin Anderson (ING)
+* [Hennie Huijgens](mailto:hennie.huijgens@ing.com) (ING)
 
 #### Related work
 
