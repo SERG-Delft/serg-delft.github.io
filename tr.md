@@ -16,8 +16,8 @@ In the years 2006-2017 the majority of the group's publications were also made a
 
 Report Number | Author(s) | Title | Venue
 ---|---|---|---
-[TUD-SERG-2018-001](https://pure.tudelft.nl/portal/en/publications/code-phonology(c25afc25-c6d9-4de6-96ad-48f4775c8079).html) | Felienne Hermans and Alaaeddin Swidan and Efthimia Aivaloglou | Code Phonology: an exploration into the vocalization of code | ICPC '18 
-[TUD-SERG-2018-002](https://pure.tudelft.nl/portal/files/45856939/TUD_SERG_2018_02.pdf) | Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen | Software Analytics in Continuous Delivery: A Case Study on Success Factors | ESEM '18 
+[TUD-SERG-2018-002](https://pure.tudelft.nl/portal/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success-factors(9c5d1df6-e244-4fdc-933d-8bc36f9e3bd4).html) | Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen | Software Analytics in Continuous Delivery: A Case Study on Success Factors | ESEM '18
+[TUD-SERG-2018-001](https://pure.tudelft.nl/portal/en/publications/code-phonology(c25afc25-c6d9-4de6-96ad-48f4775c8079).html) | Felienne Hermans and Alaaeddin Swidan and Efthimia Aivaloglou | Code Phonology: an exploration into the vocalization of code | ICPC '18  
 
 
 <br/>
