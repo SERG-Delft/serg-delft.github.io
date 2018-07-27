@@ -14,6 +14,9 @@ In the years 2006-2017 the majority of the group's publications were also made a
 
 ## Reports since 2018
 
+<!-- Reports in reverse chronological order -- most recent ones on top -->
+<!-- Link to pure page with all bibliographic meta-data, not just the pdf (which may be subject to change) -->
+
 Report Number | Author(s) | Title | Venue
 ---|---|---|---
 [TUD-SERG-2018-002](https://pure.tudelft.nl/portal/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success-factors(9c5d1df6-e244-4fdc-933d-8bc36f9e3bd4).html) | Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen | Software Analytics in Continuous Delivery: A Case Study on Success Factors | ESEM '18
