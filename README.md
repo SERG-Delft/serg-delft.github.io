@@ -24,7 +24,7 @@ templates to make the look and feel more consistent.
 To add yourself to the People page, copy and modify accordingly the following code snippet. We maintain alphabetic order on the surname.
 
 ```html
-<div class="card">
+<div class="card d-block">
     <!--
       Use your GitHub profile picture to avoid duplication. If not available,
       create a 200x200px picture under /img and link it here.
