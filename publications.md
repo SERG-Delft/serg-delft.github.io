@@ -13,12 +13,6 @@ TU Delft has recently adopted Elsevier Pure for storing (preprints of) all publi
 moving all our publications on Pure. You can find a chronologically sorted
 list of all SERG publications on PURE below
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.min.js"></script>
-
-<style>iframe {width: 100%; border: none;}</style>
-
-<iframe src="https://purexml-dev.ewi.tudelft.nl/direct/tu/group/d40bac4b-3dd0-4427-aa5f-9331cae5d02e" scrolling="no"></iframe>
-
 <div id="publicationlist"></div>
 
  <script language="javascript">
