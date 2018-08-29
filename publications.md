@@ -19,4 +19,16 @@ list of all SERG publications on PURE below
 
 <iframe src="https://purexml-dev.ewi.tudelft.nl/direct/tu/group/d40bac4b-3dd0-4427-aa5f-9331cae5d02e" scrolling="no"></iframe>
 
-<script>iFrameResize()</script>
+<div id="publicationlist"></div>
+
+ <script language="javascript">
+
+   var xhttp = new XMLHttpRequest();
+   xhttp.onreadystatechange = function() {
+     if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("publicationlist").innerHTML = this.responseText;
+     }
+   };
+   xhttp.open("GET", "https://purexml-dev.ewi.tudelft.nl/direct/tu/group/d40bac4b-3dd0-4427-aa5f-9331cae5d02e", true);
+   xhttp.send();
+ </script>
