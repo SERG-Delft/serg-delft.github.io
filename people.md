@@ -118,91 +118,6 @@ title: People
   </div>
 </div>
 
-### Guests
-
-<div class="card-deck">
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/2752631?s=400&v=4" alt="Efthimia Aivaloglou">
-    <div class="card-body">
-      <div class="card-title">Efthimia Aivaloglou</div>
-      <p class="card-text">Computing Education. Open Universiteit.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/feniaiv" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=8PDy_s4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/e-aivaloglou(23414d01-6657-4716-84b1-8b00a422812f)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>  
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/668766?&v=4" alt="Alberto Bacchelli">
-    <div class="card-body">
-      <div class="card-title"><a href="http://sback.it/">Alberto Bacchelli</a></div>
-      <p class="card-text">Software analytics. University of Zurich.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/sback_" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=Jv-sW70AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/a-bacchelli(229022f2-6585-458b-b6fa-a6a3bd4082ee)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/844589346409910274/j5Y7ANf7_400x400.jpg" alt="Gemma Catolino">
-    <div class="card-body">
-      <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
-      <p class="card-text">Effort prediction. University of Salerno</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-</div>
-
-<div class="card-deck non-top-row">
-
-  <div class="card d-block">
-      <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2743923?v=4" alt="Chushu Gao">
-    <div class="card-body">
-      <div class="card-title">Chushu Gao</div>
-      <p class="card-text">Visiting from Chinese Academy of Sciences</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://scholar.google.nl/citations?user=uP1V4IcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
-    <div class="card-body">
-      <div class="card-title">Hennie Huijgens</div>
-      <p class="card-text">Software analytics. Visiting from ING.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
-    <div class="card-body">
-      <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
-      <p class="card-text">Software analytics. Visiting from SIG.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
-</div>
-
 ### Postdocs
 
 <div class="card-deck">
@@ -469,6 +384,92 @@ title: People
   </div>
 
 </div>
+
+### Guests
+
+<div class="card-deck">
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/2752631?s=400&v=4" alt="Efthimia Aivaloglou">
+    <div class="card-body">
+      <div class="card-title">Efthimia Aivaloglou</div>
+      <p class="card-text">Computing Education. Open Universiteit.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/feniaiv" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=8PDy_s4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/e-aivaloglou(23414d01-6657-4716-84b1-8b00a422812f)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>  
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/668766?&v=4" alt="Alberto Bacchelli">
+    <div class="card-body">
+      <div class="card-title"><a href="http://sback.it/">Alberto Bacchelli</a></div>
+      <p class="card-text">Software analytics. University of Zurich.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/sback_" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=Jv-sW70AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/a-bacchelli(229022f2-6585-458b-b6fa-a6a3bd4082ee)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/844589346409910274/j5Y7ANf7_400x400.jpg" alt="Gemma Catolino">
+    <div class="card-body">
+      <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
+      <p class="card-text">Effort prediction. University of Salerno</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="card-deck non-top-row">
+
+  <div class="card d-block">
+      <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2743923?v=4" alt="Chushu Gao">
+    <div class="card-body">
+      <div class="card-title">Chushu Gao</div>
+      <p class="card-text">Visiting from Chinese Academy of Sciences</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://scholar.google.nl/citations?user=uP1V4IcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
+    <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
+    <div class="card-body">
+      <div class="card-title">Hennie Huijgens</div>
+      <p class="card-text">Software analytics. Visiting from ING.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
+    <div class="card-body">
+      <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
+      <p class="card-text">Software analytics. Visiting from SIG.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
+</div>
+
 
 ### Support
 
