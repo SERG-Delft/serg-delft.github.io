@@ -60,7 +60,7 @@ title: People
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
-      <div class="card-title"><a href="https://www.mauricioaniche.com">Mauricio Aniche</a></div>
+      <div class="card-title"><a href="https://www.mauricioaniche.com">Maurício Aniche</a></div>
       <p class="card-text">Empirical software engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">

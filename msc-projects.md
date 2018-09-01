@@ -29,7 +29,7 @@ You can make an appointment with one of the SERG group members to see what proje
 
 Supervisor | Topics | Examples
 |---|---|---|
-Mauricio Aniche | Empirical software engineering, software testing | [Example theses][theses-mauricio]
+Maurício Aniche | Empirical software engineering, software testing | [Example theses][theses-mauricio]
 Arie van Deursen | Human aspects, software architecture, software testing | [Example theses][theses-arie]
 Georgios Gousios | Software analytics, repository mining | [Example theses][theses-georgios]
 Felienne Hermans | End user programming, programming education | [Example theses][theses-felienne]
