@@ -58,3 +58,5 @@ Jun 18    | TUD   | [Detecting programming styles](/msctopics/programming-style-
 Jun 18    | TUD   | [Call-based dependency networks for Python/PyPI](/msctopics/python-cdn.html) | Georgios Gousios |
 Jun 18    | TUD   | Licensing propagation in package networks | Georgios Gousios |
 Jun 18    | TUD   | [An SQL REPL loop for stream processing systems](/msctopics/codefeedr-repl.html) | Georgios Gousios |
+| Sep 1  | TUD  | Test code comprehension | Maurício Aniche |
+| Sep 1  | Adyen  | Developer challenges in system testing | Maurício Aniche |
