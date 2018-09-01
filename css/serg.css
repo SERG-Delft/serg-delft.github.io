@@ -1,5 +1,6 @@
 .card-deck { width: 54rem; }
 
+
 html,
 body {
   margin:0;
@@ -33,13 +34,52 @@ h3 {
   background-color: #00A6D6;
 }
 
+@media(max-width: 992px) {
+
+  .navbar {
+    min-height: 80px;
+  }
+
+  .navbar-toggler-icon {
+    width: 2em;
+    height: 2em;
+  }
+
+  body {
+    font-size: 1.5em;
+  }
+
+}
+
+.logo {
+  height: 35px;
+}
+
+@media(max-width: 992px) {
+  .logo {
+    height: 45px;
+  }
+}
+
 .navbar-light .navbar-nav .nav-link, .tudelft {
   color: #fff;
 }
 
+.container-center {
+  text-align: center;
+}
+
 /*Content*/
 .content {
-  padding: 2rem;
+  padding: 1rem;
+  display: inline-block;
+  text-align: left;
+}
+
+@media(min-width: 992px) {
+  .content {
+    width: 80%;
+  }
 }
 
 /*People*/
