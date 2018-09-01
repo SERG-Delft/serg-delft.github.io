@@ -15,19 +15,21 @@ levels.
 
  * [CSE1100](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48428): _Object-oriented programming._ Andy Zaidman.
  * [CSE1105](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48429): _Object-Oriented Programming Project._ Felienne Hermans.
- * [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48430):  _Software Quality and Testing._  Arie van Deursen and Maurício Aniche.
+ * [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48430):  _Software Quality and Testing._  Maurício Aniche and Arie van Deursen
  * [TI2206](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45678):  _Software Engineering Methods._  Annibale Panichella.
  * [TI2736-B](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45686):  _Big Data Processing._  Georgios Gousios ([materials](http://gousios.org/courses/bigdata/)).
  * [TI2806](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45676):  _Contextproject._  Annibale Panichella.
 
- 
+<div id="msc"/> 
 ### Masters [Computer Science](https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/) and [Embedded Systems](https://www.tudelft.nl/en/education/programmes/masters/embedded-systems/msc-embedded-systems/)
 
  * [CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45583): _Software Testing and Reverse Engineering._ Andy Zaidman.
  * [CS4190](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48292): _Psychology of Programming._ Felienne Hermans.
- * [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594): _Software Architecture._  Arie van Deursen, Maurício Aniche.
+ * [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594): _Software Architecture._  Maurício Aniche, Arie van Deursen, and Andy Zaidman
  * [IN4334](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45568): _Software Analytics._ Georgios Gousios ([materials](http://gousios.org/courses/softwanal/)).
  * [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602): _Globally Distributed Software Engineering_. Rini van Solingen.
+ * [IN4306](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45593): _Literature Survey_. All SERG faculty.
+ * [IN5000](msc-projects.html): _MSc Thesis Final Project_. All SERG faculty.
 
 
 ### Minor [Computer Science](https://www.tudelft.nl/en/eemcs/study/minors/computer-science/)
