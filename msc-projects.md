@@ -3,28 +3,49 @@ layout: page
 title: Master thesis projects
 ---
 
-### Doing your MSc thesis at SERG
+### Conducting a Thesis Project
 
-For students participating in the Delft computer science master's programme we have several openings for MSc projects in our research labs.
+For students participating in the TU Delft computer science and embedded systems master's programs we have several openings for MSc projects.
 
-Optionally, you can start your research with a 7-8 week literature survey (IN4306). This assignment is concluded with a report containing an overview of the state-of-the-art in a particular branch of research, along with a presentation.
+All MSc projects are aligned with our research. They often are connected to one of our ongoing [research projects](research.html), but we also frequently use MSc projects to explore new research directions.
+Projects can be conducted at:
 
-The actual research is done in your Master's thesis (IN5000). A Master's thesis typically involves the construction or extension of a software artifact. A thesis then describes the construction of this software artifact, together with an evaluation of either the software artifact itself, or the research question that can be solved with the software artifact. The nominal period for doing your Master's thesis is 30 weeks and is concluded by a written report (the Master thesis) and a presentation.
+- TU Delft in our own research labs, in close collaboration with our postdocs and PhD students
+- Industry (as part of an internship), usually with companies (in The Netherlands or abroad) with which we have an ongoing research collaboration (e.g. ING, SIG, Adyen, ATOS, XWiki, Microsoft, Google, Facebook, Infotron, ...)
+- Other (international) universities -- we have a rich network of academic friends around the world.
 
-### Selecting a topic
 
-We maintain a list of [Past and Current MSc Projects](msc-theses.html), which will give you an impression of the sort of projects you can do. The list also includes pointers to the PDF versions of most of the MSc theses completed in our labs. In addition to that, you can find a list of open MSc projects
-below. This list is certainly not exhaustive
+### SERG Supervisors
 
-You can make an appointment with one of the SERG group members to see what projects are currently open, or you can propose your own project. Note that if you want us to supervise you, a constraint in doing your own proposal is that you have to make sure that there is a connection with the research we conduct at our labs. You can contact the following persons for more information:
+You can make an appointment with one of the SERG group members to see what projects are currently open, or you can propose your own project, provided there is a clear connection with the research we conduct at our labs. You can contact the following persons for more information:
 
-* Mauricio Aniche:
-* Arie van Deursen: Software testing, software architecture, DevOps.
-* Georgios Gousios: Software Analytics, software ecosystems.
-* Felienne Hermans:
-* Annibale Panichella: Search-based Software Engineering
-* Rini van Solingen: Agile methods, SCRUM, distributed software development.
-* Andy Zaidman: Software evolution, software re-engineering, mining software repositories, software testing.
+[theses-mauricio]: https://repository.tudelft.nl/islandora/search/contributor%3Aaniche?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-felienne]: https://repository.tudelft.nl/islandora/search/contributor%3A%22hermans%2C%20f%22%20OR%20contributor%3Afelienne%20OR%20contributor%3A%22hermans%2C%20f.f.j%22?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-georgios]: https://repository.tudelft.nl/islandora/search/contributor%3Agousios?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-annibale]: https://repository.tudelft.nl/islandora/search/contributor%3Apanichella?collection=education
+[theses-andy]: https://repository.tudelft.nl/islandora/search/contributor%3Azaidman?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-arie]: https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-rini]: https://repository.tudelft.nl/islandora/search/contributor%3Asolingen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+
+Supervisor | Topics | Examples
+|---|---|---|
+Mauricio Aniche | Empirical software engineering, software testing | [Example theses][theses-mauricio]
+Arie van Deursen | Human aspects, software architecture, software testing | [Example theses][theses-arie]
+Georgios Gousios | Software analytics, repository mining | [Example theses][theses-georgios]
+Felienne Hermans | End user programming, programming education | [Example theses][theses-felienne]
+Annibale Panichella | Search-based software engineering | [Example theses][theses-annibale]
+Rini van Solingen | Globally distributed software engineering, agile | [Example theses][theses-rini]
+Andy Zaidman | Software testing, software evolution, repository mining | [Example theses][theses-andy]
+
+<!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
+
+
+### Composing your Study Program
+
+If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](teaching.html#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture and software analytics courses.
+Besides our own software engineering related courses, when choosing the electives in your program you can consider including courses in such areas as machine learning, data science, compiler construction, distributed systems, or security.
+
+Optionally, you can start your research with a 7-8 week literature survey (IN4306, 10EC). This assignment is concluded with a report containing an overview of the state-of-the-art in a particular branch of research.
 
 ### Open projects
 
