@@ -14,7 +14,6 @@ Projects can be conducted at:
 - Industry (as part of an internship), usually with companies (in The Netherlands or abroad) with which we have an ongoing research collaboration (e.g. ING, SIG, Adyen, ATOS, XWiki, Microsoft, Google, Facebook, Infotron, ...)
 - Other (international) universities -- we have a rich network of academic friends around the world.
 
-
 ### SERG Supervisors
 
 You can make an appointment with one of the SERG group members to see what projects are currently open, or you can propose your own project, provided there is a clear connection with the research we conduct at our labs. You can contact the following persons for more information:
@@ -39,7 +38,6 @@ Andy Zaidman | Software testing, software evolution, repository mining | [Exampl
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
 
-
 ### Composing your Study Program
 
 If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](teaching.html#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture and software analytics courses.
@@ -49,8 +47,10 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 ### Open projects
 
-Published | Where |  Project Title       | SERG contact           |
+Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
+Sep 18    | TUD  | Test code comprehension | Maurício Aniche |
+Sep 18    | Adyen  | Developer challenges in system testing | Maurício Aniche |
 Jul 18    | ING   | [Improving ING's A/B testing pipeline](/msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
 Jul 18    | ING   | [Improving ING's Machine Learning pipeline](/msctopics/ing-ml-pipeline.html) | Georgios Gousios and Arie van Deursen
 Jul 18    | TUD   | Good weather versus bad weather tests | Andy Zaidman |
@@ -58,5 +58,3 @@ Jun 18    | TUD   | [Detecting programming styles](/msctopics/programming-style-
 Jun 18    | TUD   | [Call-based dependency networks for Python/PyPI](/msctopics/python-cdn.html) | Georgios Gousios |
 Jun 18    | TUD   | Licensing propagation in package networks | Georgios Gousios |
 Jun 18    | TUD   | [An SQL REPL loop for stream processing systems](/msctopics/codefeedr-repl.html) | Georgios Gousios |
-| Sep 1  | TUD  | Test code comprehension | Maurício Aniche |
-| Sep 1  | Adyen  | Developer challenges in system testing | Maurício Aniche |
