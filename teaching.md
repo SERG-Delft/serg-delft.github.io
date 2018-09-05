@@ -17,7 +17,7 @@ levels.
  * [TI2736-B](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45686):  _Big Data Processing._  Georgios Gousios ([materials](http://gousios.org/courses/bigdata/)).
  * [TI2806](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45676):  _Contextproject._  Annibale Panichella.
 
-<div id="msc"/>
+<div id="msc"></div>
 ### Masters [Computer Science](https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/) and [Embedded Systems](https://www.tudelft.nl/en/education/programmes/masters/embedded-systems/msc-embedded-systems/)
 
  * [CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45583): _Software Testing and Reverse Engineering._ Andy Zaidman.
