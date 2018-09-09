@@ -48,8 +48,11 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 ### Open projects
 
 Published | Where |  Project Title       | SERG contact          |
-|---------|------|----------------------|------------------------|
-Sep 18    | [QuTech]/[QIA] | Quantum Internet Link Layer Simulations | Arie van Deursen
+|---------|-------|----------------------|------------------------|
+Sep 18    | TUD   | [Real-time analysis of dependency networks](/msctopics/prazi-pipeline.html) | Joseph Hejderup and Georgios Gousios |
+Sep 18    | TUD   | [Sound call-graph generation for Rust](/msctopics/rust-cg.html) | Joseph Hejderup and Georgios Gousios |
+Sep 18    | TUD   | [Large-Scale API misuse Detection](/msctopics/prazi-api.html) | Joseph Hejderup and Georgios Gousios |
+Sep 18    | [QuTech]/[QIA] | Quantum Internet Link Layer Simulations | Arie van Deursen |
 Sep 18    | TUD  | Test code comprehension | Maurício Aniche |
 Sep 18    | [Adyen]  | Developer challenges in system testing | Maurício Aniche |
 Jul 18    | ING   | [Improving ING's A/B testing pipeline](/msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
