@@ -51,8 +51,12 @@ Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
 Sep 18    | TUD  | [Java stream debugging improvement](/msctopics/api-communication.html) | Anand Ashok Sawant and Arie van Deursen|
 Sep 18    | TUD  | [Alternative API evolution communication mechanisms](/msctopics/java-lambdas.html) | Anand Ashok Sawant and Arie van Deursen|
+Sep 18    | TUD   | [Real-time analysis of dependency networks](/msctopics/prazi-pipeline.html) | Joseph Hejderup and Georgios Gousios |
+Sep 18    | TUD   | [Sound call-graph generation for Rust](/msctopics/rust-cg.html) | Joseph Hejderup and Georgios Gousios |
+Sep 18    | TUD   | [Large-Scale API misuse Detection](/msctopics/prazi-api.html) | Joseph Hejderup and Georgios Gousios |
+Sep 18    | [QuTech]/[QIA] | Quantum Internet Link Layer Simulations | Arie van Deursen |
 Sep 18    | TUD  | Test code comprehension | Maurício Aniche |
-Sep 18    | Adyen  | Developer challenges in system testing | Maurício Aniche |
+Sep 18    | [Adyen]  | Developer challenges in system testing | Maurício Aniche |
 Jul 18    | ING   | [Improving ING's A/B testing pipeline](/msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
 Jul 18    | ING   | [Improving ING's Machine Learning pipeline](/msctopics/ing-ml-pipeline.html) | Georgios Gousios and Arie van Deursen
 Jul 18    | TUD   | Good weather versus bad weather tests | Andy Zaidman |
@@ -60,3 +64,7 @@ Jun 18    | TUD   | [Detecting programming styles](/msctopics/programming-style-
 Jun 18    | TUD   | [Call-based dependency networks for Python/PyPI](/msctopics/python-cdn.html) | Georgios Gousios |
 Jun 18    | TUD   | Licensing propagation in package networks | Georgios Gousios |
 Jun 18    | TUD   | [An SQL REPL loop for stream processing systems](/msctopics/codefeedr-repl.html) | Georgios Gousios |
+
+[qutech]: https://qutech.nl/
+[qia]: http://quantum-internet.team/
+[adyen]: https://www.adyen.com/

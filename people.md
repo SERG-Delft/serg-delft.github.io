@@ -319,7 +319,7 @@ title: People
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/625589553575895040/rF3zIK2-_400x400.jpg" alt="Anand Sawant">
     <div class="card-body">
       <div class="card-title"><a href="http://anandsaw.github.io/index.html">Anand Sawant</a></div>
-      <p class="card-text">Code reviews, modularization</p>
+      <p class="card-text">API usability, API design</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/anandsaw"><i class="fab fa-twitter"></i></a>
