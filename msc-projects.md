@@ -49,8 +49,8 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
-Sep 18    | TUD  | Java stream debugging improvement | Anand Ashok Sawant and Arie van Deursen|
-Sep 18    | TUD  | Alternative API evolution communication mechanisms | Anand Ashok Sawant and Arie van Deursen|
+Sep 18    | TUD  | [Java stream debugging improvement](/msctopics/api-communication.html) | Anand Ashok Sawant and Arie van Deursen|
+Sep 18    | TUD  | [Alternative API evolution communication mechanisms](/msctopics/java-lambdas.html) | Anand Ashok Sawant and Arie van Deursen|
 Sep 18    | TUD  | Test code comprehension | Maurício Aniche |
 Sep 18    | Adyen  | Developer challenges in system testing | Maurício Aniche |
 Jul 18    | ING   | [Improving ING's A/B testing pipeline](/msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
