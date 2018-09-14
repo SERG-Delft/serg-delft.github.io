@@ -3,7 +3,8 @@ layout: page
 title: Sound call-graph generation for Rust
 ---
 
-## Background
+#### Background
+
 Rust is a new systems programming language developed at Mozilla Research that
 combines the speed and low-level hardware control of modern C++ with an
 "ownership-based" type system guaranteeing memory safety and threads without
@@ -15,7 +16,7 @@ becoming increasingly
 with a thriving community that has contributed with over 18,000 packages to its
 package registry, [crates.io](https://crates.io).
 
-## Problem Statement
+#### Problem Statement
 
 The Rust community lacks the support of a robust static analysis framework to
 perform program analysis of Rust packages. In our work of building a call-based
@@ -33,6 +34,11 @@ Rust-specific call graph. This includes dealing with _dynamic dispatch_,
 _generic function definitions_ and Rust-specific features such as _conditional
 compilation_.
 
-## Related work
+#### Related work
 
 [1] https://phasar.org/
+
+#### Contacts about the project:
+
+* [Joseph Hejderup](mailto:j.i.hejderup@tudelft.nl) (TU Delft)
+* [Georgios Gousios](mailto:g.gousios@tudelft.nl) (TU Delft)

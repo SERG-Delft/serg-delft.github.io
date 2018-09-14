@@ -3,7 +3,8 @@ layout: page
 title: Large-Scale API misuse Detection
 ---
 
-## Background
+#### Background
+
 At the Software Analytics Lab (SAL), we are developing techniques to construct
 precise and fine-grained dependency networks of package repositories such as
 [Maven](https://mvnrepository.com/) or
@@ -21,7 +22,8 @@ first evaluation of building a CDN for [crates.io](https://crates.io) has shown
 promising results and we are now looking for interested master students to
 explore new avenues with this work!
 
-## Problem Statement
+#### Problem Statement
+
 A common and prevalent problem is the misuse of APIs [1]. A misuse is a
 violation of _usage constraints_ of an API. As an example, this can be to forget
 to close an _I/O Stream_ after reading a file when attempting to read a new
@@ -32,7 +34,7 @@ a file).  The aim of this project is to create an API misuse detector to study
 the widespread (e.g., propagation) and implications of API misuse in a package
 repository.
 
-## Related work
+#### Related work
 
 [1] Amann, Sven, et al. "A Systematic Evaluation of Static API-Misuse
 Detectors." IEEE Transactions on Software Engineering (2018).
@@ -41,3 +43,8 @@ Detectors." IEEE Transactions on Software Engineering (2018).
 Dependency Management,” in Proceedings of the 40th International Conference on
 Software Engineering: New Ideas and Emerging Results, New York, NY, USA, 2018,
 pp. 101–104.
+
+#### Contacts about the project:
+
+* [Joseph Hejderup](mailto:j.i.hejderup@tudelft.nl) (TU Delft)
+* [Georgios Gousios](mailto:g.gousios@tudelft.nl) (TU Delft)

@@ -21,11 +21,12 @@ network for Python (or another dynamically typed language). The main issue
 with such languages is the accurate building of callgraphs. For this reason,
 the project needs both to use static callgraph generators and dynamic instrumentation while running the program's tests.
 
-#### Contacts about the project:
-
-* Georgios Gousios (TU Delft)
-* Joseph Hejderup (TU Delft)
 
 #### Related work
 
 [1] J. Hejderup, A. van Deursen, and G. Gousios, “Software Ecosystem Call Graph for Dependency Management,” in Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results, New York, NY, USA, 2018, pp. 101–104.
+
+#### Contacts about the project:
+
+* [Joseph Hejderup](mailto:j.i.hejderup@tudelft.nl) (TU Delft)
+* [Georgios Gousios](mailto:g.gousios@tudelft.nl) (TU Delft)
