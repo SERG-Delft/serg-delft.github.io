@@ -32,7 +32,8 @@ feed tracking of changes made to their repository such as
 this project is to tap into such feeds and create a real-time pipeline of
 fetching a new release, building a call graph and integrating it into a CDN.  While it may
 sound trivial to add a new release to a CDN, aspects such as dependency
-resolution of existing nodes need to be handled.
+resolution of existing nodes need to be handled. This also includes native support for
+retrospective analysis of the evolution of a CDN.
 
 #### Related work
 
