@@ -1,4 +1,7 @@
-# Sound call-graph generation for Rust
+---
+layout: page
+title: Sound call-graph generation for Rust
+---
 
 ## Background
 Rust is a new systems programming language developed at Mozilla Research that

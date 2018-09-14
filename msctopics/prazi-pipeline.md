@@ -1,4 +1,7 @@
-# Real-time analysis of dependency networks
+---
+layout: page
+title: Real-time analysis of dependency networks
+---
 
 ## Background
 At the Software Analytics Lab (SAL), we are developing techniques to construct

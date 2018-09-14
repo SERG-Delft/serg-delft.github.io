@@ -1,4 +1,7 @@
-# Large-Scale API misuse Detection
+---
+layout: page
+title: Large-Scale API misuse Detection
+---
 
 ## Background
 At the Software Analytics Lab (SAL), we are developing techniques to construct
