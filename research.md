@@ -24,7 +24,7 @@ Start | Name | Project Title | Funding | SERG Principal Investigators
 2016  | [STAMP](https://www.stamp-project.eu) | Software Testing Amplification for DevOps | EU H2020 | Arie van Deursen, Andy Zaidman
 2015  | [BSR](http://www.3tu-bsr.nl) | Big Software on the Run | 3TU NIRICT| Arie van Deursen
 2015  | LSSA | Large Scale Spreadsheet Analysis | BitBrains | Felienne Hermans
-2015  | [PCR](https://avandeursen.com/2015/09/21/phdpostdoc-vacancies-in-persistent-code-reviews-2/) | Persistent Code Reviews | NWO EW TOP1 | Arie van Deursen, Alberto Bacchelli
+2015  | [PCR](https://www.nwo.nl/en/research-and-results/research-projects/i/54/12454.html) | Persistent Code Reviews | NWO EW TOP1 | Arie van Deursen, Alberto Bacchelli
 2014  | [TestRoots](https://testroots.org/) | Software evolution and developer testing | NWO Vidi | Andy Zaidman
 2013  | PROSE | Professionalizing Spreadsheet Engineering | STW, NWO TTW | Arie van Deursen, Felienne Hermans
 2012  | [GHTorrent](https://ghtorrent.org) | Mining software engineering data from GitHub | TU Delft, Microsoft | Georgios Gousios
