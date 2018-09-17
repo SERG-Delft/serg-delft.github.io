@@ -49,8 +49,8 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
-Sep 18    | TUD  | [Java stream debugging improvement](/msctopics/api-communication.html) | Anand Ashok Sawant and Arie van Deursen|
-Sep 18    | TUD  | [Alternative API evolution communication mechanisms](/msctopics/java-lambdas.html) | Anand Ashok Sawant and Arie van Deursen|
+Sep 18    | TUD  | [Java stream debugging improvement](/msctopics/java-lambdas.html) | Anand Ashok Sawant and Arie van Deursen|
+Sep 18    | TUD  | [Alternative API evolution communication mechanisms](/msctopics/api-communication.html) | Anand Ashok Sawant and Arie van Deursen|
 Sep 18    | TUD   | [Real-time analysis of dependency networks](/msctopics/prazi-pipeline.html) | Joseph Hejderup and Georgios Gousios |
 Sep 18    | TUD   | [Sound call-graph generation for Rust](/msctopics/rust-cg.html) | Joseph Hejderup and Georgios Gousios |
 Sep 18    | TUD   | [Large-Scale API misuse Detection](/msctopics/prazi-api.html) | Joseph Hejderup and Georgios Gousios |
