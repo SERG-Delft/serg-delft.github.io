@@ -1,0 +1,373 @@
+all-reports.twiki
+
+<noautolink>
+
+---+ TUD-SERG Technical Report Series
+
+Our technical report series, started in 2006, contains preprints of our [[Scientific Publications]].
+They are listed in reverse chronological order. 
+
+---++ 2018
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+|[[%ATTACHURL%/TUD-SERG-2018-001.pdf][TUD-SERG-2018-001]]| Felienne Hermans and Alaaeddin Swidan and Efthimia Aivaloglou |Code Phonology: an exploration into the vocalization of code | ICPC '18 |
+
+---++ 2017
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+|[[%ATTACHURL%/TUD-SERG-2017-015.pdf][TUD-SERG-2017-015]]   | Felienne Hermans and Efthimia Aivaloglou |To Scratch or not to Scratch? A controlled experiment comparing plugged first and unplugged first programming lessons | WIPSCE '17 |
+| TUD-SERG-2017-014 | Eduardo Amorim, Timothée Haudebourg, Eelco Visser | Declarative Disambiguation of Deep Priority Conflicts | |
+|[[%ATTACHURL%/TUD-SERG-2017-013.pdf][TUD-SERG-2017-013]]   | Efthimia Aivaloglou, David Hoepelman, Felienne Hermans |Parsing Excel formulas: A grammar and its application on four large datasets | Journal of Software: Evolution and Process |
+|[[%ATTACHURL%/TUD-SERG-2017-012.pdf][TUD-SERG-2017-012]] | Hennie Huijgens, Arie van Deursen, Leandru Minku, Chris Lokan | Effort and Cost in Software Engineering: A Comparison of Two Industrial Data Sets | [[http://ease2017.bth.se/][EASE 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-011.pdf][TUD-SERG-2017-011]] | Vlad Vergu, Michiel Haisma, Eelco Visser | The Semantics of Name Resolution in Grace |  |
+|[[%ATTACHURL%/TUD-SERG-2017-010.pdf][TUD-SERG-2017-010]] | Hennie Huijgens, Robert Lamping, Dick Stevens, Hartger Rothengatter, Daniele Romano and Georgios Gousios | Strong Agile Metrics | ESEC/FSE 2017 Industry Track |
+|[[%ATTACHURL%/TUD-SERG-2017-009.pdf][TUD-SERG-2017-009]] | Bas Jansen and Felienne Hermans | The Effect of Delocalized Plans on Spreadsheet Comprehension - A Controlled Experiment | [[http://www2.unibas.it/icpc2017/][ICPC 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-008.pdf][TUD-SERG-2017-008]] | Alaaeddin Swidan and Felienne Hermans | Semi-automatic Extraction of Cross-table Data from a Set of Spreadsheets | [[http://iseud2017.tue.nl/][IS-EUD 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-007.pdf][TUD-SERG-2017-007]] | Efthimia Aivaloglou, Felienne Hermans, Jesus Moreno-Leon, and Gregorio Robles | A Dataset of Scratch Programs: Scraped, Shaped and Scored | [[http://2017.msrconf.org/#/home][MSR 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-006.pdf][TUD-SERG-2017-006]] | Mozhan Soltani, Annibale Panichella, and Arie van Deursen | A Guided Genetic Algorithm for Automated Crash Reproduction | [[http://icse2017.gatech.edu/][ICSE 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-005.pdf][TUD-SERG-2017-005]] | Michael de Jong, Arie van Deursen and Anthony Cleve | Zero-Downtime SQL Database Schema Evolution for Continuous Deployment | [[http://icse2017.gatech.edu/][ICSE SEIP 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-004.pdf][TUD-SERG-2017-004]] | Alexandre Perez, Rui Abreu, Arie van Deursen | A Test-suite Diagnosability Metric for Spectrum-based Fault Localization Approaches | [[http://icse2017.gatech.edu/][ICSE 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-003.pdf][TUD-SERG-2017-003]] | Felienne Hermans, Efthimia Aivaloglou | Teaching Software Engineering Principles to K-12 Students: A MOOC on Scratch | [[http://icse2017.gatech.edu/][ICSE SEET 2017]] |
+|[[%ATTACHURL%/TUD-SERG-2017-002.pdf][TUD-SERG-2017-002]] | Sohon Roy, Felienne Hermans, Arie van Deursen | Spreadsheet Testing in Practice | [[http://saner.aau.at/][SANER 2017]] |
+| [[%ATTACHURL%/TUD-SERG-2017-001.pdf][TUD-SERG-2017-001]] | Hennie Huijgens, Arie van Deursen, Rini van Solingen | The Effect of Perceived Value and Stakeholder Satisfaction on Software Project | Information and Software Technology |
+ 
+---++ 2016
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2016-025.pdf][TUD-SERG-2016-025]] | Markus Voelter, Bernd Kolb, Tamás Szabó, Daniel Ratiu and Arie van Deursen | Lessons Learned from Developing mbeddr: A Case Study in Language Engineering with MPS | SOSYM 2017 |
+| [[%ATTACHURL%/TUD-SERG-2016-024.pdf][TUD-SERG-2016-024]] | Maurício Aniche, Gabriele Bavota, Christoph Treude, Arie van Deursen, and Marco Aurélio Gerosa | A Validated Set of Smells in Model-View-Controller Architectures | ICSME 2016 | 
+| [[%ATTACHURL%/TUD-SERG-2016-023.pdf][TUD-SERG-2016-023]] | Maurício Aniche, Christoph Treude, Andy Zaidman, Arie van Deursen, and Marco Aurélio Gerosa | SATT: Tailoring Code Metric Thresholds for Different Software Architectures | SCAM 2016 | 
+| [[%ATTACHURL%/TUD-SERG-2016-022.pdf][TUD-SERG-2016-022]] | Arie van Deursen, Maurício Aniche, Joop Aué, Rogier Slag, Michael de Jong, Alex Nederlof, Eric Bouwers | A Collaborative Approach to Teaching Software Architecture | [[http://sigcse2017.sigcse.org/][SIGCSE 2017]] | 
+| [[%ATTACHURL%/TUD-SERG-2016-021.pdf][TUD-SERG-2016-021]] | Marieke Huisman, Herbert Bos, Sjaak Brinkkemper, Arie van Deursen, Jan Friso Groote, Patricia Lago, Jaco van de Pol, and Eelco Visser | Software that meets its Intent | [[http://www.isola-conference.org/isola2016/][ISoLA 2016]] | 
+| [[%ATTACHURL%/TUD-SERG-2016-020.pdf][TUD-SERG-2016-020]] | Sebastiaan Oosterwaal, Arie van Deursen, Roberta Coelho, Anand Ashok Sawant, Alberto Bacchelli | Visualizing Code and Coverage Changes for Code Review | [[http://www.cs.ucdavis.edu/fse2016/][FSE 2016]] | 
+| [[%ATTACHURL%/TUD-SERG-2016-019.pdf][TUD-SERG-2016-019]] | Marco di Biase, Magiel Bruntink, Alberto Bacchelli | A security perspective on code review: The case of Chromium | [[http://www.ieee-scam.org/2016/][SCAM 2016]] | 
+| [[%ATTACHURL%/TUD-SERG-2016-018.pdf][TUD-SERG-2016-018]] | Roberta Coelho, Lucas Almeida, Georgios Gousios, Arie van Deursen and Christoph Treude | Exception Handling Bug Hazards in Android: Results from a Mining Study and an Exploratory Survey | [[http://www.springer.com/computer/swe/journal/10664][EMSE]] | 
+| [[%ATTACHURL%/TUD-SERG-2016-016.pdf][TUD-SERG-2016-016]] | Felienne Hermans, Efthimia Aivaloglou | How Kids Code and How We Know: An Exploratory Study on the Scratch Repository | [[http://icer.hosting.acm.org][ICER 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-015.pdf][TUD-SERG-2016-015]] | Hennie Huijgens, Arie van Deursen, and Rini van Solingen | An Exploratory Study on the Effects of Perceived Value and Stakeholder Satisfaction on Software Projects | [[http://ease2016.lero.ie/][EASE 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-014.pdf][TUD-SERG-2016-014]] | Bas Jansen and Felienne Hermans | The Effect of Delocalized Plans on the Maintainability of Spreadsheets | Under review |
+| [[%ATTACHURL%/TUD-SERG-2016-013.pdf][TUD-SERG-2016-013]] | Mozhan Soltani, Annibale Panichella, Arie van Deursen | Evolutionary Testing for Crash Reproduction | [[https://cse.sc.edu/~ggay/sbst2016/][SBST 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-012.pdf][TUD-SERG-2016-012]] | Daco C. Harkes, Danny M. Groenewegen, Eelco Visser | IceDust: Incremental and Eventual Computation of Derived Values in Persistent Object Graphs | [[http://2016.ecoop.org/home][ECOOP 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-011.pdf][TUD-SERG-2016-011]] | Steven Raemaekers, Arie van Deursen, Joost Visser | Semantic Versioning and Impact of Breaking Changes in the Maven Repository | JSS |
+| [[%ATTACHURL%/TUD-SERG-2016-010.pdf][TUD-SERG-2016-010]] | Casper Bach Poulsen, Piere Néron, Andrew Tolmach, Eelco Visser | Scopes Describe Frames: A Uniform Model for Memory Layout in Dynamic Semantics | [[http://2016.ecoop.org/home][ECOOP 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-009.pdf][TUD-SERG-2016-009]] | Hennie Huijgens, Arie van Deursen and Rini van Solingen | Success Factors in Managing Legacy System Evolution: A Case Study | [[http://users.ece.utexas.edu/~perry/icssp2016/][ICSSP 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-008.pdf][TUD-SERG-2016-008]] | Peter van Buul and Rini van Solingen | Insights from a structured literature review (SLR) on documented case-studies of Scrum application in globally distributed settings | |
+| [[%ATTACHURL%/TUD-SERG-2016-007.pdf][TUD-SERG-2016-007]] | H. Huijgens, M. Bruntink, A. Van Deursen, T. Van Der Storm, F. Vogelezang | An Exploratory Study on Functional Size Measurement based on Code | [[http://users.ece.utexas.edu/~perry/icssp2016/][ICSSP 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-006.pdf][TUD-SERG-2016-006]] | Felienne Hermans, Efthimia Aivaloglou | Do Code Smells Hamper Novice Programming? | [[http://www.program-comprehension.org/icpc16/][ICPC 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-005.pdf][TUD-SERG-2016-005]] | Nicolas Dintzner, Arie van Deursen, Martin Pinzger | FEVER: Extracting Feature-oriented Changes from Commits | [[http://2016.msrconf.org/#/home][MSR 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-004.pdf][TUD-SERG-2016-004]] | Hennie Huijgens, Frank Vogelezang |Do Estimators Learn? On the Effect of a Positively Skewed Distribution of Effort Data on Software Portfolio Productivity  | [[http://www.agilegroup.eu/wetsom2016/][WETSoM 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-003.pdf][TUD-SERG-2016-003]] | Alaaeddin Swidan, Felienne Hermans and Ruben Koesoemowidjojo | Improving the Performance of a Large Scale Spreadsheet: A Case Study| [[http://saner.inf.usi.ch/][SANER 2016]] |
+| [[%ATTACHURL%/TUD-SERG-2016-002.pdf][TUD-SERG-2016-002]] | Sohon Roy, Felienne Hermans, Efthimia Aivaloglou, Jos Winter and Arie van Deursen  | Evaluating Automatic Spreadsheet Metadata Extraction on a Large Set of Responses from MOOC Participants | [[http://saner.inf.usi.ch/][SANER 2016]] |
+| TUD-SERG-2016-001 | Felienne Hermans, Bas Jansen, Sohon Roy, Efthimia Aivaloglou, Alaaeddin Swidan and David Hoepelman  | Spreadsheets are Code: An Overview of Software Engineering Approaches applied to Spreadsheets | [[http://saner.inf.usi.ch/][SANER 2016]] |
+---++ 2015
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2015-013.pdf][TUD-SERG-2015-013]] | Michael de Jong and Arie van Deursen | Continuous Deployment and Schema Evolution in SQL Databases | [[http://releng.polymtl.ca/RELENG2015/html/index.html][RELENG 2015]] |
+| [[%ATTACHURL%/TUD-SERG-2015-012.pdf][TUD-SERG-2015-012]] | Hendrik van Antwerpen, Pierre Neron, Andrew P. Tolmach, Eelco Visser, Guido Wachsmuth | A Constraint Language for Static Semantic Analysis based on Scope Graphs with Proofs | PEPM 2016 (Update of TUD-SERG-2015-009) |
+| [[%ATTACHURL%/TUD-SERG-2015-011.pdf][TUD-SERG-2015-011]] | Felienne Hermans, Efthimia Aivaloglou and Bas Jansen | Detecting Problematic Lookup Functions in Spreadsheets | [[https://sites.google.com/site/vlhcc2015/program][VL.HCC 2015]] |
+| [[%ATTACHURL%/TUD-SERG-2015-010.pdf][TUD-SERG-2015-010]] | Markus Voelter, Arie van Deursen, Bernd Kolb and Stephan Eberle | Using C Language Extensions for Developing Embedded Software: A Case Study | [[http://2015.splashcon.org/track/oopsla2015][OOPSLA 2015]] |
+| [[%ATTACHURL%/TUD-SERG-2015-009.pdf][TUD-SERG-2015-009]] | Hendrik van Antwerpen, Pierre Neron, Andrew P. Tolmach, Eelco Visser, Guido Wachsmuth | A Constraint Language for Static Semantic Analysis based on Scope Graphs with Proofs | |
+| [[%ATTACHURL%/TUD-SERG-2015-008.pdf][TUD-SERG-2015-008]] | Roberta Coelho, Lucas Almeida, Georgios Gousios, and Arie van Deursen | Unveiling Exception Handling Bug Hazards in Android based on GitHub and Google Code Issues | [[http://2015.msrconf.org/][MSR 2015]] | 
+| [[%ATTACHURL%/TUD-SERG-2015-007.pdf][TUD-SERG-2015-007]] | Moritz Beller, Alberto Bacchelli | Double Blind Reviews in SE conferences: Practicabiliy, Promises and Perils | | 
+| [[%ATTACHURL%/TUD-SERG-2015-006.pdf][TUD-SERG-2015-006]] | Hendrik van Antwerpen, Pierre Neron, Andrew Tolmach, Eelco Visser, Guido Wachsmuth | Language-Independent Type-Dependent Name Resolution | | 
+| TUD-SERG-2015-005 | Hennie Huijgens, Arie van Deursen, Rini van Solingen | Is Within Time and Budget a Good Project Success Criterion? | Under Review |
+| [[%ATTACHURL%/TUD-SERG-2015-004.pdf][TUD-SERG-2015-004]] | Nicolas Dintzner, Arie van Deursen, Martin Pinzger | Analyzing the Linux Kernel Feature Model Changes Using FMDif | [[http://www.sosym.org/][Software and Systems Modeling]] - Variability Modeling 2015|
+| [[%ATTACHURL%/TUD-SERG-2015-003.pdf][TUD-SERG-2015-003]] | Vlad Vergu, Pierre Neron, Eelco Visser | DynSem: A DSL for the Specification of Dynamic Semantics | RTA 2015 |
+| [[%ATTACHURL%/TUD-SERG-2015-002.pdf][TUD-SERG-2015-002]] | Nicolas Dintzner | Safe Evolution Patterns for Software Product Lines | ICSE 2015 doctoral Symposium  |
+| [[%ATTACHURL%/TUD-SERG-2015-001.pdf][TUD-SERG-2015-001]] | Pierre Neron, Andrew Tolmach, Eelco Visser, Guido Wachsmuth | A Theory of Name Resolution with Extended Coverage and Proofs | Extension of ESOP 2015 paper [[http://researchr.org/publication/TUD-SERG-2015-001][researchr]]|
+
+
+---++ 2014
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2014-023.pdf][TUD-SERG-2014-023]] | Daco Harkes and Eelco Visser | Unifying and Generalizing Relations in Role-Based Data Modeling and Navigation | [[http://www.sleconf.org/2014/][SLE 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2014-022.pdf][TUD-SERG-2014-022]] | Mircea Cadariu, Eric Bouwers, Joost Visser and Arie van Deursen | Tracking Known Security Vulnerabilities in Proprietary Software Systems | [[http://saner.soccerlab.polymtl.ca/doku.php?id=en:start][SANER 2015]] |
+| [[%ATTACHURL%/TUD-SERG-2014-021.pdf][TUD-SERG-2014-021]] | Felienne Hermans and Emerson Murphy-Hill | Enron's Spreadsheets and Related Emails: A Dataset and Analysis | ICSE SEIP 2015|
+| TUD-SERG-2014-020 | Steven Raemaekers, Arie van Deursen, and Joost Visser | Injecting Breaking API Changes to Assess the Impact of Library Updates | Under review |
+| [[%ATTACHURL%/TUD-SERG-2014-019.pdf][TUD-SERG-2014-019]] | [[Anja Guzzi]], [[Alberto Bacchelli]], Yann Riche, [[Arie van Deursen]] | Supporting Developers' Collaboration in the IDE | [[http://cscw.acm.org/2015][CSCW 2015]] |
+| [[%ATTACHURL%/TUD-SERG-2014-018.pdf][TUD-SERG-2014-018]] | [[Nicolas Dintzner]], Uira Kulesza, [[Arie van Deursen]],[[Martin Pinzger]] | Evaluating Feature Change Impact on Multi-Product Line Configurations Using Partial Information | ICSR 2015 |
+| [[%ATTACHURL%/TUD-SERG-2014-017.pdf][TUD-SERG-2014-017]] | [[Tiago Espinha]], [[Andy Zaidman]], Hans-Gerhard Gross | Web API Growing Pains: Loosely Coupled yet Strongly Tied | JSS |
+| [[%ATTACHURL%/TUD-SERG-2014-016.pdf][TUD-SERG-2014-016]] | Steven Raemaekers, Arie van Deursen, and Joost Visser | Semantic Versioning versus Breaking Changes: A Study of the Maven Repository | [[http://www.ieee-scam.org/2014/][SCAM 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2014-015.pdf][TUD-SERG-2014-015]] | Arie van Deursen, Ali Mesbah, and Ali Mesbah | Crawl-Based Analysis of Web Applications: Prospects and Challenges | SCP 2014 |
+| [[%ATTACHURL%/TUD-SERG-2014-014.pdf][TUD-SERG-2014-014]] | Alex Nederlof, Ali Mesbah, and Arie van Deursen | Software Engineering for the Web: The State of the Practice | [[http://2014.icse-conferences.org/accepted#ICSECOMP14SEIP][ICSE SEIP 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2014-013.pdf][TUD-SERG-2014-013]]| [[Georgios Gousios]], [[Andy Zaidman]], Margaret-Anne Storey and [[Arie van Deursen]] | Work Practices and Challenges in Pull-Based Development: The Integrator’s Perspective | ICSE 2015 |
+| [[%ATTACHURL%/TUD-SERG-2014-012a.pdf][TUD-SERG-2014-012a]] | Hennie Huijgens, Georgios Gousios, and Arie van Deursen | Pricing via Functional Size: A Case Study of a Company's Portfolio of 77 Outsourced Projects | [[http://eseiw.iscas.ac.cn/eseiw2015/esem/index.html][ESEM 2015]] |
+| [[%ATTACHURL%/TUD-SERG-2014-011.pdf][TUD-SERG-2014-011]] | Vincent Hellendoorn, [[Alberto Bacchelli]] | _Work in Progress_ | |
+| [[%ATTACHURL%/TUD-SERG-2014-010.pdf][TUD-SERG-2014-010]] | Cor-Paul Bezemer, Elric Milon, [[Andy Zaidman]], Johan Pouwelse | Detecting and Analyzing I/O Performance Regressions | JSEP |
+| [[%ATTACHURL%/TUD-SERG-2014-009.pdf][TUD-SERG-2014-009]]  | [[Tiago Espinha]], [[Andy Zaidman]], Hans-Gerhard Gross | Web API Fragility: How Robust is Your Web API Client | Under Review |
+| [[%ATTACHURL%/TUD-SERG-2014-008.pdf][TUD-SERG-2014-008]]  | Dimitrios Athanasiou, Ariadi Nugroho, Joost Visser, [[Andy Zaidman]] | Test Code Quality and Its Relation to Issue Handling Performance | TSE |
+| [[%ATTACHURL%/TUD-SERG-2014-007.pdf][TUD-SERG-2014-007]] | [[Daniele Romano]], Steven Raemaekers, [[http://serg.aau.at/bin/view/MartinPinzger][Martin Pinzger]] | Refactoring Fat Interfaces Using a Genetic Algorithm | [[http://www.icsme.org][ICSME 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2014-006.pdf][TUD-SERG-2014-006]]:  | [[Petra Heck]], [[Andy Zaidman]] | A Quality Framework for Agile Requirements: A Practitioner’s Perspective |  |
+| [[%ATTACHURL%/TUD-SERG-2014-005.pdf][TUD-SERG-2014-005]] | [[Georgios Gousios]], Martin Pinzger, [[Arie van Deursen]] | An Exploratory Study of the Pull-based Software Development Model | [[http://2014.icse-conferences.org/][ICSE 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2014-004.pdf][TUD-SERG-2014-004]] | [[Eric Bouwers]], Joost Visser, [[Arie van Deursen]] | Towards a Catalog Format for Software Metrics | [[http://www.rcost.unisannio.it/wetsom2014/][WeTSOM 2014]] |
+| TUD-SERG-2014-003 | Sebastian Erdweg, Vlad Vergu, Mira Mezini |Modular Specification and Dynamic Enforcement of Syntactic Language Constraints when Generating Code | [[http://aosd.net/2014/conference][Modularity 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2014-002.pdf][TUD-SERG-2014-002]] | [[Daniele Romano]] and [[http://serg.aau.at/bin/view/MartinPinzger][Martin Pinzger]] | A Genetic Algorithm to Find the Adequate Granularity for Service Interfaces | [[http://www.servicescongress.org/2014/][Services 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2014-001.pdf][TUD-SERG-2014-001]] | [[Nicolas Dintzner]], [[Arie van Deursen]] and [[Martin Pinzger]] | Extracting Feature Model Changes from the Linux Kernel Using FMDiff | [[http://vamos2014.unice.fr/][VaMoS 2014]] |
+
+---++ 2013
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| TUD-SERG-2013-023 | [[Felienne Hermans]] | Improving spreadsheet test practices | CASCON |
+| [[%ATTACHURL%/TUD-SERG-2013-022.pdf][TUD-SERG-2013-022]] | [[Felienne Hermans]], [[Martin Pinzger]], and [[Arie van Deursen]] | Detecting and Refactoring Code Smells in Spreadsheet Formulas |[[http://www.springer.com/computer/swe/journal/10664][EMSE]] |
+| [[%ATTACHURL%/TUD-SERG-2013-021.pdf][TUD-SERG-2013-021]] | [[Michaela Greiler]], [[Arie van Deursen]] and Margaret-Anne Storey | Automated Detection of Test Fixture Strategies and Smells | [[http://www.icst.lu/][ICST 2013]] |
+|[[%ATTACHURL%/TUD-SERG-2013-020.pdf][TUD-SERG-2013-020]] |[[CorPaulBezemer][Cor-Paul Bezemer]], Elric Milon, [[Andy Zaidman]], Johan Pouwelse | Detecting and Analyzing Performance Regressions Using a Spectrum-Based Approach | Under Review |
+| [[%ATTACHURL%/TUD-SERG-2013-019.pdf][TUD-SERG-2013-019]] | Hennie Huijgens, Rini van Solingen, and Arie van Deursen | How To Build a Good Practice Software Project Portfolio? | [[http://2014.icse-conferences.org/accepted#ICSECOMP14SEIP][ICSE SEIP 2014]] |
+| [[%ATTACHURL%/TUD-SERG-2013-018.pdf][TUD-SERG-2013-018]] | [[Daniele Romano]], Maria Kalouda, [[http://serg.aau.at/bin/view/MartinPinzger][Martin Pinzger]] | Analyzing the Impact of External and Internal Cohesion on the Change-Proneness of Web APIs | Under Review |
+| [[http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2013-017.pdf][TUD-SERG-2013-017]] | Eelco Visser | [[http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2013-017.pdf][Understanding Software through Linguistic Abstraction]] | To appear in SCP |
+| [[http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2013-016.pdf][TUD-SERG-2013-016]] | Semih Okur, David L. Hartveld, Danny Dig and Arie van Deursen | A Study and Toolkit for Asynchronous Programming in C# | ICSE 2014 |
+| [[%ATTACHURL%/TUD-SERG-2013-015.pdf][TUD-SERG-2013-015]] | [[CorPaulBezemer][Cor-Paul Bezemer]], [[Andy Zaidman]] | Improving the Diagnostic Capabilities of a Performance Reengineering Approach |  |
+| [[http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2013-014.pdf][TUD-SERG-2013-014]] | [[Guido Wachsmuth]], Gabriël Konat, Vlad Vergu, [[Danny Groenewegen]], [[Eelco Visser]] | A Language Independent Task Engine for Incremental Name and Type Analysis | [[http://planet-sl.org/sle2013][SLE 2013]] |
+| [[%ATTACHURL%/TUD-SERG-2013-013.pdf][TUD-SERG-2013-013]] | [[Daniele Romano]], [[http://serg.aau.at/bin/view/MartinPinzger][Martin Pinzger]] | Towards a Weighted Voting System for Q&A Sites | [[http://icsm2013.tue.nl][ICSM 2013]] |
+| [[%ATTACHURL%/TUD-SERG-2013-012.pdf][TUD-SERG-2013-012]] | Tiago Espinha, Andy Zaidman, Hans-Gerhard Gross | Understanding the Interactions between Users and Versions in Multi-tenant Systems | [[http://iwpse13.libresoft.es/][IWPSE 2013]] |
+| [[%ATTACHURL%/TUD-SERG-2013-011.pdf][TUD-SERG-2013-011]] | Tiago Espinha, Andy Zaidman, Hans-Gerhard Gross | An Exploratory Study into how Web Service API Evolution Impacts API Clients | Submitted |
+| [[%ATTACHURL%/TUD-SERG-2013-010.pdf][TUD-SERG-2013-010]] | Georgios Gousios, Martin Pinzger, Arie van Deursen | An Exploratory Study of the Pull-based Software Development Model | submitted |
+| [[%ATTACHURL%/TUD-SERG-2013-009.pdf][TUD-SERG-2013-009]]  | Oskar van Rest, [[Guido Wachsmuth]], Jim Steel, Jörn Guy Süß, [[Eelco Visser]] | Robust Real-Time Synchronization between Textual and Graphical Editors | ICMT 2013 |
+| [[%ATTACHURL%/TUD-SERG-2013-008.pdf][TUD-SERG-2013-008]]  | [[Maartje de Jonge]], [[Eelco Visser]] | Implementing Refactorings in the Spoofax Language Workbench | |
+| [[%ATTACHURL%/TUD-SERG-2013-007.pdf][TUD-SERG-2013-007]]  | Petra Heck, [[Andy Zaidman]] | An Analysis of Requirements Evolution in Open Source Projects: Recommendations for Issue Trackers | |
+| [[%ATTACHURL%/TUD-SERG-2013-006.pdf][TUD-SERG-2013-006]] | [[CorPaulBezemer][Cor-Paul Bezemer]], [[Andy Zaidman]] | Performance Optimization of Deployed Software-as-a-Service Applications | Under review |
+| [[%ATTACHURL%/TUD-SERG-2013-005.pdf][TUD-SERG-2013-005]] | [[Steven Raemaekers]], [[Arie van Deursen]], Joost Visser | Mining Metrics, Changes and Dependencies from the Maven Dependency Dataset | [[http://2013.msrconf.org/][MSR 2013]] |
+| [[%ATTACHURL%/TUD-SERG-2013-004.pdf][TUD-SERG-2013-004]] | [[Steven Raemaekers]], Gabriela F. Nane, [[Arie van Deursen]], Joost Visser | Testing Principles, Current Practices and Effects of Change Localization | [[http://2013.msrconf.org/][MSR 2013]]  |
+| [[%ATTACHURL%/TUD-SERG-2013-003.pdf][TUD-SERG-2013-003]] | [[Eric Bouwers]], [[Arie van Deursen]], Joost Visser | Evaluating Usefulness of Software Metrics - an Industrial Experience Report | [[http://2013.icse-conferences.org/][ICSE 2013]] SEIP |
+| [[%ATTACHURL%/TUD-SERG-2013-002.pdf][TUD-SERG-2013-002]] | [[Michaela Greiler]], [[Andy Zaidman]], [[Arie van Deursen]], Margaret-Anne Storey| Strategies for Avoiding Text Fixture Smells during Software Evolution| [[http://2013.msrconf.org/][MSR 2013]] |
+| [[%ATTACHURL%/TUD-SERG-2013-001.pdf][TUD-SERG-2013-001]] | [[Daniele Romano]]| Analyzing the Change-Proneness of Service-Oriented Systems from an Industrial Perspective | [[http://2013.icse-conferences.org/][ICSE 2013]] |
+
+---++ 2012
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2012-024.pdf][TUD-SERG-2012-024]] | [[Maartje de Jonge]], [[Eelco Visser]] | A Language Generic Solution for Name Binding Preservation in Refactorings | LDTA 2012 |
+| [[%ATTACHURL%/TUD-SERG-2012-023.pdf][TUD-SERG-2012-023]]:  | [[Cuiting Chen]], [[GerdGross][Hans Gerhard Gross]], [[Andy Zaidman]] | Spectrum-based Fault Diagnosis for Service-Oriented Software Systems | SOCA 2012 |
+| [[%ATTACHURL%/TUD-SERG-2012-022.pdf][TUD-SERG-2012-022]] | Frens Vonken, Jacob Brunekreef, [[Andy Zaidman]], Frank Peeters | Software Engineering in the Netherlands: The State of the Practice | |
+| [[%ATTACHURL%/TUD-SERG-2012-021.pdf][TUD-SERG-2012-021]] | [[Maartje de Jonge]], Lennart C.L. Kats, Emma Soderberg, [[Eelco Visser]] | Natural and Flexible Error Recovery for Generated Modular Language Environments | TOPLAS 2013 |
+| [[%ATTACHURL%/TUD-SERG-2012-020.pdf][TUD-SERG-2012-020]] | [[Michaela Greiler]] and [[Arie van Deursen]] | What your Plug-in Test Suites Really Test: An Integration Perspective on Test Suite Understanding | [[http://link.springer.com/article/10.1007/s10664-012-9235-7][EMSE]] |
+| [[%ATTACHURL%/TUD-SERG-2012-019.pdf][TUD-SERG-2012-019]] | Emanuel Giger, Marco D'Ambros, [[Martin Pinzger]], and Harald C. Gall | Method-Level Bug Prediction | [[http://esem.cs.lth.se/esem2012/esem/][ESEM 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-018.pdf][TUD-SERG-2012-018]] | Emanuel Giger, [[Martin Pinzger]], and Harald C. Gall | Can we Predict Types of Code Changes? An Empirical Analysis | [[http://2012.msrconf.org/][MSR 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-017.pdf][TUD-SERG-2012-017]] | [[Daniele Romano]], Paulius Raila, [[Martin Pinzger]], and [[http://post.queensu.ca/~khomhf/][Foutse Khomh]] | Analyzing the Impact of Antipatterns on Change-Proneness Using Fine-Grained Source Code Changes | [[http://www.distat.unimol.it/wcre2012/][WCRE 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-016.pdf][TUD-SERG-2012-016]] | [[Felienne Hermans]], Ben Sedee, [[Martin Pinzger]], and [[Arie van Deursen]] | Detecting and Visualizing Data Clones in Spreadsheets | [[http://2013.icse-conferences.org/][ICSE 2013]] |
+| [[http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2012-015.pdf][TUD-SERG-2012-015]] | Gabriël Konat, [[Lennart Kats][Lennart C. L. Kats]], [[Guido Wachsmuth]], [[Eelco Visser]] | Declarative Name Binding and Scope Rules | [[http://planet-sl.org/sle2012][SLE 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-014.pdf][TUD-SERG-2012-014]] | [[Lennart Kats][Lennart C. L. Kats]], Richard G. Vogelij, Karl T. Kalleberg, [[Eelco Visser]] | Software Development Environments on the Web: A Research Agenda | [[http://onward-conference.org/][Onward! 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-013.pdf][TUD-SERG-2012-013]] | [[CorPaulBezemer][Cor-Paul Bezemer]], [[Andy Zaidman]], Ad van der Hoeven, Andre van de Graaf, Maarten Wiertz, Remko Weijers | Locating Performance Improvement Opportunities in an Industrial Software-as-a-Service Application | [[http://selab.fbk.eu/icsm2012/][ICSM 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-012.pdf][TUD-SERG-2012-012]] | [[Steven Raemaekers]], [[Arie van Deursen]], Joost Visser | Measuring Library Stability Through Historical Version Analysis | [[http://selab.fbk.eu/icsm2012/][ICSM 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-011.pdf][TUD-SERG-2012-011]] | [[Daniele Romano]], [[Martin Pinzger]] | Analyzing the Evolution of Web Services using Fine-Grained Changes | [[http://conferences.computer.org/icws/2012/][ICWS 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-010.pdf][TUD-SERG-2012-010]] | [[Sander van der Burg]], Julius Davies, [[Eelco Dolstra]], Daniel M. German, Armijn Hemel | Discovering Software License Constraints: Identifying a Binary's Sources by Tracing Build Processes | |
+| [[%ATTACHURL%/TUD-SERG-2012-009.pdf][TUD-SERG-2012-009]] | [[Maartje de Jonge]], [[Eelco Visser]] | Automated Evaluation of Syntax Error Recovery | ASE 2012 (short paper) |
+| [[%ATTACHURL%/TUD-SERG-2012-008.pdf][TUD-SERG-2012-008]] | [[Michaela Greiler]], [[Arie van Deursen]], [[Andy Zaidman]] | Measuring Test Case Similarity to Support Test Suite Understanding | TOOLS 2012 |
+| [[%ATTACHURL%/TUD-SERG-2012-007.pdf][TUD-SERG-2012-007]] | [[Tiago Espinha]], [[Cuiting Chen]], [[Andy Zaidman]], [[GerdGross][Hans Gerhard Gross]] | Spicy Stonehenge: Proposing a SOA Case Study | PESOS 2012 |
+| [[%ATTACHURL%/TUD-SERG-2012-006.pdf][TUD-SERG-2012-006]] | [[CorPaulBezemer][Cor-Paul Bezemer]], [[Andy Zaidman]] | System Load Characterization Using Low-Level Performance Measurements | |
+| [[%ATTACHURL%/TUD-SERG-2012-005.pdf][TUD-SERG-2012-005.pdf]]| [[Felienne Hermans]], [[Martin Pinzger]], and [[Arie van Deursen]] | Measuring Spreadsheet Understandability| [[http://eusprig.org/call-for-papers.htm][Eusprig 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-004.pdf][TUD-SERG-2012-004]] | [[Andy Zaidman]], Nick Matthijssen, Margaret-Anne Storey, [[Arie van Deursen]] | Understanding Ajax Applications by Connecting Client and Server-Side Execution Traces | EMSE |
+| [[%ATTACHURL%/TUD-SERG-2012-003.pdf][TUD-SERG-2012-003]] | Ralph Peters, [[Andy Zaidman]] | Evaluating the Lifespan of Code Smells using Software Repository Mining | [[http://csmr2012.sed.hu/][CSMR 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-002.pdf][TUD-SERG-2012-002.pdf]] | Victor Hurdugaci, [[Andy Zaidman]] | Aiding Developers to Maintain Developer Tests | [[http://csmr2012.sed.hu/][CSMR 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2012-001.pdf][TUD-SERG-2012-001]] | [[Tiago Espinha]], [[Cuiting Chen]], [[Andy Zaidman]], [[GerdGross][Hans Gerhard Gross]] | Maintenance Research in SOA - Towards a Standard Case Study | [[http://csmr2012.sed.hu/][CSMR 2012]] |
+
+---++ 2011
+
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2011-034.pdf][TUD-SERG-2011-034]] | [[Daniele Romano]], [[Martin Pinzger]], and [[Eric Bouwers]] | Extracting Dynamic Dependencies between Web Services Using Vector Clocks | [[http://link.eecs.uci.edu/conferences/soca2011/][SOCA 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-033.pdf][TUD-SERG-2011-033]] | Ali Mesbah, [[Arie van Deursen]], and Stefan Lenselink | Crawling Ajax-based Web Applications through Dynamic Analysis of User Interface State Changes | [[http://tweb.acm.org/][ACM TWEB]] |
+| [[%ATTACHURL%/TUD-SERG-2011-032.pdf][TUD-SERG-2011-032]] | [[Kevin Dullemond]], [[Ben van Gameren]], and [[Rini van Solingen]] | An Industrial Evaluation of Technological Support for Overhearing Conversations in Global Software Engineering | Under review|
+| [[%ATTACHURL%/TUD-SERG-2011-031-a.pdf][TUD-SERG-2011-031-a]] | [[Eric Bouwers]], [[Arie van Deursen]], and Joost Visser | Quantifying the Encapsulation of Implemented Software Architectures | Under review|
+| [[%ATTACHURL%/TUD-SERG-2011-030.pdf][TUD-SERG-2011-030]] | [[Felienne Hermans]], [[Martin Pinzger]], and [[Arie van Deursen]] | Detecting Code Smells in Spreadsheet Formulas | Accepted for publication at ICSM 2012|
+| [[%ATTACHURL%/TUD-SERG-2011-029.pdf][TUD-SERG-2011-029]] | [[Felienne Hermans]], [[Martin Pinzger]], and [[Arie van Deursen]] | Detecting and Visualizing Inter-Worksheet Smells in Spreadsheets | Accepted for publication at [[http://www.ifi.uzh.ch/icse2012.][ICSE 2012]]|
+| [[%ATTACHURL%/TUD-SERG-2011-028.pdf][TUD-SERG-2011-028]] | [[Daniele Romano]], Massimiliano Di Penta, Giuliano Antoniol | An Approach for Search Based Testing of Null Pointer Exceptions | [[http://sites.google.com/site/icst2011/][ICST 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-027.pdf][TUD-SERG-2011-027]] | [[Maartje de Jonge]], [[Eelco Visser]] | An Algorithm for Layout Preservation in Refactoring Transformations | [[http://planet-sl.org/sle2011/][SLE 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-026.pdf][TUD-SERG-2011-026]] | [[Sander Vermolen]], [[Guido Wachsmuth]], [[Eelco Visser]] | Reconstructing Complex Metamodel Evolution | [[http://planet-sl.org/sle2011/][SLE 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-025.pdf][TUD-SERG-2011-025]] | [[Zef Hemel]], [[Eelco Visser]] | Declaratively Programming the Mobile Web with Mobl | [[http://splashcon.org/][SPLASH 2011]] |
+| TUD-SERG-2011-024 | [[Lennart Kats][Lennart C. L. Kats]], [[Rob Vermaas]], [[Eelco Visser]] | Testing Domain-Specific Languages | [[http://splashcon.org/][SPLASH 2011]] (companion) |
+| [[%ATTACHURL%/TUD-SERG-2011-023.pdf][TUD-SERG-2011-023]] | Sebastian Erdweg, [[Lennart Kats][Lennart C. L. Kats]], Tilman Rendel, Christian Kästner, Klaus Ostermann, [[Eelco Visser]] | Growing a Language Environment with Editor Libraries | [[http://program-transformation.org/GPCE11][GPCE 2011]] |
+| TUD-SERG-2011-022 | Bob de Vos, [[Lennart Kats][Lennart C. L. Kats]], [[Kees Pronk][C. (Kees) Pronk]] | EpiSpin: an Eclipse Plug-in for Promela/Spin using Spoofax | [[http://research.microsoft.com/en-us/um/redmond/events/spin2011/][SPIN 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-021.pdf][TUD-SERG-2011-021]] | [[Khalid Adam Nasr]], [[GerdGross][Hans Gerhard Gross]], [[Arie van Deursen]] | Performance Trade-offs in Client-Side Service Delegation | [[http://www.cs.wm.edu/icsm2011/wse2011][WSE]] |
+| [[%ATTACHURL%/TUD-SERG-2011-020.pdf][TUD-SERG-2011-020]] | [[Felienne Hermans]], [[Martin Pinzger]], and [[Arie van Deursen]] | Breviz: Spreadsheet Visualization and Quality Analysis | [[http://www.cs.cmu.edu/~vlhcc2011/][VLHCC 2011 Tool Demo]] |
+| [[%ATTACHURL%/TUD-SERG-2011-019.pdf][TUD-SERG-2011-019]] | [[Daniele Romano]] and [[Martin Pinzger]] | Using Vector Clocks to Monitor Dependencies among Services at Runtime | [[http://www.inf.usi.ch/phd/bianculli/qasba2011/][QASBA 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-018.pdf][TUD-SERG-2011-018]] | Emanuel Giger, [[Martin Pinzger]], and Harald C. Gall | Using the Gini Coefficient for Bug Prediction in Eclipse | [[http://pleiad.cl/iwpse-evol/][IWPSE-EVOL 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-017.pdf][TUD-SERG-2011-017]] | [[Daniele Romano]] and [[Martin Pinzger]] | Using Source Code Metrics to Predict Change-Prone Java Interfaces | [[http://www.cs.wm.edu/icsm2011/][ICSM 2011]] |
+| TUD-SERG-2011-016 | [[Felienne Hermans]], [[Martin Pinzger]], and [[Arie van Deursen]] | Breviz: Visualizing Spreadsheets using Dataflow Diagrams | [[http://www.eusprig.org/][EuSpRiG 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-015.pdf][TUD-SERG-2011-015]] | [[Eric Bouwers]], [[Arie van Deursen]], Joost Visser | Dependency Profiles for Software Architecture Evaluations | [[http://www.cs.wm.edu/icsm2011/?page_id=281][ICSM 2011 ERA Track]] |
+| [[%ATTACHURL%/TUD-SERG-2011-014.pdf][TUD-SERG-2011-014]] | [[Cuiting Chen]], [[Andy Zaidman]], [[GerdGross][Hans-Gerhard Gross]] | A Framework-based Runtime Monitoring Approach for Service-Oriented Software Systems | [[http://www.inf.usi.ch/phd/bianculli/qasba2011/][QASBA 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-013.pdf][TUD-SERG-2011-013]] | [[Tiago Espinha]], [[AndyZaidman]], [[GerdGross][Hans-Gerhard Gross]] | Understanding Service-Oriented Systems Using Dynamic Analysis | [[http://www.sei.cmu.edu/workshops/mesoca/2011/][MESOCA 2011]] | 
+| [[%ATTACHURL%/TUD-SERG-2011-012.pdf][TUD-SERG-2011-012]] | Ricky T. Lindeman, [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | Declaratively Defining Domain-Specific Language Debuggers | [[http://program-transformation.org/GPCE11][GPCE 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-011.pdf][TUD-SERG-2011-011]] | [[Lennart Kats][Lennart C. L. Kats]], [[Rob Vermaas]], [[Eelco Visser]] | Integrated Language Definition Testing: Enabling Test-Driven Language Development | [[http://splashcon.org/][SPLASH/OOPSLA 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-010.pdf][TUD-SERG-2011-010]] | [[Michaela Greiler]], [[Arie van Deursen]] and Margaret-Anne Storey | Test Confessions: A Study of Testing Practices for Plug-in Systems | [[http://www.ifi.uzh.ch/icse2012/][ICSE 2012]] |
+| [[%ATTACHURL%/TUD-SERG-2011-009.pdf][TUD-SERG-2011-009]] | [[CorPaulBezemer][Cor-Paul Bezemer]], Veronika Cheplygina, [[Andy Zaidman]] | Using Pattern Recognition Techniques for Server Overload Detection |  |
+| [[%ATTACHURL%/TUD-SERG-2011-008.pdf][TUD-SERG-2011-008]] | [[CorPaulBezemer][Cor-Paul Bezemer]], [[Andy Zaidman]] | Server Overload Detection and Prediction Using Pattern Classification | [[http://www.cis.fiu.edu/conferences/icac2011/][ICAC 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-007.pdf][TUD-SERG-2011-007]] | Emanuel Giger, [[Martin Pinzger]], and Harald C. Gall | Comparing Fine-Grained Source Code Changes And Code Churn For Bug Prediction | [[http://www.msrconf.org/][MSR 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-006.pdf][TUD-SERG-2011-006]] | [[Anja Guzzi]], Lile Hattori, Michele Lanza, [[Martin Pinzger]] and [[Arie van Deursen]] | Collective Code Bookmarks for Program Comprehension | [[http://icpc2011.cs.usask.ca/][ICPC 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-005.pdf][TUD-SERG-2011-005]] | Eric Bouwers, Jose &#769; Pedro Correia, Arie van Deursen and Joost Visser | Quantifying the Analyzability of Software Architectures | [[http://www.wicsa.net/][WICSA 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2011-004.pdf][TUD-SERG-2011-004]] | Khalid Adam Nasr, Hans-Gerhard Gross, Arie van Deursen | Realizing Service Migration in Industry - Lessons Learned | [[http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0618][JSME]] |
+| [[%ATTACHURL%/TUD-SERG-2011-003.pdf][TUD-SERG-2011-003]] | Ali Mesbah, Arie van Deursen, Danny Roest | Invariant-Based Automatic Testing of Modern Web Applications | [[http://www.computer.org/tse/][TSE]] |
+| [[%ATTACHURL%/TUD-SERG-2011-002.pdf][TUD-SERG-2011-002]] | Nick Matthijssen, Andy Zaidman | FireDetective: Understanding Ajax Client/Server Interactions | [[http://2011.icse-conferences.org/][ICSE 2011]] tool demo |
+| [[%ATTACHURL%/TUD-SERG-2011-001.pdf][TUD-SERG-2011-001]] | Zef Hemel, Eelco Visser | Declaratively Programming the Mobile Web with Mobl | |
+
+---++ 2010
+
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2010-042.pdf][TUD-SERG-2010-042]] | Kees Pronk | Verifying RTOS; a feasibility study | |
+| [[%ATTACHURL%/TUD-SERG-2010-041.pdf][TUD-SERG-2010-041]] | Markus Herrmannsdoerfer, [[Sander Vermolen][Sander D. Vermolen]], [[Guido Wachsmuth]] | An Extensive Catalog of Operators for the Coupled Evolution of Metamodels and Models | [[http://planet-sl.org/sle2010/][SLE 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-040.pdf][TUD-SERG-2010-040]] | [[Lennart Kats][Lennart C. L. Kats]], Karl T. Kalleberg, [[Eelco Visser]] | Interactive Disambiguation of Meta Programs with Concrete Object Syntax | [[http://planet-sl.org/sle2010/][SLE 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-039.pdf][TUD-SERG-2010-039]] | Abdelwahab Hamou-Lhadj, David Roethlisberger, Andy Zaidman, Orla Greevy | Proceedings of the 4th International Workshop on Program Comprehension through Dynamic Analysis | [[http://swerl.tudelft.nl/bin/view/PCODA/PCODA2010][PCODA 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-038.pdf][TUD-SERG-2010-038]] | Margaret-Anne Storey, Christoph Treude, Arie van Deursen, and Li-Te Cheng | The Impact of Social Media on Software Engineering Practices and Tools | [[http://fse18.cse.wustl.edu/callforpositionpapers.html][FOSER'10]] |
+| [[%ATTACHURL%/TUD-SERG-2010-037.pdf][TUD-SERG-2010-037]] | Frank Groeneveld, [[Ali Mesbah]], [[Arie van Deursen]] | Automatic Invariant Detection in Dynamic Web Applications |  |
+| [[%ATTACHURL%/TUD-SERG-2010-036.pdf][TUD-SERG-2010-036]] | Felienne Hermans, Martin Pinzger, Arie van Deursen | Supporting Professional Spreadsheet Users by Generating Leveled Dataflow Diagrams. | [[http://2011.icse-conferences.org/][ICSE 2011]] |
+| [[%ATTACHURL%/TUD-SERG-2010-035.pdf][TUD-SERG-2010-035]] | [[Andy Zaidman]], Bart Van Rompaey, [[Arie van Deursen]], Serge Demeyer | Studying the co-evolution of production and test code in open source and industrial developer test processes through repository mining | [[http://www.springer.com/computer/swe/journal/10664][EMSE]] |
+| [[%ATTACHURL%/TUD-SERG-2010-034.pdf][TUD-SERG-2010-034]] | [[ZefHemel][Zef Hemel]], [[Danny Groenewegen][Danny M. Groenewegen]], [[Lennart Kats][Lennart C.L. Kats]], [[Eelco Visser]] | Static Consistency Checking of Web Applications with WebDSL | Journal of Symbolic Computation |
+| [[%ATTACHURL%/TUD-SERG-2010-033.pdf][TUD-SERG-2010-033]] | [[Danny Groenewegen][Danny M. Groenewegen]], [[Eelco Visser]] | Integration of Data Validation and User Interface Concerns in a DSL for Web Applications | Software and Systems Modeling - Model-Driven Web Engineering 2010 |
+| [[%ATTACHURL%/TUD-SERG-2010-032.pdf][TUD-SERG-2010-032]] | Frank Mulder, [[Andy Zaidman]] | Identifying Cross-Cutting Concerns Using Software Repository Mining | [[http://soft.vub.ac.be/iwpse-evol/][IWPSE-EVOL 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-031.pdf][TUD-SERG-2010-031]] | [[CorPaulBezemer][Cor-Paul Bezemer]], [[Andy Zaidman]] | Multi-Tenant SaaS Applications: Maintenance Dream or Nightmare? | [[http://soft.vub.ac.be/iwpse-evol/][IWPSE-EVOL 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-030.pdf][TUD-SERG-2010-030]] | [[CorPaulBezemer][Cor-Paul Bezemer]], [[Andy Zaidman]], Bart Platzbeecker, Toine Hurkmans, Aad 't Hart | Enabling Multi-Tenancy: An Industrial Experience Report | [[http://icsm2010.upt.ro/][ICSM 2010 industrial track]] |
+| [[%ATTACHURL%/TUD-SERG-2010-029.pdf][TUD-SERG-2010-029]] | [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | The Spoofax Language Workbench | [[http://splashcon.org/][SPLASH 2010 (companion)]] |
+| [[%ATTACHURL%/TUD-SERG-2010-028.pdf][TUD-SERG-2010-028]] | [[Michaela Greiler][Michaela Greiler]], [[GerdGross][Hans Gerhard Gross]] , [[Arie van Deursen][Arie van Deursen]] | Understanding Plug-in Test Suites from an Extensibility Perspective | [[http://web.soccerlab.polymtl.ca/wcre2010/][WCRE'10]] |
+| TUD-SERG-2010-027 | [[Michaela Greiler][Michaela Greiler]], [[GerdGross][Hans Gerhard Gross]] , [[Arie van Deursen][Arie van Deursen]]| Evaluation of Online Testing for Services - A Case Study | [[http://www.s-cube-network.eu/PESOS][PESOS'10]] |
+| TUD-SERG-2010-026 | E. Piel, A. Gonzalez-Sanchez, H.-G. Gross | Built-In Data-Flow Integration Testing in Large-Scale Component-Based Systems | [[http://ictss2010.dimap.ufrn.br/ictss/][ICTSS'10]] |
+| [[%ATTACHURL%/TUD-SERG-2010-025.pdf][TUD-SERG-2010-025]] | Gonzalez-Sanchez, E. Piel, H.-G. Gross, A. v. Gemund | Runtime Testability in Dynamic High-Availability Component-Based Systems | [[http://www.iaria.org/conferences2010/VALID10.html][Valid'10]] |
+| TUD-SERG-2010-024 | A. Gonzalez-Sanchez, E. Piel, H.-G. Gross, A. v. Gemund | Minimising the Preparation Cost of Runtime Testing based on Testability Metrics | [[http://compsac.cs.iastate.edu/][COMPSAC'10]] |
+| TUD-SERG-2010-023 | A. Gonzalez-Sanchez, R. Piel, H.-G. Gross, A. v. Gemund | Prioritizing Tests for Software Fault Localization | [[http://www.nudt.edu.cn/qsic2010/][QSIC'10]] |
+| [[%ATTACHURL%/TUD-SERG-2010-022.pdf][TUD-SERG-2010-022]] | [[Anja Guzzi]], [[Martin Pinzger]] and [[Arie van Deursen]] | Combining Micro-Blogging and IDE Interactions to Support Developers in their Quests | [[http://icsm2010.upt.ro/][ICSM 2010]] ERA Track |
+| [[%ATTACHURL%/TUD-SERG-2010-021.pdf][TUD-SERG-2010-021]] | [[Anja Guzzi]], Martin Pinzger and [[Arie van Deursen]] | Combining Micro-Blogging and IDE Interactions to Support Developers in their Quests | long version of 2010-022 |
+| [[%ATTACHURL%/TUD-SERG-2010-020.pdf][TUD-SERG-2010-020]] | Sander van der Burg, Eelco Dolstra | Declarative Testing and Deployment of Distributed Systems | |
+| [[%ATTACHURL%/TUD-SERG-2010-019.pdf][TUD-SERG-2010-019]] | [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]], [[Guido Wachsmuth]] | Pure and Declarative Syntax Definition: Paradise Lost and Regained | [[http://onward-conference.org/][Onward! 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-018.pdf][TUD-SERG-2010-018]] | [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | Encapsulating Software Platform Logic by Aspect-Oriented Programming: A Case Study in Using Aspects for Language Portability | [[http://www2010.ieee-scam.org/][SCAM 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-017.pdf][TUD-SERG-2010-017]] | Martin Pinzger, Harald C. Gall | Dynamic Analysis of Communication and Collaboration in OSS Projects | [[http://www.springerlink.com/content/w40743/?p=853db6822cbe4fbd91573c4b2c6b0178&pi=0][Collaborative Software Engineering]] |
+| [[%ATTACHURL%/TUD-SERG-2010-016.pdf][TUD-SERG-2010-016]] | Patrick Knab, Martin Pinzger, Harald C. Gall | Visual Patterns in Software Process Data | [[http://icsp10.upb.de/][ICSP 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-015.pdf][TUD-SERG-2010-015]] | Emanuel Giger, Martin Pinzger | Predicting the Fix Time of Bugs | [[http://sites.google.com/site/rsseresearch/rsse2010][RSSE 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-014.pdf][TUD-SERG-2010-014]] | [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | The Spoofax Language Workbench. Rules for Declarative Specification of Languages and IDEs | [[http://splashcon.org/][SPLASH/OOPSLA 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-013.pdf][TUD-SERG-2010-013]] | Felienne Hermans, Martin Pinzger, Arie van Deursen | Automatically Extracting Class Diagrams from Spreadsheets | [[http://ecoop2010.uni-mb.si/][ECOOP'10]] |
+| [[%ATTACHURL%/TUD-SERG-2010-012.pdf][TUD-SERG-2010-012]] | Cor-Paul Bezemer, Andy Zaidman | Challenges of Reengineering into Multi-Tenant SaaS Applications | |
+| [[%ATTACHURL%/TUD-SERG-2010-011.pdf][TUD-SERG-2010-011]] | Alberto Gonzalez, Rui Abreu, Gerd Gross, Arjan van Gemund | Improving the Software Fault Localization Process through Testability Information | |
+| [[%ATTACHURL%/TUD-SERG-2010-10.pdf][TUD-SERG-2010-010]] | Eelco Visser | Performing Systematic Literature Reviews with Researchr: Tool Demonstration | |
+| [[%ATTACHURL%/TUD-SERG-2010-009.pdf][TUD-SERG-2010-009]] | Eric Bouwers, Carola Lilienthal, Joost Visser, Arie van Deursen | A Cognitive Model for Software Architecture Complexity | As short paper in [[http://icpc2010.di.uminho.pt/][ICPC 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-008.pdf][TUD-SERG-2010-008]] | Nick Matthijssen, Andy Zaidman, Margaret-Anne Storey, Ian Bull, Arie van Deursen | Connecting Traces: Understanding Client-Server Interactions in Ajax Applications | [[http://icpc2010.di.uminho.pt/][ICPC 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-007.pdf][TUD-SERG-2010-007]] | A. Gonzalez, R. Abreu, H.-G. Gross, A. v. Gemund | A Diagnostic Approach to Test Prioritization | |
+| [[%ATTACHURL%/TUD-SERG-2010-006.pdf][TUD-SERG-2010-006]] | Bart Luijten, Joost Visser | Faster Defect Resolution with Higher Technical Quality of Software | [[http://sqm2010.sig.eu/][SQM 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-005.pdf][TUD-SERG-2010-005]] | Arie van Deursen, Ali Mesbah, Bas Cornelissen, Andy Zaidman, Martin Pinzger, Anja Guzzi | Adinda: A Knowledgable, Browser-Based IDE | [[http://www.sbs.co.za/ICSE2010/3-EVENTS/_TRACKS/ICSE2010_NEW-EMERGING.html][ICSE NIER'10]] |
+| [[%ATTACHURL%/TUD-SERG-2010-004.pdf][TUD-SERG-2010-004]] | Bart Luijten, Joost Visser, [[Andy Zaidman]] | Assessment of Issue Handling Efficiency | [[http://msr.uwaterloo.ca/msr2010/index.html][MSR 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-003.pdf][TUD-SERG-2010-003]] | [[Eric Bouwers]], [[Arie van Deursen]] | A Light-weight Sanity Check for Implemented Architectures | [[http://www.computer.org/portal/web/software/home][IEEE Software]]|
+| [[%ATTACHURL%/TUD-SERG-2010-002.pdf][TUD-SERG-2010-002]] | Michele Lanza, Lile Hattori, [[Anja Guzzi]] | Supporting Collaboration Awareness with Real-time Visualization of Development Activity | [[http://www.sait.escet.urjc.es/csmr2010/][CSMR 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2010-001.pdf][TUD-SERG-2010-001]] | [[Khalid Adam Nasr]], Hans-Gerhard Gross and [[Arie van Deursen]] | Adopting and Evaluating Service Oriented Architecture in Industry | [[http://www.sait.escet.urjc.es/csmr2010/][CSMR 2010]] |
+
+---++ 2009
+
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2009-034.pdf][TUD-SERG-2009-034]] | Alberto Gonzalez and Eric Piel and Hans-Gerhard Gross and Arjan van Gemund | Prioritizing Tests for Software Fault Localization | [[http://www.nudt.edu.cn/qsic2010][QSIC2010]] |
+| [[%ATTACHURL%/TUD-SERG-2009-033.pdf][TUD-SERG-2009-033]] | Paul Taverne and C. (Kees) Pronk | RAFFS: Model Checking a Robust Abstract File Store | [[http://icfem09.inf.puc-rio.br/ICFEM.html][ICFEM2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-032.pdf][TUD-SERG-2009-032]] | [[Arie van Deursen]] and [[Ali Mesbah]] | Research Issues in th Automated Testing of Ajax Applications | [[http://www.sofsem.cz/sofsem10/index.php][SOFSEM 2010]]|
+| [[%ATTACHURL%/TUD-SERG-2009-031.pdf][TUD-SERG-2009-031]] | Patrick Knab, Harald C. Gall, [[MartinPinzger][Martin Pinzger]] | Smart Views for Analyzing Problem Reports: Tool Demo | [[http://www.esec-fse-2009.ewi.tudelft.nl/][ESEC/FSE 2009]]|
+| [[%ATTACHURL%/TUD-SERG-2009-030.pdf][TUD-SERG-2009-030]] | Patrick Knab, Beat Fluri, Harald C. Gall, [[MartinPinzger][Martin Pinzger]] | Interactive Views for Analyzing Problem Reports | [[http://icsm2009.cs.ualberta.ca/][ICSM 2009]]|
+| [[%ATTACHURL%/TUD-SERG-2009-029.pdf][TUD-SERG-2009-029]] | [[Michaela Greiler][Michaela Greiler]], [[GerdGross][Hans Gerhard Gross]] , [[Arie van Deursen][Arie van Deursen]]| Online Testing of Service-Oriented Architectures to detect State-based Faults | [[http://www.ceur-ws.org][CEUR-WS]]|
+| [[%ATTACHURL%/TUD-SERG-2009-028.pdf][TUD-SERG-2009-028]] | Danny Roest, [[Ali Mesbah]] , [[Arie van Deursen]]| Regression Testing Ajax Applications: Coping with Dynamism | [[http://vps.it-sudparis.eu/icst2010/][ICST 2010]] |
+| [[%ATTACHURL%/TUD-SERG-2009-026.pdf][TUD-SERG-2009-026]] | [[Danny Groenewegen][Danny M. Groenewegen]], [[Eelco Visser]] | Integration of Data Validation and User Interface Concerns in a DSL for Web Applications | [[http://planet-sl.org/sle2009/][SLE 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-025.pdf][TUD-SERG-2009-025]] | [[Zef Hemel]], [[Eelco Visser]] | PIL: A Platform Independent Language for Retargetable DSLs | [[http://planet-sl.org/sle2009/][SLE 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-024.pdf][TUD-SERG-2009-024]] | [[Maartje de Jonge]], Emma Nilsson-Nyman, [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | Natural and Flexible Error Recovery for Generated Parsers| [[http://planet-sl.org/sle2009/][SLE 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-023.pdf][TUD-SERG-2009-023]] | [[Cathal Boogerd]], [[Martin Pinzger]] and [[Leon Moonen]] | Using Software History to Guide Application of Coding Standards |  |
+| [[%ATTACHURL%/TUD-SERG-2009-022.pdf][TUD-SERG-2009-022]] | [[Cathal Boogerd]] and [[Leon Moonen]] | Supporting Software Inspection with Static Profiling |  |
+| [[%ATTACHURL%/TUD-SERG-2009-021.pdf][TUD-SERG-2009-021]] | [[Danny Groenewegen][Danny M. Groenewegen]], [[Eelco Visser]] | Weaving Web Applications with WebDSL (Demonstration) | [[http://www.oopsla.org/oopsla2009/][OOPSLA 2009 (companion)]] |
+| [[%ATTACHURL%/TUD-SERG-2009-020.pdf][TUD-SERG-2009-020]] | [[Lennart Kats][Lennart C. L. Kats]], [[Maartje de Jonge]], Emma Nilsson-Nyman, [[Eelco Visser]] | Providing Rapid Feedback in Generated Modular Language Environments. Adding Error Recovery to Scannerless Generalized-LR Parsing | [[http://www.oopsla.org/oopsla2009/][OOPSLA 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-019.pdf][TUD-SERG-2009-019]] | Michiel de Wit, [[Andy Zaidman]], [[Arie van Deursen]] | Managing Code Clones Using Dynamic Change Tracking and Resolution | [[http://icsm2009.cs.ualberta.ca/][ICSM 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-018.pdf][TUD-SERG-2009-018]] | [[Eric Bouwers]], Joost Visser, [[Arie van Deursen]] | Criteria for the Evaluation of Implemented Architectures | [[http://icsm2009.cs.ualberta.ca/][ICSM 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-017.pdf][TUD-SERG-2009-017]] | Teemu Kanstrén, [[Eric Piel]], [[Gerd Gross]] | Trace-Based Code Generation for Model-Based Testing |  |
+| [[%ATTACHURL%/TUD-SERG-2009-016.pdf][TUD-SERG-2009-016]] | [[Alberto Gonzalez]], [[Eric Piel]], [[Gerd Gross]] | RiTMO: Runtime Testability Measurement and Optimisation | As short paper in [[http://home.ewha.ac.kr/~bjchoi/conference/QSIC2009/][QSIC 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-015.pdf][TUD-SERG-2009-015]] | Zeeger Lubsen, [[Andy Zaidman]], [[Martin Pinzger]] | Using Association Rules to Study the Co-evolution of Production & Test Code | [[http://msr.uwaterloo.ca/msr2009/index.html][MSR 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-014.pdf][TUD-SERG-2009-014]] | Zeeger Lubsen, [[Andy Zaidman]], [[Martin Pinzger]] | Studying Co-evolution of Production & Test Code Using Association Rule Mining | long version of 2009-015 |
+| [[%ATTACHURL%/TUD-SERG-2009-013.pdf][TUD-SERG-2009-013]]  | [[Felienne Hermans]], Martin Pinzger, Arie van Deursen | Domain-Specific Languages in Practice: A User Study on the Success Factors | MODELS 2010 |
+| [[%ATTACHURL%/TUD-SERG-2009-012.pdf][TUD-SERG-2009-012]] | Teemu Kanstrén, [[Eric Piel]], [[Gerd Gross]] | Observation-Based Modeling for Model-Based Testing |  |
+| [[%ATTACHURL%/TUD-SERG-2009-011.pdf][TUD-SERG-2009-011]] | Cor-Paul Bezemer, [[Ali Mesbah]], [[Arie van Deursen]] | Automated Security Testing of Web Widget Interactions | [[http://www.esec-fse-2009.ewi.tudelft.nl/][ESEC/FSE 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-010.pdf][TUD-SERG-2009-010]] | [[Michaela Greiler]], [[Gerd Gross]], [[Khalid Adam Nasr]] | Runtime Integration and Testing for Highly Dynamic Service Oriented ICT Solutions -- An Industry Challenges Report |  |
+| [[%ATTACHURL%/TUD-SERG-2009-009.pdf][TUD-SERG-2009-009]] | [[Alberto Gonzalez]], [[Eric Piel]], [[Gerd Gross]], [[Arjan van Gemund]] | Runtime Testability in Dynamic Highly Available Component-based Systems |  |
+| [[%ATTACHURL%/TUD-SERG-2009-008.pdf][TUD-SERG-2009-008]] | [[Cathal Boogerd]] and [[Leon Moonen]] | Evaluating the Relation Between Coding Standard Violations and Faults Within and Across Software Versions | [[http://msr.uwaterloo.ca/msr2009/index.html][MSR 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-007.pdf][TUD-SERG-2009-007]] | [[Alberto Gonzalez]], [[Eric Piel]], [[Gerd Gross]] | A Model for the Measurement of the Runtime Testability of Component-based Systems | [[http://amost09.ist.tugraz.at/][A-MOST 2009]] |
+| TUD-SERG-2009-006 | [[Rui Abreu]], [[Peter Zoeteweij]], [[Arjan van Gemund]] | Spectrum-based Multiple Fault Localization | |
+| [[%ATTACHURL%/TUD-SERG-2009-005.pdf][TUD-SERG-2009-005]] | [[Ali Mesbah]], [[Arie van Deursen]] | Invariant-Based Automatic Testing of Ajax User Interfaces | [[http://www.cs.uoregon.edu/events/icse2009/research/][ICSE 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-004.pdf][TUD-SERG-2009-004]] | Anthony M. Sloane, [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | A Pure Object-Oriented Embedding of Attribute Grammars | [[http://www.ldta.info/][LDTA 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-003.pdf][TUD-SERG-2009-003]] | [[Lennart Kats][Lennart C. L. Kats]], Karl T. Kalleberg, [[Eelco Visser]] | Domain-Specific Languages for Composable Editor Plugins | [[http://www.ldta.info/][LDTA 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2009-002.pdf][TUD-SERG-2009-002]] | Marco Glorie, [[Andy Zaidman]], [[Arie van Deursen]], Lennart Hofland | Splitting a Large Software Repository for Easing Future Software Evolution - An Industrial Experience Report | [[http://dx.doi.org/10.1002/smr.401][JSME]] |
+| [[%ATTACHURL%/TUD-SERG-2009-001.pdf][TUD-SERG-2009-001]] | [[Bas Cornelissen]], [[Andy Zaidman]], Bart Van Rompaey, [[Arie van Deursen]] | Trace Visualization for Program Comprehension: a Controlled Experiment | [[http://icpc.csi.muohio.edu/][ICPC 2009]], [[http://www.computer.org/tse/][TSE]] |
+
+---++ 2008
+
+| *Report ID* | *Author(s)* | *Title* | *Appeared in* |
+| [[%ATTACHURL%/TUD-SERG-2008-043.pdf][TUD-SERG-2008-043]] | Martin Bravenboer, Eelco Visser | Parse Table Composition. Separate Compilation and Binary Extensibility of Grammars | SLE 2008 |
+| [[%ATTACHURL%/TUD-SERG-2008-042.pdf][TUD-SERG-2008-042]] | Martin Bravenboer, Eelco Visser | Designing Syntax Embeddings and Assimilations for Language Libraries | ATEM 2007 |
+| [[%ATTACHURL%/TUD-SERG-2008-041.pdf][TUD-SERG-2008-041]] | [[Arjan van Gemund]], [[Rui Abreu]], [[Peter Zoeteweij]] | Diagnosing Intermittent Faults | |
+| [[%ATTACHURL%/TUD-SERG-2008-040.pdf][TUD-SERG-2008-040]] | [[Danny Groenewegen][Danny M. Groenewegen]], [[Zef Hemel]], [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | WebDSL: A Domain-Specific Language for Dynamic Web Applications | [[http://www.oopsla.org/oopsla2008/][OOPSLA 2008 (companion)]] |
+| [[%ATTACHURL%/TUD-SERG-2008-039.pdf][TUD-SERG-2008-039]] | [[Danny Groenewegen][Danny M. Groenewegen]], [[Zef Hemel]], [[Lennart Kats][Lennart C. L. Kats]], [[Eelco Visser]] | When Frameworks Let You Down. Platform-Imposed Constraints on the Design and Evolution of Domain-Specific Languages| [[http://www.dsmforum.org/events/DSM08/][DSM'08]] |
+| <a name="2008-038"></a><a name="2008-038a"></a> [[%ATTACHURL%/TUD-SERG-2008-038a.pdf][TUD-SERG-2008-038a]] | [[Lennart Kats][Lennart C. L. Kats]], Anthony M. Sloane, [[Eelco Visser]] | Decorated Attribute Grammars. Attribute Evaluation meets Strategic Programming| [[http://www.brics.dk/~mis/CC2009/][CC 2009]] |
+| [[%ATTACHURL%/TUD-SERG-2008-037.pdf][TUD-SERG-2008-037]] | Gerardo de Geest, [[Sander Vermolen]], [[Arie van Deursen]], [[Eelco Visser]] | Generating Version Convertors for Domain-Specific Languages | [[http://swerl.tudelft.nl/wcre2008/index.html][WCRE'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-036.pdf][TUD-SERG-2008-036]]  | [[Andy Zaidman]], Abdelwahab Hamou-Lhadj, Orla Greevy, David Roethlisberger | Proceedings of the 4th International Workshop on Program Comprehension  | [[http://swerl.tudelft.nl/bin/view/PCODA/PCODA2008][PCODA 2008]] | 
+| [[%ATTACHURL%/TUD-SERG-2008-035.pdf][TUD-SERG-2008-035]] | Bram Adams, Kris De Schutter, [[Andy Zaidman]], Serge Demeyer, Herman Tromp, Wolfgang De Meuter | Using Aspect Orientation in Legacy Environments for Reverse Engineering using Dynamic Analysis - An Industrial Experience Report | [[http://www.elsevier.com/locate/jss][JSS]] |
+| [[%ATTACHURL%/TUD-SERG-2008-034.pdf][TUD-SERG-2008-034]] | Bart Van Rompaey, [[Andy Zaidman]], [[Arie van Deursen]], Serge Demeyer | Comparing the co-evolution of production and test code in open source and industrial developer test processes through repository mining | |
+| [[%ATTACHURL%/TUD-SERG-2008-033.pdf][TUD-SERG-2008-033]] | [[Bas Cornelissen]], [[Andy Zaidman]], [[Arie van Deursen]], [[Leon Moonen]], Rainer Koschke | A Systematic Survey of Program Comprehension through Dynamic Analysis | TSE 2009 |
+| [[%ATTACHURL%/TUD-SERG-2008-032.pdf][TUD-SERG-2008-032]]| [[Marco Lormans]], [[Arie van Deursen]], [[Gerd Gross]] | An Industrial Case Study in Reconstructing Requirements Views | [[http://www.springerlink.com/content/100262/][EMSE]] |
+| [[%ATTACHURL%/TUD-SERG-2008-031.pdf][TUD-SERG-2008-031]]| [[AndyZaidman][Andy Zaidman]], Serge Demeyer | Automatic Identification of Key Classes in a Software System Using Webmining Techniques | [[http://www3.interscience.wiley.com/journal/120775639/abstract][JSME]] |
+| [[%ATTACHURL%/TUD-SERG-2008-030.pdf][TUD-SERG-2008-030]] | [[LennartKats][Lennart C. L. Kats]], Martin Bravenboer, [[Eelco Visser]] | Mixing Source and Bytecode. A Case for Compilation by Normalization. | [[http://www.oopsla.org/oopsla2008/][OOPSLA 2008]] |
+| [[%ATTACHURL%/TUD-SERG-2008-029.pdf][TUD-SERG-2008-029]] | [[Zef Hemel]], Ruben Verhaaf, [[Eelco Visser]] | WebWorkFlow: An Object-Oriented Work&#64258;ow Modeling Language for Web Applications | [[http://www.modelsconference.org/][MODELS 2008]] |
+| [[%ATTACHURL%/TUD-SERG-2008-028.pdf][TUD-SERG-2008-028]] | [[Sander Vermolen]], [[Eelco Visser]] | Heterogeneous Coupled Evolution of Software Languages | [[http://www.modelsconference.org/][MODELS 2008]] |
+| [[%ATTACHURL%/TUD-SERG-2008-027.pdf][TUD-SERG-2008-027]] | [[Alberto Gonzalez]], [[Eric Piel]], [[Gerd Gross]] | Testing Challenges of Maritime Safety and Security Systems-of-Systems | [[http://www.taicpart.org][TAIC PART 2008]] |
+| [[%ATTACHURL%/TUD-SERG-2008-026.pdf][TUD-SERG-2008-026]] | Rahmat Adnan, Bas Graaf, Arie van Deursen, and Joost Zonneveld | Using Cluster Analysis to Improve the Design of Component Interfaces | Short version in [[http://www.di.univaq.it/ase2008/][ASE '08]]  |
+| [[%ATTACHURL%/TUD-SERG-2008-025.pdf][TUD-SERG-2008-025]] | [[Engin Bozdag]] and [[Arie van Deursen]] | An Adaptive Push/Pull Algorithm for AJAX Applications  | [[http://wise.vub.ac.be/aewse2008//][AEWSE '08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-024.pdf][TUD-SERG-2008-024]] | Vahid Gharavi, [[Ali Mesbah]], and [[Arie van Deursen]] | Modelling and Generating Ajax Applications: A Model-Driven Approach | [[http://liihs.irit.fr/iwwost2008/][IWWOST '08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-023.pdf][TUD-SERG-2008-023]] | [[EelcoVisser.WebHome][Eelco Visser]] | WebDSL: A Case Study in Domain-Specific Language Engineering | GTTSE'07 |
+| [[%ATTACHURL%/TUD-SERG-2008-022.pdf][TUD-SERG-2008-022]] | [[Ali Mesbah]], [[Engin Bozdag]], and [[Arie van Deursen]] | Crawling Ajax by Inferring User Interface State Changes | [[http://icwe2008.webengineering.org/][ICWE'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-021.pdf][TUD-SERG-2008-021]] | [[Danny Groenewegen][Danny M. Groenewegen]] and [[EelcoVisser.WebHome][Eelco Visser]] | Declarative Access Control for WebDSL: Combining Language Integration and Separation of Concerns | [[http://icwe2008.webengineering.org/][ICWE'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-020.pdf][TUD-SERG-2008-020]] | C. Bunse, H.-G. Gross, C.Peper  | Embedded System Construction -- Evaluation of a Model-Driven and Component-Based Development Approach | ESMDE 2008 |
+| [[%ATTACHURL%/TUD-SERG-2008-019.pdf][TUD-SERG-2008-019]] | [[Rui Abreu]], [[Peter Zoeteweij]], [[Arjan van Gemund]] | An Observation-based Model for Fault Localization | WODA'08 |
+| TUD-SERG-2008-018 | [[Rui Abreu]], [[Peter Zoeteweij]], [[Arjan van Gemund]] | Localizing Multiple Faults in Software | |
+| [[%ATTACHURL%/TUD-SERG-2008-017.pdf][TUD-SERG-2008-017]] | [[Cathal Boogerd]] and [[Leon Moonen]] | Assessing the Value of Coding Standards: An Empirical Study | [[http://www.icsm2008.org/][ICSM'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-016.pdf][TUD-SERG-2008-016]] | [[Bas Cornelissen]], [[Leon Moonen]], and [[Andy Zaidman]] | An Assessment Methodology for Trace Reduction Techniques | [[http://www.icsm2008.org/][ICSM'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-015.pdf][TUD-SERG-2008-015]] | [[Alberto Gonzalez]], [[Eric Piel]], [[Gerd Gross]] | Reducing the Runtime Acceptance Costs of Large-Scale Distributed Component-Based Systems |   |
+| [[%ATTACHURL%/TUD-SERG-2008-014.pdf][TUD-SERG-2008-014]] | [[Rui Abreu]], [[Peter Zoeteweij]], [[Arjan van Gemund]] | Techniques for Diagnosing Software Faults |  |
+| [[%ATTACHURL%/TUD-SERG-2008-013.pdf][TUD-SERG-2008-013]] | [[Ali Mesbah]], [[Arie van Deursen]] | A Component- and Push-based Architectural Style for Ajax Applications | [[http://www.elsevier.com/locate/jss][JSS]] |
+| [[%ATTACHURL%/TUD-SERG-2008-012.pdf][TUD-SERG-2008-012]] | [[Zef Hemel]], [[LennartKats][Lennart C. L. Kats]], and [[EelcoVisser.WebHome][Eelco Visser]] | Code Generation by Model Transformation | ICMT'08 |
+|[[%ATTACHURL%/TUD-SERG-2008-011.pdf][TUD-SERG-2008-011]] | M. Bravenboer, K. T. Kalleberg, R. Vermaas, and [[EelcoVisser.WebHome][Eelco Visser]] | Stratego/XT 0.17. A Language and Toolset for Program Transformation | SCP | 
+|[[%ATTACHURL%/TUD-SERG-2008-010.pdf][TUD-SERG-2008-010]] | Robin van der Rijst, Marius Marin, and Arie van Deursen | Sort-Based Refactoring of Crosscutting Concerns to Aspects | [[http://aosd.net/workshops/late/2008/][LATE'08]] |
+|[[%ATTACHURL%/TUD-SERG-2008-009.pdf][TUD-SERG-2008-009]] | [[Engin Bozdag]], [[Ali Mesbah]], [[Arie van Deursen]] | Performance Testing of Data Delivery Techniques for AJAX Applications | [[http://www.rintonpress.com/journals/jweonline.html][JWE]] |
+| [[%ATTACHURL%/TUD-SERG-2008-008.pdf][TUD-SERG-2008-008]] | [[Bas Cornelissen]], [[Andy Zaidman]], Danny Holten, [[Leon Moonen]], [[Arie van Deursen]], Jarke J. van Wijk | Execution Trace Analysis through Massive Sequence and Circular Bundle Views | [[http://www.elsevier.com/locate/jss][JSS]] |
+| [[%ATTACHURL%/TUD-SERG-2008-007.pdf][TUD-SERG-2008-007]] | [[Alberto Gonzalez]], [[Eric Piel]], [[Gerd Gross]] | Architecture Support for Runtime Integration and Verification of Component-based Systems of Systems | [[http://www.selab.isti.cnr.it/Aramis2008][ARAMIS'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-006.pdf][TUD-SERG-2008-006]] | [[LennartKats][Lennart C. L. Kats]],  Karl T. Kalleberg, [[EelcoVisser.WebHome][Eelco Visser]] | Generating Editors for Embedded Languages | LDTA'08 |
+| [[%ATTACHURL%/TUD-SERG-2008-005.pdf][TUD-SERG-2008-005]] | [[Bas Cornelissen]], [[Leon Moonen]] | On Large Execution Traces and Trace Abstraction Techniques | | 
+| [[%ATTACHURL%/TUD-SERG-2008-004.pdf][TUD-SERG-2008-004]] | Marco Glorie, [[Andy Zaidman]], Lennart Hofland, [[Arie van Deursen]] | Splitting a Large Software Archive for Easing Future Software Evolution &#8212; An Industrial Experience Report using Formal Concept Analysis| [[http://csmr2008.uwaterloo.ca/][CSMR'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-003.pdf][TUD-SERG-2008-003]] | [[Andy Zaidman]], Bart Van Rompaey, Serge Demeyer, [[Arie van Deursen]] | Mining Software Repositories to Study Co-Evolution of Production & Test Code | [[http://www.cs.colostate.edu/icst2008/][ICST'08]] |
+| [[%ATTACHURL%/TUD-SERG-2008-002.pdf][TUD-SERG-2008-002]] | [[Rui Abreu]], [[Alberto Gonzalez]], [[Peter Zoeteweij]], [[Arjan van Gemund]] | On the Performance of Fault Screeners in Software Development and Deployment | ENASE'08 | 
+| [[%ATTACHURL%/TUD-SERG-2008-001.pdf][TUD-SERG-2008-001]] | [[Ali Mesbah]], [[Arie van Deursen]] | Exposing the Hidden-Web Induced by Ajax |  |
+
+---++ 2007
+
+| *Report ID* | *Author(s)* | *Title* | *Appeared as* |
+| [[%ATTACHURL%/TUD-SERG-2007-025.pdf][TUD-SERG-2007-025]] | Karl Trygve Kalleberg, [[EelcoVisser.WebHome][Eelco Visser]] | Fusing a Transformation Language with an Open Compiler | [[http://www.di.uminho.pt/ldta07/][LDTA'07]] |
+| [[%ATTACHURL%/TUD-SERG-2007-024.pdf][TUD-SERG-2007-024]] | Bas Cornelissen | Dynamic Analysis Techniques for the Reconstruction of Architectural Views | [[http://www.rcost.unisannio.it/wcre2007/][WCRE 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-023.pdf][TUD-SERG-2007-023]] | Leon Moonen, Spiros Mancoridis | Proceedings of the 3rd International Workshop on Code Based Software Security Assessments | [[http://swerl.tudelft.nl/leon/cobassa2007/][CoBaSSA 2007]] |
+| [[%ATTACHURL%/PCODA2007proceedings.pdf][TUD-SERG-2007-022]]  | Andy Zaidman, Abdelwahab Hamou-Lhadj, Orla Greevy | Proceedings of the 3rd International Workshop on Program Comprehension | [[PCODA 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-021.pdf][TUD-SERG-2007-021]] | Bas Graaf and Arie van Deursen | Using MDE for Generic Comparison of Views | [[http://www.modeva.org/2007/][MoDeVVa 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-020.pdf][TUD-SERG-2007-020]] | Christian Bunse, Hans-Gerhard Gross, Christian Peper | Applying a Model-Based Approach for Embedded System Development | [[http://em2007.uni-kl.de/welcome.shtml][SEAA 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-019.pdf][TUD-SERG-2007-019]] | Marius Marin, Leon Moonen, Arie van Deursen | An Integrated Crosscutting Concern Migration Strategy and its Application to <nop>JHotDraw | SCAM'07 |
+| [[%ATTACHURL%/TUD-SERG-2007-018.pdf][TUD-SERG-2007-018]] | Karl T. Kalleberg, [[EelcoVisser.WebHome][Eelco Visser]] | Spoofax: An Extensible, Interactive Development Environment for Program Transformation with Stratego/XT | LDTA'07 |
+| [[%ATTACHURL%/TUD-SERG-2007-017.pdf][TUD-SERG-2007-017]] | [[EelcoVisser.WebHome][Eelco Visser]] | Domain-Specific Language Engineering (Mark I) | [[http://wiki.di.uminho.pt/wiki/bin/view/GTTSE2007/WebHome][GTTSE'07]] |
+| [[%ATTACHURL%/TUD-SERG-2007-016.pdf][TUD-SERG-2007-016]] | Engin Bozdag, Ali Mesbah, Arie van Deursen | A Comparison of Push and Pull Techniques for AJAX | WSE'07 |
+| [[%ATTACHURL%/TUD-SERG-2007-015.pdf][TUD-SERG-2007-015]] | Hans-Gerhard Gross, Marco Lormans, Jun Zhou | Reformulating Component Procurement as Document Analysis Problem | [[http://www.icsoft.org][ICSOFT 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-014.pdf][TUD-SERG-2007-014]] | Hans Wasmus, Hans-Gerhard Gross | Evaluation of Test-Driven Development | [[http://www.enase.org][ENASE 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-013.pdf][TUD-SERG-2007-013]] | Danny Holten, Bas Cornelissen, Jarke J. van Wijk | Trace Visualization Using Hierarchical Edge Bundles and Massive Sequence Views | [[http://www.program-comprehension.org/vissoft07/][VISSOFT 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-012.pdf][TUD-SERG-2007-012]] | Andy Zaidman, Bart Van Rompaey, Serge Demeyer, Arie van Deursen | On How Developers Test Open Source Software Systems | |
+| [[%ATTACHURL%/TUD-SERG-2007-011.pdf][TUD-SERG-2007-011]] | Alex Feldman, Greg Provan, Arjan van Gemund | On the performance of SAFARI algorithms | |
+| [[%ATTACHURL%/TUD-SERG-2007-010.pdf][TUD-SERG-2007-010]] | Marius Marin, Leon Moonen, Arie van Deursen | Documenting Typical Crosscutting Concerns | WCRE'07 |
+| [[%ATTACHURL%/TUD-SERG-2007-009.pdf][TUD-SERG-2007-009]] | Bas Cornelissen, Danny Holten, Andy Zaidman, Leon Moonen, Jarke J. van Wijk, and Arie van Deursen | Understanding Execution Traces Using Massive Sequence and Circular Bundle Views | [[http://www.cs.ualberta.ca/icpc2007/][ICPC 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-008.pdf][TUD-SERG-2007-008]] | W. Ridderhof, H.-G. Gross, and H. Doerr | Establishing Evidence for Safety Cases in Automotive Systems | [[http://www11.informatik.uni-erlangen.de/safecomp2007][SafeComp 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-007.pdf][TUD-SERG-2007-007]] | Marco Lormans, Arie van Deursen | _Reconstructing Requirements Traceability in Design and Test Using Latent Semantic Indexing_ | |
+| [[%ATTACHURL%/TUD-SERG-2007-006.pdf][TUD-SERG-2007-006]] | Arie van Deursen, Eelco Visser, Jos Warmer | _Model-Driven Software Evolution: A Research Agenda_ | [[http://www.sciences.univ-nantes.fr/MoDSE2007/][CSMR/MODSE]] |
+| [[%ATTACHURL%/TUD-SERG-2007-005.pdf][TUD-SERG-2007-005]] | Marius Marin, Leon Moonen, Arie van Deursen | _SoQueT: Query-Based Documentation of Crosscutting Concerns_ | [[http://web4.cs.ucl.ac.uk/icse07/][ICSE 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-004.pdf][TUD-SERG-2007-004]] | Eric Bouwers, Martin Bravenboer, Eelco Visser | _Grammar Engineering Support for Precedence Rule Recovery and Compatibility Checking_ | [[http://www.di.uminho.pt/ldta07/][LDTA 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-003.pdf][TUD-SERG-2007-003]] | Martin Bravenboer, Eelco Dolstra, Eelco Visser | _Preventing Injection Attacks with Syntax Embeddings -- A Host and Guest Language Independent Approach_ | [[http://www.hope.cs.rice.edu/twiki/bin/view/GPCE07][GPCE 2007]] |
+| [[%ATTACHURL%/TUD-SERG-2007-002.pdf][TUD-SERG-2007-002]] | H.-G. Gross, M. Lormans, J. Zhou | _Towards Software Component Procurement Automation_ | WCAT 2006 |
+| [[%ATTACHURL%/TUD-SERG-2007-001.pdf][TUD-SERG-2007-001]] | Magiel Bruntink, Arie van Deursen, Maja d'Hondt, Tom Tourwe | _Simple Crosscutting Concerns are not so Simple_ | [[http://www.aosd.net/2007/][AOSD 2007]] |
+
+---++ 2006
+
+| *Report ID* | *Author(s)* | *Title* | *Appeared as* |
+| [[%ATTACHURL%/TUD-SERG-2006-020a.pdf][TUD-SERG-2006-020a]] | Bas Graaf, Sven Weber, Arie van Deursen | _Model-driven Migration of Supervisory Machine Control Architectures_ | JSS 2007, extended from CSMR 2006 |
+| [[%ATTACHURL%/TUD-SERG-2006-019a.pdf][TUD-SERG-2006-019a]] | Bas Graaf, Arie van Deursen | _Visualisation of Domain-Specific Modelling Languages Using UML_ | [[http://www.ece.arizona.edu/~ecbs07/][ECBS 2007]] |
+| [[http://arxiv.org/abs/cs.SE/0610094][TUD-SERG-2006-018]] | Ali Mesbah, Arie van Deursen |_Migrating Multi-page Web Applications to Single-page AJAX Interfaces_ | CSMR 2007 |
+| [[%ATTACHURL%/TUD-SERG-2006-017.pdf][TUD-SERG-2006-017]] | A. Seesing, H.-G. Gross | _A Genetic Programming Approach to Automated Test Generation for Object-Oriented Software_ | <nop>NetObject Days |
+| [[http://arxiv.org/abs/cs.SE/0608111][TUD-SERG-2006-016]] | Ali Mesbah, Arie van Deursen |_An Architectural Style for AJAX_ | WICSA 2007 |
+| [[%ATTACHURL%/TUD-SERG-2006-014.pdf][TUD-SERG-2006-014]] | Marco Lormans, Hans-Gerhard Gross, Arie van Deursen, Rini van Solingen, Andre Stehouwer | _Monitoring Requirements Coverage using Reconstructed Views: An Industrial Case Study_ | WCRE 2006 |
+| [[http://arxiv.org/abs/cs.SE/0609147][TUD-SERG-2006-013]] | Marius Marin, Leon Moonen, Arie van Deursen | _Identifying Crosscutting Concerns Using Fan-in Analysis_ | TOSEM 2007 |
+| [[http://swerl.tudelft.nl/techreports/TUD-SERG-2006-012.pdf][TUD-SERG-2006-012]] | Silvia Breu, Leon Moonen, Magiel Bruntink and Jens Krinke | _Proceedings First International Workshop Towards Evaluation of Aspect Mining: TEAM 2006_ | TEAM 2006 |
+| [[http://arxiv.org/abs/cs.SE/0606125][TUD-SERG-2006-010]] | Marius Marin | _Formalizing Typical Crosscutting Concerns_ | |
+| [[http://arxiv.org/abs/cs.SE/0606113][TUD-SERG-2006-009]] | Marius Marin, Leon Moonen, Arie van Deursen | _A common framework for aspect mining based on crosscutting concern sorts_ | WCRE 2006 |
+| [[http://swerl.tudelft.nl/techreports/TUD-SERG-2006-008.pdf][TUD-SERG-2006-008]] | Hans Spanjers, Maarten ter Huurne, Dan Bendas, Bas Graaf, Marco Lormans, Rini van Solingen  | _Tool Support for Distributed Software Engineering_ | ICGSE 2006 |
+| [[http://arxiv.org/abs/cs.SE/0607116][TUD-SERG-2006-007]] | Rui Abreu, Peter Zoeteweij, Arjan J. C. van Gemund | _Program Spectra Analysis in Embedded Software: A Case Study_ | ASCI 2006 |
+| [[%ATTACHURL%/TUD-SERG-2006-006.pdf][TUD-SERG-2006-006]] | Marco Lormans and Arie van Deursen | _Can LSI help Reconstructing Requirements Traceability in Design and Test?_ | CSMR 2006 |
+| [[%ATTACHURL%/TUD-SERG-2006-004.pdf][TUD-SERG-2006-004]] | Thijs Reus, Hans Geers, Arie van Deursen | _Harvesting Software Systems for MDA-Based Reengineering_ | ECMDA-FA 2006 |
+| [[%ATTACHURL%/TUD-SERG-2006-003.pdf][TUD-SERG-2006-003]] | Bas Cornelissen, Arie van Deursen, Leon Moonen, Andy Zaidman | _Visualizing Testsuites to Aid in Software Understanding_ | CSMR 2007 |
+| [[http://arxiv.org/abs/cs.SE/0607006][TUD-SERG-2006-002]] | Mariano Ceccato, Marius Marin, Kim Mens, Leon Moonen, Paolo Tonella, Tom Tourwe | _Applying and Combining Three Different Aspect Mining Techniques_ | IWPC 2005, extended for SQJ 2006 |
+| [[http://arxiv.org/abs/cs.SE/0607063][TUD-SERG-2006-001]] | Cathal Boogerd, Leon Moonen | _Prioritizing Software Inspection Results using Static Profiling_ | SCAM 2006 | 
+
+</noautolink>
+

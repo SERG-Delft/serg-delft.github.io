@@ -245,7 +245,7 @@ Voind
 | Wim van Gool        | 2006  | 2007 | Leon Moonen                                     | InfoSupport                                       | [Java Path Profiling to Assess the Quality of Unit Tests based on Test Case Isomorphism](masterThesisPDFs/MScThesisWimVanGool.pdf)       |
 | Maikel Lobbezoo     | 2007  | 2008 | Ali Mesbah                                      | Guerrilla Games                                   | Performance and Scalability constraints of Ajax-Based Web Applications                                                                 |
 | Bastiaan Pierhagen  | 2006  | 2008 | Andy Zaidman                                    | InfoSupport                                       | [Applying Frameworks to Increase Productivity For Small Application Development        ](masterThesisPDFs/thesis_BastiaanPierhagen.pdf)  |
-| Robin van der Rijst | 2006  | 2008 | Marius Marin, Arie van Deursen                  | SWERL                                             | [Tool Support for Automatic Migration to Aspect-Oriented Programming                   ](http://swerl.tudelft.nl/bin/view/AMR/SAIR)      |
+| Robin van der Rijst | 2006  | 2008 | Marius Marin, Arie van Deursen                  | SWERL                                             | [Tool Support for Automatic Migration to Aspect-Oriented Programming                   ](masterThesisPDFs/sort-based-refactoring-robin-van-der-Rijst.pdf)      |
 {: .table table-horizontal}
 
 ## 2007
@@ -258,101 +258,63 @@ Voind
 | Rob Schellhorn           | 2006  | 2007 | Eelco Visser                                | Finalist                                       | [Framework Aware Domain Extraction and Refactoring of Java Applications                                       ](masterThesisPDFs/RobSchellhorn.pdf)                           |
 | Rahmat Adnan             | 2006  | 2007 | Bas Graaf                                   | SWERL, Ideals Project                          | [Reconstruction of state behaviour from (ASML) source code                                                    ](masterThesisPDFs/RahmatAdnanThesis.pdf)                       |
 | Peter Hordijk            | 2004  | 2007 | Marco Lormans, Ali Mesbah, Arie van Deursen | KPMG                                           | Crosscutting concerns in web applications                                                                                                                                   |
-| Maurits Hartman          | 2006  | 2007 | Arjan van Gemund                            | Universiteit van Valladolid                    | [Embedded Systems for Biometric Identification                                                                ](http://swerl.tudelft.nl/bin/view/Main/MauritsHartman)         |
-| Alberto Gonzalez Sanchez | 2007  | 2007 | Rui Abreu, Arjan van Gemund                 | ESL, Universidad de Valladolid                 | [Automatic Error Detection Techniques Based on Dynamic Invariants                                             ](http://swerl.tudelft.nl/bin/view/Main/AlbertoGonzalezSanchez) |
+| Maurits Hartman          | 2006  | 2007 | Arjan van Gemund                            | Universiteit van Valladolid                    | [Embedded Systems for Biometric Identification                                                                ](masterThesisPDFs/thesishartman.pdf)         |
+| Alberto Gonzalez Sanchez | 2007  | 2007 | Rui Abreu, Arjan van Gemund                 | ESL, Universidad de Valladolid                 | [Automatic Error Detection Techniques Based on Dynamic Invariants                                             ](masterThesisPDFs/thesis_gonzalez.pdf) |
 | Jonathan Joubert         | 2006  | 2007 | Eelco Visser                                | Finalist                                       | [From REST to Rich: Retargeting a DSL to Ajax                                                                 ](masterThesisPDFs/JonathanJoubert.pdf)                         |
 | Eric de Backer           | 2006  | 2007 | Leon Moonen, Cathal Boogerd                 | SWERL, ASSESS Project                          | An Infrastructure for Empirical Software Analysis Studies                                                                                                                   |
-| Etienne Gerts            | 2006  | 2007 | Gerd Gross                                  | Empty Quarter B.V.                             | [EMV Credit Card Certification Process                                                                        ](http://swerl.tudelft.nl/bin/view/Main/EtienneGerts)           |
-| Thomas Kraus             | 2006  | 2007 | Gerd Gross                                  | Chess IT                                       | [Generating system documentation augmented with traceability information, using a central XML-based repository](http://swerl.tudelft.nl/bin/view/Main/ThomasKraus)            |
-| Carsten Krauter          | 2006  | 2007 | Gerd Gross                                  | TU Delft, SE                                   | [An Automatic Approach for VDM to Lydia-Model Transformation                                                  ](http://swerl.tudelft.nl/bin/view/Main/CarstenKrauter)         |
+| Etienne Gerts            | 2006  | 2007 | Gerd Gross                                  | Empty Quarter B.V.                             | [EMV Credit Card Certification Process                                                                        ](masterThesisPDFs/Thesis_ECAGerts.pdf)           |
+| Thomas Kraus             | 2006  | 2007 | Gerd Gross                                  | Chess IT                                       | [Generating system documentation augmented with traceability information, using a central XML-based repository](masterThesisPDFs/thesis_forest_tukraus.pdf)            |
+| Carsten Krauter          | 2006  | 2007 | Gerd Gross                                  | TU Delft, SE                                   | An Automatic Approach for VDM to Lydia-Model Transformation                                                         | 
 | Jeroen Dobbe             | 2006  | 2007 | Eelco Visser                                | Canibal Games                                  | [A Domain-Specific Language for Computer Games                                                                ](masterThesisPDFs/JeroenDobbe.pdf)                             |
 | Marco Glorie             | 2006  | 2007 | Andy Zaidman, Arie van Deursen              | Philips Medical Systems, Reconstructor Project | [Repository Splitting and Remodularization                                                                    ](masterThesisPDFs/marco_glorie_thesis.pdf)                     |
 | Zheng Shen               | 2005  | 2007 | Marco Lormans                               | LogicaCMG, Reconstructor Project               | Requirements Management                                                                                                                                                     |
 | Chaoyong Han             | 2005  | 2007 | Hans Geers,Leon Moonen                      | SWERL, Reconstructor Project                   | Migration of existing software to use the KOALA component model                                                                                                             |
-| Yves Bourgois            | 2006  | 2007 | Gerd Gross                                  | ESL                                            | [Design and Verification of Concurrent Real-Time Systems using SDL and MSC                                    ](http://swerl.tudelft.nl/bin/view/Main/YvesBourgois)           |
-| Rafi Vayani              | 2006  | 2007 | Rui Abreu, Arjan van Gemund                 | ESL, TraderProject                             | [Fault Diagnosis of Embedded Programs                                                                         ](http://swerl.tudelft.nl/bin/view/Main/RafiVayani)             |
-| Robin van Schendel       | 2005  | 2007 | Leon Moonen                                 | NLNCSA, ASSESS Project                         | [Reducing Software Security Assessment Efforts by Determining Potentially Exploitable Subsystems              ](http://swerl.tudelft.nl/bin/view/Main/RobinVanSchendel)       |
-| G.L. Cheng               | 2006  | 2007 | Leon Moonen                                 | Software Improvement Group, ASSESS Project     | [Static Detection of Java Security Vulnerabilities                                                            ](http://swerl.tudelft.nl/bin/view/Main/GLCheng)                |
+| Yves Bourgois            | 2006  | 2007 | Gerd Gross                                  | ESL                                            | [Design and Verification of Concurrent Real-Time Systems using SDL and MSC                                    ](masterThesisPDFs/Thesis_Bourgeois.pdf)           |
+| Rafi Vayani              | 2006  | 2007 | Rui Abreu, Arjan van Gemund                 | ESL, TraderProject                             | [Fault Diagnosis of Embedded Programs                                                                         ](masterThesisPDFs/thesisvayani.pdf)             |
+| Robin van Schendel       | 2005  | 2007 | Leon Moonen                                 | NLNCSA, ASSESS Project                         | [Reducing Software Security Assessment Efforts by Determining Potentially Exploitable Subsystems              ](masterThesisPDFs/rvschendel_mscthesis.pdf)       |
+| G.L. Cheng               | 2006  | 2007 | Leon Moonen                                 | Software Improvement Group, ASSESS Project     | [Static Detection of Java Security Vulnerabilities                                                            ](masterThesisPDFs/glcheng_mscthesis.pdf)                |
 {: .table table-horizontal}
-(masterThesisPDFs/MScThesisMaartenSchilt.pdf)
-(masterThesisPDFs/thesis-engin.pdf)
-(masterThesisPDFs/emmanuel_mulo_thesis.pdf)
-(masterThesisPDFs/RobSchellhorn.pdf)
-(masterThesisPDFs/RahmatAdnanThesis.pdf)
 
-(http://swerl.tudelft.nl/bin/view/Main/MauritsHartman)
-(http://swerl.tudelft.nl/bin/view/Main/AlbertoGonzalezSanchez)
-(masterThesisPDFs/JonathanJoubert.pdf)
-
-(http://swerl.tudelft.nl/bin/view/Main/EtienneGerts)
-(http://swerl.tudelft.nl/bin/view/Main/ThomasKraus)
-(http://swerl.tudelft.nl/bin/view/Main/CarstenKrauter)
-(masterThesisPDFs/JeroenDobbe.pdf)
-(masterThesisPDFs/marco_glorie_thesis.pdf)
-
-
-(http://swerl.tudelft.nl/bin/view/Main/YvesBourgois)
-(http://swerl.tudelft.nl/bin/view/Main/RafiVayani)
-(http://swerl.tudelft.nl/bin/view/Main/RobinVanSchendel)
-(http://swerl.tudelft.nl/bin/view/Main/GLCheng)
 ## 2006
 
 | Name                       | Start | End  | Supervisor(s)                       | Site                      | Topic                                                                         |
 | -------------------------- | ----- | ---- | ----------------------------------- | ------------------------- | ----------------------------------------------------------------------------- |
-| Denis de Leeuw             | 2005  | 2006 | Arjan van Gemund                    | ESL                       | Mapping Algorithms to Silicon                                                 |
-| Sijmen Woutersen           | 2006  | 2006 | Arjan van Gemund                    | ESL                       | X32: A 32-bit FPGA Softcore and Tool Chain                                    |
-| Wei Zhang                  | 2005  | 2006 | Jurryt Pietersma, Arjan van Gemund  | ESL, TangramProject       | Approximate Entropy Calculation in Model-Based Diagnosis                      |
-| Willem Ridderhof           | 2006  | 2006 | Gerd Gross, Arjan van Gemund        | Daimler Chrysler Research | An Approach to Automatic Generation of Safety Cases Based on Trace Management |
-| Dirk-Jan van Dijk          | 2005  | 2006 | Hans Geers                          | TNO FEL                   | Scaleable Multi Agent Systems                                                 |
-| Bobby Bregman              | 2005  | 2006 | Kees van der Meer, Arie van Deursen | Fortis                    | Chain Monitoring for Web Services                                             |
-| Ewout Vonk                 | 2005  | 2006 | Hans Geers                          | Mobidot                   | How to deploy a Wi-Fi service provider independent hot spot network           |
-| Rodrigo Arriata Lopez      | 2005  | 2006 | Arjan van Gemund                    | ESL, PGS                  | Analytical Cache Performance Modeling                                         |
-| Bo Wang                    | 2005  | 2006 | Kees Pronk                          | TUDelft SE                | GUI for modelcheckers                                                         |
-| Atam Gangaram Panday       | 2005  | 2006 | Frans Ververs                       | Cochin University         | Predicting Fault-Proneness using Coupling Metrics                             |
-| Pieter Hartman             | 2004  | 2006 | Leon Moonen                         | Aegon                     | Exploring for Architecture: "beyond module viewtype"                          |
-| David Barrientos Velasco   | 2005  | 2006 | Gerd Gross                          | SWERL                     | Testability Analysis for Real-Time Software                                   |
-| Wouter Lindhoud            | 2005  | 2006 | Gerd Gross, Arjan van Gemund        | Philips Medical           | Automated Fault-Diagnosis at Philips Medical Systems                          |
-| Arjan Seesing              | 2005  | 2006 | Gerd Gross, Arie van Deursen        | SWERL                     | Test Case Generation Using Genetic Programming and Software Analysis          |
-| Hans Wasmus                | 2005  | 2006 | Gerd Gross                          | EPCOS                     | Test-Driven Software Development                                              |
-| Thijs Reus                 | 2004  | 2006 | Hans Geers, Arie van Deursen        | Fortis, IOSoftware        | Harvesting legacy systems to support migration to MDA                         |
-| Niek Wesseling             | 2004  | 2006 | Hans Geers                          | Fei Company; TU Delft TNW | Televiewing of electron microscope pictures                                   |
-| Andries van Waas           | 2005  | 2006 | Peter Kluit                         | QQQ Delft B.V.            | Automatische programmageneratie uit rekenmodelspecificaties                   |
-| Auke Bajema, Benny Coomans | 2005  | 2006 | Peter Kluit                         | Albatros                  | Creating a Semantic DBMS                                                      |
+| Denis de Leeuw             | 2005  | 2006 | Arjan van Gemund                    | ESL                       | [Mapping Algorithms to Silicon                                                ](masterThesisPDFs/thesisdeleeuw.pdf) |
+| Sijmen Woutersen           | 2006  | 2006 | Arjan van Gemund                    | ESL                       | [X32: A 32-bit FPGA Softcore and Tool Chain                                   ](masterThesisPDFs/thesiswoutersen.pdf) |
+| Wei Zhang                  | 2005  | 2006 | Jurryt Pietersma, Arjan van Gemund  | ESL, TangramProject       | [Approximate Entropy Calculation in Model-Based Diagnosis                     ] |
+| Willem Ridderhof           | 2006  | 2006 | Gerd Gross, Arjan van Gemund        | Daimler Chrysler Research | [An Approach to Automatic Generation of Safety Cases Based on Trace Management](masterThesisPDFs/Thesis_W_Ridderhof.pdf) |
+| Dirk-Jan van Dijk          | 2005  | 2006 | Hans Geers                          | TNO FEL                   | [Scaleable Multi Agent Systems                                                ](masterThesisPDFs/ScriptieDirkJanvanDijk.doc) |
+| Bobby Bregman              | 2005  | 2006 | Kees van der Meer, Arie van Deursen | Fortis                    | [Chain Monitoring for Web Services                                            ](masterThesisPDFs/scriptie.pdf) |
+| Ewout Vonk                 | 2005  | 2006 | Hans Geers                          | Mobidot                   | [How to deploy a Wi-Fi service provider independent hot spot network          ](masterThesisPDFs/thesis_mobidot_9902512_eejvonk_05022006.pdf) |
+| Rodrigo Arriata Lopez      | 2005  | 2006 | Arjan van Gemund                    | ESL, PGS                  | [Analytical Cache Performance Modeling                                        ] |
+| Bo Wang                    | 2005  | 2006 | Kees Pronk                          | TUDelft SE                | [GUI for modelcheckers                                                        ](masterThesisPDFs/finalthesis.pdf) |
+| Atam Gangaram Panday       | 2005  | 2006 | Frans Ververs                       | Cochin University         | [Predicting Fault-Proneness using Coupling Metrics                            ](masterThesisPDFs/AtamGangaramPanday-thesis2006.pdf) |
+| Pieter Hartman             | 2004  | 2006 | Leon Moonen                         | Aegon                     | [Exploring for Architecture: "beyond module viewtype"                         ](masterThesisPDFs/PieterHartman-MScThesis.pdf) |
+| David Barrientos Velasco   | 2005  | 2006 | Gerd Gross                          | SWERL                     | [Testability Analysis for Real-Time Software                                  ](masterThesisPDFs/thesis_finalversion.pdf) |
+| Wouter Lindhoud            | 2005  | 2006 | Gerd Gross, Arjan van Gemund        | Philips Medical           | [Automated Fault-Diagnosis at Philips Medical Systems                         ](masterThesisPDFs/thesis.pdf) |
+| Arjan Seesing              | 2005  | 2006 | Gerd Gross, Arie van Deursen        | SWERL                     | [Test Case Generation Using Genetic Programming and Software Analysis         ](masterThesisPDFs/thesis_final_submitted.pdf) |
+| Hans Wasmus                | 2005  | 2006 | Gerd Gross                          | EPCOS                     | [Test-Driven Software Development                                             ](masterThesisPDFs/FinalMasterThesis.pdf) |
+| Thijs Reus                 | 2004  | 2006 | Hans Geers, Arie van Deursen        | Fortis, IOSoftware        | [Harvesting legacy systems to support migration to MDA                        ](masterThesisPDFs/MscThijsReusFinal.pdf) |
+| Niek Wesseling             | 2004  | 2006 | Hans Geers                          | Fei Company; TU Delft TNW | [Televiewing of electron microscope pictures                                  ](masterThesisPDFs/Verslag.doc) |
+| Andries van Waas           | 2005  | 2006 | Peter Kluit                         | QQQ Delft B.V.            | [Automatische programmageneratie uit rekenmodelspecificaties                  ](masterThesisPDFs/AfstudeerverslagA.P.vanWaas.pdf) |
+| Auke Bajema, Benny Coomans | 2005  | 2006 | Peter Kluit                         | Albatros                  | [Creating a Semantic DBMS                                                     ] |
 {: .table table-horizontal}
-(http://swerl.tudelft.nl/bin/view/Main/DenisDeLeeuw)
-(http://swerl.tudelft.nl/bin/view/Main/SijmenWoutersen)
 
-(http://swerl.tudelft.nl/bin/view/Main/WillemRidderhof)
-(http://swerl.tudelft.nl/bin/view/Main/Dirk-JanVanDijk)
-(http://swerl.tudelft.nl/bin/view/Main/BobbyBregman)
-(http://swerl.tudelft.nl/bin/view/Main/EwoutVonk)
-
-(http://swerl.tudelft.nl/bin/view/Main/BoWang)
-(http://swerl.tudelft.nl/bin/view/Main/AtamGangaramPanday)
-(http://swerl.tudelft.nl/bin/view/Main/PieterHartman)
-(http://swerl.tudelft.nl/bin/view/Main/DavidBarrientosVelasco)
-(http://swerl.tudelft.nl/bin/view/Main/WouterLindhoud)
-(http://swerl.tudelft.nl/bin/view/Main/ArjanSeesing)
-(http://swerl.tudelft.nl/bin/view/Main/HansWasmus)
-(http://swerl.tudelft.nl/bin/view/Main/ThijsReus)
-(http://swerl.tudelft.nl/bin/view/Main/NiekWesseling)
-(masterThesisPDFs/AfstudeerverslagA.P.vanWaas.pdf)
-Auke Bajema, Benny Coomans
 ## 2005
 
 | Name                            | Start | End  | Supervisor(s)                | Site                                                   | Topic                                                                                              |
 | ------------------------------- | ----- | ---- | ---------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | Balàsz Zagyvai                  | 2005  | 2005 | Kees Pronk                   | TUDelft SE, Budapest Univ. of Technology and Economics | Software Decomposition Paradigms and Automated Composition Techniques in Generative Programming    |
-| Mohammad Sobat                  | 2004  | 2005 | Hans Geers                   | Mobidot                                                | An UMTS based mobile phone application                                                             |
-| Duncan Doyle                    | 2004  | 2005 | Hans Geers, Arie van Deursen | Fortis                                                 | Model Transformation of Domain-Specific Models                                                     |
-| Hok Kwan Kan                    | 2004  | 2005 | Kees Pronk                   | CWI                                                    | Coordination Languages                                                                             |
-| Koen Egelink                    | 2004  | 2005 | Leon Moonen                  | ESI, ASML                                              | Multi-Version Software Analysis to Detect Architectural Mismatches                                 |
-| Kevin Bouwmeester               | 2005  | 2005 | Leon Moonen                  | Dutch Space                                            | GridAssist Middleware Interoperability Through Scenario Based Software Architecture Assessment     |
+| Mohammad Sobat                  | 2004  | 2005 | Hans Geers                   | Mobidot                                                | [An UMTS based mobile phone application                                                        ](masterThesisPDFs/mbs_report_0_8_final.pdf)     |
+| Duncan Doyle                    | 2004  | 2005 | Hans Geers, Arie van Deursen | Fortis                                                 | [Model Transformation of Domain-Specific Models                                                ](masterThesisPDFs/DuncanDoyleMsc2005.pdf)     |
+| Hok Kwan Kan                    | 2004  | 2005 | Kees Pronk                   | CWI                                                    | [Coordination Languages                                                                        ](masterThesisPDFs/SEN-E0512.pdf)     |
+| Koen Egelink                    | 2004  | 2005 | Leon Moonen                  | ESI, ASML                                              | [Multi-Version Software Analysis to Detect Architectural Mismatches                            ](masterThesisPDFs/Masters_Thesis_Koen_Egelink_PUBLIC_BANNER.pdf 	)     |
+| Kevin Bouwmeester               | 2005  | 2005 | Leon Moonen                  | Dutch Space                                            | [GridAssist Middleware Interoperability Through Scenario Based Software Architecture Assessment](masterThesisPDFs/kevin-bouwmeester-sept-2005.pdf)     |
 | Lin Yang                        | 2005  | 2005 | Bas Graaf                    | SWERL MOOSE project                                    | On A Model To Evaluate Modifiability At The Software Architectural Level                           |
 | Kevin Bouwmeester & Hans Wasmus | 2004  | 2005 | Leon Moonen                  | SWERL                                                  | Techniques and Architectures to Enhance the Reliability of Embedded Software (research assignment) |
-| Chavdar Bachvarov               | 2004  | 2005 | Leon Moonen                  | Philips Research                                       | Security Architectures for Sharing of Distributed Resources in Community Based Systems             |
-| Rob van der Leek                | 2003  | 2005 | Leon Moonen                  | Software Improvement Group                             | Implementation Strategies For Island Grammars                                                      |
-| Stefan Slinger                  | 2003  | 2005 | Leon Moonen                  | SWERL                                                  | Code Smell Detection in Eclipse                                                                    |
+| Chavdar Bachvarov               | 2004  | 2005 | Leon Moonen                  | Philips Research                                       | [Security Architectures for Sharing of Distributed Resources in Community Based Systems](masterThesisPDFs/Chavdar_Bachvarov_thesis_040705.pdf)             |
+| Rob van der Leek                | 2003  | 2005 | Leon Moonen                  | Software Improvement Group                             | [Implementation Strategies For Island Grammars                                         ](masterThesisPDFs/robvanderleek.pdf)             |
+| Stefan Slinger                  | 2003  | 2005 | Leon Moonen                  | SWERL                                                  | [Code Smell Detection in Eclipse                                                       ](masterThesisPDFs/CodeNose-thesis.pdf)             |
 | Wilfred Krol                    | 2000  | 2005 | Kees Pronk,  Peter Kluit     | TUDelft SE                                             | Reification in VDM++                                                                               |
 | T.T.T. Le                       | 2005  | 2005 | Frans Ververs                | TU Delft, SE                                           | On the Performance - Maintenance Balance in OO Systems                                             |
 | Robert-Jan de Pauw              | 2004  | 2005 | Frans Ververs                | Philips                                                | Solving recurrent UI-related problems in X-ray prototype development                               |
@@ -360,29 +322,13 @@ Auke Bajema, Benny Coomans
 | David Koh                       | 2004  | 2005 | Frans Ververs                | Min. van Waterstaat                                    | Ontwerp en implementatie van de TIC communicatielaag                                               |
 | Rosa Frederico da Silva         | 2003  | 2005 | Frans Ververs                | BitbyBit Information Systems                           | Het formaatsysteem                                                                                 |
 {: .table table-horizontal}
-Balàsz Zagyvai 
-(http://swerl.tudelft.nl/bin/view/Main/MohammadSobat)
-(http://swerl.tudelft.nl/bin/view/Main/DuncanDoyle)
-(http://swerl.tudelft.nl/bin/view/Main/HokKwanKan)
-(http://swerl.tudelft.nl/bin/view/Main/KoenEgelink)
-(http://swerl.tudelft.nl/bin/view/Main/KevinBouwmeester)
-Lin Yang
- Kevin Bouwmeester & Hans Wasmus 
-(http://swerl.tudelft.nl/bin/view/Main/ChavdarBachvarov)
-(http://swerl.tudelft.nl/bin/view/Main/RobVanDerLeek)
-(http://swerl.tudelft.nl/bin/view/Main/StefanSlinger)
-Wilfred Krol
- T.T.T. Le
- Robert-Jan de Pauw
- Jan Jongerden
- David Koh
- Rosa Frederico da Silva
+
 ## 2004
 
 | Name                   | Start | End  | Supervisor(s)                               | Site                               | Topic                                                                                        |
 | ---------------------- | ----- | ---- | ------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------- |
 | Yohanes Darmawan Siauw | 2003  | 2004 | Marco Lormans                               | LogicaCMG                          | Tailoring the Requirements Engineering Process                                               |
-| Orlando Mendez         | 2003  | 2004 | Marius Marin, Arie van Deursen, Leon Moonen | SWERL                              | [Aspect Mining Using Clone Detection](http://swerl.tudelft.nl/bin/view/Main/OrlandoMendez)                                                      |
+| Orlando Mendez         | 2003  | 2004 | Marius Marin, Arie van Deursen, Leon Moonen | SWERL                              | [Aspect Mining Using Clone Detection](masterThesisPDFs/OrlandoMendez.pdf)                                                      |
 | Xiao Lei               | 2003  | 2004 | Bas Graaf                                   | SWERL, Philips PDSL, MOOSE project | Documenting Software Architectures                                                           |
 | Pieter van der Spek    | 2003  | 2004 | Kees Pronk, N. Plat                         | West Consulting                    | The Overture Project; Designing an open source tool set                                      |
 | Rene Pronk             | 2003  | 2004 | Hans Geers                                  | Smartside                          | Automatisch classificatie van tekstdocumenten met behulp van het Nearest Neighbour algoritme |

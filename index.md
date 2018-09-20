@@ -8,8 +8,11 @@ title: The Software Engineering Research Group
 The mission of the TU Delft Software Engineering Research Group (SERG) is
 
 1. to develop a deep understanding of how people build and evolve software systems;
+
 2. to develop novel methods, techniques, theories, and tools that advance the way in which software is built and adjusted;
+
 3. to ensure that our research results have a lasting impact in software development practice; and
+
 4. to offer students an education that prepares them to take a leading role in complex software development projects.
 
 
@@ -20,7 +23,7 @@ The mission of the TU Delft Software Engineering Research Group (SERG) is
 The research of the TU Delft Software Engineering Research Group is
 characterized by a focus on empirical research, conducted in close collaboration
 with software development practice. Topics of interest include software testing,
-software architecture, end user programming, program comprehension, and
+software architecture, end user programming, software evolution, and
 collaborative and distributed software development.
 
 We conduct our research in mixed teams, in collaboration with practitioners and
@@ -33,13 +36,15 @@ the [TU Delft institutional repository](https://pure.tudelft.nl/portal/en/organi
 our Technical Reports series. We aim at sharing our research prototypes as open
 source tools whenever possible.
 
-To accomplish our research goals, our research is organized across 4
-research lines:
+To accomplish our research goals, our research is organized across four research lines:
 
-* [Search Based Software Engineering](sbse.html)
-* [Software Analytics](softanalytics.html)
-* [Software Engineering Education](softedu.html)
-* [Software Testing](softtesting.html)
+1. **Search Based Software Engineering:** How can search-based techniques be used to automate complex software development tasks?
+
+2. **[Software Analytics](softanalytics.html):** How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
+
+3. **Software Engineering Education and End User Programming:** How can non-developers be helped become proficient in coding at a level suitable for their needs?
+
+4. **Software Testing:** What are effective software testing methods and techniques?
 
 ## Education
 

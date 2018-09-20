@@ -4,6 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+
     <meta name="description" content="{{ page.description }}">
     <meta name="author" content="{{ site.author.name }}">
 
@@ -18,7 +19,7 @@
     <div class="outer">
       <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand" href="https://www.tudelft.nl">
-          <img src="/img/tudelft.svg" height="35" class="d-inline-block align-top" alt="TU Delft Logo">
+          <img src="/img/tudelft.svg" class="d-inline-block align-top logo" alt="TU Delft Logo">
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -49,13 +50,13 @@
         </div>
       </nav>
 
-      <div class="container">
+      <div class="container-fluid container-center">
         <div class="content">
           {{ content }}
         </div>
       </div>
 
-      <div class="container-fluid tudelft outer-footer">
+      <div class="container-fluid tudelft outer-footer container-center">
         <div class="content myfooter">
           <div class="row">
             <div class="col-md-3 text-md-left">
@@ -87,9 +88,9 @@
             <div class="col-md-3">
               <span class="float-md-right">
                 <a href="https://www.tudelft.nl/en/about-tu-delft/contact-and-accessibility/map-and-buildings/building-28/">
-                  <img src="img/EWI-gebouw-28-b.jpg" height="100" class="d-inline-block align-top" alt="Building 28">
-              </span>
+                  <img src="/img/EWI-gebouw-28-b.jpg" height="100" class="d-inline-block align-top" alt="Building 28">
                 </a>
+              </span>
             </div>
           </div>
         </div>
