@@ -49,6 +49,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
+Oct 05    | SIG  | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Georgios Gousios|
 Sep 18    | TUD  | [Java stream debugging improvement](/msctopics/java-lambdas.html) | Anand Ashok Sawant and Arie van Deursen|
 Sep 18    | TUD  | [Alternative API evolution communication mechanisms](/msctopics/api-communication.html) | Anand Ashok Sawant and Arie van Deursen|
 Sep 18    | TUD   | [Real-time analysis of dependency networks](/msctopics/prazi-pipeline.html) | Joseph Hejderup and Georgios Gousios |
