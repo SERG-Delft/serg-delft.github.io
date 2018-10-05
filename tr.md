@@ -19,6 +19,7 @@ In the years 2006-2017 the majority of the group's publications were also made a
 
 Report Number | Author(s) | Title | Venue
 ---|---|---|---
+[TUD-SERG-2018-003](https://pure.tudelft.nl/portal/en/publications/characteristics-of-good-and-bad-cloud-infraservices-an-exploratory-case-study-at-ing(b18f4405-c784-4bf0-8a25-d71e042f85b1).html) | Hennie Huijgens, Eric Greuter, Jerry Brons, Evert A. van Doorn, Ioannis Papadopoulos, Francisco Morales Martinez, Maurício Aniche, Otto Visser, Arie van Deursen | Characteristics of Good and Bad Cloud Infra-Services: An Exploratory Case Study at ING | Submitted
 [TUD-SERG-2018-002](https://pure.tudelft.nl/portal/en/publications/software-analytics-in-continuous-delivery-a-case-study-on-success-factors(9c5d1df6-e244-4fdc-933d-8bc36f9e3bd4).html) | Hennie Huijgens, Davide Spadini, Dick Stevens, Niels Visser, Arie van Deursen | Software Analytics in Continuous Delivery: A Case Study on Success Factors | ESEM '18
 [TUD-SERG-2018-001](https://pure.tudelft.nl/portal/en/publications/code-phonology(c25afc25-c6d9-4de6-96ad-48f4775c8079).html) | Felienne Hermans and Alaaeddin Swidan and Efthimia Aivaloglou | Code Phonology: an exploration into the vocalization of code | ICPC '18  
 

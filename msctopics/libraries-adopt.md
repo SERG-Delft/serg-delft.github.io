@@ -61,9 +61,14 @@ of software libraries adoption.
 #### Related Work:
 
 [1] Larios Vargas, E, Hejderup, J, Kechagia, M, Bruntink, M & Gousios, G. 2018, Enabling Real-Time Feedback in Software Engineering. in Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results, ICSE-NIER 2018.
+
 [2] D. Arnott. Cognitive biases and decision support systems development: a design science approach. Information Systems Journal, 16(1):55–78, 2005.
+
 [3] Y. M. Mileva, V. Dallmeier, M. Burger, and A. Zeller. Mining trends of library usage. In Proceedings of the Joint International and Annual ERCIM Workshops on Principles of Software Evolution (IWPSE) and Software Evolution (Evol) Workshops, IWPSE-Evol ’09, pages 57–62,
 New York, NY, USA, 2009. ACM.
+
 [4] Y. M. Mileva, V. Dallmeier, and A. Zeller. Mining api popularity. In L. Bottaci and G. Fraser, editors, Testing –Practice and Research Techniques, pages 173–180, Berlin, Heidelberg, 2010.
+
 [5] Y. Yano, R. G. Kula, T. Ishio, and K. Inoue. Verxcombo: An interactive data visualization of popular library version combinations. In 2015 IEEE 23rd International Conference on Program Comprehension, pages 291–294, 2015.
+
 [6] R. G. Kula, D. M. German, T. Ishio, and K. Inoue. Trusting a library: A study of the latency to adopt the latest maven release. In 2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER), pages 520–524, 2015.
