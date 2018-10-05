@@ -12,8 +12,7 @@ on which decisions must be made, 2) finding and using the best knowledge availab
 the factors that influence the decision-making, 5) identifying information sources 
 and potential tools to facilitate the decision-making process, 6) determining the 
 impact and consequences of the decisions, and 7) documenting and disseminating 
-the decision-making experience. The success of software reuse relies on the outcomes 
-of a decision-making process regarding the selection of which libraries to adopt.
+the decision-making experience.
 
 #### Problem
 
