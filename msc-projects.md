@@ -49,6 +49,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
+Oct 18    | TUD  | [API documentation generation](/msctopics/deprecation-documentation.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Oct 05    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Georgios Gousios|
 Sep 18    | TUD  | [Java stream debugging improvement](/msctopics/java-lambdas.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Sep 18    | TUD  | [Alternative API evolution communication mechanisms](/msctopics/api-communication.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
