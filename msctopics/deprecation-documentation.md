@@ -21,10 +21,14 @@ This project involves the following steps:
 
 #### Related work
 
-[1] Robbes, Lungu and Röthlisberger "How do developers react to API deprecation?: the case of a smalltalk ecosystem", Proceedings 
+[1] Robbes, Lungu and Röthlisberger "How do developers react to API deprecation?: the case of a smalltalk ecosystem", Proceedings of the ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering
+
 [2] Sawant, Robbes and Bacchelli, "On the reaction to deprecation of 25,357 clients of 4+ 1 popular Java APIs", Proceedings of 32nd IEEE International Conference on Software Maintenance and Evolution
+
 [3] Sawant, Robbes and Bacchelli, "On the reaction to deprecation of clients of 4+ 1 popular Java APIs and the JDK", Empirical Software Engineering Issue 4 Volume 23 Pages 2158-2197
+
 [4] Sawant, Aniche, van Deursen and Bacchelli, "Understanding Developers’ Needs on Deprecation as a Language Feature", Proceedings of the 40th ACM/IEEE International Conference on Software Engineering (ICSE 2018), in press.
+
 [5] Sawant, Huang, Vilen, Stojkovski and Bacchelli, "Why are features deprecated? An investigation into the motivation behind deprecation", Proceedings of the International Conference on Software Maintenance and Evolution (ICSME 2018), in press.
 
 
