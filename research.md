@@ -12,6 +12,7 @@ Within those research lines, ongoing externally funded research projects include
 
 Start | Name | Project Title | Funding | SERG Principal Investigators
 ------|------|---------------|---------|------------------------
+2019  | [FASTEN](http://gousios.org/blog/Introducing-Fasten.html) | Fine-grained analysis of software ecosystems (FASTEN) | EU H2020 | Georgios Gousios
 2018  | [IPE](http://www.felienne.com/archives/6004) | Inclusive programming education for visually impaired children | NWO ZonMw InZicht | Felienne Hermans
 2018  | [QIA](http://quantum-internet.team/)  | Quantum Internet Alliance | EU FET | Arie van Deursen
 2017  | [LPEE](https://www.nwo.nl/onderzoek-en-resultaten/programmas/promotiebeurs+voor+leraren/toekenningen+2017-2) | Language and Programming in Elementary Education | [NWO PVL](https://www.nwo.nl/onderzoek-en-resultaten/programmas/promotiebeurs+voor+leraren) | Felienne Hermans
