@@ -87,22 +87,6 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
-    <div class="card-body">
-      <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
-      <p class="card-text">Programming education, end-user computing</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/felienne" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/felienne" title="Github"><i class="fab fa-github"></i></a>
-      <a href="https://nl.linkedin.com/in/felienne" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=Kzy5f1IAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-     <a href="https://www.slideshare.net/Felienne" title="Presentations"><i class="fab fa-slideshare"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/ffj-hermans(2fe8a348-ec67-4520-8c0a-34ef8d60fcaa)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
       <div class="card-title"><a href="https://apanichella.github.io">Annibale Panichella</a></div>
@@ -416,7 +400,7 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/844589346409910274/j5Y7ANf7_400x400.jpg" alt="Gemma Catolino">
+    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/1048993643040784384/UWwwMwbG_400x400.jpg" alt="Gemma Catolino">
     <div class="card-body">
       <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
       <p class="card-text">Effort prediction. University of Salerno</p>
@@ -426,6 +410,22 @@ title: People
       <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
+    <div class="card-body">
+      <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
+      <p class="card-text">Programming education. Leiden University</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/felienne" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/felienne" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://nl.linkedin.com/in/felienne" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=Kzy5f1IAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+     <a href="https://www.slideshare.net/Felienne" title="Presentations"><i class="fab fa-slideshare"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/ffj-hermans(2fe8a348-ec67-4520-8c0a-34ef8d60fcaa)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 </div>
