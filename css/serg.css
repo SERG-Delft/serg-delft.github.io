@@ -142,3 +142,9 @@ th {
 .copyright {
   font-size: 6pt;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
