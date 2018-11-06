@@ -211,9 +211,9 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/2521475?s=460&v=4" alt="Joseph Hejderup">
+    <img class="card-img-top" src="https://user-images.githubusercontent.com/2521475/48063837-7b1be500-e1c6-11e8-9dc7-78813d6f766c.png" alt="Joseph Hejderup">
     <div class="card-body">
-      <div class="card-title"><a href="https://twitter.com/jhejderup">Joseph Hejderup</a></div>
+      <div class="card-title"><a href="https://jhejderup.github.io">Joseph Hejderup</a></div>
       <p class="card-text">Software ecosystems, program analysis</p>
     </div>
     <div class="card-footer bg-transparent border-success">
