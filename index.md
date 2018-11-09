@@ -38,7 +38,7 @@ source tools whenever possible.
 
 To accomplish our research goals, our research is organized across four research lines:
 
-1. **Search Based Software Engineering:** How can search-based techniques be used to automate complex software development tasks?
+1. **[Search-Based Software Engineering](sbse.html):** How can search-based techniques be used to automate complex software development tasks?
 
 2. **[Software Analytics](softanalytics.html):** How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
 
