@@ -32,7 +32,7 @@ Maurício Aniche | Empirical software engineering, software testing | [Example t
 Arie van Deursen | Human aspects, software architecture, software testing | [Example theses][theses-arie]
 Georgios Gousios | Software analytics, repository mining | [Example theses][theses-georgios]
 Felienne Hermans | End user programming, programming education | [Example theses][theses-felienne]
-Annibale Panichella | Software Testing, Search-based software engineering, Security Testing | [Example theses][theses-annibale]
+Annibale Panichella | Software testing, Search-based software engineering, Security testing | [Example theses][theses-annibale]
 Rini van Solingen | Globally distributed software engineering, agile | [Example theses][theses-rini]
 Andy Zaidman | Software testing, software evolution, repository mining | [Example theses][theses-andy]
 
