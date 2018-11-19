@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Understanding the importance of code quality metrics in BetterCodeHub
+title: What's a good refactoring candidate? Improving code analysis tooling by studying users behavior
 ---
 
 #### BetterCodeHub

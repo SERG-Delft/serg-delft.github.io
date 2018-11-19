@@ -49,7 +49,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
-Nov 19    | [SIG](https://www.sig.eu/) / TUD  | [Understanding the importance of code quality metrics in BetterCodeHub](/msctopics/bettercodehub-feedback.html) | Davide Spadini, Magiel Bruntink, Alberto Bacchelli |
+Nov 19    | [SIG](https://www.sig.eu/) / TUD  | [What's a good refactoring candidate? Improving code analysis tooling by studying users behavior](/msctopics/bettercodehub-feedback.html) | Davide Spadini, Magiel Bruntink, Alberto Bacchelli |
 Oct 18    | TUD  | [API documentation generation](/msctopics/deprecation-documentation.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Oct 05    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Enrique Larios and Georgios Gousios|
 Sep 18    | TUD  | [Java stream debugging improvement](/msctopics/java-lambdas.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
