@@ -4,14 +4,18 @@ title: SERG Technical Report Series
 ---
 
 The TU Delft Software Engineering Research Group has maintained a list of technical reports since 2006, numbered TUD-SERG-20xx-abc.
-Technical reports include a verbatim pdf of the camera-ready version of the underlying publication (i.e., they are [postprints](https://avandeursen.com/2016/11/06/green-open-access-faq/#what-is-a-postprint)), possibly extended with extra appendices that exceed the page limit of the publication. The corresponding wrapper is created in latex using a SERG report style ([private link](https://github.com/SERG-Delft/serg-report-style)).
+Technical reports include a verbatim pdf of the camera-ready version of the underlying publication (i.e., they are [postprints](https://avandeursen.com/2016/11/06/green-open-access-faq/#what-is-a-postprint)), possibly extended with extra appendices that exceed the page limit of the publication. The corresponding wrapper is created in latex using a SERG report style ([private link][style].
 
 In the years 2006-2017 the majority of the group's publications were also made available as techreport. Many of these preprints are available in the [TU Delft Repository][issn].
 
 With the university-wide adoption of the instutitional repository [pure.tudelft.nl](https://pure.tudelft.nl) for sharing postprints, we started to [directly use Pure](https://avandeursen.com/2016/12/07/self-archiving-publications-in-elsevier-pure-at-tu-delft/) for techreports that are just verbatim copies of published papers. We still use techreports for papers that need an extra appendix, which we then also upload into pure.
 
-[issn]: https://repository.tudelft.nl/islandora/search/1872-5392?collection=research&sort=mods_originInfo_dateSort_dt%20desc
+To add a techreport, claim a new next number by making a [pull request][src] for this page, adding an entry to the top of the table below. Then create the [techreport][style], upload it into [pure.tudelft.nl][pure], and then update your entry with the newly created Pure link.
 
+[issn]: https://repository.tudelft.nl/islandora/search/1872-5392?collection=research&sort=mods_originInfo_dateSort_dt%20desc
+[style]: https://github.com/SERG-Delft/serg-report-style
+[pure]: https://pure.tudelft.nl
+[src]: https://github.com/SERG-Delft/serg-delft.github.io
 
 <br/>
 
