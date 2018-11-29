@@ -7,7 +7,7 @@ One of the most common ways to make such an automation is the **Search-Based Sof
 
 SBSE is not only an academic research area, but it is achieving significant uptake in many industrial sectors. For example, **Facebook** uses multi-objective solvers to automatically design system level test cases for mobile apps [[1]](https://link.springer.com/chapter/10.1007/978-3-319-99241-9_1);  Google uses multi-objective solvers for regression testing [[2]](http://sebase.cs.ucl.ac.uk/fileadmin/crest/sebasepaper/YooNH11_01.pdf). SSBSE techniques has been also applied in the automotive domain (**IEE S.A.** [[3]](https://pure.tudelft.nl/portal/files/45811366/paperASE18N2016pdf.pdf)), in satellite domain (**SES S.A.** [[4]](https://pure.tudelft.nl/admin/files/47344874/main.pdf)) and security testing.
 
-Currently, our research topics include but are not limited to the following **six** research topics:
+Currently, our research topics include but are not limited to the following **five** research topics:
 
 * **Test Case Generation**: 
 Developing tools that automatically synthetize (generate) test cases with high code coverage (e.g., branch coverage) and that reveal faults or trigger crashes. Related projects include [Botsing](https://github.com/STAMP-project/botsing) for crash replication and [EvoSQL](https://github.com/SERG-Delft/evosql) for testing SQL queries. We also actively contribute to the [EvoSuite](https://github.com/EvoSuite/evosuite) framework for unit-level testing [[5]](https://apanichella.github.io/publication/ieee-tse2018b/), [[6]](https://apanichella.github.io/publication/ssbse2018b/), [[7]](https://apanichella.github.io/publication/infsof2018b/).
@@ -31,7 +31,6 @@ The lab collaborates with the following people/organizations (reported in alphab
 * Andrea De Lucia, University of Salerno
 * Fitsum Kifetew, Fondazione Bruno Kessler
 * Dario Di Nucci, University of Bruxelles 
-* Fabio Palomba, University of Zurich
 * Sebastiano Panichella, Zurich University of Applied Sciences
 * Paolo Tonella, Universita' della Svizzera Italiana
 
