@@ -35,11 +35,20 @@ levels.
  * [TI3110TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46043): _Algorithms and Data structures._  Georgios Gousios. ([2017](http://gousios.org/courses/algo-ds/))
  * [TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48152): _Software Engineering Methods._ Maurício Aniche ([2018 edition](https://serg-delft.github.io/ti3115tu-2018/)).
 
-### EdX MOOCs
+### [EdX](https://www.edx.org/school/delftx) MOOCs
 
+<image src="img/edx-testing.png" style="float:right; width:300px; border:1px solid #000"/>
+
+ * [Automated Software Testing: Practical Skills for Java Developers](https://www.edx.org/course/automated-software-testing-practical-skills-for-java-developers). Maurício Aniche, Arie van Deursen.
+ * [Automated Software Testing: Advanced Skills for Java Developers](https://www.edx.org/course/automated-software-testing-advanced-skills-for-java-developers). Maurício Aniche, Arie van Deursen
+ * [Automated Software Testing in Java: Professional Certificat Program](https://www.edx.org/professional-certificate/delftx-automated-software-testing-in-java). Maurício Aniche, Arie van Deursen
  * [Data Analysis: Take It to the MAX()](https://www.edx.org/course/data-analysis-take-it-to-the-max). Felienne Hermans.
  * [Data Analysis: Visualization and Dashboard Design](https://www.edx.org/course/data-analysis-visualization-and-dashboard-design). Felienne Hermans.
  * [Análisis y Visualización de Datos con Excel](https://www.edx.org/professional-certificate/delftx-analisis-y-visualizacion-de-datos-con-excel). Felienne Hermans.
  * [Scratch: Programmeren voor kinderen (8+)](https://www.edx.org/course/scratch-programmeren-voor-kinderen-8-delftx-scratchx-0). Felienne Hermans.
  * [Programmeren voor leerkrachten met Scratch](https://www.edx.org/course/programmeren-voor-leerkrachten-met-delftx-scratchtx). Felienne Hermans.
  * [Globally Distributed Software Engineering](https://www.edx.org/course/globally-distributed-software-engineering). Rini van Solingen.
+
+### Archived
+
+ * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0). Erik Meijer.
