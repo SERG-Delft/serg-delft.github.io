@@ -56,7 +56,6 @@ Nov 2018    | TU Delft  | [Cognitive aspects of software design](/msctopics/soft
 Nov 2018    | [SIG](https://www.sig.eu/) / TU Delft  | [What's a good refactoring candidate? Improving code analysis tooling by sTU Delftying users behavior](/msctopics/bettercodehub-feedback.html) | Davide Spadini, Magiel Bruntink, Alberto Bacchelli |
 Oct 2018    | TU Delft  | [API documentation generation](/msctopics/deprecation-documentation.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Oct 2018    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Enrique Larios and Georgios Gousios|
-Sep 2018    | TU Delft  | [Java stream debugging improvement](/msctopics/java-lambdas.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Sep 2018    | TU Delft  | [Alternative API evolution communication mechanisms](/msctopics/api-communication.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Sep 2018    | TU Delft   | [Real-time analysis of dependency networks](/msctopics/prazi-pipeline.html) | Joseph Hejderup and Georgios Gousios |
 Sep 2018    | TU Delft   | [Sound call-graph generation for Rust](/msctopics/rust-cg.html) | Joseph Hejderup and Georgios Gousios |
