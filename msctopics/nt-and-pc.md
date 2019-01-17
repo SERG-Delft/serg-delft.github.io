@@ -11,7 +11,7 @@ And with our access to (somewhat cheap) bio/neuro technology, such as eye tracki
 
 This project involves:
 
-- Explore how machine learning algorithms can be used to provide useful recommendations to developers.
+- Explore how we can provide developers with interesting recommendations, based on this data.
 
 - Ethnography studies at large industry partners to evaluate the practical effectiveness of such recommendations.
 
