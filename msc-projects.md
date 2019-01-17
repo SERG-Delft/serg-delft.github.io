@@ -52,7 +52,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact          |
 |---------|------|----------------------|------------------------|
-Nov 2018    | TU Delft  | [Cognitive aspects of software design](/msctopics/software-design) | Maurício Aniche |
+Nov 2018    | TU Delft  | [Neurotechnology and program comprehension](/msctopics/nt-and-pc) | Maurício Aniche |
 Nov 2018    | [SIG](https://www.sig.eu/) / TU Delft  | [What's a good refactoring candidate? Improving code analysis tooling by sTU Delftying users behavior](/msctopics/bettercodehub-feedback.html) | Davide Spadini, Magiel Bruntink, Alberto Bacchelli |
 Oct 2018    | TU Delft  | [API documentation generation](/msctopics/deprecation-documentation.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Oct 2018    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Enrique Larios and Georgios Gousios|
