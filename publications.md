@@ -15,7 +15,7 @@ The [SERG Dissertation Series](phd.html) includes the dissertations written by S
 
 <script language="javascript">
 
-  var purexml_SERG = "https://purexml-dev.ewi.tudelft.nl/direct/tu/group/d40bac4b-3dd0-4427-aa5f-9331cae5d02e";
+  var purexml_SERG = "https://purexml-open.ewi.tudelft.nl/direct/tu/group/d40bac4b-3dd0-4427-aa5f-9331cae5d02e";
   var page_nr = location.search;
 
   var xhttp = new XMLHttpRequest();
