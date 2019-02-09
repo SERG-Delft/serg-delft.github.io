@@ -3,6 +3,10 @@ layout: index
 title: The Software Engineering Research Group
 ---
 
+<image src="img/serg-retreat-2019.jpg" style="float:center; max-width:100%; max-height:100%;"/>
+<br/>
+
+
 # The Software Engineering Research Group
 
 The mission of the TU Delft Software Engineering Research Group (SERG) is
@@ -65,7 +69,7 @@ with our students. Our [teaching activities](teaching.html) include:
 
 ## Organization
 
-SERG is one of six sections of the [Department of Software Technology][st] (ST).
+SERG is one of the sections of the [Department of Software Technology][st] (ST).
 Together with the [Intelligent Systems][INSY] department INSY, ST is responsible for research and education in computer science and engineering at [Delft University of Technology][tudelft].
 
 SERG and the Department of Software Technology are part of the TU Delft [Faculty of Electrical Engineering, Mathematics, and Computer Science][eemcs].
