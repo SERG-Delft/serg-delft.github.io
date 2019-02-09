@@ -475,17 +475,29 @@ title: People
 
 <div class="card-deck">
   <div class="card d-block">
+    <img class="card-img-top" src="img/ramsoekh.jpg" alt="Minaksi Ramsoekh">
+    <div class="card-body">
+      <div class="card-title">Minaksie Ramsoekh</div>
+      <p class="card-text">Secretary</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://nl.linkedin.com/in/minaksie-ramsoekh-8956b164" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:m.w.s.ramsoekh@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
+    </div>
+  </div>
+  <div class="card d-block">
     <img class="card-img-top" src="img/shemara-van-der-zwet.jpg" alt="Shemara van der Zwet">
     <div class="card-body">
       <div class="card-title">Shemara van der Zwet</div>
-      <p class="card-text">Department and section secretary</p>
+      <p class="card-text">Secretary</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:s.j.vanderzwet@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
     </div>
   </div>
 </div>
 
-<!--
+
 ### Alumni
 -->
