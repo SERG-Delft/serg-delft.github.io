@@ -57,11 +57,9 @@ Nov 2018    | [SIG](https://www.sig.eu/) / TU Delft  | [What's a good refactorin
 Oct 2018    | TU Delft  | [API documentation generation](/msctopics/deprecation-documentation.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
 Oct 2018    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Enrique Larios and Georgios Gousios|
 Sep 2018    | TU Delft  | [Alternative API evolution communication mechanisms](/msctopics/api-communication.html) | Anand Ashok Sawant, Alberto Bacchelli and Arie van Deursen|
-Sep 2018    | TU Delft   | [Real-time analysis of dependency networks](/msctopics/prazi-pipeline.html) | Joseph Hejderup and Georgios Gousios |
 Sep 2018    | TU Delft   | [Sound call-graph generation for Rust](/msctopics/rust-cg.html) | Joseph Hejderup and Georgios Gousios |
 Sep 2018    | TU Delft   | [Large-Scale API misuse Detection](/msctopics/prazi-api.html) | Joseph Hejderup and Georgios Gousios |
 Sep 2018    | [QuTech]/[QIA] | Quantum Internet Link Layer Simulations | Arie van Deursen |
-Jul 2018    | ING   | [Improving ING's A/B testing pipeline](/msctopics/ing-abtesting.html) | Georgios Gousios and Arie van Deursen |
 Jul 2018    | ING   | [Improving ING's Machine Learning pipeline](/msctopics/ing-ml-pipeline.html) | Georgios Gousios and Arie van Deursen
 Jul 2018    | TU Delft   | Good weather versus bad weather tests | Andy Zaidman |
 Jun 2018    | TU Delft   | [Detecting programming styles](/msctopics/programming-style-detection.html) | Georgios Gousios |
