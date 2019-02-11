@@ -358,6 +358,23 @@ title: People
 
 </div>
 
+### Scientific Programmers
+
+<div class="card-deck">
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2283622?s=460&v=4" alt="Wouter Zorgdrager">
+    <div class="card-body">
+      <div class="card-title">Wouter Zorgdrager</div>
+      <p class="card-text">Software Analytics. Working on <a href="https://www.fasten-project.eu/">FASTEN</a>.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/wouterdz"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/wzorgdrager"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/wouter-zorgdrager-a4746512a/"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+</div>
+
 ### Guests
 
 <div class="card-deck">
