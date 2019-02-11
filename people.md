@@ -170,6 +170,20 @@ title: People
 <div class="card-deck">
 
   <div class="card d-block">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2225536?s=400&u=bc59f61dac1e584ca8b071a1e10792f228470072&v=4" alt="Jeanderson B. Candido">
+    <div class="card-body">
+      <div class="card-title"><a href="https://jeandersonbc.github.io">Jeanderson Candido</a></div>
+      <p class="card-text">Software Analytics, Software Testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/jbarroscandido"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/jeandersonbc"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/jeandersonbc"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=Vye8xT4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5176953?s=460&v=4" alt="Pouria Derakhshanfar">
     <div class="card-body">
       <div class="card-title">Pouria Derakhshanfar</div>
