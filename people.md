@@ -439,17 +439,6 @@ title: People
 <div class="card-deck non-top-row">
 
   <div class="card d-block">
-      <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2743923?v=4" alt="Chushu Gao">
-    <div class="card-body">
-      <div class="card-title">Chushu Gao</div>
-      <p class="card-text">Visiting from Chinese Academy of Sciences</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://scholar.google.nl/citations?user=uP1V4IcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
     <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
     <div class="card-body">
       <div class="card-title">Hennie Huijgens</div>
@@ -512,6 +501,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)          | 2018 | Visitor | [SIG](https://www.softwareimprovementgroup.com/), NL
 [Gema Rodriguez-Perez](https://gemarodri.github.io/Presentacion/)      | 2017-2018 | Postdoc | U. Waterloo, CA
 [Marlies Aldewereld](https://dblp.uni-trier.de/pers/hd/a/Aldewereld:Marlies) | 2018-2018 | PhD Student | [LIACS](http://perl.liacs.nl) & [Windesheim](https://www.windesheim.nl/onderzoek/onderzoeksthemas/educatie/leiderschap-in-onderwijs-en-opvoeding/team)
 [Marileen Smit](https://dblp.uni-trier.de/pers/hd/s/Smit:Marileen)     | 2017-2018 | Teaching Support | [LIACS](http://perl.liacs.nl) & [FutureNL](https://futurenl.org/)
