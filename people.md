@@ -159,19 +159,6 @@ title: People
       <a href="https://scholar.google.com/citations?user=W_V42b4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
- <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5637220?s=460&v=4" alt="Gema Rodriguez-Perez">
-    <div class="card-body">
-      <div class="card-title"><a href="http://gemarodri.github.io/Presentacion/">Gema Rodriguez-Perez</a></div>
-      <p class="card-text">Code review.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/Gerope90" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://www.linkedin.com/in/gema-rodriguez-perez-56253a98/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>  
-
 </div>
 
 ### PhD Students
@@ -223,18 +210,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://i1.rgstatic.net/ii/profile.image/285316163358720-1445036082410_Q128/Robert_Holwerda.jpg" alt="Robert Holwerda">
-    <div class="card-body">
-      <div class="card-title">Robert Holwerda</div>
-      <p class="card-text">Social Software. Also at <a href="https://www.han.nl/international/english/">HAN</a></p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://pure.tudelft.nl/portal/en/persons/rna-holwerda(3e73eac8-d892-45ee-8db2-5eaff88bf05b).html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
 </div>
 
 <div class="card-deck non-top-row">
@@ -475,17 +450,86 @@ title: People
 
 <div class="card-deck">
   <div class="card d-block">
+    <img class="card-img-top" src="img/ramsoekh.jpg" alt="Minaksi Ramsoekh">
+    <div class="card-body">
+      <div class="card-title">Minaksie Ramsoekh</div>
+      <p class="card-text">Secretary</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://nl.linkedin.com/in/minaksie-ramsoekh-8956b164" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:m.w.s.ramsoekh@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
+    </div>
+  </div>
+  <div class="card d-block">
     <img class="card-img-top" src="img/shemara-van-der-zwet.jpg" alt="Shemara van der Zwet">
     <div class="card-body">
       <div class="card-title">Shemara van der Zwet</div>
-      <p class="card-text">Department and section secretary</p>
+      <p class="card-text">Secretary</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:s.j.vanderzwet@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
     </div>
   </div>
 </div>
 
-<!--
+
 ### Alumni
--->
+<a id="alumni"></a>
+
+<!-- Dear alumnus: Please feel free to offer your change of affiliation in a pull request! -->
+
+Name | Period | Role | Current Affiliation
+--|--|--|--
+[Gema Rodriguez-Perez](https://gemarodri.github.io/Presentacion/)      | 2017-2018 | Postdoc | U. Waterloo, CA
+[Marlies Aldewereld](https://dblp.uni-trier.de/pers/hd/a/Aldewereld:Marlies) | 2018-2018 | PhD Student | [LIACS](http://perl.liacs.nl) & [Windesheim](https://www.windesheim.nl/onderzoek/onderzoeksthemas/educatie/leiderschap-in-onderwijs-en-opvoeding/team)
+[Marileen Smit](https://dblp.uni-trier.de/pers/hd/s/Smit:Marileen)     | 2017-2018 | Teaching Support | [LIACS](http://perl.liacs.nl) & [FutureNL](https://futurenl.org/)
+[Robert Holwerda](https://dblp.uni-trier.de/pers/hd/h/Holwerda:Robert) | 2016-2018 | PhD student | [LIACS](httpL//perl.liacs.nl) & [HAN](https://www.han.nl/)
+[Fabio Palomba](https://www.ifi.uzh.ch/en/zest/team/palomba.html)      | 2017-2017 | Postdoc | [U. Zurich](https://www.ifi.uzh.ch/en/zest.html), CH
+[Nicolas Dintzner](https://dblp.org/pers/hd/d/Dintzner:Nicolas)        | 2013-2017 | PhD student | TU Delft / TPM
+[Tamara Brusik](https://nl.linkedin.com/in/tamara-brusik-202a037b)     | 2014-2017 | Secretary | TU Delft / HR
+[Petra Heck](https://dblp.org/pers/hd/h/Heck:Petra)                    | 2012-2016 | PhD student | [Fontys](https://fontys.nl/), NL
+[Eelco Visser](https://eelcovisser.org/)                               | 2006-2015 | Professor | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
+[Danny Groenewegen](https://dblp.org/pers/hd/g/Groenewegen:Danny_M=)    | 2009-2015 | PhD student | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
+[Guido Wachsmuth](https://dblp.org/pers/hd/w/Wachsmuth:Guido)          | 2009-2015 | Assistant professor | [Oracle Labs](https://labs.oracle.com/), CH
+[Marco Vit](https://www.linkedin.com/in/marco-vit-145b71106/)          | 2015-2015 | Scientific programmer | DiTech, IT
+[Steven Raemaekers](https://dblp.org/pers/hd/r/Raemaekers:Steven)      | 2011-2015 | PhD student | [ATS Distributed](https://www.atsdistributed.com/), NL
+[Cuiting Chen](https://dblp.org/pers/hd/c/Chen:Cuiting)                | 2011-2015 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
+[Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                    | 2010-2015 | PhD Student | --
+[Tiago Espinha](https://dblp.org/pers/hd/e/Espinha:Tiago)              | 2010-2015 | PhD student | [Ocado](https://www.ocadotechnology.com/), UK
+[Daniele Romano](https://dblp.org/pers/hd/r/Romano:Daniele)            | 2010-2015 | PhD student | [ING](https://www.ing.com/Home.htm), NL
+[Esther van Rooijen](https://www.linkedin.com/in/eevanrooijen/)        | 2009-2014 | Secretary | [NFI](https://www.forensischinstituut.nl/), NL
+[Markus Völter](http://voelter.de/)                                    | 2013-2014 | PhD student | Independent, DE
+[Ben van Gameren](https://dblp.org/pers/hd/g/Gameren:Ben_van)          | 2010-2014 | PhD student | [iHomer](https://ihomer.nl/), NL
+[Kevin Dullemond](https://dblp.org/pers/hd/d/Dullemond:Kevin)          | 2010-2014 | PhD student | [Mendix](https://www.mendix.com/), NL
+[Hans Geers](https://www.linkedin.com/in/hans-geers-3533b062/)         | 1986-2014 | Senior lecturer    | Retired
+[Cor-Paul Bezemer](https://www.ece.ualberta.ca/~bezemer/)              | 2009-2013 | PhD student | U. Alberta, CA
+[Maartje de Jonge](https://dblp.uni-trier.de/pers/hd/j/Jonge:Maartje_de)| 2009-2013 | PhD student | Independent, NL
+[Eric Bouwers](https://dblp.uni-trier.de/pers/hd/b/Bouwers:Eric)       | 2009-2013 | PhD student | [Squla](https://www.squla.nl/), NL
+[Michaela Greiler](https://dblp.org/pers/hd/g/Greiler:Michaela)        | 2008-2013 | PhD student | [Microsoft Research](https://www.microsoft.com/en-us/research/people/mgreiler/), DE
+[Martin Pinzger](https://www.aau.at/en/isys/serg/team/pinzger-martin/) | 2008-2013 | Assistant professor | [U. Klagenfurt](https://www.aau.at/en/), AU
+[Kees Pronk](https://dblp.uni-trier.de/pers/hd/p/Pronk:Cornelis)       | 1981-2013 | Assistant professor | Retired
+[Sander van der Burg](http://sandervanderburg.nl/)                     | 2008-2012 | PhD student | [Mendix](https://www.mendix.com/), NL
+[Hans-Gerhard Gross](https://dblp.org/pers/hd/g/Gro=szlig=:Hans=Gerhard) | 2005-2012 | Assistant professor | [Hochschule Esslingen](https://www.hs-esslingen.de/), DE
+[Sander Vermolen](https://dblp.uni-trier.de/pers/hd/v/Vermolen:Sander) | 2008-2012 | PhD student | [ASML](https://www.asml.com), NL
+[Eelco Dolstra](https://dblp.org/pers/hd/d/Dolstra:Eelco)              | 2008-2012 | Postdoc | [Tweag I/O](https://www.tweag.io/), NL
+[Éric Piel](https://dblp.dagstuhl.de/pers/hd/p/Piel:=Eacute=ric)       | 2008-2012 | Postdoc | [DELMIC](http://www.delmic.com/), NL
+[Alberto González-Sanchez](https://dblp.dagstuhl.de/pers/hd/g/Gonz=aacute=lez=Sanchez:Alberto) | 2007-2011 | PhD student | Google, UK
+[Rob Vermaas](https://dblp.org/pers/hd/v/Vermaas:Rob)                  | 2009-2011 | Scientific Programmer | [RelationalAI](http://relational.ai/), NL
+[Zef Hemel](https://zef.me/)                                           | 2008-2011 | PhD student | [OLX GROUP](https://www.olxgroup.com/), PL
+[Lennart Kats](https://dblp.org/pers/hd/k/Kats:Lennart_C=_L=)          | 2008-2011 | PhD student | Amazon, [AWS Cloud9](https://aws.amazon.com/cloud9/), NL
+[Peter Kluit](https://www.linkedin.com/in/peterkluit/)                 | 1986-2010 | Senior lecturer    | Retired
+[Ali Mesbah](https://dblp.uni-trier.de/pers/hd/m/Mesbah_0001:Ali)      | 2005-2010 | PhD student, postdoc | UBC, CA
+[Cathal Boogerd](https://dblp.org/pers/hd/b/Boogerd:Cathal)            | 2005-2009 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
+[Bas Cornelissen](https://dblp.org/pers/hd/c/Cornelissen:Bas)          | 2005-2009 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
+[Peter Zoeteweij](https://dblp.uni-trier.de/pers/hd/z/Zoeteweij:Peter) | 2005-2009 | Postdoc     | [IntelliMagic](https://www.intellimagic.com/), NL
+[Rui Maranhao Abreu](https://dblp.uni-trier.de/pers/hd/a/Abreu:Rui)    | 2005-2009 | PhD student | U. Lisbon, PO
+[Arjan van Gemund](https://dblp.uni-trier.de/pers/hd/g/Gemund:Arjan_J=_C=_van) | 2005-2009 | Professor | Retired
+[Marco Lormans](https://dblp.org/pers/hd/l/Lormans:Marco)              | 2002-2008 | PhD student | Xebia, NL
+[Leon Moonen](https://leonmoonen.com/)                                 | 2003-2008 | Assistant professor | Simula, NO
+[Magiel Bruntink](https://dblp.uni-trier.de/pers/hd/b/Bruntink:Magiel) | 2003-2008 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
+[Marius Marin](https://dblp.uni-trier.de/pers/hd/m/Marin:Marius)       | 2003-2007 | PhD student | Microsoft, USA
+[Bas Graaf](https://dblp.org/pers/hd/g/Graaf:Bas)                      | 2002-2007 | PhD student | [SimCorp](https://www.simcorp.com/), DK
+[Frans Ververs](https://www.linkedin.com/in/fransververs/)             | 1969-2006 | Associate professor | Retired
+[Jan van Katwijk](https://www.linkedin.com/in/jan-katwijk-van-07946a/) | 1984-2002 | Professor | Retired
+[Willem van der Poel](https://en.wikipedia.org/wiki/Willem_van_der_Poel) | 1962-1990 | Professor | Retired
