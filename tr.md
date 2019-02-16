@@ -4,7 +4,7 @@ title: SERG Technical Report Series
 ---
 
 The TU Delft Software Engineering Research Group has maintained a list of technical reports since 2006, numbered TUD-SERG-20xx-abc.
-Technical reports include a verbatim pdf of the camera-ready version of the underlying publication (i.e., they are [postprints](https://avandeursen.com/2016/11/06/green-open-access-faq/#what-is-a-postprint)), possibly extended with extra appendices that exceed the page limit of the publication. The corresponding wrapper is created in latex using a SERG report style ([private link][style].
+Technical reports include a verbatim pdf of the camera-ready version of the underlying publication (i.e., they are [postprints](https://avandeursen.com/2016/11/06/green-open-access-faq/#what-is-a-postprint)), possibly extended with extra appendices that exceed the page limit of the publication. The corresponding wrapper is created in latex using a SERG report style ([private link][style]).
 
 In the years 2006-2017 the majority of the group's publications were also made available as techreport. Many of these preprints are available in the [TU Delft Repository][issn].
 
