@@ -12,7 +12,7 @@ levels.
 
  * [CSE1100](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48428): _Object-oriented programming._ Andy Zaidman.
  * [CSE1105](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48429): _Object-Oriented Programming Project._ Felienne Hermans.
- * [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48430):  _Software Quality and Testing._  Maurício Aniche and Arie van Deursen
+ * [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48430):  _Software Quality and Testing._  Maurício Aniche and Arie van Deursen ([2019](https://serg-delft.github.io/cse1110-2019/))
  * [TI2206](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45678):  _Software Engineering Methods._  Annibale Panichella.
  * [TI2736-B](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45686):  _Big Data Processing._  Georgios Gousios ([materials](http://gousios.org/courses/bigdata/)).
  * [TI2806](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45676):  _Contextproject._  Annibale Panichella.
@@ -22,7 +22,7 @@ levels.
 
  * [CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45583): _Software Testing and Reverse Engineering._ Andy Zaidman.
  * [CS4190](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48292): _Psychology of Programming._ Felienne Hermans.
- * [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594): _Software Architecture._  Maurício Aniche, Arie van Deursen, and Andy Zaidman
+ * [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594): _Software Architecture._  Maurício Aniche, Arie van Deursen, and Andy Zaidman ([2019](https://serg-delft.github.io/delftswa2019/))
  * [IN4334](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45568): _Software Analytics._ Georgios Gousios ([materials](http://gousios.org/courses/softwanal/)).
  * [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602): _Globally Distributed Software Engineering_. Rini van Solingen.
  * [IN4306](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45593): _Literature Survey_. All SERG faculty.
@@ -33,7 +33,7 @@ levels.
  * [TI3100TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46042): _Minor Introduction._  Georgios Gousios
  * [TI3105TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46041): _Introduction to Python Programming._  Felienne Hermans.
  * [TI3110TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46043): _Algorithms and Data structures._  Georgios Gousios. ([2017](http://gousios.org/courses/algo-ds/))
- * [TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48152): _Software Engineering Methods._ Maurício Aniche ([2018 edition](https://serg-delft.github.io/ti3115tu-2018/)).
+ * [TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48152): _Software Engineering Methods._ Maurício Aniche ([2018](https://serg-delft.github.io/ti3115tu-2018/)).
 
 ### [EdX](https://www.edx.org/school/delftx) MOOCs
 
