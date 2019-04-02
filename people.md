@@ -406,6 +406,18 @@ title: People
   </div>
 
   <div class="card d-block">
+    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
+    <div class="card-body">
+      <div class="card-title">Carolin Brandt</div>
+      <p class="card-text">Improving Java Stream Debugging. Visiting from TU Munich.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/1048993643040784384/UWwwMwbG_400x400.jpg" alt="Gemma Catolino">
     <div class="card-body">
       <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
