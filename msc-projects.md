@@ -3,7 +3,7 @@ layout: page
 title: Master thesis projects
 ---
 
-### Conducting a Thesis Project
+### Finding a Thesis Project
 
 For students participating in the TU Delft computer science and embedded systems master's programs we have several openings for MSc projects.
 
@@ -66,6 +66,10 @@ Jun 2018    | TU Delft   | [Call-based dependency networks for Python/PyPI](/msc
 Jun 2018    | TU Delft   | Licensing propagation in package networks | Georgios Gousios |
 Jun 2018    | TU Delft   | [An SQL REPL loop for stream processing systems](/msctopics/codefeedr-repl.html) | Georgios Gousios |
 
+[qutech]: https://qutech.nl/
+[qia]: http://quantum-internet.team/
+[adyen]: https://www.adyen.com/
+[sig]: https://www.sig.eu/
 
 <br/>
 
@@ -81,7 +85,8 @@ In those cases it is important to
 In particular you need to carefully think about the research component of your proposal, and have a clear idea on why your proposal is novel -- it should advance the world's knowledge in software engineering.
 If you wish to pursue this route it is advisable to select and contact a possible [supervisor](#supervisor) as early as possible.
 
-[qutech]: https://qutech.nl/
-[qia]: http://quantum-internet.team/
-[adyen]: https://www.adyen.com/
-[sig]: https://www.sig.eu/
+### Writing your Thesis
+
+Once you've found your project and your supervisor, we recommend that you start writing as soon as possible: Devise a table of content, and fill in details as you go.
+
+To write your thesis you need to make use of our [MSc Thesis Template](https://github.com/SERG-Delft/thesis-template).
