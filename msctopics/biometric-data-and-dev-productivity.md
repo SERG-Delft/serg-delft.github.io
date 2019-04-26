@@ -18,7 +18,7 @@ The goal of this project is to study how biometric sensors can help developers i
 
 - Want to empirically understand the patterns of biometric data in the different development activities.
 
-- Explore how we can provide developers with interesting real-time recommendations, based on biometric data.
+- Explore how we can provide developers with interesting real-time recommendations (via machine learning), based on biometric data.
 
 - Ethnography studies at large industry partners to evaluate the practical effectiveness of such recommendations in the wild.
 
