@@ -54,7 +54,7 @@ Published | Where |  Project Title       | SERG contact           |
 |---------|-------|----------------------|------------------------|
 Mar 2019    | ING        | A/B Testing as a Service | Arie van Deursen |
 Mar 2019    | ING        | Automated Schema Integration | Arie van Deursen, Asterios Katsifodimos (WIS) |
-Nov 2018    | TU Delft   | [Neurotechnology and program comprehension](/msctopics/nt-and-pc) | Maurício Aniche |
+Nov 2018    | TU Delft   | [Leveraging biometric data to improve developers' productivity](/msctopics/biometric-data-and-dev-productivity) | Maurício Aniche |
 Oct 2018    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Enrique Larios and Georgios Gousios|
 Sep 2018    | TU Delft   | [Sound call-graph generation for Rust](/msctopics/rust-cg.html) | Joseph Hejderup and Georgios Gousios |
 Sep 2018    | TU Delft   | [Large-Scale API misuse Detection](/msctopics/prazi-api.html) | Joseph Hejderup and Georgios Gousios |
