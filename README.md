@@ -4,7 +4,7 @@ The SERG web site is built with Jekyll and is running on GitHub pages.
 
 ### Organization
 
-The website is organized in five top level sections:
+The website is organized in six top level sections:
 
 * [People](people.md) SERG member profiles
 * [Publications](publications.md) Auto-generated publication list
@@ -13,6 +13,7 @@ of open projects.
 * [Teaching](teaching.md) Links to our courses
 * [MSc projects](msc-projects.md) Open research topics and previous master
   theses.
+* [Vacancies](vacancies.md) Open vacancies
 
 ### Adding material
 

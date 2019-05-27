@@ -134,20 +134,6 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2269396?s=400&amp;v=4" alt="Maria Kechagia">
-    <div class="card-body">
-      <div class="card-title"><a href="https://mkechagia.github.io/">Maria Kechagia</a></div>
-      <p class="card-text">Crash analytics, program analysis</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/mkechagia"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/mkechagia"><i class="fab fa-github"></i></a>
-      <a href="https://nl.linkedin.com/in/maria-kechagia-3958b381"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/m-kechagia(6f4b34f6-603a-43fe-ac6e-04401a84ecfe)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/7066145?s=400&v=4" alt="Ayushi Rastogi">
     <div class="card-body">
       <div class="card-title"><a href="https://ayushirastogi.github.io/">Ayushi Rastogi</a></div>
@@ -513,6 +499,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
 [Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)          | 2018 | Visitor | [SIG](https://www.softwareimprovementgroup.com/), NL
 [Gema Rodriguez-Perez](https://gemarodri.github.io/Presentacion/)      | 2017-2018 | Postdoc | U. Waterloo, CA
 [Marlies Aldewereld](https://dblp.uni-trier.de/pers/hd/a/Aldewereld:Marlies) | 2018-2018 | PhD Student | [LIACS](http://perl.liacs.nl) & [Windesheim](https://www.windesheim.nl/onderzoek/onderzoeksthemas/educatie/leiderschap-in-onderwijs-en-opvoeding/team)
@@ -523,7 +510,7 @@ Name | Period | Role | Current Affiliation
 [Tamara Brusik](https://nl.linkedin.com/in/tamara-brusik-202a037b)     | 2014-2017 | Secretary | TU Delft / HR
 [Petra Heck](https://dblp.org/pers/hd/h/Heck:Petra)                    | 2012-2016 | PhD student | [Fontys](https://fontys.nl/), NL
 [Eelco Visser](https://eelcovisser.org/)                               | 2006-2015 | Professor | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
-[Danny Groenewegen](https://dblp.org/pers/hd/g/Groenewegen:Danny_M=)    | 2009-2015 | PhD student | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
+[Danny Groenewegen](https://dblp.org/pers/hd/g/Groenewegen:Danny_M=)   | 2009-2015 | PhD student | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
 [Guido Wachsmuth](https://dblp.org/pers/hd/w/Wachsmuth:Guido)          | 2009-2015 | Assistant professor | [Oracle Labs](https://labs.oracle.com/), CH
 [Marco Vit](https://www.linkedin.com/in/marco-vit-145b71106/)          | 2015-2015 | Scientific programmer | DiTech, IT
 [Steven Raemaekers](https://dblp.org/pers/hd/r/Raemaekers:Steven)      | 2011-2015 | PhD student | [ATS Distributed](https://www.atsdistributed.com/), NL
