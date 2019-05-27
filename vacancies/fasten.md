@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD / Postdoc on Machine learning for Software Engineering
+title: Machine learning for Software Engineering
 ---
 
 Machine learning and AI have recently revolutionized research and practice in
