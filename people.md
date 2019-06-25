@@ -287,19 +287,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/aa-sawant(850921d5-335e-452c-aa04-4ee49e7497f0)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/1183394?s=460&v=4" alt="Mozhan Soltani">
-    <div class="card-body">
-      <div class="card-title">Mozhan Soltani</div>
-      <p class="card-text">Evolutionary computing, crash replication</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/Mozhan"><i class="fab fa-github"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/m-soltani(12bb18d0-3bd3-45c6-b95f-d6a67b121bf6)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/9136821?s=400&v=4" alt="Davide Spadini">
     <div class="card-body">
@@ -404,7 +391,7 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/1048993643040784384/UWwwMwbG_400x400.jpg" alt="Gemma Catolino">
+    <img class="card-img-top" src="http://www.gemmacatolino.com/img/profile.jpg" alt="Gemma Catolino">
     <div class="card-body">
       <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
       <p class="card-text">Effort prediction. University of Salerno</p>
@@ -500,7 +487,8 @@ title: People
 Name | Period | Role | Current Affiliation
 --|--|--|--
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
-[Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)          | 2018 | Visitor | [SIG](https://www.softwareimprovementgroup.com/), NL
+[Mozhan Soltani](https://www.linkedin.com/in/mozhan-soltani-307990174/) | 2016-2019 | PhD student | [LIACS](http://perl.liacs.nl) |
+[Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)          | 2018-2018 | Visitor | [SIG](https://www.softwareimprovementgroup.com/), NL
 [Gema Rodriguez-Perez](https://gemarodri.github.io/Presentacion/)      | 2017-2018 | Postdoc | U. Waterloo, CA
 [Marlies Aldewereld](https://dblp.uni-trier.de/pers/hd/a/Aldewereld:Marlies) | 2018-2018 | PhD Student | [LIACS](http://perl.liacs.nl) & [Windesheim](https://www.windesheim.nl/onderzoek/onderzoeksthemas/educatie/leiderschap-in-onderwijs-en-opvoeding/team)
 [Marileen Smit](https://dblp.uni-trier.de/pers/hd/s/Smit:Marileen)     | 2017-2018 | Teaching Support | [LIACS](http://perl.liacs.nl) & [FutureNL](https://futurenl.org/)
