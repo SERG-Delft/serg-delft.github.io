@@ -26,6 +26,7 @@ To add a techreport, claim a new next number by making a [pull request][src] for
 
 Report Number | Author(s) | Title | Venue
 ---|---|---|---
+[TUD-SERG-2019-002](https://pure.tudelft.nl/portal/en/publications/the-delta-maintainability-model-measuring-maintainability-of-finegrained-code-changes(6ff67dee-2781-47d7-916f-bd36c5b61beb).html) | Marco di Biase, Ayushi Rastogi, Magiel Bruntink, Arie van Deursen | The Delta Maintainability Model: Measuring Maintainability of Fine-Grained Code Changes | TechDebt-2019
 [TUD-SERG-2019-001](https://pure.tudelft.nl/portal/en/publications/testdriven-code-review-an-empirical-study(b275d9ed-47b7-432a-8d22-4e1456a9ff7c).html) | Davide Spadini, Fabio Palomba, Tobias Baum, Stefan Hanenberg, Magiel Bruntink, Alberto Bacchelli | Test-Driven Code Review: An Empirical Study | ICSE-2019
 [TUD-SERG-2018-011](https://pure.tudelft.nl/portal/en/publications/information-needs-in-contemporary-code-review(f80c7da6-6215-4a89-b20d-d98a1a02c350).html) | Luca Pascarella, Davide Spadini, Fabio Palomba, Magiel Bruntink, and Alberto Bacchelli | Information Needs in Contemporary Code Review | CSCW-2018
 [TUD-SERG-2018-010](https://pure.tudelft.nl/portal/en/publications/classifying-code-comments-in-java-mobile-applications(b8a30627-98d6-4a4c-9107-98e20199c512).html) | Luca Pascarella | Classifying code comments in Java Mobile Applications | MOBILESoft-SRC-2018
