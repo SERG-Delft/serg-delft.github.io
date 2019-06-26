@@ -241,6 +241,22 @@ title: People
   </div>
 
   <div class="card d-block">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://github.com/ekula">Elvan Kula</a>
+      </div>
+      <p class="card-text">Software analytics, machine learning</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/kulaelvan" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/ekula" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/elvan-kula/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?hl=en&user=M5sWo0oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
     <div class="card-body">
       <div class="card-title">
