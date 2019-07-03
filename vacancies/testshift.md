@@ -38,7 +38,7 @@ Create an application package containing:
 Please contact Andy Zaidman (a.e.zaidman@tudelft.nl)
 
 ### How to apply?
-Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl) by **June 23rd, 2019 (23:59 Anywhere on Earth)**
+Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl) by **July 14th, 2019 (23:59 Anywhere on Earth)**
 
 ### About the research environment
 
