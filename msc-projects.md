@@ -52,6 +52,8 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact           |
 |---------|-------|----------------------|------------------------|
+Jul 2019    | TU Delft  | [How developer personality influences software development?](/msctopics/personality-performance.html)| Ayushi Rastogi, Arie van Deursen| 
+Jul 2019    | TU Delft  | [Developer Diversity and Inclusion](/msctopics/diversity-inclusion.html)| Ayushi Rastogi, Arie van Deursen|
 Mar 2019    | ING        | A/B Testing as a Service | Arie van Deursen |
 Mar 2019    | ING        | Automated Schema Integration | Arie van Deursen, Asterios Katsifodimos (WIS) |
 Nov 2018    | TU Delft   | [Leveraging biometric data to improve developers' productivity](/msctopics/biometric-data-and-dev-productivity) | Maurício Aniche |
