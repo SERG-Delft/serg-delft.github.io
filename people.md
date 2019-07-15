@@ -289,6 +289,10 @@ title: People
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5801581?s=400&v=4" alt="Sohon Roy">
     <div class="card-body">
@@ -302,11 +306,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/s-roy(3877362c-2ace-451c-9679-24c6e5b6ecf7)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
-
   <div class="card d-block">
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/625589553575895040/rF3zIK2-_400x400.jpg" alt="Anand Sawant">
     <div class="card-body">
