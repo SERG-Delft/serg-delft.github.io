@@ -228,6 +228,22 @@ title: People
   </div>  
 
   <div class="card d-block">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/24504585?s=400&amp;u=c8217c41b2f168f006676b8b0a5c2580b5d427ff&amp" alt="Mehdi Keshani">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://ashkboos.github.io/MyWebsite/">Mehdi Keshani</a>
+      </div>
+      <p class="card-text">Software analytics, Software Evolution</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/Mehdi22043845" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/ashkboos" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mehdi-keshani-73b751158/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+  
+  <div class="card d-block">
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/966082298507612161/vkTJqaqD_400x400.jpg" alt="Vladimir Kovalenko">
     <div class="card-body">
       <div class="card-title"><a href="https://vovak.me/">Vladimir Kovalenko</a></div>
@@ -256,21 +272,6 @@ title: People
     </div>
   </div>
   
-    <div class="card d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/24504585?s=400&amp;u=c8217c41b2f168f006676b8b0a5c2580b5d427ff&amp" alt="Mehdi Keshani">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://ashkboos.github.io/MyWebsite/">Mehdi Keshani</a>
-      </div>
-      <p class="card-text">Software analytics, Software Evolution</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/Mehdi22043845" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/ashkboos" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/mehdi-keshani-73b751158/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
