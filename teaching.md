@@ -31,9 +31,9 @@ levels.
 ### Minor [Computer Science](https://www.tudelft.nl/en/eemcs/study/minors/computer-science/)
 
  * [TI3100TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46042): _Minor Introduction._  Georgios Gousios
- * [TI3105TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46041): _Introduction to Python Programming._  Felienne Hermans.
- * [TI3110TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46043): _Algorithms and Data structures._  Georgios Gousios. ([2017](http://gousios.org/courses/algo-ds/))
- * [TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48152): _Software Engineering Methods._ Maurício Aniche ([2018](https://serg-delft.github.io/ti3115tu-2018/)).
+ * [TI3105TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46041): _Introduction to Python Programming._  Frank Mulder.
+ * [TI3110TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46043): _Algorithms and Data Structures._  Bart Gerritsen. ([2017](http://gousios.org/courses/algo-ds/))
+ * [TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48152): _Software Engineering Methods._ Maurício Aniche ([2019](https://serg-delft.github.io/ti3115tu-2019/), [2018](https://serg-delft.github.io/ti3115tu-2018/)).
 
 ### [EdX](https://www.edx.org/school/delftx) MOOCs
 
