@@ -52,6 +52,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact           |
 |---------|-------|----------------------|------------------------|
+Sep 2019    | TU Delft  | [Design and Implemention of a parallel awk-like language](/msctopics/parallel-awk.html)| Diomidis Spinellis |
 Jul 2019    | TU Delft  | [How developer personality influences software development?](/msctopics/personality-performance.html)| Ayushi Rastogi, Arie van Deursen| 
 Jul 2019    | TU Delft  | [Developer Diversity and Inclusion](/msctopics/diversity-inclusion.html)| Ayushi Rastogi, Arie van Deursen|
 Mar 2019    | ING        | A/B Testing as a Service | Arie van Deursen |
