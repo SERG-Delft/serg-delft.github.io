@@ -31,7 +31,7 @@ Supervisor | Topics | Examples
 |---|---|---|
 Maurício Aniche | Empirical software engineering, Psychology of programming, software testing | [Example theses][theses-mauricio]
 Arie van Deursen | Human aspects, software architecture, software testing | [Example theses][theses-arie]
-Georgios Gousios | Software analytics, repository mining | [Example theses][theses-georgios]
+Georgios Gousios | Machine learning for software engineering, repository mining, software analytics | [Example theses][theses-georgios]
 Annibale Panichella | Software testing, search-based software engineering, security testing | [Example theses][theses-annibale]
 Rini van Solingen | Globally distributed software engineering, agile practices | [Example theses][theses-rini]
 Andy Zaidman | Software testing, software evolution, repository mining | [Example theses][theses-andy]
