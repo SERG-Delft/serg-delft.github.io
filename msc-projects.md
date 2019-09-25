@@ -52,6 +52,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact           |
 |---------|-------|----------------------|------------------------|
+Sep 2019    | TU Delft  | [Software engineering of Deep Learning applications](/msctopics/deep-learn-soft-eng.md)| Diomidis Spinellis |
 Sep 2019    | TU Delft  | [What is the Quality of Open-Source Safety-Critical Software?](/msctopics/critical-oss-quality.md)| Diomidis Spinellis |
 Sep 2019    | TU Delft  | [Which Are the Key Infrastructure Open Source Projects?](/msctopics/key-infrastructure.md)| Diomidis Spinellis |
 Sep 2019    | TU Delft  | [Layering Violations in the Linux Kernel](/msctopics/layering-violations.md)| Diomidis Spinellis |
