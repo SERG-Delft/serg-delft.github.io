@@ -52,6 +52,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact           |
 |---------|-------|----------------------|------------------------|
+Sep 2019    | TU Delft  | [Layering Violations in the Linux Kernel](/msctopics/layering-violations.md)| Diomidis Spinellis |
 Sep 2019    | [SIG](https://www.softwareimprovementgroup.com/) | [Incremental code duplication detection](/msctopics/incremental-code-duplication.html)| Marco di Biase |
 Sep 2019    | TU Delft  | [Design and Implemention of a parallel awk-like language](/msctopics/parallel-awk.html)| Diomidis Spinellis |
 Jul 2019    | TU Delft  | [How developer personality influences software development?](/msctopics/personality-performance.html)| Ayushi Rastogi, Arie van Deursen| 
