@@ -12,6 +12,7 @@ Within those research lines, ongoing funded research projects include the follow
 
 Start | Name | Project Title | Funding | SERG Principal Investigators
 ------|------|---------------|---------|------------------------
+2019  | [UBRI](https://ubri.ripple.com) | Testing for Blockchain | Ripple | Annibale Panichella
 2019  | [FASTEN](http://gousios.org/blog/Introducing-Fasten.html) | Fine-grained analysis of software ecosystems (FASTEN) | EU H2020 | Georgios Gousios
 2019  | DFS  | Data Flow Security | [EEMCS](https://www.tudelft.nl/en/eemcs/), [SUTD](https://www.sutd.edu.sg/) | Maurício Aniche, Arie van Deursen
 2018  | [QIA](http://quantum-internet.team/)  | Quantum Internet Alliance | EU FET | Arie van Deursen
