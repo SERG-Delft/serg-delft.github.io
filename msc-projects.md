@@ -52,6 +52,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 Published | Where |  Project Title       | SERG contact           |
 |---------|-------|----------------------|------------------------|
+Oct 2019    | TU Delft  | [Machine Learning 4 Testing](/msctopics/ml4testing.md)| Annibale Panichella |
 Sep 2019    | TU Delft  | [Machine Learning 4 Software Refactoring](/msctopics/refactoring.md)| Maurício Aniche |
 Sep 2019    | TU Delft  | [Software engineering of Deep Learning applications](/msctopics/deep-learn-soft-eng.md)| Diomidis Spinellis |
 Sep 2019    | TU Delft  | [What is the Quality of Open-Source Safety-Critical Software?](/msctopics/critical-oss-quality.md)| Diomidis Spinellis |
