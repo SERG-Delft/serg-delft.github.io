@@ -6,6 +6,8 @@ title: SERG Dissertation Series
 Doctoral dissertations completed within the Software Engineering Research Group, and defended at Delft University of Technology are listed below.
 All dissertations are available from the [TU Delft repository](https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=research&f%5B0%5D=mods_genre_s%3A%22doctoral%5C%20thesis%22&display=tud_default).
 
+1. Anand Ashok Sawant. [The impact of API evolution on API consumers and how this can be affected by API producers and language designers](https://doi.org/10.4233/uuid:3d7bc400-2447-4a88-8768-3025d7b54b7f). October 2019. Advisors: Alberto Bacchelli and Arie van Deursen.
+1. Alaaeddin Swidan. [Challenges of end-user programmers: Reflections from two groups of end-users](https://repository.tudelft.nl/islandora/object/uuid:01110abf-6e9e-4518-abd3-c4e0daa13f6f?collection=research). September 2019. Advisors: Felienne Hermans and Arie van Deursen.
 1. Moritz Beller. [An Empirical Evaluation of Feedback-Driven Software Development](https://doi.org/10.4233/uuid:b2946104-2092-42bb-a1ee-3b085d110466). November 2018. Advisors: Andy Zaidman, Georgios Gousios, and Arie van Deursen.
 1. Hennie Huijgens. [Evidence-Based Software Portfolio Management
 Scientific](https://doi.org/10.4233/uuid:f8fa946a-0178-40e7-bf9c-b91962698481). February 2018.
