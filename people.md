@@ -106,17 +106,17 @@ title: People
 
 <div class="card-deck">
   <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/334256?s=460&v=4" alt="Moritz Beller">
+    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
-      <div class="card-title"><a href="https://inventitech.com">Moritz Beller</a></div>
-      <p class="card-text">Software ecosystems, continuous integration</p>
+      <div class="card-title"><a href="https://luiscruz.github.io/">Luís Cruz</a></div>
+      <p class="card-text">Green computing, mobile computing</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/inventitech"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/inventitech"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/inventitech"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/mm-beller(32e3c6c5-065f-4b6e-b373-30442d051144)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
+      <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a>
+      <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/luismirandacruz"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=O13oaH0AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+   </div>
   </div>
 
   <div class="card d-block">
@@ -143,6 +143,7 @@ title: People
       <a href="https://github.com/AyushiRastogi"><i class="fab fa-github"></i></a>
       <a href="hhttps://www.linkedin.com/in/ayushirastogi/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=W_V42b4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/a-rastogi(1c9e7530-e9f0-4190-b884-c8e22beb246c)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 </div>
@@ -518,6 +519,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
 [Mozhan Soltani](https://www.linkedin.com/in/mozhan-soltani-307990174/) | 2016-2019 | PhD student | [LIACS](http://perl.liacs.nl) |
 [Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)          | 2018-2018 | Visitor | [SIG](https://www.softwareimprovementgroup.com/), NL
