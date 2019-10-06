@@ -42,13 +42,11 @@ source tools whenever possible.
 
 To accomplish our research goals, our research is organized across four research lines:
 
-1. **[Search-Based Software Engineering](sbse.html):** How can search-based techniques be used to automate complex software development tasks?
+1. **[AI-Based Software Engineering](sbse.html):** How can techniques from artificial intelligence be used to improve complex software development tasks?
 
 2. **[Software Analytics](softanalytics.html):** How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
 
-3. **Software Engineering Education and End User Programming:** How can non-developers be helped become proficient in coding at a level suitable for their needs?
-
-4. **Software Testing:** What are effective software testing methods and techniques?
+3. **Software Testing:** What are effective software testing methods and techniques?
 
 ## Education
 
