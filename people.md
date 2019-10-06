@@ -152,9 +152,19 @@ title: People
 
 <!-- Registered in TU Delft EEMCS Graduate School -->
 
-<!-- Robbert, Marleen -->
-
 <div class="card-deck">
+
+  <div class="card d-block">
+    <img class="card-img-top" src="img/vivek.jpg" alt="Vivek Arora">
+    <div class="card-body">
+      <div class="card-title">Vivek Arora</div>
+      <p class="card-text">Software analytics, software security</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://www.linkedin.com/in/vivekar"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2225536?s=400&u=bc59f61dac1e584ca8b071a1e10792f228470072&v=4" alt="Jeanderson B. Candido">
@@ -188,7 +198,7 @@ title: People
       <div class="card-title">
         <a href="https://mardibiase.github.io" target="_blank">Marco di Biase</a>
       </div>
-      <p class="card-text">Maintainability, code reviews</p>
+      <p class="card-text">Maintainability. Also at SIG</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/mardibiase" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -202,7 +212,7 @@ title: People
     <img class="card-img-top" src="https://user-images.githubusercontent.com/2521475/48063837-7b1be500-e1c6-11e8-9dc7-78813d6f766c.png" alt="Joseph Hejderup">
     <div class="card-body">
       <div class="card-title"><a href="https://jhejderup.github.io">Joseph Hejderup</a></div>
-      <p class="card-text">Software ecosystems, program analysis</p>
+      <p class="card-text">Software ecosystems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/jhejderup"><i class="fab fa-twitter"></i></a>
@@ -248,12 +258,13 @@ title: People
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/966082298507612161/vkTJqaqD_400x400.jpg" alt="Vladimir Kovalenko">
     <div class="card-body">
       <div class="card-title"><a href="https://vovak.me/">Vladimir Kovalenko</a></div>
-      <p class="card-text">Code review, recommender systems</p>
+      <p class="card-text">Code review, AI. Also at JetBrains</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/vovak_"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/vovak"><i class="fab fa-github"></i></a>
       <a href="https://www.instagram.com/vovak_/"><i class="fab fa-instagram"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/vv-kovalenko(a3cb122a-dde8-4d23-aa3e-5f23cf48b230)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -263,7 +274,7 @@ title: People
       <div class="card-title">
         <a href="https://github.com/ekula">Elvan Kula</a>
       </div>
-      <p class="card-text">Software analytics, machine learning</p>
+      <p class="card-text">Software analytics, AI. Also at ING</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/kulaelvan" title="Twitter"><i class="fab fa-twitter"></i></a>
@@ -307,6 +318,7 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/s-roy(3877362c-2ace-451c-9679-24c6e5b6ecf7)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
   <div class="card d-block">
     <img class="card-img-top" src="https://pbs.twimg.com/profile_images/625589553575895040/rF3zIK2-_400x400.jpg" alt="Anand Sawant">
     <div class="card-body">
@@ -320,13 +332,14 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/aa-sawant(850921d5-335e-452c-aa04-4ee49e7497f0)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/9136821?s=400&v=4" alt="Davide Spadini">
     <div class="card-body">
       <div class="card-title">
         <a href="https://ishepard.github.io/" target="_blank">Davide Spadini</a>
       </div>
-      <p class="card-text">Software testing, code review</p>
+      <p class="card-text">Software testing. Also at SIG</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/DavideSpadini" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -335,19 +348,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/d-spadini(df3c7c1c-421b-413d-8f61-ba8a6b23b82b)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
- <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/7933089?s=400&v=4" alt="Alaaeddin Swidan">
-    <div class="card-body">
-      <div class="card-title"> Alaaeddin Swidan</div>
-      <p class="card-text">Spreadsheets, programming education</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/aeswidan"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=NDkRW44AAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/aas-swidan(20070d35-afd5-49a5-ac87-7d9264fb3906)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>    
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/16692536?s=460&v=4" alt="Qianqian Zhu">
@@ -457,6 +457,19 @@ title: People
   </div>
 
   <div class="card d-block">
+    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/7933089?s=400&v=4" alt="Alaaeddin Swidan">
+    <div class="card-body">
+      <div class="card-title"> Alaaeddin Swidan</div>
+      <p class="card-text">Programming education. Open Universiteit and Leiden</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/aeswidan"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=NDkRW44AAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/aas-swidan(20070d35-afd5-49a5-ac87-7d9264fb3906)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>    
+
+  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
     <div class="card-body">
       <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
@@ -535,7 +548,7 @@ Name | Period | Role | Current Affiliation
 [Hans Geers](https://www.linkedin.com/in/hans-geers-3533b062/)         | 1986-2014 | Senior lecturer    | Retired
 [Cor-Paul Bezemer](https://www.ece.ualberta.ca/~bezemer/)              | 2009-2013 | PhD student | U. Alberta, CA
 [Maartje de Jonge](https://dblp.uni-trier.de/pers/hd/j/Jonge:Maartje_de)| 2009-2013 | PhD student | Independent, NL
-[Eric Bouwers](https://dblp.uni-trier.de/pers/hd/b/Bouwers:Eric)       | 2009-2013 | PhD student | [Squla](https://www.squla.nl/), NL
+[Eric Bouwers](https://dblp.uni-trier.de/pers/hd/b/Bouwers:Eric)       | 2009-2013 | PhD student | [Grasple](https://www.grasple.com/), NL
 [Michaela Greiler](https://dblp.org/pers/hd/g/Greiler:Michaela)        | 2008-2013 | PhD student | [Microsoft Research](https://www.microsoft.com/en-us/research/people/mgreiler/), DE
 [Martin Pinzger](https://www.aau.at/en/isys/serg/team/pinzger-martin/) | 2008-2013 | Assistant professor | [U. Klagenfurt](https://www.aau.at/en/), AU
 [Kees Pronk](https://dblp.uni-trier.de/pers/hd/p/Pronk:Cornelis)       | 1981-2013 | Assistant professor | Retired
@@ -561,5 +574,5 @@ Name | Period | Role | Current Affiliation
 [Marius Marin](https://dblp.uni-trier.de/pers/hd/m/Marin:Marius)       | 2003-2007 | PhD student | Microsoft, USA
 [Bas Graaf](https://dblp.org/pers/hd/g/Graaf:Bas)                      | 2002-2007 | PhD student | [SimCorp](https://www.simcorp.com/), DK
 [Frans Ververs](https://www.linkedin.com/in/fransververs/)             | 1969-2006 | Associate professor | Retired
-[Jan van Katwijk](https://www.linkedin.com/in/jan-katwijk-van-07946a/) | 1984-2002 | Professor | Retired
+[Jan van Katwijk](https://www.linkedin.com/in/jan-katwijk-van-07946a/) | 1984-2002 | Professor, dean | Retired
 [Willem van der Poel](https://en.wikipedia.org/wiki/Willem_van_der_Poel) | 1962-1990 | Professor | Retired
