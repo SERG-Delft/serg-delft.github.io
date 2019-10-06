@@ -3,7 +3,7 @@ layout: index
 title: The Software Engineering Research Group
 ---
 
-<image src="img/serg-retreat-2019.jpg" style="float:center; max-width:100%; max-height:100%;"/>
+<image src="img/serg-retreat-antwerpen-2019.jpg" style="float:center; max-width:100%; max-height:100%;"/>
 <br/>
 
 
