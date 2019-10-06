@@ -386,19 +386,6 @@ title: People
 <div class="card-deck">
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/2752631?s=400&v=4" alt="Efthimia Aivaloglou">
-    <div class="card-body">
-      <div class="card-title">Efthimia Aivaloglou</div>
-      <p class="card-text">Computing Education. Open Universiteit.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/feniaiv" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=8PDy_s4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/e-aivaloglou(23414d01-6657-4716-84b1-8b00a422812f)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>  
-
-  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/668766?&v=4" alt="Alberto Bacchelli">
     <div class="card-body">
       <div class="card-title"><a href="http://sback.it/">Alberto Bacchelli</a></div>
@@ -519,6 +506,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
 [Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
 [Mozhan Soltani](https://www.linkedin.com/in/mozhan-soltani-307990174/) | 2016-2019 | PhD student | [LIACS](http://perl.liacs.nl) |
