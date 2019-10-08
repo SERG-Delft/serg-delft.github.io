@@ -255,7 +255,7 @@ title: People
   </div>
   
   <div class="card d-block">
-    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/966082298507612161/vkTJqaqD_400x400.jpg" alt="Vladimir Kovalenko">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1163206?s=400&v=4" alt="Vladimir Kovalenko">
     <div class="card-body">
       <div class="card-title"><a href="https://vovak.me/">Vladimir Kovalenko</a></div>
       <p class="card-text">Code review, AI. Also at JetBrains</p>
