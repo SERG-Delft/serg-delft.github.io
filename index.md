@@ -40,7 +40,7 @@ the [TU Delft institutional repository](https://pure.tudelft.nl/portal/en/organi
 our Technical Reports series. We aim at sharing our research prototypes as open
 source tools whenever possible.
 
-To accomplish our research goals, our research is organized across four research lines:
+To accomplish our research goals, our research is organized across three research lines:
 
 1. **[AI-Based Software Engineering](sbse.html):** How can techniques from artificial intelligence be used to improve complex software development tasks?
 
