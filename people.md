@@ -284,6 +284,20 @@ title: People
     </div>
   </div>
   
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://mirblog.me/" title="Amir's personal blog">Amir M. Mir</a>
+      </div>
+      <p class="card-text">Machine Learning, Software Analytics</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/mir-am" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mir93/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=IZB4GI8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
