@@ -296,6 +296,7 @@ title: People
       <a href="https://github.com/mir-am" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/mir93/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=IZB4GI8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+	  <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
