@@ -495,6 +495,18 @@ title: People
       <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+  
+  <div class="card d-block">
+      <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/45024191?s=460&v=4" alt="Xunhui Zhang">
+      <div class="card-body">
+        <div class="card-title"><a href="https://zhangxunhui.github.io/">Xunhui Zhang</a></div>
+        <p class="card-text">Software analytics. Visiting from NUDT.</p>
+      </div>
+      <div class="card-footer bg-transparent border-success">
+        <a href="https://github.com/zhangxunhui"><i class="fab fa-github"></i></a>
+        <a href="https://twitter.com/zhangxunhui9368"><i class="fab fa-twitter"></i></a>
+      </div>
+    </div>
 
 </div>
 
