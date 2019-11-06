@@ -110,7 +110,7 @@ title: People
     <img class="card-img-top" src="http://www.gemmacatolino.com/img/profile.jpg" alt="Gemma Catolino">
     <div class="card-body">
       <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
-      <p class="card-text">Effort prediction. University of Salerno</p>
+      <p class="card-text">Effort prediction, testability.</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
