@@ -1,4 +1,4 @@
-permalink: /blog/:title
+permalink: /:categories/:year/:month/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge

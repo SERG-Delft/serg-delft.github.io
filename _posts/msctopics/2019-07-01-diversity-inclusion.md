@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Developer diversity and inclusion
+categories: [msc-topics]
 where: TU Delft
 contact: Ayushi Rastogi
 ---

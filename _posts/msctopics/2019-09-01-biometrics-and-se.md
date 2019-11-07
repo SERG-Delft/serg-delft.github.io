@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Biometrics and software engineering
+categories: [msc-topics]
 where: TU Delft
 contact: Maurício Aniche
 ---

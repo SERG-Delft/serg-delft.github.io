@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Incremental code duplication detection
+categories: [msc-topics]
 where: TU Delft, SIG
 contact: Marco Di Biase
 ---

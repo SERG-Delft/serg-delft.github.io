@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Real-time analysis of dependency networks
+categories: [msc-topics]
 where: TU Delft
 contact: Georgios Gousios
 ---

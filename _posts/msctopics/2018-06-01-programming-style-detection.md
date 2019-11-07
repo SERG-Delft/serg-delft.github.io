@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Detecting programming styles
+categories: [msc-topics]
 where: TU Delft
 contact: Georgios Gousios
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prioritizing patches to minimize conflicts
+categories: [msc-topics]
 where: TU Delft / JetBrains
 contact: Georgios Gousios, Vladimir Kovalenko
 ---
