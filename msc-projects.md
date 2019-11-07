@@ -50,31 +50,10 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 
 ### Open projects
 
-Published | Where |  Project Title       | SERG contact           |
-|---------|-------|----------------------|------------------------|
-Nov 2019    | TU Delft / JetBrains  | [Minimizing Merge Conflicts](msctopics/prioritizing-patches-to-minimize-conflicts.md)| Georgios Gousios, Vladimir Kovalenko |
-Oct 2019    | TU Delft  | [Machine Learning 4 Testing](/msctopics/ml4testing.md)| Annibale Panichella |
-Sep 2019    | TU Delft  | [Machine Learning 4 Software Refactoring](/msctopics/refactoring.md)| Maurício Aniche |
-Sep 2019    | TU Delft  | [Software engineering of Deep Learning applications](/msctopics/deep-learn-soft-eng.md)| Diomidis Spinellis |
-Sep 2019    | TU Delft  | [What is the Quality of Open-Source Safety-Critical Software?](/msctopics/critical-oss-quality.md)| Diomidis Spinellis |
-Sep 2019    | TU Delft  | [Which Are the Key Infrastructure Open Source Projects?](/msctopics/key-infrastructure.md)| Diomidis Spinellis |
-Sep 2019    | TU Delft  | [Layering Violations in the Linux Kernel](/msctopics/layering-violations.md)| Diomidis Spinellis |
-Sep 2019    | [SIG](https://www.softwareimprovementgroup.com/) | [Incremental code duplication detection](/msctopics/incremental-code-duplication.html)| Marco di Biase |
-Sep 2019    | TU Delft  | [Design and Implemention of a parallel awk-like language](/msctopics/parallel-awk.html)| Diomidis Spinellis |
-Jul 2019    | TU Delft  | [How developer personality influences software development?](/msctopics/personality-performance.html)| Ayushi Rastogi, Arie van Deursen| 
-Jul 2019    | TU Delft  | [Developer Diversity and Inclusion](/msctopics/diversity-inclusion.html)| Ayushi Rastogi, Arie van Deursen|
-Mar 2019    | ING        | A/B Testing as a Service | Arie van Deursen |
-Mar 2019    | ING        | Automated Schema Integration | Arie van Deursen, Asterios Katsifodimos (WIS) |
-Nov 2018    | TU Delft   | [Biometrics and software engineering](/msctopics/biometrics-and-se.html) | Maurício Aniche |
-Oct 2018    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Enrique Larios and Georgios Gousios|
-Sep 2018    | TU Delft   | [Large-Scale API misuse Detection](/msctopics/prazi-api.html) | Joseph Hejderup and Georgios Gousios |
-Sep 2018    | [QuTech]/[QIA] | Quantum Internet Link Layer Simulations | Arie van Deursen |
-Jul 2018    | ING   | [Improving ING's Machine Learning pipeline](/msctopics/ing-ml-pipeline.html) | Georgios Gousios and Arie van Deursen
-Jul 2018    | TU Delft   | Good weather versus bad weather tests | Andy Zaidman |
-Jun 2018    | TU Delft   | [Detecting programming styles](/msctopics/programming-style-detection.html) | Georgios Gousios |
-Jun 2018    | TU Delft   | [Call-based dependency networks for Python/PyPI](/msctopics/python-cdn.html) | Georgios Gousios |
-Jun 2018    | TU Delft   | Licensing propagation in package networks | Georgios Gousios |
-Jun 2018    | TU Delft   | [An SQL REPL loop for stream processing systems](/msctopics/codefeedr-repl.html) | Georgios Gousios |
+| Published | Where |  Project Title       | SERG contact           |
+|---------|-------|----------------------|------------------------|{% for post in site.posts %}{% if post.path contains 'msctopics' %}
+| {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> | {{ post.contact }} |{% endif %}{% endfor %}
+
 
 [qutech]: https://qutech.nl/
 [qia]: http://quantum-internet.team/

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Design and Implementation of a parallel awk-like language
+where: TU Delft
+contact: Diomidis Spinellis
 ---
 
 #### Project description

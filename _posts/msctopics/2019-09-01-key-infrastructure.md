@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Which Are the Key Infrastructure Open Source Projects?
+where: TU Delft
+contact: Diomidis Spinellis
+
 ---
 
 #### Project description

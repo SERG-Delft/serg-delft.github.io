@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Prioritizing patches to minimize conflicts
+where: TU Delft / JetBrains
+contact: Georgios Gousios, Vladimir Kovalenko
 ---
 
 #### Project description

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: What is the Quality of Open-Source Safety-Critical Software?
+where: TU Delft
+contact: Diomidis Spinellis
 ---
 
 #### Project description

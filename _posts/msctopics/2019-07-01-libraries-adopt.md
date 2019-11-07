@@ -1,6 +1,8 @@
 ---
 layout: page
 title: A decision support tool to assist the decision-making of software libraries adoption
+where: TU Delft, SIG
+contact: Enrique Vargas, Georgios Gousios
 ---
 
 #### Background

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Improving ING's Machine Learning as a Service
+where: TU Delft, ING
+contact: Georgios Gousios, Arie van Deursen
 ---
 
 #### Project description

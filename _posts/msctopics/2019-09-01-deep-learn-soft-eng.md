@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Software engineering of Deep Learning applications
+where: TU Delft
+contact: Diomidis Spinellis
 ---
 
 #### Project description

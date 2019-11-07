@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Biometrics and software engineering
+where: TU Delft
+contact: Maurício Aniche
 ---
 
 #### Project description
