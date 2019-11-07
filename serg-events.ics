@@ -5,7 +5,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:http://se.ewi.tudelft.nl/events
 X-WR-CALNAME:serg
-{% for post in site.posts %}{% if post.categories contains "events" %}BEGIN:VEVENT
+{% for post in site.posts limit:25 %}{% if post.categories contains "events" %}BEGIN:VEVENT
 UID:{{ post.date | date: "%Y%m%d" }}@example.com
 ORGANIZER;CN="SERG":MAILTO:organizer@example.org
 LOCATION:{{ post.where }}
