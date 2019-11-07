@@ -23,7 +23,8 @@ levels.
  * [CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45583): _Software Testing and Reverse Engineering._ Andy Zaidman.
  * [CS4190](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48292): _Psychology of Programming._ Felienne Hermans.
  * [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594): _Software Architecture._  Maurício Aniche, Arie van Deursen, and Andy Zaidman ([2019](https://serg-delft.github.io/delftswa2019/))
- * [IN4334](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45568): _Software Analytics._ Georgios Gousios ([materials](http://gousios.org/courses/softwanal/)).
+ * [IN4334](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117) _Analytics and Machine Learning for Software Engineering_ Georgios Gousios and Maurício Aniche 
+ ([materials](http://gousios.org/courses/ml4se/))
  * [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602): _Globally Distributed Software Engineering_. Rini van Solingen.
  * [IN4306](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45593): _Literature Survey_. All SERG faculty.
  * [IN5000](msc-projects.html): _MSc Thesis Final Project_. All SERG faculty.
@@ -51,4 +52,5 @@ levels.
 
 ### Archived
 
- * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0). Erik Meijer.
+* [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0). Erik Meijer.
+* [IN4334](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45568): _Software Analytics._ Georgios Gousios ([materials](http://gousios.org/courses/softwanal/)).
