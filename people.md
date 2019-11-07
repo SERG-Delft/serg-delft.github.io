@@ -61,11 +61,12 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
       <div class="card-title"><a href="https://www.mauricioaniche.com">Maurício Aniche</a></div>
-      <p class="card-text">Software maintenance, empirical software engineering</p>
+      <p class="card-text">Software maintenance, software refactoring, empirical software engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/mauricioaniche" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/mauricioaniche" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mauricioaniche/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=AyX0Ou0AAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="hhttps://pure.tudelft.nl/portal/en/persons/m-finavaro-aniche(555c2765-502d-4254-82a6-d16ef65db961).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
