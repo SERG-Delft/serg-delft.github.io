@@ -55,11 +55,6 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 | {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> | {{ post.contact }} |{% endif %}{% endfor %}
 
 
-[qutech]: https://qutech.nl/
-[qia]: http://quantum-internet.team/
-[adyen]: https://www.adyen.com/
-[sig]: https://www.sig.eu/
-
 <br/>
 
 ### Proposing your Own Project
