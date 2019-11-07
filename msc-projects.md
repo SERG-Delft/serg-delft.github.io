@@ -29,7 +29,7 @@ You can make an appointment with one of the SERG group members to see what proje
 
 Supervisor | Topics | Examples
 |---|---|---|
-Maurício Aniche | Software maintenance, Software refactoring, software testing | [Example theses][theses-mauricio]
+Maurício Aniche | Software maintenance, software refactoring, software testing | [Example theses][theses-mauricio]
 Arie van Deursen | Human aspects, software architecture, software testing | [Example theses][theses-arie]
 Georgios Gousios | Machine learning for software engineering, repository mining, software analytics | [Example theses][theses-georgios]
 Annibale Panichella | Software testing, search-based software engineering, security testing | [Example theses][theses-annibale]
