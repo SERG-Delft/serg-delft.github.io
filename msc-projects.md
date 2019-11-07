@@ -65,7 +65,7 @@ Jul 2019    | TU Delft  | [How developer personality influences software develop
 Jul 2019    | TU Delft  | [Developer Diversity and Inclusion](/msctopics/diversity-inclusion.html)| Ayushi Rastogi, Arie van Deursen|
 Mar 2019    | ING        | A/B Testing as a Service | Arie van Deursen |
 Mar 2019    | ING        | Automated Schema Integration | Arie van Deursen, Asterios Katsifodimos (WIS) |
-Nov 2018    | TU Delft   | [Leveraging biometric data to improve developers' productivity](/msctopics/biometric-data-and-dev-productivity) | Maurício Aniche |
+Nov 2018    | TU Delft   | [Biometrics and software engineering](/msctopics/biometrics-and-se.html) | Maurício Aniche |
 Oct 2018    | [SIG](https://www.sig.eu/) | [A decision support tool to assist the decision-making of software libraries adoption](/msctopics/libraries-adopt.html) | Enrique Larios and Georgios Gousios|
 Sep 2018    | TU Delft   | [Large-Scale API misuse Detection](/msctopics/prazi-api.html) | Joseph Hejderup and Georgios Gousios |
 Sep 2018    | [QuTech]/[QIA] | Quantum Internet Link Layer Simulations | Arie van Deursen |

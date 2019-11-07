@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leveraging biometric sensors to improve developers' productivity
+title: Biometrics and software engineering
 ---
 
 #### Project description
