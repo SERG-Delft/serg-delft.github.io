@@ -534,7 +534,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
-[Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/?originalSubdomain=nl)                         | 2009-2019 | PhD student | Postdoc at UC Davis, USA |
+[Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/?originalSubdomain=nl)                         | 2009-2019 | PhD student | UC Davis, USA |
 [Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
 [Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
