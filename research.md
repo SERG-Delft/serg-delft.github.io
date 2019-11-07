@@ -3,10 +3,10 @@ layout: page
 title: Research Projects
 ---
 
-Our research can be divided into the four main research lines
+Our research can be divided into the three main research lines
 [Search Based Software Engineering](sbse.html),
 [Software Analytics](softanalytics.html),
-[Software Engineering Education](softedu.html), and
+and
 [Software Testing](softtesting.html).
 Within those research lines, ongoing funded research projects include the following:
 
