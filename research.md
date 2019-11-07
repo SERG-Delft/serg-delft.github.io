@@ -16,7 +16,7 @@ Start | Name | Project Title | Funding | SERG Principal Investigators
 2019  | TestShift | A Socio-Technical Shift in Software Testing | NWO Vici | Andy Zaidman |
 2019  | [UBRI](https://ubri.ripple.com) | Testing for Blockchain | Ripple | Annibale Panichella
 2019  | [FASTEN](http://gousios.org/blog/Introducing-Fasten.html) | Fine-grained analysis of software ecosystems (FASTEN) | EU H2020 | Georgios Gousios
-2019  | DFS  | Data Flow Security | [EEMCS](https://www.tudelft.nl/en/eemcs/), [SUTD](https://www.sutd.edu.sg/) | Maurício Aniche, Arie van Deursen
+2019  | ML4SSE  | ML 4 Secure Software Engineering | [EEMCS](https://www.tudelft.nl/en/eemcs/) | Maurício Aniche, Arie van Deursen
 2018  | [QIA](http://quantum-internet.team/)  | Quantum Internet Alliance | EU FET | Arie van Deursen
 2017  | MIPL | Mining Internet Payment Logs | NWO Big Software, [Adyen](https://www.adyen.com) | Arie van Deursen, Maurício Aniche
 2016  | [CodeFeedr](https://codefeedr.github.io) | Next generation software analytics | NWO Big Software, [SIG](https://www.sig.eu/) | Georgios Gousios
