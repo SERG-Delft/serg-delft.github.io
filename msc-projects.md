@@ -51,7 +51,7 @@ Optionally, you can start your research with a 7-8 week literature survey (IN430
 ### Open projects
 
 | Published | Where |  Project Title       | SERG contact           |
-|---------|-------|----------------------|------------------------|{% for post in site.posts %}{% if post.path contains 'msctopics' %}
+|---------|-------|----------------------|------------------------|{% for post in site.posts %}{% if post.categories contains "msc-topics" %}
 | {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> | {{ post.contact }} |{% endif %}{% endfor %}
 
 
