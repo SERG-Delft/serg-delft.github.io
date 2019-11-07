@@ -351,20 +351,6 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/625589553575895040/rF3zIK2-_400x400.jpg" alt="Anand Sawant">
-    <div class="card-body">
-      <div class="card-title"><a href="http://anandsaw.github.io/index.html">Anand Sawant</a></div>
-      <p class="card-text">API usability, API design</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/anandsaw"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/anandsaw"><i class="fab fa-github"></i></a>
-      <a href="https://scholar.google.com/citations?user=KhhNLyMAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/aa-sawant(850921d5-335e-452c-aa04-4ee49e7497f0)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/9136821?s=400&v=4" alt="Davide Spadini">
     <div class="card-body">
       <div class="card-title">
@@ -548,6 +534,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/?originalSubdomain=nl)                         | 2009-2019 | PhD student | Postdoc at UC Davis, USA |
 [Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
 [Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
