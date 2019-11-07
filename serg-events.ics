@@ -1,0 +1,18 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://se.ewi.tudelft.nl/events
+X-WR-CALNAME:serg
+{% for post in site.posts %}{% if post.categories contains "events" %}BEGIN:VEVENT
+UID:{{ post.date | date: "%Y%m%d" }}@example.com
+ORGANIZER;CN="SERG":MAILTO:organizer@example.org
+LOCATION:{{ post.where }}
+SUMMARY:{{ post.speaker }}: {{ post.title }}
+CLASS:PUBLIC
+DTSTART:{{ post.date | date: "%Y%m%d" }}T{{post.start | replace: ":", ""}}00Z
+DTEND:{{ post.date | date: "%Y%m%d" }}T{{post.end | replace: ":", ""}}00Z
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T{{post.start | replace: ":", ""}}00Z
+END:VEVENT{% endif %}{% endfor %}
+END:VCALENDAR
