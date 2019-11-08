@@ -25,7 +25,7 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-{% for post in site.posts limit:25 %}{% if post.categories contains "events" %}BEGIN:VEVENT
+{% for post in site.posts limit:50 %}{% if post.categories contains "events" %}BEGIN:VEVENT
 UID:{{ post.date | date: "%Y%m%d" }}@se.ewi.tudelft.nl
 ORGANIZER;CN="SERG":MAILTO:noreply@se.ewi.tudelft.nl
 LOCATION:{{ post.where }}
