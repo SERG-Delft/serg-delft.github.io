@@ -33,5 +33,5 @@ SUMMARY:{{ post.speaker }}: {{ post.title }}
 CLASS:PUBLIC
 DTSTART;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.start | replace: ":", ""}}00
 DTEND;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.end | replace: ":", ""}}00
-END:VEVENT{% endif %}{% endfor %}
-END:VCALENDAR
+END:VEVENT
+{% endif %}{% endfor %}END:VCALENDAR
