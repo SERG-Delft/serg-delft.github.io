@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: event
 title: SERG Lunch
 categories: [events, lunch-talks]
 start: "12:30"

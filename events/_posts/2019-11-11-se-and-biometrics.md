@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: event
 title: Experiments in SE using biometrics
 categories: [events]
 start: "16:00"
