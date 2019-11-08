@@ -8,7 +8,11 @@ layout: default
 
 <div class="row">
   <div class="span12">
-    Speaker: {{ page.speaker }}
+    <ul>
+    	<li>Speaker: {{ page.speaker }}</li>
+    	<li>When: {{ page.start }} - {{ page.end }}</li>
+    	<li>Where: {{ page.where }}</li>
+    </ul>
 
     <p>
     {{ content }}
