@@ -316,6 +316,10 @@ title: People
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
     <div class="card-body">
@@ -331,10 +335,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/l-pascarella(1e287bab-85b8-4c97-8412-8e82b78e72e7)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5801581?s=400&v=4" alt="Sohon Roy">
