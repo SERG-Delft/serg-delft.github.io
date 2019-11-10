@@ -1,6 +1,6 @@
 ---
 layout: event
-title: SERG Lunch: Defect Prediction
+title: "SERG Lunch: Defect Prediction"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
