@@ -11,7 +11,7 @@ All MSc projects are aligned with our research. They often are connected to one 
 Projects can be conducted at:
 
 - TU Delft in our own research labs, in close collaboration with our postdocs and PhD students
-- Industry (as part of an internship), usually with companies (in The Netherlands or abroad) with which we have an ongoing research collaboration (e.g. ING, SIG, Adyen, ATOS, XWiki, Microsoft, Google, Facebook, Infotron, ...)
+- Industry (as part of an internship), usually with companies (in The Netherlands or abroad) with which we have an ongoing research collaboration (e.g. ING, SIG, Adyen, ATOS, XWiki, Microsoft, Google, Facebook, Infotron, JetBrains, ...)
 - Other (international) universities -- we have a rich network of academic friends around the world.
 
 <a id="supervisors"></a>
