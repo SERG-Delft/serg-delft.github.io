@@ -5,7 +5,7 @@ categories: [events]
 start: "16:00"
 end: "18:00"
 speaker: SERG MSc students
-where: TBD
+where: 28.4.E450 De Bruijn
 ---
 
 Sharanya Konandur, Jón Briem, and Pavel Rapoport (all SERG MSc students) 
