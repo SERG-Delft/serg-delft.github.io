@@ -1,6 +1,9 @@
 ---
 layout: page
 title: A REPL loop for the CodeFeedr project
+categories: [msc-topics]
+where: TU Delft
+contact: Georgios Gousios
 ---
 
 #### Project description

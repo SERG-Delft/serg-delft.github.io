@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Which Are the Key Infrastructure Open Source Projects?
+categories: [msc-topics]
+where: TU Delft
+contact: Diomidis Spinellis
+
 ---
 
 #### Project description

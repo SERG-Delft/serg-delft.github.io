@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Layering Violations in the Linux Kernel
+categories: [msc-topics]
+where: TU Delft
+contact: Diomidis Spinellis
 ---
 
 #### Project description

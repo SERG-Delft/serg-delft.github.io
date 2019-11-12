@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Improving ING's A/B testing pipeline
+categories: [msc-topics]
+where: TU Delft, ING
+contact: Arie van Deursen
 ---
 
 #### Project description

@@ -1,0 +1,37 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://se.ewi.tudelft.nl/events
+X-WR-CALNAME:serg
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+{% for post in site.posts limit:50 %}{% if post.categories contains "events" %}BEGIN:VEVENT
+UID:{{ post.date | date: "%Y%m%d" }}@se.ewi.tudelft.nl
+ORGANIZER;CN="SERG":MAILTO:noreply@se.ewi.tudelft.nl
+LOCATION:{{ post.where }}
+SUMMARY:{{ post.speaker }}: {{ post.title }}
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.start | replace: ":", ""}}00
+DTEND;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.end | replace: ":", ""}}00
+END:VEVENT
+{% endif %}{% endfor %}END:VCALENDAR

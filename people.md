@@ -61,11 +61,12 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
       <div class="card-title"><a href="https://www.mauricioaniche.com">Maurício Aniche</a></div>
-      <p class="card-text">Software maintenance, empirical software engineering</p>
+      <p class="card-text">Software maintenance, software refactoring, empirical software engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/mauricioaniche" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/mauricioaniche" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mauricioaniche/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=AyX0Ou0AAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="hhttps://pure.tudelft.nl/portal/en/persons/m-finavaro-aniche(555c2765-502d-4254-82a6-d16ef65db961).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
@@ -105,6 +106,21 @@ title: People
 ### Postdocs
 
 <div class="card-deck">
+
+<div class="card d-block">
+    <img class="card-img-top" src="http://www.gemmacatolino.com/img/profile.jpg" alt="Gemma Catolino">
+    <div class="card-body">
+      <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
+      <p class="card-text">Effort prediction, testability.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+  
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
@@ -300,6 +316,10 @@ title: People
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
     <div class="card-body">
@@ -316,10 +336,6 @@ title: People
     </div>
   </div>
 
-</div>
-
-<div class="card-deck non-top-row">
-
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5801581?s=400&v=4" alt="Sohon Roy">
     <div class="card-body">
@@ -331,20 +347,6 @@ title: People
       <a href="https://github.com/sohonroy"><i class="fab fa-github"></i></a>
       <a href="https://scholar.google.nl/citations?user=VuDRJ2kAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/s-roy(3877362c-2ace-451c-9679-24c6e5b6ecf7)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://pbs.twimg.com/profile_images/625589553575895040/rF3zIK2-_400x400.jpg" alt="Anand Sawant">
-    <div class="card-body">
-      <div class="card-title"><a href="http://anandsaw.github.io/index.html">Anand Sawant</a></div>
-      <p class="card-text">API usability, API design</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/anandsaw"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/anandsaw"><i class="fab fa-github"></i></a>
-      <a href="https://scholar.google.com/citations?user=KhhNLyMAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/aa-sawant(850921d5-335e-452c-aa04-4ee49e7497f0)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -426,20 +428,6 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="http://www.gemmacatolino.com/img/profile.jpg" alt="Gemma Catolino">
-    <div class="card-body">
-      <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
-      <p class="card-text">Effort prediction. University of Salerno</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
     <div class="card-body">
       <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
@@ -495,6 +483,18 @@ title: People
       <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+  
+  <div class="card d-block">
+      <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/45024191?s=460&v=4" alt="Xunhui Zhang">
+      <div class="card-body">
+        <div class="card-title"><a href="https://zhangxunhui.github.io/">Xunhui Zhang</a></div>
+        <p class="card-text">Software analytics. Visiting from NUDT.</p>
+      </div>
+      <div class="card-footer bg-transparent border-success">
+        <a href="https://github.com/zhangxunhui"><i class="fab fa-github"></i></a>
+        <a href="https://twitter.com/zhangxunhui9368"><i class="fab fa-twitter"></i></a>
+      </div>
+    </div>
 
 </div>
 
@@ -534,6 +534,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/?originalSubdomain=nl)                         | 2009-2019 | PhD student | UC Davis, USA |
 [Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
 [Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK

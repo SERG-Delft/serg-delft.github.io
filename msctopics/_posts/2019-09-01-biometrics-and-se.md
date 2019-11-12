@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Leveraging biometric sensors to improve developers' productivity
+title: Biometrics and software engineering
+categories: [msc-topics]
+where: TU Delft
+contact: Maurício Aniche
 ---
 
 #### Project description

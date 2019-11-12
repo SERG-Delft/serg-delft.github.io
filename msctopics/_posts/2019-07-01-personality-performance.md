@@ -1,6 +1,9 @@
 ---
 layout: page
 title: How developer personality influences software development?
+categories: [msc-topics]
+where: TU Delft
+contact: Ayushi Rastogi
 ---
 
 #### Project description

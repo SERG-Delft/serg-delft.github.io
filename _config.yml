@@ -1,9 +1,10 @@
-permalink: /blog/:title
+permalink: /:categories/:year/:month/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
+future: true
 
-title : The Software Engineering Research Group homepage
+title : The Software Engineering Research Group at Delft University of Technology
 tagline:
 author :
   name : SERG

@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Machine Learning 4 Software Refactoring
+title: Machine Learning for Software Refactoring
+categories: [msc-topics]
+where: TU Delft
+contact: Maurício Aniche
 ---
 
 #### Project description
