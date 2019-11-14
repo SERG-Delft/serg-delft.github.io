@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Reading club: Theory-oriented software engineering
+title: "Reading club: Theory-oriented software engineering"
 categories: [events, reading-club]
 start: "12:30"
 end: "13:30"
