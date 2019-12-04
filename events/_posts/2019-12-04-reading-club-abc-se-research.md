@@ -5,7 +5,7 @@ categories: [events, reading-club]
 start: "13:00"
 end: "14:00"
 speaker: SERG
-where: "TBD"
+where: "4.W510 Van Wijngaarden"
 ---
 
 We are going to discuss the paper: 
