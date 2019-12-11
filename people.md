@@ -304,7 +304,7 @@ title: People
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
       <div class="card-title">
-        <a href="https://mirblog.me/" title="Amir's personal blog">Amir M. Mir</a>
+        <a href="https://mirblog.net/" title="Amir's personal blog">Amir M. Mir</a>
       </div>
       <p class="card-text">Machine Learning, Software Analytics</p>
     </div>
