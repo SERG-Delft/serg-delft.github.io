@@ -13,3 +13,8 @@ author :
   twitter : serg_delft
 
 production_url : se.ewi.tudelft.nl
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
