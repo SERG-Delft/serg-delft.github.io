@@ -38,7 +38,7 @@ Create an application package containing:
 Please contact Andy Zaidman (a.e.zaidman@tudelft.nl)
 
 ### How to apply?
-Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl). On December 24th, 2019 there will still open PhD positions availble... so apply soon! 
+Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl). On December 24th, 2019 there were still open PhD positions availble... so apply soon! 
 
 ### About the research environment
 
