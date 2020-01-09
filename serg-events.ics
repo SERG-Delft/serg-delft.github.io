@@ -25,7 +25,7 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-{% for post in site.posts limit:50 %}{% if post.categories contains "events" %}BEGIN:VEVENT
+{% for post in site.events limit:50 %}BEGIN:VEVENT
 UID:{{ post.date | date: "%Y%m%d" }}@se.ewi.tudelft.nl
 ORGANIZER;CN="SERG":MAILTO:noreply@se.ewi.tudelft.nl
 LOCATION:{{ post.where }}
@@ -34,4 +34,4 @@ CLASS:PUBLIC
 DTSTART;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.start | replace: ":", ""}}00
 DTEND;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.end | replace: ":", ""}}00
 END:VEVENT
-{% endif %}{% endfor %}END:VCALENDAR
+{% endfor %}END:VCALENDAR
