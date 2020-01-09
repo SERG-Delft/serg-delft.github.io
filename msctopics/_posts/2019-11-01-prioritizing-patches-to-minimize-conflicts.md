@@ -15,6 +15,7 @@ Moreover, even if a direct merge conflict doesn't occur, there is still a risk o
 
 The goal of this project is to develop an approach to sorting incoming pull requests in an order that minimizes potential conflicts, and integrate it into a real-world software engineering tool.
 
+The integration part of the project involves an internship at JetBrains in Amsterdam.
 
 #### Contacts about the project:
 
