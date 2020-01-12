@@ -21,7 +21,7 @@ Code | Subject | Teacher(s) | Materials
 [CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Georgios Gousios and Jan Rellermeyer | [Materials](http://gousios.org/courses/bigdata/)
 [CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | Otto Visser, Annibale Panichella
 [CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51125) | Software Testing and Reverse Engineering | Sicco Verwer and Andy Zaidman
-[IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51108) | Software Architecture | Arie van Deursen | [2019](https://serg-delft.github.io/delftswa2019/)
+[IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51108) | Software Architecture | Arie van Deursen | [Materials](https://se.ewi.tudelft.nl/delftswa/index.html)
 [IN4334](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117) | Analytics and Machine Learning for Software Engineering | Georgios Gousios and Maurício Aniche | [2019](http://gousios.org/courses/ml4se/)
 [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602) | Globally Distributed Software Engineering | Rini van Solingen
 [IN4306](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45593) | Literature Survey | All SERG faculty
