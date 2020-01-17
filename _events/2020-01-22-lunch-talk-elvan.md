@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG Lunch"
+title: "The What, Who and How of Predictable Software Delivery"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
