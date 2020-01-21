@@ -5,7 +5,7 @@ categories: [events, talks]
 start: "13:00"
 end: "14:00"
 speaker: Chandra Maddila, Microsoft Research
-where: TBD
+where: Social Data Lab
 ---
 
 ## Abstract
