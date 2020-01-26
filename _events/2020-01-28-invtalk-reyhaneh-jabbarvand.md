@@ -4,7 +4,7 @@ title: "Advancing Energy Testing of Mobile Apps"
 categories: [events, talks]
 start: "13:45"
 end: "14:45"
-speaker: Reyhaneh Jabbarvand
+speaker: Reyhaneh Jabbarvand, UC Irvine
 where: Social Data Lab
 ---
 
