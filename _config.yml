@@ -18,3 +18,7 @@ collections:
   events:
     output: true
     permalink: /:collection/:year/:month/:day/:title/
+  posts:
+    output: true
+    permalink: /:collection/:year/:month/:title/
+
