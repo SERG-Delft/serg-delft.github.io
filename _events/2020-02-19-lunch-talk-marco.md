@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG Lunch"
+title: "A Critical Comparison of Issue and Risk-based Approaches to Assess Technical Debt"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
