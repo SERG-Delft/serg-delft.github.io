@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: "DevOps and Software Monitoring"
-slug: 
+description: devops description
 responsible: "Sebastian Proksch, Maurício Aniche, Arie van Deursen"
 ---
 

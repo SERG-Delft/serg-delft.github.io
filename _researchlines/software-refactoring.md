@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: "Software Refactoring"
-slug: 
+description: refactoring description
 responsible: "Maurício Aniche"
 ---
 

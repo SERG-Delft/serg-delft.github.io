@@ -148,3 +148,12 @@ th {
     margin: 0 auto;
     display: block;
 }
+
+
+.researchline-slug {
+  font-style: italic;
+}
+
+.researchline-responsible {
+  font-weight: bold;
+}

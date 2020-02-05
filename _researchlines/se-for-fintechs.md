@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: "Software Engineering for Fintechs"
-slug: 
+description: fintech description
 responsible: "Arie van Deursen"
 ---
 

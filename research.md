@@ -7,7 +7,7 @@ Our research can be divided into the following research lines:
 
 <ul>
 {% for line in site.researchlines %}
-	<li><a href="{{ line.url }}">{{ line.title }}</a>: {{ line.slug }}  (led by <i>{{ line.responsible }}</i>)</li>
+	<li><a href="{{ line.url }}">{{ line.title }}</a>: {{ line.description }}  (led by <i>{{ line.responsible }}</i>)</li>
 {% endfor %}
 </ul>
 

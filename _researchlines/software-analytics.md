@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: Software Analytics
-slug: How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
+description: How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
 responsible: "Georgios Gousios"
 ---
 
