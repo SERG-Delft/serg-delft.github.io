@@ -1,4 +1,10 @@
-#### Introduction
+---
+layout: research-line
+title: "Automated Software Testing"
+slug: What are effective software testing methods and techniques?
+---
+
+## Introduction
 
 The development, maintenance and testing of large software products involve many activities that are complex, expensive and error-prone. For example, complex systems (e.g., autonomous cars) are typically built as a composition of features that tend to interact and impact one another’s behavior in unknown ways. Therefore, detecting feature interaction failures with manual testing becomes infeasible and too expensive when the number and the complexity of the features increase.
 
@@ -24,7 +30,7 @@ Is your test suite too large for the retes-all approach? Do you want to minimize
 * **Mutation Testing**: 
 We work to provide immediate feedback for developers about the quality (effectiveness) of the test suites. To this aim, we use mutation testing as a swiss army knife and ML to reduce the cost of mutation analysis [[13]](https://apanichella.github.io/publication/icst2018/).
 
-#### Collaborators
+## Collaborators
 
 The lab collaborates with the following people/organizations (reported in alphabetic order):
 * SVV Lab - Interdisciplinary Centre for Security, Reliability and Trust, University of Luxemburg
@@ -34,5 +40,6 @@ The lab collaborates with the following people/organizations (reported in alphab
 * Sebastiano Panichella, Zurich University of Applied Sciences
 * Paolo Tonella, Universita' della Svizzera Italiana
 
-#### Master Thesis and Projects
-We are looking for excellent and well-motivated master students to work on SSBSE related topics. If you are interested in one of the research topic above, please send an email to Dr. [Annibale Panichella](https://apanichella.github.io). Besides, we are open to new research ideas.
+## Master Thesis and Projects
+
+We are looking for excellent and well-motivated master students to work on SSBSE related topics. If you are interested in one of the research topic above, please send an email to Dr. [Annibale Panichella](https://apanichella.github.io) and Dr. [Andy Zaidman](https://azaidman.github.io). Besides, we are open to new research ideas.

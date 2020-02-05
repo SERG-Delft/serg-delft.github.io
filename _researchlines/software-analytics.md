@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Software Analytics
+layout: research-line
+title: Software Analytics and Empirical Software Engineering
+slug: How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
 ---
 
-### Recent and upcoming activities
-
-### Introduction
+## Introduction
 
 Modern software projects are more than just the code that comprises them: teams
 follow specific development processes; the code runs on servers or mobile phones
@@ -39,7 +38,7 @@ The following slides give a high level overview of our recent work:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7Q_9d-R8qXx5ak5y-Q7gqtHS2HfgXSPxQCx7HQj8votxwvq9TdMyPHmANxMBclULDnFp3l9y1Zht-/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Researchers
+## Researchers
 
 The following people are part of the Software Analytics lab:
 
@@ -50,7 +49,7 @@ The following people are part of the Software Analytics lab:
 * Enrique Larios Vargas (Postdoc, working on productivity analytics)
 * Joseph Hejderup (PhD student, working on ecosystem analysis/tics)
 
-#### Collaborators
+## Collaborators
 
 The lab collaborates with the following people / organizations:
 
@@ -58,7 +57,7 @@ The lab collaborates with the following people / organizations:
 * [Software Improvement Group](https://sig.eu)
 * [ING](https://sig.eu)
 
-#### Student collaborators
+## Student collaborators
 
 SAL is always open to host briliant MSc/BSc students to work on the exiting
 topics we offer. Currently, SAL has the priviledge to host the following
@@ -70,7 +69,7 @@ students:
 * Wouter Zorgdrager (BSc student, working on Codefeedr)
 * Joris Quist (BSc student, working on Codefeedr)
 
-#### Alumni
+## Alumni
 
 The following people where part of the Software Analytics lab:
 

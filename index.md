@@ -28,6 +28,14 @@ with software development practice. Topics of interest include software testing,
 software architecture, end user programming, software evolution, and
 collaborative and distributed software development.
 
+To accomplish our research goals, our research is organized across the following research lines:
+
+<ul>
+{% for line in site.researchlines %}
+	<li><a href="{{ line.url }}">{{ line.title }}</a>: {{ line.slug }}</li>
+{% endfor %}
+</ul>
+
 We conduct our research in mixed teams, in collaboration with practitioners and
 international researchers. We publish our research in the top venues in the
 field. Members of SERG actively serve in organizational and program committees
@@ -37,14 +45,6 @@ We are strong supporters of open science, and self-archive our publications in
 the [TU Delft institutional repository](https://pure.tudelft.nl/portal/en/organisations/software-engineering(d40bac4b-3dd0-4427-aa5f-9331cae5d02e)/publications.html) and through 
 our Technical Reports series. We aim at sharing our research prototypes as open
 source tools whenever possible.
-
-To accomplish our research goals, our research is organized across three research lines:
-
-1. **[AI-Based Software Engineering](sbse.html):** How can techniques from artificial intelligence be used to improve complex software development tasks?
-
-2. **[Software Analytics](softanalytics.html):** How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
-
-3. **Software Testing:** What are effective software testing methods and techniques?
 
 ## Education
 
