@@ -2,6 +2,7 @@
 layout: research-line
 title: "Automated Software Testing"
 slug: What are effective software testing methods and techniques?
+responsible: "Annibale Panichella, Andy Zaidman"
 ---
 
 ## Introduction

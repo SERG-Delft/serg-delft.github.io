@@ -1,7 +1,8 @@
 ---
 layout: research-line
-title: Software Analytics and Empirical Software Engineering
+title: Software Analytics
 slug: How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
+responsible: "Georgios Gousios"
 ---
 
 ## Introduction
