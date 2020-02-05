@@ -32,7 +32,7 @@ To accomplish our research goals, our research is organized across the following
 
 <ul>
 {% for line in site.researchlines %}
-	<li><a href="{{ line.url }}">{{ line.title }}</a>: {{ line.slug }}</li>
+	<li><a href="{{ line.url }}">{{ line.title }}</a>: {{ line.description }}</li>
 {% endfor %}
 </ul>
 
