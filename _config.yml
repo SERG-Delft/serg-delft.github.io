@@ -23,6 +23,6 @@ collections:
     permalink: /:collection/:year/:month/:title/
   researchlines:
     output: true
-    permalink: /research-lines/:title
+    permalink: /research-lines/:title/
 
 
