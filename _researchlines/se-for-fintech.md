@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: "Software Engineering for Fintech"
-description: "Develop methods, tools, and technologies to radically innovate the software-intensive financial sector"
+description: "Develop methods, tools, and technologies to radically innovate the software-intensive financial sector."
 responsible: "Arie van Deursen"
 ---
 
