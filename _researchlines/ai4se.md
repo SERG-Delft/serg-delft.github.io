@@ -7,6 +7,8 @@ responsible: "Georgios Gousios, Maurício Aniche, Annibale Panichella"
 
 **One paragraph here about why ML and AI in SE.**
 
+Our research is divided in two different blocks: machine learning and deep learning for software engineering, and search-based software engineering.
+
 ## Machine Learning and Deep Learning for Software Engineering
 
 Software repositories archive valuable software engineering data, such as source code, execution traces, historical code changes, mailing lists, and bug reports. This data contains a wealth of information about a project's status and history. Doing data science on software repositories, researchers can gain empirically based understanding of software development practices, and practitioners can better manage, maintain, and evolve complex software projects.
