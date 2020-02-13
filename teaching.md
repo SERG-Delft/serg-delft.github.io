@@ -14,13 +14,13 @@ We offer a variety of courses in the TU Delft bachelor [Computer Science and Eng
 
 Code | Subject | Teacher(s) | Materials
 |---|---|---|---|
-[CSE1100](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51306) | Object-oriented programming | Andy Zaidman
-[CSE1105](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51377) | Object-Oriented Programming Project|  Andy Zaidman and Sander van den Oever
+[CSE1100](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51306) | Object-oriented programming | Andy Zaidman and Thomas Overklift
+[CSE1105](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51377) | Object-Oriented Programming Project|  Sebastian Proksch and Sander van den Oever
 [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51299) | Software Quality and Testing | Maurício Aniche and Frank Mulder | [2019](https://serg-delft.github.io/cse1110-2019/)
 [CSE2115](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51714) | Software Engineering Methods | Annibale Panichella and Sander van den Oever
 [CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Georgios Gousios and Jan Rellermeyer | [Materials](http://gousios.org/courses/bigdata/)
 [CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | Otto Visser, Annibale Panichella
-[CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51125) | Software Testing and Reverse Engineering | Sicco Verwer and Andy Zaidman
+[CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51125) | Software Testing and Reverse Engineering | Sicco Verwer and Annibale Panichella
 [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51108) | Software Architecture | Arie van Deursen | [Materials](https://se.ewi.tudelft.nl/delftswa/index.html)
 [IN4334](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117) | Analytics and Machine Learning for Software Engineering | Georgios Gousios and Maurício Aniche | [2019](http://gousios.org/courses/ml4se/)
 [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602) | Globally Distributed Software Engineering | Rini van Solingen
