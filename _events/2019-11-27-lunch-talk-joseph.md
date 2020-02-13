@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "The State of Automated Dependency Updating Services"
+title: "SERG Lunch: The State of Automated Dependency Updating Services"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
