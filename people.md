@@ -180,6 +180,18 @@ title: People
       <a href="https://www.linkedin.com/in/vivekar"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+  
+  <div class="card d-block">
+    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
+    <div class="card-body">
+      <div class="card-title">Carolin Brandt</div>
+      <p class="card-text">Developer testing.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
 
 
   <div class="card d-block">
