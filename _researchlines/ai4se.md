@@ -5,9 +5,11 @@ description: How can techniques from artificial intelligence and machine learnin
 responsible: "Georgios Gousios, Maurício Aniche, Annibale Panichella"
 ---
 
-**One paragraph here about why ML and AI in SE.**
 
-Our research is divided in two different blocks: machine learning and deep learning for software engineering, and search-based software engineering.
+In the late years, researchers (and large companies, such as Microsoft, Google, and Facebook!) have been successfully applying artificial intelligence and deep learning techniques in software engineering tasks, such as finding bugs, detecting system anomalies, infering types in dynamic languages, and etc. 
+
+The goal of this research line is to explore how AI can help software engineers in produce
+better software. Our research is currently divided in the two main techniques we often apply: **machine learning and deep learning for software engineering**, and **search-based software engineering**.
 
 ## Machine Learning and Deep Learning for Software Engineering
 
