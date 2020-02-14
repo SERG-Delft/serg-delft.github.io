@@ -9,7 +9,7 @@ Software quality takes on different forms. There is the internal perspective, or
 
 The Delft Software Engineering Research Group works on both fronts, which are often intertwined as well.
 
-### Software Quality
+## Software Quality
 
 The quality of source code can have far reaching effects on productivity, testability, and even overall developer happiness. We are interested in a broad area of software quality topics.
 
@@ -21,7 +21,7 @@ Some current topics:
 * **Software Refactoring**: How can we help developers in refactoring their large-scale complex software systems work? See our dedicated [Software Refactoring research line]({% link _researchlines/software-refactoring.md %}) for more information.
 
    
-### Software Testing
+## Software Testing
 
 Software pervades modern society. The systems that come to life through software play critical roles from an economic, safety, security and scientific standpoint, thus making their dependability indispensable. Software testing is our first line of defense against software failure, but is often lacking. Many software engineers do not know how to test, how much to test, what to test, or think of test activities as unproductive.
 
