@@ -49,7 +49,7 @@ Enterprise web systems use different protection layers (e.g., input sanitization
 * **Testing Autonomous Cars**: 
 Self-driving cars, and in general automotive systems, are feature-based systems where different units of functionalities (features) work together. To test these complex systems in an automated fashion, we use ML, and SSBSE to find test scenarios (simulation settings) that violate system requirements, hence leading to software failures [[11]](https://apanichella.github.io/publication/ase2018/).
 
-* ** Automated Program Repair **: 
+* **Automated Program Repair**: 
 Patching defective code is a human-intensive activity. The goal of this line for research is to develop techniques that can automatically generate correct patches boggy code without causing software regression. The most common techniques for program repair include evolutionary algorithms and machine learning (see for example [Repairing Firewall](https://ieeexplore.ieee.org/document/8109099/)).
 
 
