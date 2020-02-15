@@ -1,9 +1,11 @@
 ---
 layout: research-line
 title: "DevOps"
-description: Collaborative Software Engineering has been revolutionized by novel practices like CI/CD or DevOps. We try to understand how to further improve development processes by analyzing the artifacts and the traces that are left behind by developers that adopt these practices. We also try to expand the interpretation of the underlying principles to help developers from other fields, like data analysts or AI experts, with adopting these practices to gain similar benefits.
+description: "To understand and improve the modern CI/CD and DevOps practices."
 responsible: "Sebastian Proksch, Arie van Deursen"
 ---
+
+Collaborative Software Engineering has been revolutionized by novel practices like CI/CD or DevOps. We try to understand how to further improve development processes by analyzing the artifacts and the traces that are left behind by developers that adopt these practices. We also try to expand the interpretation of the underlying principles to help developers from other fields, like data analysts or AI experts, with adopting these practices to gain similar benefits.
 
 Right now, we have several open thesis proposals in this area:
 
