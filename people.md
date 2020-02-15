@@ -120,7 +120,7 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
@@ -178,6 +178,18 @@ title: People
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://www.linkedin.com/in/vivekar"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+  <div class="card d-block">
+    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
+    <div class="card-body">
+      <div class="card-title">Carolin Brandt</div>
+      <p class="card-text">Developer testing.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 
@@ -269,7 +281,7 @@ title: People
       <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1163206?s=400&v=4" alt="Vladimir Kovalenko">
     <div class="card-body">
@@ -299,7 +311,7 @@ title: People
       <a href="https://scholar.google.nl/citations?hl=en&user=M5sWo0oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
@@ -428,6 +440,18 @@ title: People
   </div>
 
   <div class="card d-block">
+    <img class="card-img-top" src="img/boris-cherry.jpg" alt="Boris Cherry">
+    <div class="card-body">
+      <div class="card-title">Boris Cherry</div>
+      <p class="card-text">Crash reproduction benchmarking. Visiting from UNamur.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/bocherry"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/boris-c-250884b7/"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
     <div class="card-body">
       <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
@@ -483,7 +507,7 @@ title: People
       <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
       <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/45024191?s=460&v=4" alt="Xunhui Zhang">
       <div class="card-body">
