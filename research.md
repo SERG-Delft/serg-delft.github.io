@@ -3,11 +3,14 @@ layout: page
 title: Research Projects
 ---
 
-Our research can be divided into the three main research lines
-[Search Based Software Engineering](sbse.html),
-[Software Analytics](softanalytics.html),
-and
-[Software Testing](softtesting.html).
+Our research can be divided into the following research lines:
+
+<ul>
+{% for line in site.researchlines %}
+	<li><a href="{{ line.url }}">{{ line.title }}</a>: {{ line.description }}  (led by <i>{{ line.responsible }}</i>)</li>
+{% endfor %}
+</ul>
+
 Within those research lines, ongoing funded research projects include the following:
 
 Start | Name | Project Title | Funding | SERG Principal Investigators
