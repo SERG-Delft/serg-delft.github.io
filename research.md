@@ -11,7 +11,9 @@ Our research can be divided into the following research lines:
 {% endfor %}
 </ul>
 
-Within those research lines, ongoing funded research projects include the following:
+## Current Research Projects
+
+Within our research lines, ongoing funded research projects include:
 
 Start | Name | Project Title | Funding | SERG Principal Investigators
 ------|------|---------------|---------|------------------------
