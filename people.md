@@ -100,6 +100,20 @@ title: People
       <a href="https://scholar.google.it/citations?user=xPQ72u4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/a-panichella(48ad3f35-3014-4bab-a9e9-4ba228749fdd)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
+  </div>    
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://proks.ch/images/portrait2.jpg" alt="Sebastian Proksch">
+    <div class="card-body">
+      <div class="card-title"><a href="https://proks.ch">Sebastian Proksch</a></div>
+      <p class="card-text">CI/CD, DevOps, Collaborative SE, Empirical SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/prksch" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/proksch" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/sebastian-proksch-8aba8484" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=BBXa3QcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
   </div>
 </div>
 
