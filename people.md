@@ -326,18 +326,18 @@ title: People
     </div>
   </div>
   
-    <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&u=519ed4415ed0ff509a5b8c02d7461522395177be&v=4" alt="Chandra Maddila">
+<div class="card d-block">
+	<img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
     <div class="card-body">
-      <div class="card-title">
-        <a href="https://chandramaddila.github.io/">Chandra Maddila</a>
-      </div>
-      <p class="card-text">AI assisted DevOps, Software Analysis, Empirical Software Engineering</p>
+		<div class="card-title">
+			<a href="https://chandramaddila.github.io/">Chandra Maddila</a>
+		</div>
+		<p class="card-text">AI assisted DevOps, Software Analytics. Also at Microsoft Research</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://www.linkedin.com/in/cmaddila/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+		<a href="https://www.linkedin.com/in/cmaddila/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </div>
-  </div>
+</div>
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
