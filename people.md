@@ -514,7 +514,7 @@ title: People
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/61319954?s=400&u=dd21f02007f396146cc0636498e909245d2caea0&v=4" alt="Maliheh Izadi">
     <div class="card-body">
       <div class="card-title">
-	      <a href="http://ce.sharif.edu/~malizadi/">Maliheh Izadi<a/>
+	      <a href="http://ce.sharif.edu/~malizadi/">Maliheh Izadi</a>
       </div>
       <p class="card-text">ML for Software Engineering. Visiting from SUT.</p>
     </div>
