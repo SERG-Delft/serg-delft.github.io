@@ -511,6 +511,20 @@ title: People
   </div>
 
   <div class="card d-block">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/61319954?s=400&u=dd21f02007f396146cc0636498e909245d2caea0&v=4" alt="Maliheh Izadi">
+    <div class="card-body">
+      <div class="card-title">
+	      <a href="http://ce.sharif.edu/~malizadi/">Maliheh Izadi<a/>
+      </div>
+      <p class="card-text">ML for Software Engineering. Visiting from SUT.</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://ir.linkedin.com/in/malihe-izadi" title="LinkedIn"><i class="fab fa-linkedin"></i></a>	    
+      <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>   
+  
+  <div class="card d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/7933089?s=400&v=4" alt="Alaaeddin Swidan">
     <div class="card-body">
       <div class="card-title"> Alaaeddin Swidan</div>
