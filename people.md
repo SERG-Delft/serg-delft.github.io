@@ -199,7 +199,7 @@ title: People
     <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
       <div class="card-title">Carolin Brandt</div>
-      <p class="card-text">Developer testing.</p>
+      <p class="card-text">Test visualization and amplification</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
@@ -451,18 +451,6 @@ title: People
       <a href="https://twitter.com/sback_" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://scholar.google.nl/citations?user=Jv-sW70AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/a-bacchelli(229022f2-6585-458b-b6fa-a6a3bd4082ee)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
-    <div class="card-body">
-      <div class="card-title">Carolin Brandt</div>
-      <p class="card-text">Improving Java Stream Debugging. Visiting from TU Munich.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 

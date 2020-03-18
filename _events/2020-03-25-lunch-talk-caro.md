@@ -5,7 +5,7 @@ categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
 speaker: Carolin Brandt
-where: Social Data Lab, Building 28
+where: Discord
 ---
 
 You will hear the presentation I gave for my master thesis defense in Munich :)
