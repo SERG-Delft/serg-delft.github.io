@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG Lunch - How to Analyze Build Logs using Chunk Retrieval"
+title: "SERG Lunch: How to Analyze Build Logs using Chunk Retrieval"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
