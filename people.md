@@ -194,7 +194,7 @@ title: People
       <a href="https://www.linkedin.com/in/vivekar"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
     <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
@@ -325,7 +325,7 @@ title: People
       <a href="https://scholar.google.nl/citations?hl=en&user=M5sWo0oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-  
+
 <div class="card d-block">
 	<img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
     <div class="card-body">
@@ -358,6 +358,22 @@ title: People
 </div>
 
 <div class="card-deck non-top-row">
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://mitchellolsthoorn.com" target="_blank">Mitchell Olsthoorn</a>
+      </div>
+      <p class="card-text">Security testing, blockchain</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mitchellolstho2" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
@@ -511,7 +527,7 @@ title: People
       <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>   
-  
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/7933089?s=400&v=4" alt="Alaaeddin Swidan">
     <div class="card-body">
