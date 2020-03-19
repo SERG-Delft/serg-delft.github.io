@@ -497,22 +497,23 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/ffj-hermans(2fe8a348-ec67-4520-8c0a-34ef8d60fcaa)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+    <div class="card d-block">
+      <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
+      <div class="card-body">
+        <div class="card-title">Hennie Huijgens</div>
+        <p class="card-text">Software analytics. Visiting from ING.</p>
+      </div>
+      <div class="card-footer bg-transparent border-success">
+        <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+        <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      </div>
+    </div>
+
 </div>
 
 <div class="card-deck non-top-row">
-
-  <div class="card d-block">
-    <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
-    <div class="card-body">
-      <div class="card-title">Hennie Huijgens</div>
-      <p class="card-text">Software analytics. Visiting from ING.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/61319954?s=400&u=dd21f02007f396146cc0636498e909245d2caea0&v=4" alt="Maliheh Izadi">
