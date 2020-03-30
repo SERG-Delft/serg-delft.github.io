@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Ecosystem-Scale Call Graph Construction"
+title: "SERG Lunch: Ecosystem-Scale Call Graph Construction"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
