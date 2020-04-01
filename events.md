@@ -12,12 +12,12 @@ Subscribe to our calendar: https://se.ewi.tudelft.nl/serg-events.ics
 
 | When | Event       | Speaker | Where           |
 |---------|-------|----------------------|------------------------|
-{% for post in site.posts reversed %}{% if post.categories contains "events" %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% if posttime >= nowunix %}| {{ post.date | date: "%d-%b-%Y" }} {{ post.start }} - {{ post.end }} | <a href="{{ post.url }}">{{ post.title }}</a> | {{ post.speaker }} | {{ post.where }} |
-{% endif %}{% endif %}{% endfor %}
+{% for event in site.events %}{% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}{% if posttime >= nowunix %}| {{ event.date | date: "%d-%b-%Y" }} {{ event.start }} - {{ event.end }} | <a href="{{ event.url }}">{{ event.title }}</a> | {{ event.speaker }} | {{ event.where }} |
+{% endif %}{% endfor %}
 
 ## Past events
 
 | When | Event       | Speaker | Where           |
 |---------|-------|----------------------|------------------------|
-{% for post in site.posts reversed %}{% if post.categories contains "events" %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% if posttime <= nowunix %}| {{ post.date | date: "%d-%b-%Y" }} {{ post.start }} - {{ post.end }} | <a href="{{ post.url }}">{{ post.title }}</a> | {{ post.speaker }} | {{ post.where }} |
-{% endif %}{% endif %}{% endfor %}
+{% for event in site.events reversed %}{% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}{% if posttime <= nowunix %}| {{ event.date | date: "%d-%b-%Y" }} {{ event.start }} - {{ event.end }} | <a href="{{ event.url }}">{{ event.title }}</a> | {{ event.speaker }} | {{ event.where }} |
+{% endif %}{% endfor %}

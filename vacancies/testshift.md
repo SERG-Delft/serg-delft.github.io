@@ -17,17 +17,17 @@ TestShift is rooted in empirical software engineering and will make use of resea
 
 ### Job requirements
 
-- A Master?s degree (or equivalent) in computer science
+- A Master's degree (or equivalent) in computer science
 - A strong interest in software testing, empirical research, and socio-technical factors
 - Strong programming and software engineering skills
 - Good communication and presentation skills in English
 - Ability to work in an international team
-- A healthy dose of creativeness
+- A healthy dose of _creativeness_
 
 ### How to apply? 
 Create an application package containing:
 - A detailed CV (with contact information for 2 references; sending references letters yourself is not necessary)
-- A letter of motivation that includes a paragraph on your vision of the TestShift project (e.g., what do you consider to be an urgent topic to address, how would you go about the project, etc.) ?> a generic letter of motivation is not appreciated
+- A letter of motivation that includes at least 10 lines of text containing your vision of the TestShift project (e.g., what do you consider to be an urgent topic to address, how would you go about the project, etc.) --> a generic letter of motivation is not appreciated. Your letter of motivation is perhaps the most critical part of your application package; I will be looking for a healthy dose of creativity. For example, give your vision on the socio-technical aspect of software testing, or provide a view on how test analytics can be helpful and what needs to be investigated to bring this vision to the market.
 - A (draft) version of your Master thesis
 - Optional: (draft) versions of papers that you have submitted/published 
 - A detailed transcript of university grades
@@ -37,8 +37,10 @@ Create an application package containing:
 
 Please contact Andy Zaidman (a.e.zaidman@tudelft.nl)
 
+--> you can also have a look at my research at https://azaidman.github.io
+
 ### How to apply?
-Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl) by **July 14th, 2019 (23:59 Anywhere on Earth)**
+Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl). On December 24th, 2019 there were still open PhD positions availble... so apply soon! 
 
 ### About the research environment
 

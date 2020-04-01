@@ -3,38 +3,34 @@ layout: page
 title: Teaching
 ---
 
-The TU Delft Software Engineering Research Group offers a variety of courses at the Bachelor's and Master's
-levels.
 
-### Bachelor [Computer Science and Engineering](https://www.tudelft.nl/en/education/programmes/bachelors/cse/bachelor-of-computer-science-and-engineering/)
+We offer a variety of courses in the TU Delft bachelor [Computer Science and Engineering][cse], the masters in [Computer Science][msc] and in [Embedded Systems][es], in the minor [Computer Science][minor], and on line via the [EdX] platform.
 
- <image src="img/lecture-davide.jpg" style="float:right; width:300px; border:1px solid #000"/>
+[cse]: https://www.tudelft.nl/en/education/programmes/bachelors/cse/bachelor-of-computer-science-and-engineering/
+[msc]: https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/
+[es]: https://www.tudelft.nl/en/education/programmes/masters/embedded-systems/msc-embedded-systems/
+[minor]: https://www.tudelft.nl/en/eemcs/study/minors/computer-science/
+[edx]: https://www.edx.org/school/delftx
 
- * [CSE1100](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48428): _Object-oriented programming._ Andy Zaidman.
- * [CSE1105](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48429): _Object-Oriented Programming Project._ Felienne Hermans.
- * [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48430):  _Software Quality and Testing._  Maurício Aniche and Arie van Deursen ([2019](https://serg-delft.github.io/cse1110-2019/))
- * [TI2206](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45678):  _Software Engineering Methods._  Annibale Panichella.
- * [TI2736-B](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45686):  _Big Data Processing._  Georgios Gousios ([materials](http://gousios.org/courses/bigdata/)).
- * [TI2806](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45676):  _Contextproject._  Annibale Panichella.
+Code | Subject | Teacher(s) | Materials
+|---|---|---|---|
+[CSE1100](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51306) | Object-oriented programming | Andy Zaidman and Thomas Overklift
+[CSE1105](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51377) | Object-Oriented Programming Project|  Sebastian Proksch and Sander van den Oever
+[CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51299) | Software Quality and Testing | Maurício Aniche and Frank Mulder | [2019](https://serg-delft.github.io/cse1110-2019/)
+[CSE2115](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51714) | Software Engineering Methods | Annibale Panichella and Sander van den Oever
+[CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Georgios Gousios and Jan Rellermeyer | [Materials](http://gousios.org/courses/bigdata/)
+[CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | Otto Visser, Annibale Panichella
+[CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51125) | Software Testing and Reverse Engineering | Sicco Verwer and Annibale Panichella
+[IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51108) | Software Architecture | Arie van Deursen | [Materials](https://se.ewi.tudelft.nl/delftswa/index.html)
+[IN4334](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117) | Analytics and Machine Learning for Software Engineering | Georgios Gousios and Maurício Aniche | [2019](http://gousios.org/courses/ml4se/)
+[IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602) | Globally Distributed Software Engineering | Rini van Solingen
+[IN4306](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45593) | Literature Survey | All SERG faculty
+[IN5000](msc-projects.html) | MSc Thesis Final Project | All SERG faculty | [Available topics](msc-projects.html)
+[TI3100TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51332) | Minor Introduction | Georgios Gousios
+[TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51334) | Software Engineering Methods | Maurício Aniche | [2019](https://serg-delft.github.io/ti3115tu-2019/), [2018](https://serg-delft.github.io/ti3115tu-2018/)
 
-<div id="msc"></div>
-### Masters [Computer Science](https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/) and [Embedded Systems](https://www.tudelft.nl/en/education/programmes/masters/embedded-systems/msc-embedded-systems/)
 
- * [CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45583): _Software Testing and Reverse Engineering._ Andy Zaidman.
- * [CS4190](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48292): _Psychology of Programming._ Felienne Hermans.
- * [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45594): _Software Architecture._  Maurício Aniche, Arie van Deursen, and Andy Zaidman ([2019](https://serg-delft.github.io/delftswa2019/))
- * [IN4334](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117) _Analytics and Machine Learning for Software Engineering_ Georgios Gousios and Maurício Aniche 
- ([materials](http://gousios.org/courses/ml4se/))
- * [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602): _Globally Distributed Software Engineering_. Rini van Solingen.
- * [IN4306](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45593): _Literature Survey_. All SERG faculty.
- * [IN5000](msc-projects.html): _MSc Thesis Final Project_. All SERG faculty.
-
-### Minor [Computer Science](https://www.tudelft.nl/en/eemcs/study/minors/computer-science/)
-
- * [TI3100TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46042): _Minor Introduction._  Georgios Gousios
- * [TI3105TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46041): _Introduction to Python Programming._  Frank Mulder.
- * [TI3110TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=46043): _Algorithms and Data Structures._  Bart Gerritsen. ([2017](http://gousios.org/courses/algo-ds/))
- * [TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48152): _Software Engineering Methods._ Maurício Aniche ([2019](https://serg-delft.github.io/ti3115tu-2019/), [2018](https://serg-delft.github.io/ti3115tu-2018/)).
+<br/>
 
 ### [EdX](https://www.edx.org/school/delftx) MOOCs
 
@@ -52,5 +48,11 @@ levels.
 
 ### Archived
 
+* [CS4190](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48292): _Psychology of Programming._ Felienne Hermans.
+* [TI2806](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45676):  _Contextproject._  Annibale Panichella.
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0). Erik Meijer.
 * [IN4334](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45568): _Software Analytics._ Georgios Gousios ([materials](http://gousios.org/courses/softwanal/)).
+
+<!--
+<image src="img/lecture-davide.jpg" style="float:right; width:300px; border:1px solid #000"/>
+-->
