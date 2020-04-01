@@ -9,3 +9,5 @@ where: Social Data Lab, Building 28
 ---
 
 [LIBTwinSVM](https://github.com/mir-am/LIBTwinSVM) is an efficient and open-source library for Twin Support Vector Machines (TSVMs).
+
+Slides are available [here](/slides/2019-11-13-lunch-talk-amir.pdf).
