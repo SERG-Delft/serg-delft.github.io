@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: Software Analytics
-description: How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
+description: How can we harness the massive data modern development and deployment processes generate, as well as Big Code, to make better software engineering tools?
 responsible: "Georgios Gousios"
 ---
 
