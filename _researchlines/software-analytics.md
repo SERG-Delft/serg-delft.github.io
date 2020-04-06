@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: Software Analytics
-description: How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
+description: How can we harness the massive data modern development and deployment processes generate, as well as Big Code, to make better software engineering tools?
 responsible: "Georgios Gousios"
 ---
 
@@ -40,17 +40,21 @@ The following people are part of the Software Analytics lab:
 * Arie van Deursen (Mentor, Leader of the Software Engineering group)
 
 * Ayushi Rastogi (Postdoc, part-time) working on theory building for distributed software development
+
 * Joseph Hejderup (PhD student) working on ecosystem analysis/tics
+* Maliheh Izadi (visiting from Sharif University of Techology), working on ML-based software summarization
 * Elvan Kula (PhD student, also with ING), working on analytics for software process optimisation
 * Mehdi Keshani (PhD student), working on scaling static analyses
+* Chandra Maddila (PhD student, also with Microsoft), working on tools for software engineering
 * Amir Mir (PhD student), working on making Python better through Machine Learning
-* Xunhui Zhang (visitor PhD student), working on analytics for distributed software development
+* Xunhui Zhang (visiting from NUDT, China), working on analytics for distributed software development
 
 ## Collaborators
 
 The lab collaborates with the following people / organizations:
 
-* [Diomidis Spinellis](http://spinellis.gr) (AUEB)
+* [Diomidis Spinellis](http://spinellis.gr) (AUEB / TU Delft)
+* FaceBook Probable<T> group
 * [Software Improvement Group](https://sig.eu)
 
 ## Student collaborators
@@ -59,12 +63,16 @@ SAL is always open to host briliant MSc/BSc students to work on the exiting
 topics we offer. Currently, SAL has the priviledge to host the following
 students:
 
-* Wouter Zorgdrager (MSc student, working on FASTEN)
+* Wouter Zorgdrager (MSc student). Working on FASTEN, system administration
 
+* Roberta Gismondi (BSc student). Working on ML-based autocompletion for Python
+* Ilya Grishkov (BSc student). Working on FASTEN
+* Evaldas Latoškinas (BSc student). Working on type prediction for Python
+* Mihhail Sokolov (BSc student). Working on FASTEN
 
 ## Alumni
 
-The following people where part of the Software Analytics lab:
+The following people were part of the Software Analytics lab:
 
 * Moritz Beller (Postdoc, now at FaceBook)
 * Maria Kechagia (Postodoc, now at UCL)
