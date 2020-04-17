@@ -10,6 +10,8 @@ where: Discord
 
 You will hear the presentation I gave for my master thesis defense in Munich :)
 
+Slides are available [here](https://surfdrive.surf.nl/files/index.php/s/Pv4sffs1hJVNTtP).
+
 Continuous integration produces detailed logs about the status and results of 
 the various tools involved in the build. These build logs are a valuable data source 
 for developers and researchers to inspect test results, to check the duration of build steps 
