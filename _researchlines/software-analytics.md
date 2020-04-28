@@ -30,7 +30,7 @@ Currently, we focus on the following 3 research lines, even though we are always
 of package networks to make studies such as precise security vulnerability
 tracking, software license tracking, data-based API evolution etc possible.
 
-   * [FASTEN](https://www.fasten-project.eu) A platform for analysing dependency 
+   * [FASTEN](https://www.fasten-project.eu) A platform for analysing dependency
     management services at the call graph level granularity
 
 ## Researchers
@@ -93,8 +93,5 @@ The Software Analytics Lab has received funding from:
 
 The following list contains a list of indicative master thesis topics. Please contact [Georgios Gousios](mailto:g.gousios@tudelft.nl) for more up to date information.
 
-| Published | Where |  Project Title     |  
-|-----------|---------|--------------------|
-{% for post in site.posts %}{% if post.categories contains "sal-msc-topics" %}
-| {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> |{% endif %}{% endfor %}
-
+| Published | Where   |  Project Title     |
+|-----------|---------|--------------------|{% for post in site.posts %}{% if post.categories contains "sal-msc-topics" %} | {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> |{% endif %}{% endfor %}
