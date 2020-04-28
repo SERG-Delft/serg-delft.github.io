@@ -15,22 +15,23 @@ part of a collection of similar applications and depends on external code or
 service API’s to deliver its functionality. Modern software teams need data to
 make informed decisions that enable continuous, feedback-driven improvement.
 
-At the Software Analytics lab, we work to make software analytics a core asset for software development teams. Our research touches topics such as computer-supported collaborative work (CSCW), big data systems, software engineering processes, software reliability, software analysis and data science.
+At the Software Analytics lab, we work to make software analytics a core asset for software development teams. Our research touches topics such as computer-supported collaborative work (CSCW), big data systems, software engineering processes, software reliability, software analysis, machine learning and data science.
 
 Currently, we focus on the following 3 research lines, even though we are always open for new ideas:
 
 * **Engineering for (software) analytics**: creating platforms for data ingestion, integration and querying in a streaming fashion. Related projects:
 
-    * [FASTEN](https://www.fasten-project.eu) A platform for analysing dependency 
-    management services at the call graph level granularity
+    * [AI4Fintech](https://se.ewi.tudelft.nl/ai4fintech/index.html) Making large software-based organizations more efficient.
     * [Codefeedr](http://codefeedr.org) A platform to ingest and process
-      software analytics data in a streaming fashion.
-    * [GHTorrent](https://ghtorrent.org) Collects all data from the GitHub event
-      API
+      software analytics data in a streaming fashion
+    * [GHTorrent](https://ghtorrent.org) Collects all data from the GitHub event API
 
 * **Software ecosystems**: We build ecosystem wide, versioned call graphs out
 of package networks to make studies such as precise security vulnerability
 tracking, software license tracking, data-based API evolution etc possible.
+
+   * [FASTEN](https://www.fasten-project.eu) A platform for analysing dependency 
+    management services at the call graph level granularity
 
 ## Researchers
 
@@ -87,3 +88,13 @@ The Software Analytics Lab has received funding from:
 * Microsoft
 * Facebook
 * ING
+
+## MSc thesis topics
+
+The following list contains a list of indicative master thesis topics. Please contact [Georgios Gousios](mailto:g.gousios@tudelft.nl) for more up to date information.
+
+| Published | Where |  Project Title     |  
+|-----------|---------|--------------------|
+{% for post in site.posts %}{% if post.categories contains "sal-msc-topics" %}
+| {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> |{% endif %}{% endfor %}
+
