@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "A Simple Implementation of the Delta Maintainability Model"
+title: "SERG Lunch: A Simple Implementation of the Delta Maintainability Model"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
