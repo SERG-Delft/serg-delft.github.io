@@ -17,6 +17,9 @@ On Thursday, May the 7th, 14:00 - 15:00 we come together on Zoom to discuss:
 
 **"Guidelines for performing Systematic Literature Reviews in Software Engineering"** by Barbara Kitchenham [(2007 Version)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.471).
 
+Wanna join & you are not part of our Mattermost?
+Send an email to c.e.brandt /at/ tudelft.nl to get the Zoom link 😊
+
 ---
 
 As this paper is quite long, we split it up in several parts.
