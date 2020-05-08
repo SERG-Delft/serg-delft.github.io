@@ -1,11 +1,14 @@
 ---
 layout: event
-title: "SERG Lunch: "
+title: "SERG Lunch: Tag Recommendation For Github Repositories"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
 speaker: Maliheh Izadi
 where: Online
 ---
+This presentation will be about my ongoing research at TU Delft. We have worked on using ML techniques for predicitng topics for Github repositories.
 
+Github added topic tagging functionality in 2017, but so far only about 2M  public repositories have at least one tag. Topic tags define the main features, functionality, and the goal behind the creation of a software repository.
+In this research, we propose an automatic approach for predicting topics for software repositories using state-of-the-art machine learning techniques. 
 
