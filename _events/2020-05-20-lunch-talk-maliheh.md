@@ -1,9 +1,9 @@
 ---
 layout: event
-title: "SERG Lunch: Tag Recommendation For Github Repositories"
+title: "SERG talk: Tag Recommendation For Github Repositories"
 categories: [events, lunch-talks]
-start: "12:30"
-end: "13:30"
+start: "14:00"
+end: "15:00"
 speaker: Maliheh Izadi
 where: Online
 ---
