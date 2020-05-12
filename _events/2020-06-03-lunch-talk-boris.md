@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG Lunch: Crash reproduction benchmarking 2.0"
+title: "SERG talk: Crash reproduction benchmarking 2.0"
 categories: [events, lunch-talks]
 start: "14:00"
 end: "15:00"
