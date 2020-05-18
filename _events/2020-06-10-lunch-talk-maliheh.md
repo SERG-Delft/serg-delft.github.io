@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG talk: Tag Recommendation For Github Repositories"
+title: "SERG talk: Tag Recommendation For Software Repositories"
 categories: [events, lunch-talks]
 start: "14:00"
 end: "15:00"
