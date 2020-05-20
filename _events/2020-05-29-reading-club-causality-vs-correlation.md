@@ -8,7 +8,7 @@ where: Online
 ---
 
 Join the next **SERG Reading Club**📚📖!  
-On Friday, May the 22th, 14:00 - 15:00 we come together on Zoom to discuss the generic problem of distinguishing causality and correlation based on this paper:
+On Friday, May the 29th, 14:00 - 15:00 we come together on Zoom to discuss the generic problem of distinguishing causality and correlation based on this paper:
 
 **"Failure is a four-letter word: a parody in empirical research."**  
 Zeller, Andreas, Thomas Zimmermann, and Christian Bird.  Proceedings of the 7th International Conference on Predictive Models in Software Engineering. 2011.
