@@ -35,6 +35,11 @@ tracking, software license tracking, data-based API evolution etc possible.
 
 ## Researchers
 
+<image src="img/sal-may-2020.jpg" style="float:center; max-width:100%; max-height:100%;"/>
+<br/>
+
+_(Some) Members of the Software Analytics Lab in May 2020. Left to right: Elvan Kula, Georgios Gousios, Maliheh Izadi, Mehdi Keshani, Amir Mir, Joseph Hejderup_
+
 The following people are part of the Software Analytics lab:
 
 * Georgios Gousios (Lab leader)
