@@ -81,6 +81,7 @@ students:
 The following people were part of the Software Analytics lab:
 
 * Enrique Larios (Postodoc)
+* Chushu Gao (visitor, now at SIG)
 * Moritz Beller (Postdoc, now at FaceBook)
 * Maria Kechagia (Postodoc, now at UCL)
 
