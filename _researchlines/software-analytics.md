@@ -1,7 +1,7 @@
 ---
 layout: research-line
 title: Software Analytics
-description: How can we harness the massive data modern development and deployment processes generate, as well as Big Code, to make better software engineering tools?
+description: How can we harness the massive data modern development and deployment processes generate, as well as Big Code, to increase development productivity and operational efficiency?
 responsible: "Georgios Gousios"
 ---
 
@@ -60,7 +60,7 @@ The following people are part of the Software Analytics lab:
 The lab collaborates with the following people / organizations:
 
 * [Diomidis Spinellis](http://spinellis.gr) (AUEB / TU Delft)
-* FaceBook Probable<T> group
+* FaceBook Probablity group
 * [Software Improvement Group](https://sig.eu)
 
 ## Student collaborators
@@ -80,9 +80,9 @@ students:
 
 The following people were part of the Software Analytics lab:
 
+* Enrique Larios (Postodoc)
 * Moritz Beller (Postdoc, now at FaceBook)
 * Maria Kechagia (Postodoc, now at UCL)
-* Jos Kuijpers (BSc student, worked on Codefeedr)
 
 ## Funding
 
