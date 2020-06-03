@@ -15,9 +15,9 @@ part of a collection of similar applications and depends on external code or
 service API’s to deliver its functionality. Modern software teams need data to
 make informed decisions that enable continuous, feedback-driven improvement.
 
-At the Software Analytics lab, we work to make software analytics a core asset for software development teams. Our research touches topics such as computer-supported collaborative work (CSCW), big data systems, software engineering processes, software reliability, software analysis, machine learning and data science.
+At the Software Analytics lab, we work to make software analytics a core asset for software development teams. Our research touches topics such as computer-supported collaborative work (CSCW), big data systems, software engineering processes, software reliability, software analysis, machine learning, and data science.
 
-Currently, we focus on the following 3 research lines, even though we are always open for new ideas:
+Currently, we focus on the following 3 research lines, even though we are always open to new ideas:
 
 * **Engineering for (software) analytics**: creating platforms for data ingestion, integration and querying in a streaming fashion. Related projects:
 
@@ -26,11 +26,11 @@ Currently, we focus on the following 3 research lines, even though we are always
       software analytics data in a streaming fashion
     * [GHTorrent](https://ghtorrent.org) Collects all data from the GitHub event API
 
-* **Software ecosystems**: We build ecosystem wide, versioned call graphs out
+* **Software ecosystems**: We build ecosystem-wide, versioned call graphs out
 of package networks to make studies such as precise security vulnerability
-tracking, software license tracking, data-based API evolution etc possible.
+tracking, software license tracking, data-based API evolution, etc possible.
 
-   * [FASTEN](https://www.fasten-project.eu) A platform for analysing dependency
+   * [FASTEN](https://www.fasten-project.eu) A platform for analyzing dependency
     management services at the call graph level granularity
 
 ## Researchers
@@ -48,8 +48,8 @@ The following people are part of the Software Analytics lab:
 * Ayushi Rastogi (Postdoc, part-time) working on theory building for distributed software development
 
 * Joseph Hejderup (PhD student) working on ecosystem analysis/tics
-* Maliheh Izadi (visiting from Sharif University of Techology), working on ML-based software summarization
-* Elvan Kula (PhD student, also with ING), working on analytics for software process optimisation
+* Maliheh Izadi (visiting from Sharif University of Technology), working on ML-based software summarization
+* Elvan Kula (PhD student, also with ING), working on analytics for software process optimization
 * Mehdi Keshani (PhD student), working on scaling static analyses
 * Chandra Maddila (PhD student, also with Microsoft), working on tools for software engineering
 * Amir Mir (PhD student), working on making Python better through Machine Learning
@@ -65,13 +65,13 @@ The lab collaborates with the following people / organizations:
 
 ## Student collaborators
 
-SAL is always open to host briliant MSc/BSc students to work on the exiting
-topics we offer. Currently, SAL has the priviledge to host the following
+SAL is always open to hosting brilliant MSc/BSc students to work on the exiting
+topics we offer. Currently, SAL has the privilege to host the following
 students:
 
 * Wouter Zorgdrager (MSc student). Working on FASTEN, system administration
 
-* Roberta Gismondi (BSc student). Working on ML-based autocompletion for Python
+* Roberta Gismondi (BSc student). Working on ML-based auto-completion for Python
 * Ilya Grishkov (BSc student). Working on FASTEN
 * Evaldas Latoškinas (BSc student). Working on type prediction for Python
 * Mihhail Sokolov (BSc student). Working on FASTEN
@@ -80,10 +80,10 @@ students:
 
 The following people were part of the Software Analytics lab:
 
-* Enrique Larios (Postodoc)
+* Enrique Larios (Postdoc)
 * Chushu Gao (visitor, now at SIG)
-* Moritz Beller (Postdoc, now at FaceBook)
-* Maria Kechagia (Postodoc, now at UCL)
+* Moritz Beller (Postdoc, now at Facebook)
+* Maria Kechagia (Postdoc, now at UCL)
 
 ## Funding
 
