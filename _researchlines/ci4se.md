@@ -35,6 +35,7 @@ Patching defective code is a human-intensive activity. The goal of this line for
 The lab collaborates with the following people/organizations (reported in alphabetic order):
 
 * Andrea Arcuri, Kristiania University College, Norvegia
+* Gordon Fraser, University of Passau, Germany
 * Vincent Hellendoorn, UC Davis, USA
 * Fitsum Kifetew, Fondazione Bruno Kessler, Italy
 * Sebastiano Panichella, Zurich University of Applied Sciences, Switzerland
