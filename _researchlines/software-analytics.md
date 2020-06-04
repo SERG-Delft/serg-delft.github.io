@@ -72,9 +72,10 @@ students:
 * Wouter Zorgdrager (MSc student). Working on FASTEN, system administration
 
 * Roberta Gismondi (BSc student). Working on ML-based auto-completion for Python
-* Ilya Grishkov (BSc student). Working on FASTEN
 * Evaldas Latoškinas (BSc student). Working on type prediction for Python
+* Ilya Grishkov (BSc student). Working on FASTEN
 * Mihhail Sokolov (BSc student). Working on FASTEN
+* Edoardo Lanzini (BSc student). Working on FASTEN
 
 ## Alumni
 
