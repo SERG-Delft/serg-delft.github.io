@@ -30,6 +30,6 @@ Some current topics:
 * **Mutation testing**: how can we make mutation testing easier to apply to real-world software systems?
 * **Test analytics**: how can we make software engineers more aware of their test activities (and help them in steering their future test activities)
 * **Test code quality**: How does test code quality influence the ease by which bugs can be located?
-* **Test case generation**: related to the work done in the [AI4SE research line]({% link _researchlines/ai4se.md %})
+* **Test case generation**: related to the work done in the [CI4SE research line]({% link _researchlines/ci4se.md %})
 * **Developer-centric perspective on testing**: what are some of the difficulties that developers encounter when starting/willing to test?
 
