@@ -21,4 +21,8 @@ collections:
   posts:
     output: true
     permalink: /:collection/:year/:month/:title/
+  researchlines:
+    output: true
+    permalink: /research-lines/:title/
+
 

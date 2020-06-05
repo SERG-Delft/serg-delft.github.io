@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: research-line
 title: Software Analytics
+description: How can streams of data collected from versioning, issue tracking, and continuous integration repositories be used to understand and improve the software development process?
+responsible: "Georgios Gousios"
 ---
 
-### Recent and upcoming activities
-
-### Introduction
+## Introduction
 
 Modern software projects are more than just the code that comprises them: teams
 follow specific development processes; the code runs on servers or mobile phones
@@ -21,57 +21,61 @@ Currently, we focus on the following 3 research lines, even though we are always
 
 * **Engineering for (software) analytics**: creating platforms for data ingestion, integration and querying in a streaming fashion. Related projects:
 
+    * [FASTEN](https://www.fasten-project.eu) A platform for analysing dependency 
+    management services at the call graph level granularity
     * [Codefeedr](http://codefeedr.org) A platform to ingest and process
       software analytics data in a streaming fashion.
-    * [TravisTorrent](https://travistorrent.testroots.org) Collects Travis build
-      data, combines them with GHTorrent and offers them back to the research
-      community.
-    * [GHTorrent](https://ghtorrent.org) Collects all data from the
+    * [GHTorrent](https://ghtorrent.org) Collects all data from the GitHub event
+      API
 
 * **Software ecosystems**: We build ecosystem wide, versioned call graphs out
 of package networks to make studies such as precise security vulnerability
 tracking, software license tracking, data-based API evolution etc possible.
 
-* **Software reliability analytics**: We work to make APIs more reliable by
-  combining static analysis with search-based test generation.
-
-The following slides give a high level overview of our recent work:
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7Q_9d-R8qXx5ak5y-Q7gqtHS2HfgXSPxQCx7HQj8votxwvq9TdMyPHmANxMBclULDnFp3l9y1Zht-/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### Researchers
+## Researchers
 
 The following people are part of the Software Analytics lab:
 
 * Georgios Gousios (Lab leader)
 * Arie van Deursen (Mentor, Leader of the Software Engineering group)
-* Moritz Beller (Postdoc, working on build analytics)
-* Maria Kechagia (Postodoc, working on API reliability)
-* Enrique Larios Vargas (Postdoc, working on productivity analytics)
-* Joseph Hejderup (PhD student, working on ecosystem analysis/tics)
 
-#### Collaborators
+* Ayushi Rastogi (Postdoc, part-time) working on theory building for distributed software development
+* Joseph Hejderup (PhD student) working on ecosystem analysis/tics
+* Elvan Kula (PhD student, also with ING), working on analytics for software process optimisation
+* Mehdi Keshani (PhD student), working on scaling static analyses
+* Amir Mir (PhD student), working on making Python better through Machine Learning
+* Xunhui Zhang (visitor PhD student), working on analytics for distributed software development
+
+## Collaborators
 
 The lab collaborates with the following people / organizations:
 
 * [Diomidis Spinellis](http://spinellis.gr) (AUEB)
 * [Software Improvement Group](https://sig.eu)
-* [ING](https://sig.eu)
 
-#### Student collaborators
+## Student collaborators
 
 SAL is always open to host briliant MSc/BSc students to work on the exiting
 topics we offer. Currently, SAL has the priviledge to host the following
 students:
 
-* Elvan Kula (MSc student, working on rapid release analytics)
-* Niels van Kaam (MSc student, working on streaming systems)
+* Wouter Zorgdrager (MSc student, working on FASTEN)
 
-* Wouter Zorgdrager (BSc student, working on Codefeedr)
-* Joris Quist (BSc student, working on Codefeedr)
 
-#### Alumni
+## Alumni
 
 The following people where part of the Software Analytics lab:
 
+* Moritz Beller (Postdoc, now at FaceBook)
+* Maria Kechagia (Postodoc, now at UCL)
 * Jos Kuijpers (BSc student, worked on Codefeedr)
+
+## Funding
+
+The Software Analytics Lab has received funding from:
+
+* NWO
+* European Commission
+* Microsoft
+* Facebook
+* ING
