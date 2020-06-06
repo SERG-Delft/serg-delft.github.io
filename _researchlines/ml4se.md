@@ -26,5 +26,5 @@ Our research topics include:
 
 * **Vulnerability detection**: Detecting bugs that can lead to security vulnerabilities via machine learning and grammar inference. ML can be used to learn patterns of bug related to security vulnerabilities by mining  open-source and industrial code (see for example [Firewall Testing](https://pure.tudelft.nl/portal/en/publications/a-machine-learningdriven-evolutionary-approach-for-testing-web-application-firewalls(af7bf5df-6fab-4739-ae38-27abf8a4fafe).html)).
 
-* **Software refactoring**: The development of data-driven refactoring recommendation tools. More information about it can be found in our [Software Refactoring]({% link _researchlines/software-refactoring.md %}) research line.
+* **Software refactoring**: Identifying pieces of code that need refactoring is a challenging task. We aim to build data-driven refactoring recommendation tools.
 
