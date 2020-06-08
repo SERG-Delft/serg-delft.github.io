@@ -2,8 +2,8 @@
 layout: event
 title: "Developers Aptitude For Software Security: A Mixed Method Approach For Knowledge Translation to Integrate Software And Security"
 categories: [events]
-start: "15:00"
-end: "16:00"
+start: "15:30"
+end: "16:30"
 speaker: Vivek Arora  
 where: online (TBA)
 ---
