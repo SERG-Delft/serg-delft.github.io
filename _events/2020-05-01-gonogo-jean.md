@@ -5,7 +5,7 @@ categories: [events]
 start: "15:00"
 end: "16:00"
 speaker: Jeanderson Candido  
-where: online (TBA)
+where: online
 ---
 
 In this talk, I will be discussing the challenges of logging an enterprise
