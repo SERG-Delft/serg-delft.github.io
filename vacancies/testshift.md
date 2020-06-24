@@ -40,7 +40,7 @@ Please contact Andy Zaidman (a.e.zaidman@tudelft.nl)
 --> you can also have a look at my research at https://azaidman.github.io
 
 ### How to apply?
-Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl). On December 24th, 2019 there were still open PhD positions availble... so apply soon! 
+Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl). 
 
 ### About the research environment
 
