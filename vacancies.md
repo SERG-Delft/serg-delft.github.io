@@ -21,7 +21,8 @@ deeper understanding, interacting with peers around the world, but also
 interacting with practitioners from both the open source and industrial domain
 to evaluate your research.
 
-TestShift is rooted in empirical software engineering and will make use of
+[TestShift](https://testshiftproject.github.io/) is rooted in empirical
+software engineering and will make use of
 research methods such as ethnography, longitudinal field studies and case
 studies.
 

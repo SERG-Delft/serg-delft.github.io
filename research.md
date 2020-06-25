@@ -18,7 +18,7 @@ Within our research lines, ongoing funded research projects include:
 Start | Name | Project Title | Funding | SERG Principal Investigators
 ------|------|---------------|---------|------------------------
 2019  | [AFR](https://se.ewi.tudelft.nl/ai4fintech/)  | AI for Fintech Research | [ING](https://www.ing.com/Home.htm)  | Arie van Deursen
-2019  | TestShift | A Socio-Technical Shift in Software Testing | NWO Vici | Andy Zaidman |
+2019  | [TestShift](https://testshiftproject.github.io/) | A Socio-Technical Shift in Software Testing | NWO Vici | Andy Zaidman |
 2019  | [UBRI](https://ubri.ripple.com) | Testing for Blockchain | Ripple | Annibale Panichella
 2019  | [FASTEN](http://gousios.org/blog/Introducing-Fasten.html) | Fine-grained analysis of software ecosystems (FASTEN) | EU H2020 | Georgios Gousios
 2019  | ML4SSE  | ML 4 Secure Software Engineering | [EEMCS](https://www.tudelft.nl/en/eemcs/) | Maurício Aniche, Arie van Deursen
