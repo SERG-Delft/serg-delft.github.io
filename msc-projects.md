@@ -42,8 +42,8 @@ Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][th
 
 ### Composing your Study Program
 
-If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](teaching.html#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture and software analytics courses.
-Besides our own software engineering related courses, when choosing the electives in your program you can consider including courses in such areas as machine learning, data science, compiler construction, distributed systems, or security.
+If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](teaching.html#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture, software analytics, or software testing and reverse engineering courses.
+Besides our own software engineering related courses, when choosing the electives in your program you can consider including courses in such areas as machine learning, computational intelligence, data science, compiler construction, distributed systems, or security.
 
 Optionally, you can start your research with a 7-8 week literature survey (IN4306, 10EC). This assignment is concluded with a report containing an overview of the state-of-the-art in a particular branch of research.
 
