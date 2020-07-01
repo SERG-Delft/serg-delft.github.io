@@ -91,7 +91,7 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
       <div class="card-title"><a href="https://apanichella.github.io">Annibale Panichella</a></div>
-      <p class="card-text">AI-based software engineering</p>
+      <p class="card-text">Computational Intelligence for SE, Automated Software Testing, Evolutionary Algorithms</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/AnniPanic" title="Twitter"><i class="fab fa-twitter"></i></a>
