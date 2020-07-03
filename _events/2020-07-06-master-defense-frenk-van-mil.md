@@ -16,4 +16,4 @@ In this study, we establish a baseline and compare three models on their perform
 
 We find existing psycholinguistic models to be most useful for software engineering when used on a group or team level. When used on an individual level, one should take into account possible inaccuracies and consider the potentially harmful impact the misuse or misinterpretation of scores may have on an individual.
 
-Thesis: [link] ()
+Thesis: [link](https://se.ewi.tudelft.nl/events/2020/07/06/master-defense-frenk-van-mil/)
