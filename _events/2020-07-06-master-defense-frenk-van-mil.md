@@ -3,7 +3,7 @@ layout: event
 title: "Master Thesis Defense on Inferring Personality from GitHub Communication Data: Promises & Perils"
 categories: [events, defenses]
 start: "10:15"
-end: "11:45"
+end: "12:00"
 speaker: Frenk van Mil
 where: Skype
 ---
