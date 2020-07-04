@@ -326,8 +326,8 @@ title: People
     </div>
   </div>
 
-<div class="card d-block">
-	<img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
+  <div class="card d-block">
+	  <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
     <div class="card-body">
 		<div class="card-title">
 			<a href="https://chandramaddila.github.io/">Chandra Maddila</a>
@@ -337,7 +337,11 @@ title: People
     <div class="card-footer bg-transparent border-success">
 		<a href="https://www.linkedin.com/in/cmaddila/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </div>
+  </div>
+
 </div>
+
+<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
@@ -354,10 +358,6 @@ title: People
 	  <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
@@ -418,19 +418,6 @@ title: People
       <a href="https://github.com/ishepard" target="_blank"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/davidespadini/" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/d-spadini(df3c7c1c-421b-413d-8f61-ba8a6b23b82b)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/16692536?s=460&v=4" alt="Qianqian Zhu">
-    <div class="card-body">
-      <div class="card-title">Qianqian Zhu</div>
-      <p class="card-text">Mutation testing</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/qzhu90"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/qianqianzhu"><i class="fab fa-github"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/q-zhu(61ceb2fb-83c4-4272-9001-6e954f09ba09)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -527,20 +514,7 @@ title: People
       <a href="https://ir.linkedin.com/in/malihe-izadi" title="LinkedIn"><i class="fab fa-linkedin"></i></a>	    
       <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
-  </div>   
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/7933089?s=400&v=4" alt="Alaaeddin Swidan">
-    <div class="card-body">
-      <div class="card-title"> Alaaeddin Swidan</div>
-      <p class="card-text">Programming education. Open Universiteit and Leiden</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/aeswidan"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=NDkRW44AAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/aas-swidan(20070d35-afd5-49a5-ac87-7d9264fb3906)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>    
+  </div> 
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
@@ -604,7 +578,9 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4) | 2015-2020 | PhD student | |
 [Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/?originalSubdomain=nl)                         | 2009-2019 | PhD student | UC Davis, USA |
+[Alaaeddin Swidan](https://nl.linkedin.com/in/aas-swidan) | 2015-2019 | PhD student | Open Universiteit |
 [Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
 [Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
@@ -624,7 +600,7 @@ Name | Period | Role | Current Affiliation
 [Marco Vit](https://www.linkedin.com/in/marco-vit-145b71106/)          | 2015-2015 | Scientific programmer | DiTech, IT
 [Steven Raemaekers](https://dblp.org/pers/hd/r/Raemaekers:Steven)      | 2011-2015 | PhD student | [ATS Distributed](https://www.atsdistributed.com/), NL
 [Cuiting Chen](https://dblp.org/pers/hd/c/Chen:Cuiting)                | 2011-2015 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
-[Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                    | 2010-2015 | PhD Student | --
+[Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                    | 2010-2015 | PhD Student |   |
 [Tiago Espinha](https://dblp.org/pers/hd/e/Espinha:Tiago)              | 2010-2015 | PhD student | [Ocado](https://www.ocadotechnology.com/), UK
 [Daniele Romano](https://dblp.org/pers/hd/r/Romano:Daniele)            | 2010-2015 | PhD student | [ING](https://www.ing.com/Home.htm), NL
 [Esther van Rooijen](https://www.linkedin.com/in/eevanrooijen/)        | 2009-2014 | Secretary | [NFI](https://www.forensischinstituut.nl/), NL
