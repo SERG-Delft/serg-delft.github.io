@@ -458,18 +458,6 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="img/boris-cherry.jpg" alt="Boris Cherry">
-    <div class="card-body">
-      <div class="card-title">Boris Cherry</div>
-      <p class="card-text">Crash reproduction benchmarking. Visiting from UNamur.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/bocherry"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/boris-c-250884b7/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
     <div class="card-body">
       <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
@@ -579,6 +567,7 @@ title: People
 Name | Period | Role | Current Affiliation
 --|--|--|--
 [Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4) | 2015-2020 | PhD student | |
+[Boris Cherry](https://www.linkedin.com/in/boris-c-250884b7/) | 2020-2020 | Visitor | [University of Namur](https://www.unamur.be/en) |
 [Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/?originalSubdomain=nl)                         | 2009-2019 | PhD student | UC Davis, USA |
 [Alaaeddin Swidan](https://nl.linkedin.com/in/aas-swidan) | 2015-2019 | PhD student | Open Universiteit |
 [Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
