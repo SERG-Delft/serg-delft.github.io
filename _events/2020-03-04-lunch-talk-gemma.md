@@ -1,13 +1,12 @@
 ---
 layout: event
-title: "SERG Lunch"
+title: "SERG Lunch: Exploiting Human-Factors in Software Maintenance and Evolution"
 categories: [events, lunch-talks]
 start: "12:30"
 end: "13:30"
 speaker: Gemma Catolino
 where: Social Data Lab, Building 28
 ---
-"Exploiting Human-Factors in Software Maintenance and Evolution" - PhD Thesis
 
 "Great software doesn’t come from tools, it comes from people."
 During software development and maintenance, companies continually deal with issues related to the management of human resources. Such factors as team dynamics, experience, seniority, training, and office culture could influence the success of a company as well as the quality of software produced. Hence, human factors should be carefully considered and monitored since they are an integral part of the software process and could lead to dangerous consequences (e.g., loss of money or reputation), especially during the maintenance phase that — if wrong managed — costs 30% more than the development phase.

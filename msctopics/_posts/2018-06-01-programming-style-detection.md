@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Detecting programming styles
-categories: [msc-topics]
+categories: [sal-msc-topics]
 where: TU Delft
 contact: Georgios Gousios
 ---
@@ -23,5 +23,3 @@ functional code has less bugs or is easier to test.
 #### Contacts about the project:
 
 * Georgios Gousios (TU Delft)
-
-#### Related work

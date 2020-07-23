@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design and Implementation of a parallel awk-like language
-categories: [msc-topics]
+categories: [sal-msc-topics]
 where: TU Delft
 contact: Diomidis Spinellis
 ---
@@ -26,7 +26,6 @@ The objectives of this project are
 * to design this language based on an examination of real-life awk programs,
 * to implement the system in a modern systems programming language, such as Rust or Go, and
 * to benchmark its performance over the classical version of awk.
-
 
 #### Related work
 [1] Alfred V. Aho, Brian W. Kernighan, and Peter J. Weinberger. *[The AWK Programming Language](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)*. Addison Wesley 1988.

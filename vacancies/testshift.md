@@ -7,7 +7,7 @@ The TU Delft Software Engineering Research Group has the following vacancies:
 
 ## PhD student in Software Testing 
 
-The Software Engineering Research Group (SERG) has recently acquired a NWO Vici grant called TestShift. The Vici grant is the most prestigious personal research grant from the Dutch Science Foundation NWO and will reinforce the software testing research line at Delft University of Technology. 
+The Software Engineering Research Group (SERG) has recently acquired a NWO Vici grant called [TestShift](https://testshiftproject.github.io/). The Vici grant is the most prestigious personal research grant from the Dutch Science Foundation NWO and will reinforce the software testing research line at Delft University of Technology. 
 
 For this project we are seeking enthusiastic Master students interested in obtaining a PhD degree in the cross-section of software testing, human computer interaction, and socio-technical factors in software engineering. The prospective PhD student is expected to do high-quality research: coming up with creative solutions, working diligently to iron out all details and getting a deeper understanding, interacting with peers around the world, but also interacting with practitioners from both the open source and industrial domain to evaluate your research.
 
@@ -33,24 +33,23 @@ Create an application package containing:
 - A detailed transcript of university grades
 - Proof of English proficiency
 
+Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl).
+
 ### More information?
 
-Please contact Andy Zaidman (a.e.zaidman@tudelft.nl)
+Please contact Andy Zaidman (a.e.zaidman@tudelft.nl)  
+→ you can also have a look at my research at [https://azaidman.github.io](https://azaidman.github.io)
 
---> you can also have a look at my research at https://azaidman.github.io
-
-### How to apply?
-Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl). On December 24th, 2019 there were still open PhD positions availble... so apply soon! 
+If you want to know more about the TestShift project & the Software Engineering Research Group from the PhD Student side you can contact Carolin Brandt (c.e.brandt@tudelft.nl) 😊
 
 ### About the research environment
 
+The Software Engineering Research Group (SERG) is part of the department of Software Technology, faculty of Electrical Engineering, Mathematics, and Computer Science, and a member of the research school IPA. The group employs approximately 30 people, comprising full, associate, and assistant professors, lecturers, postdocs, and PhD students. The main research areas for the group include but are not limited to software analytics, software testing, software quality and maintenance, software evolution and search-based software engineering. The involved researchers have developed numerous techniques to make it easier for software developers to (1) understand, (2) maintain and (3) test existing software systems. More information about the group can be found here: [https://se.ewi.tudelft.nl](https://se.ewi.tudelft.nl)
+
+SERG is part of the Department of Software Technology (ST), which comprises research groups working on core computer science and engineering topics. The department is responsible for a large part of the curriculum of the BSc and MSc programmes in Computer Science as well as the MSc programme in Embedded Systems. The department’s research mission is to perform excellent research at an internationally-recognised level in the design, construction and analysis of complex, concurrent and cooperative computer and information systems. Inspiration for the research topics is derived largely from technical ICT problems in industry and society. The Department moved into new office and lab space in 2018.
+
 The Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) is known worldwide for its high academic quality and the social relevance of its research programmes. The faculty’s excellent facilities accentuate its international position in teaching and research. Within this interdisciplinary and international setting the faculty employs more than 1100 employees, including about 400 graduate students and 4000 undergraduate students. Together they work on a broad range of technical innovations in the fields of sustainable energy, telecommunications, microelectronics, embedded systems, computer and software engineering, artificial intelligence, interactive multimedia and applied mathematics.
 
-Within the faculty, the Department of Software Technology (ST) comprises the EEMCS Faculty research groups working on core computer science and engineering topics. The department is responsible for a large part of the curriculum of the BSc and MSc programmes in Computer Science as well as the MSc programme in Embedded Systems. The department’s research mission is to perform excellent research at an internationally-recognised level in the design, construction and analysis of complex, concurrent and cooperative computer and information systems. Inspiration for the research topics is derived largely from technical ICT problems in industry and society. The Department moved into new office and lab space in 2018.
-
-The Software Engineering Research Group (SERG) is part of the department of Software Technology, faculty of Electrical Engineering, Mathematics, and Computer Science, and a member of the research school IPA. The group employs approximately 30 people, comprising full, associate, and assistant professors, lecturers, postdocs, and PhD students. The main research areas for the group include but are not limited to software analytics, software testing, software quality and maintenance, software evolution and search-based software engineering. The involved researchers have developed numerous techniques to make it easier for software developers to (1) understand, (2) maintain and (3) test existing software systems. More information about the group can be found here: https://se.ewi.tudelft.nl
-
-Located in a charming college town, TU Delft is the largest and oldest public technological university in the Netherlands. The university is regularly ranked among the most highly-rated worldwide for engineering and technology. Information about academic careers in the Netherlands and working at TU Delft can be found at www.factcards.nl and www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/coming-to-the-netherlands-tu-delft/. 
-
+Located in a charming college town, TU Delft is the largest and oldest public technological university in the Netherlands. The university is regularly ranked among the most highly-rated worldwide for engineering and technology. Information about academic careers in the Netherlands and working at TU Delft can be found at [www.factcards.nl](https://www.factcards.nl) and [www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/coming-to-the-netherlands-tu-delft/](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/coming-to-the-netherlands-tu-delft/).
 
 

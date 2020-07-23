@@ -26,36 +26,27 @@ You can make an appointment with one of the SERG group members to see what proje
 [theses-andy]: https://repository.tudelft.nl/islandora/search/contributor%3Azaidman?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 [theses-arie]: https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 [theses-rini]: https://repository.tudelft.nl/islandora/search/contributor%3Asolingen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-seb]: https://repository.tudelft.nl/islandora/search/contributor%3Aproksch?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 
 Supervisor | Topics | Examples
 |---|---|---|
-Maurício Aniche | Software maintenance, software refactoring, software testing | [Example theses][theses-mauricio]
+Maurício Aniche | Software refactoring, DevOps and software monitoring | [Example theses][theses-mauricio]
 Arie van Deursen | Human aspects, software architecture, software testing | [Example theses][theses-arie]
 Georgios Gousios | Machine learning for software engineering, repository mining, software analytics | [Example theses][theses-georgios]
 Annibale Panichella | Software testing, search-based software engineering, security testing | [Example theses][theses-annibale]
 Rini van Solingen | Globally distributed software engineering, agile practices | [Example theses][theses-rini]
 Andy Zaidman | Software testing, software evolution, repository mining | [Example theses][theses-andy]
+Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][theses-seb]
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
 
-<br/>
 ### Composing your Study Program
 
-If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](teaching.html#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture and software analytics courses.
-Besides our own software engineering related courses, when choosing the electives in your program you can consider including courses in such areas as machine learning, data science, compiler construction, distributed systems, or security.
+If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](teaching.html#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture, software analytics, or software testing and reverse engineering courses.
+Besides our own software engineering related courses, when choosing the electives in your program you can consider including courses in such areas as machine learning, computational intelligence, data science, compiler construction, distributed systems, or security.
 
 Optionally, you can start your research with a 7-8 week literature survey (IN4306, 10EC). This assignment is concluded with a report containing an overview of the state-of-the-art in a particular branch of research.
 
-<a id="open"></a>
-
-### Open projects
-
-| Published | Where |  Project Title       | SERG contact           |
-|---------|-------|----------------------|------------------------|{% for post in site.posts %}{% if post.categories contains "msc-topics" %}
-| {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> | {{ post.contact }} |{% endif %}{% endfor %}
-
-
-<br/>
 
 ### Proposing your Own Project
 
@@ -64,7 +55,6 @@ In those cases it is important to
 
 - Study a number of [existing MSc theses](#supervisors).
 - Identify an ongoing [research project](research.html) to which your proposal is connected.
-- Study a number of currently [open msc project ideas](#open) and identify the ones that are closest to your idea.
 
 In particular you need to carefully think about the research component of your proposal, and have a clear idea on why your proposal is novel -- it should advance the world's knowledge in software engineering.
 If you wish to pursue this route it is advisable to select and contact a possible [supervisor](#supervisor) as early as possible.

@@ -91,7 +91,7 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
       <div class="card-title"><a href="https://apanichella.github.io">Annibale Panichella</a></div>
-      <p class="card-text">AI-based software engineering</p>
+      <p class="card-text">Computational Intelligence for SE, Automated Software Testing, Evolutionary Algorithms</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/AnniPanic" title="Twitter"><i class="fab fa-twitter"></i></a>
@@ -99,6 +99,20 @@ title: People
       <a href="https://www.linkedin.com/in/annibale-panichella-84081186/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.it/citations?user=xPQ72u4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/a-panichella(48ad3f35-3014-4bab-a9e9-4ba228749fdd)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>    
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://proks.ch/images/portrait2.jpg" alt="Sebastian Proksch">
+    <div class="card-body">
+      <div class="card-title"><a href="https://proks.ch">Sebastian Proksch</a></div>
+      <p class="card-text">CI/CD, DevOps, Collaborative SE, Empirical SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/prksch" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/proksch" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/sebastian-proksch-8aba8484" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=BBXa3QcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 </div>
@@ -120,7 +134,7 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
@@ -178,6 +192,18 @@ title: People
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://www.linkedin.com/in/vivekar"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
+    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
+    <div class="card-body">
+      <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
+      <p class="card-text"><a href="https://testshiftproject.github.io/visualizing-amplification">Test visualization and amplification</a></p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 
@@ -255,7 +281,7 @@ title: People
   </div>  
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/24504585?s=400&amp;u=c8217c41b2f168f006676b8b0a5c2580b5d427ff&amp" alt="Mehdi Keshani">
+    <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
     <div class="card-body">
       <div class="card-title">
         <a href="https://ashkboos.github.io/MyWebsite/">Mehdi Keshani</a>
@@ -269,7 +295,7 @@ title: People
       <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1163206?s=400&v=4" alt="Vladimir Kovalenko">
     <div class="card-body">
@@ -299,7 +325,24 @@ title: People
       <a href="https://scholar.google.nl/citations?hl=en&user=M5sWo0oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-  
+
+  <div class="card d-block">
+	  <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
+    <div class="card-body">
+		<div class="card-title">
+			<a href="https://chandramaddila.github.io/">Chandra Maddila</a>
+		</div>
+		<p class="card-text">AI assisted DevOps, Software Analytics. Also at Microsoft Research</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+		<a href="https://www.linkedin.com/in/cmaddila/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
+</div>
+
+<div class="card-deck non-top-row">
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
@@ -316,9 +359,21 @@ title: People
     </div>
   </div>
 
-</div>
-
-<div class="card-deck non-top-row">
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://mitchellolsthoorn.com" target="_blank">Mitchell Olsthoorn</a>
+      </div>
+      <p class="card-text">Security testing, blockchain</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mitchellolstho2" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5877721?s=400&v=4" alt="Luca Pascarella">
@@ -366,19 +421,6 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/16692536?s=460&v=4" alt="Qianqian Zhu">
-    <div class="card-body">
-      <div class="card-title">Qianqian Zhu</div>
-      <p class="card-text">Mutation testing</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/qzhu90"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/qianqianzhu"><i class="fab fa-github"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/q-zhu(61ceb2fb-83c4-4272-9001-6e954f09ba09)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
 </div>
 
 ### Scientific Programmers
@@ -416,18 +458,6 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
-    <div class="card-body">
-      <div class="card-title">Carolin Brandt</div>
-      <p class="card-text">Improving Java Stream Debugging. Visiting from TU Munich.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/1003685?v=4" alt="Felienne Hermans">
     <div class="card-body">
       <div class="card-title"><a href="http://felienne.com">Felienne Hermans</a></div>
@@ -442,35 +472,37 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/ffj-hermans(2fe8a348-ec67-4520-8c0a-34ef8d60fcaa)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+    <div class="card d-block">
+      <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
+      <div class="card-body">
+        <div class="card-title">Hennie Huijgens</div>
+        <p class="card-text">Software analytics. Visiting from ING.</p>
+      </div>
+      <div class="card-footer bg-transparent border-success">
+        <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+        <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      </div>
+    </div>
+
 </div>
 
 <div class="card-deck non-top-row">
 
   <div class="card d-block">
-    <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/61319954?s=400&u=dd21f02007f396146cc0636498e909245d2caea0&v=4" alt="Maliheh Izadi">
     <div class="card-body">
-      <div class="card-title">Hennie Huijgens</div>
-      <p class="card-text">Software analytics. Visiting from ING.</p>
+      <div class="card-title">
+	      <a href="http://ce.sharif.edu/~malizadi/">Maliheh Izadi</a>
+      </div>
+      <p class="card-text">ML for Software Engineering. Visiting from SUT.</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      <a href="https://ir.linkedin.com/in/malihe-izadi" title="LinkedIn"><i class="fab fa-linkedin"></i></a>	    
+      <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
-  </div>
-
-  <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/7933089?s=400&v=4" alt="Alaaeddin Swidan">
-    <div class="card-body">
-      <div class="card-title"> Alaaeddin Swidan</div>
-      <p class="card-text">Programming education. Open Universiteit and Leiden</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/aeswidan"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=NDkRW44AAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/aas-swidan(20070d35-afd5-49a5-ac87-7d9264fb3906)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>    
+  </div> 
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
@@ -483,7 +515,7 @@ title: People
       <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-  
+
   <div class="card d-block">
       <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/45024191?s=460&v=4" alt="Xunhui Zhang">
       <div class="card-body">
@@ -534,7 +566,10 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4) | 2015-2020 | PhD student | |
+[Boris Cherry](https://www.linkedin.com/in/boris-c-250884b7/) | 2020-2020 | Visitor | [University of Namur](https://www.unamur.be/en) |
 [Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/?originalSubdomain=nl)                         | 2009-2019 | PhD student | UC Davis, USA |
+[Alaaeddin Swidan](https://nl.linkedin.com/in/aas-swidan) | 2015-2019 | PhD student | Open Universiteit |
 [Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
 [Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
@@ -554,7 +589,7 @@ Name | Period | Role | Current Affiliation
 [Marco Vit](https://www.linkedin.com/in/marco-vit-145b71106/)          | 2015-2015 | Scientific programmer | DiTech, IT
 [Steven Raemaekers](https://dblp.org/pers/hd/r/Raemaekers:Steven)      | 2011-2015 | PhD student | [ATS Distributed](https://www.atsdistributed.com/), NL
 [Cuiting Chen](https://dblp.org/pers/hd/c/Chen:Cuiting)                | 2011-2015 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
-[Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                    | 2010-2015 | PhD Student | --
+[Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                    | 2010-2015 | PhD Student |   |
 [Tiago Espinha](https://dblp.org/pers/hd/e/Espinha:Tiago)              | 2010-2015 | PhD student | [Ocado](https://www.ocadotechnology.com/), UK
 [Daniele Romano](https://dblp.org/pers/hd/r/Romano:Daniele)            | 2010-2015 | PhD student | [ING](https://www.ing.com/Home.htm), NL
 [Esther van Rooijen](https://www.linkedin.com/in/eevanrooijen/)        | 2009-2014 | Secretary | [NFI](https://www.forensischinstituut.nl/), NL
