@@ -5,6 +5,13 @@ description: How can Computational Intelligence techniques automate software tes
 responsible: "Annibale Panichella"
 ---
 
+_Icon design by Srinivas Agra_
+
+<figure>
+  <img src="../img/ciselab-logo.svg" alt="CISELab logo" style="display: block; margin-left: auto; margin-right: auto; width: 55%;"/>
+</figure>
+<br/>
+
 The development, maintenance, and testing of large software products involve many activities that are complex, expensive, and error-prone. For example, complex systems (e.g., autonomous cars) are typically built as a composition of features that tend to interact and impact one another’s behavior in unknown ways. Therefore, detecting feature interaction failures with manual testing becomes infeasible and too expensive when the number and the complexity of the features increase.
 
 There are many tribes of AI, namely Symbolists, Evolutionists, Bayesians, Kernel Conservatives, Connectionists). In the CISE Lab, we focus on applying **Computational Intelligence** (CI) to automate expensive development activities since more development automation would require fewer human resources.  One of the most common ways to make such automation is the **Search-Based Software Engineering** (SBSE), which reformulates traditional software engineering tasks as search (optimization) problems. Then, **CI algorithms** (e.g., genetic algorithms, genetic programming, simulated annealing) are used to automate the process of discovering (e.g., detecting software defects) and building optimal solutions (e.g., software fixes).
