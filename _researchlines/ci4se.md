@@ -33,8 +33,8 @@ Patching defective code is a human-intensive activity. The goal of this line for
 
 * Annibale Panichella (Lab leader)
 * Arie van Deursen (Leader of the Software Engineering group)
-* Mitchell Olsthoorn (Ph.D. student) working on Testing for Blockchain
-* Xavier  Devroey (internal collaborator)
+* Xavier Devroey (Postdoc), working on Search-based Testing
+* Mitchell Olsthoorn (Ph.D. student), working on Testing for Blockchain
 * Pouria Derakhshanfar (internal collaborator)
 
 ## Collaborators
@@ -50,9 +50,16 @@ The lab collaborates with the following people/organizations (reported in alphab
 * Paolo Tonella, Universita' della Svizzera Italiana, Switzerland
 * SVV Lab - Interdisciplinary Centre for Security, Reliability and Trust, University of Luxemburg
 
+## Student collaborators
+
+CISELab is always open to hosting/collaborating with smart and motivated MSc/BSc students to work on the exiting topics we offer. Currently, CISELab is hosting the following students:
+
+* Dimitri Stallenberg (MSc student), working on SBSE
+* Merel Steenbergen (BSc student), working on Ripple
+
 ## Funding
 
-The Computational Intelligence for SE Lab (CISE Lab) has received funding from:
+The Computational Intelligence for SE Lab (CISELab) has received funding from:
 
 * 2020. European Commission
 * 2019. ING
