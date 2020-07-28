@@ -365,10 +365,10 @@ title: People
       <div class="card-title">
         <a href="https://mitchellolsthoorn.com" target="_blank">Mitchell Olsthoorn</a>
       </div>
-      <p class="card-text">Security testing, blockchain</p>
+      <p class="card-text">Computational Intelligence for SE, Security Testing, Blockchain</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/mitchellolstho2" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://twitter.com/mitchellolstho" target="_blank"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
@@ -436,6 +436,18 @@ title: People
       <a href="https://twitter.com/wouterdz"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/wzorgdrager"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/wouter-zorgdrager-a4746512a/"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+  <div class="card d-block">
+    <img class="card-img-top" src="img/dstallenberg.jpeg" alt="Dimitri Stallenberg">
+    <div class="card-body">
+      <div class="card-title">Dimitri Stallenberg</div>
+      <p class="card-text">Computational Intelligence for SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/dstallenberg"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/dimitri-stallenberg-22ab3a159/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 </div>
