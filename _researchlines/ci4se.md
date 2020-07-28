@@ -8,7 +8,7 @@ responsible: "Annibale Panichella"
 _Icon design by Srinivas Agra_
 
 <figure>
-  <img src="../img/ciselab-logo.svg" alt="CISELab logo" style="display: block; margin-left: auto; margin-right: auto; width: 55%;"/>
+  <img src="../../img/ciselab-logo.svg" alt="CISELab logo" style="display: block; margin-left: auto; margin-right: auto; width: 55%;"/>
 </figure>
 <br/>
 
