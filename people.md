@@ -223,14 +223,16 @@ title: People
   </div>
 
   <div class="card d-block">
-    <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5176953?s=460&v=4" alt="Pouria Derakhshanfar">
+    <img class="card-img-top" src="img/pouria-d.jpg" alt="Pouria Derakhshanfar">
     <div class="card-body">
-      <div class="card-title">Pouria Derakhshanfar</div>
-      <p class="card-text">Search based testing, DevOps</p>
+      <div class="card-title"><a href="https://pouria-d.me">Pouria Derakhshanfar</a></div>
+      <p class="card-text">Search-based software testing, DevOps</p>
     </div>
     <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/PDerakhshanfar"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/pderakhshanfar"><i class="fab fa-github"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/p-derakhshanfar(5ae55462-83f6-4fbd-ad32-9613d3f8329e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      <a href="https://www.linkedin.com/in/pouria-derakhshanfar-086b0066/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=CEMIPmsAAAAJ&hl=en" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
