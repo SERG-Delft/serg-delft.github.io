@@ -5,7 +5,7 @@ title: Master thesis projects
 
 ### Finding a Thesis Project
 
-For students participating in the TU Delft computer science and embedded systems master's programs we have several openings for MSc projects.
+For students participating in the TU Delft computer science and embedded systems master's programs we have several openings for research thesis projects. Usually these topics can also be adjusted to fit in the scope of a BSc research project.
 
 All MSc projects are aligned with our research. They often are connected to one of our ongoing [research projects](research.html), but we also frequently use MSc projects to explore new research directions.
 Projects can be conducted at:
@@ -20,7 +20,6 @@ Projects can be conducted at:
 You can make an appointment with one of the SERG group members to see what projects are currently open, or you can propose your own project, provided there is a clear connection with the research we conduct at our labs. You can contact the following persons for more information:
 
 [theses-mauricio]: https://repository.tudelft.nl/islandora/search/contributor%3Aaniche?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
-[theses-felienne]: https://repository.tudelft.nl/islandora/search/contributor%3A%22hermans%2C%20f%22%20OR%20contributor%3Afelienne%20OR%20contributor%3A%22hermans%2C%20f.f.j%22?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 [theses-georgios]: https://repository.tudelft.nl/islandora/search/contributor%3Agousios?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 [theses-annibale]: https://repository.tudelft.nl/islandora/search/contributor%3Apanichella?collection=education
 [theses-andy]: https://repository.tudelft.nl/islandora/search/contributor%3Azaidman?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22

@@ -614,8 +614,8 @@ Name | Period | Role | Current Affiliation
 [Cor-Paul Bezemer](https://www.ece.ualberta.ca/~bezemer/)              | 2009-2013 | PhD student | U. Alberta, CA
 [Maartje de Jonge](https://dblp.uni-trier.de/pers/hd/j/Jonge:Maartje_de)| 2009-2013 | PhD student | Independent, NL
 [Eric Bouwers](https://dblp.uni-trier.de/pers/hd/b/Bouwers:Eric)       | 2009-2013 | PhD student | [Grasple](https://www.grasple.com/), NL
-[Michaela Greiler](https://dblp.org/pers/hd/g/Greiler:Michaela)        | 2008-2013 | PhD student | [Microsoft Research](https://www.microsoft.com/en-us/research/people/mgreiler/), DE
-[Martin Pinzger](https://www.aau.at/en/isys/serg/team/pinzger-martin/) | 2008-2013 | Assistant professor | [U. Klagenfurt](https://www.aau.at/en/), AU
+[Michaela Greiler](https://dblp.org/pers/hd/g/Greiler:Michaela)        | 2008-2013 | PhD student | Independent, Austria
+[Martin Pinzger](https://www.aau.at/en/isys/serg/team/pinzger-martin/) | 2008-2013 | Assistant professor | [U. Klagenfurt](https://www.aau.at/en/), Austria
 [Kees Pronk](https://dblp.uni-trier.de/pers/hd/p/Pronk:Cornelis)       | 1981-2013 | Assistant professor | Retired
 [Sander van der Burg](http://sandervanderburg.nl/)                     | 2008-2012 | PhD student | [Mendix](https://www.mendix.com/), NL
 [Hans-Gerhard Gross](https://dblp.org/pers/hd/g/Gro=szlig=:Hans=Gerhard) | 2005-2012 | Assistant professor | [Hochschule Esslingen](https://www.hs-esslingen.de/), DE
