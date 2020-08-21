@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG talk: Test them all, is it worth it? Testing highly configurable software system"
+title: "SERG talk: Test them all, is it worth it? Testing highly configurable software systems"
 categories: [events, lunch-talks]
 start: "14:00"
 end: "15:00"
