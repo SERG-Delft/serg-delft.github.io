@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Thesis defense Martijn Steenbergen | Reducing human error in Online Controlled Experiments"
+title: "Master Thesis Defense on Reducing human error in Online Controlled Experiments"
 categories: [events, defenses]
 start: "14:00"
 end: "16:00"
