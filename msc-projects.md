@@ -14,6 +14,8 @@ Projects can be conducted at:
 - Industry (as part of an internship), usually with companies (in The Netherlands or abroad) with which we have an ongoing research collaboration (e.g. ING, SIG, Adyen, ATOS, XWiki, Microsoft, Google, Facebook, Infotron, JetBrains, ...)
 - Other (international) universities -- we have a rich network of academic friends around the world.
 
+If you study at a different university and you would like to write a research master thesis in the context of one of the SERG projects, you should ask your own university supervisor to contact us. We have limited places available, but are always interested in new research opportunities.
+
 <a id="supervisors"></a>
 ### SERG Supervisors
 
