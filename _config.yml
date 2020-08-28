@@ -17,6 +17,7 @@ production_url : se.ewi.tudelft.nl
 collections:
   events:
     output: true
+    sort_by: date
     permalink: /:collection/:year/:month/:day/:title/
   posts:
     output: true
