@@ -27,7 +27,7 @@ END:STANDARD
 END:VTIMEZONE
 {% assign items = site.events | reverse %}
 {% for post in items limit:30 %}BEGIN:VEVENT
-UID:{{ post.date | date: "%Y%m%d" }}@se.ewi.tudelft.nl
+UID:{{ post.id | slugify }}@se.ewi.tudelft.nl
 ORGANIZER;CN="SERG":MAILTO:noreply@se.ewi.tudelft.nl
 LOCATION:{{ post.where }}
 SUMMARY:{{ post.speaker }}: {{ post.title }}
