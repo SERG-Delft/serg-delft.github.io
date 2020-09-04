@@ -252,6 +252,10 @@ title: People
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
   <div class="card d-block">
     <img class="card-img-top" src="https://user-images.githubusercontent.com/2521475/48063837-7b1be500-e1c6-11e8-9dc7-78813d6f766c.png" alt="Joseph Hejderup">
     <div class="card-body">
@@ -265,9 +269,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-</div>
-
-<div class="card-deck non-top-row">
 
  <div class="card d-block">
     <img class="card-img-top" src="https://scholar.google.nl/citations?view_op=medium_photo&user=egl5tVQAAAAJ&citpid=2" alt="Bas Jansen">
@@ -328,6 +329,10 @@ title: People
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
   <div class="card d-block">
 	  <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
     <div class="card-body">
@@ -340,10 +345,6 @@ title: People
 		<a href="https://www.linkedin.com/in/cmaddila/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
@@ -545,7 +546,9 @@ Name | Period | Role | Current Affiliation
 [Marlies Aldewereld](https://dblp.uni-trier.de/pers/hd/a/Aldewereld:Marlies) | 2018-2018 | PhD Student | [LIACS](http://perl.liacs.nl) & [Windesheim](https://www.windesheim.nl/onderzoek/onderzoeksthemas/educatie/leiderschap-in-onderwijs-en-opvoeding/team)
 [Marileen Smit](https://dblp.uni-trier.de/pers/hd/s/Smit:Marileen)     | 2017-2018 | Teaching Support | [LIACS](http://perl.liacs.nl) & [FutureNL](https://futurenl.org/)
 [Robert Holwerda](https://dblp.uni-trier.de/pers/hd/h/Holwerda:Robert) | 2016-2018 | PhD student | [LIACS](httpL//perl.liacs.nl) & [HAN](https://www.han.nl/)
+[Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1) | 2009-2018 | PhD stud., assist. prof. | [LIACS](http://perl.liacs.nl)
 [Fabio Palomba](https://www.ifi.uzh.ch/en/zest/team/palomba.html)      | 2017-2017 | Postdoc | [U. Zurich](https://www.ifi.uzh.ch/en/zest.html), CH
+[Alberto Bacchelli](https://sback.it/)                                 | 2013-2017 | Assistant professor | [U. Zurich](https://www.uzh.ch/en.html), CH
 [Nicolas Dintzner](https://dblp.org/pers/hd/d/Dintzner:Nicolas)        | 2013-2017 | PhD student | TU Delft / TPM
 [Tamara Brusik](https://nl.linkedin.com/in/tamara-brusik-202a037b)     | 2014-2017 | Secretary | TU Delft / HR
 [Petra Heck](https://dblp.org/pers/hd/h/Heck:Petra)                    | 2012-2016 | PhD student | [Fontys](https://fontys.nl/), NL
