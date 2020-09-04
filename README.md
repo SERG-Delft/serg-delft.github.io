@@ -88,9 +88,5 @@ You can use Docker to avoid installing Ruby and/or gems. More instructions
 export JEKYLL_VERSION=3.8.4
 
 # Build the web site
-docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll build
-
-# (Different terminal) Run a local webserver to see the site contents
-cd _site
-python -m SimpleHTTPServer 4000
+docker run --rm -p4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll serve
 ```
