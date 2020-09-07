@@ -6,7 +6,7 @@ title: People
 ### Faculty
 
  <div class="card-deck">
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Arie van Deursen">
     <div class="card-body">
       <div class="card-title"><a href="https://avandeursen.com">Arie van Deursen</a></div>
@@ -25,7 +25,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/rini-van-solingen.jpeg" alt="Rini van Solingen">
     <div class="card-body">
       <div class="card-title"><a href="http://www.rinivansolingen.nl/">Rini van Solingen</a></div>
@@ -39,7 +39,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
     <div class="card-body">
       <div class="card-title"><a href="https://azaidman.github.io">Andy Zaidman</a></div>
@@ -57,7 +57,7 @@ title: People
 </div> <!-- deck -->
 
 <div class="card-deck non-top-row">
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
       <div class="card-title"><a href="https://www.mauricioaniche.com">Maurício Aniche</a></div>
@@ -72,7 +72,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
     <div class="card-body">
       <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
@@ -87,7 +87,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
       <div class="card-title"><a href="https://apanichella.github.io">Annibale Panichella</a></div>
@@ -102,7 +102,7 @@ title: People
     </div>
   </div>    
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://proks.ch/images/portrait2.jpg" alt="Sebastian Proksch">
     <div class="card-body">
       <div class="card-title"><a href="https://proks.ch">Sebastian Proksch</a></div>
@@ -121,7 +121,7 @@ title: People
 
 <div class="card-deck">
 
-<div class="card d-block">
+<div class="card d-flex d-block">
     <img class="card-img-top" src="http://www.gemmacatolino.com/img/profile.jpg" alt="Gemma Catolino">
     <div class="card-body">
       <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
@@ -135,7 +135,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
       <div class="card-title"><a href="https://luiscruz.github.io/">Luís Cruz</a></div>
@@ -149,7 +149,7 @@ title: People
    </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/8514257?v=4" alt="Xavier Devroey">
     <div class="card-body">
       <div class="card-title"><a href="http://xdevroey.be">Xavier Devroey</a></div>
@@ -163,7 +163,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/7066145?s=400&v=4" alt="Ayushi Rastogi">
     <div class="card-body">
       <div class="card-title"><a href="https://ayushirastogi.github.io/">Ayushi Rastogi</a></div>
@@ -184,7 +184,7 @@ title: People
 
 <div class="card-deck">
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/Leonhard_A.jpeg" alt="Leonhard Applis">
     <div class="card-body">      
     <div class="card-title"><a href="https://twonki.github.io/">Leonhard Applis</a></div>
@@ -196,7 +196,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/vivek.jpg" alt="Vivek Arora">
     <div class="card-body">
       <div class="card-title">Vivek Arora</div>
@@ -207,7 +207,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
       <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
@@ -220,7 +220,7 @@ title: People
   </div>
 
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2225536?s=400&u=bc59f61dac1e584ca8b071a1e10792f228470072&v=4" alt="Jeanderson B. Candido">
     <div class="card-body">
       <div class="card-title"><a href="https://jeandersonbc.github.io">Jeanderson Candido</a></div>
@@ -234,7 +234,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/pouria-d.jpg" alt="Pouria Derakhshanfar">
     <div class="card-body">
       <div class="card-title"><a href="https://pouria-d.me">Pouria Derakhshanfar</a></div>
@@ -248,7 +248,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5766743?s=460&v=4" alt="Marco di Biase">
     <div class="card-body">
       <div class="card-title">
@@ -268,7 +268,7 @@ title: People
 
 <div class="card-deck non-top-row">
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://user-images.githubusercontent.com/2521475/48063837-7b1be500-e1c6-11e8-9dc7-78813d6f766c.png" alt="Joseph Hejderup">
     <div class="card-body">
       <div class="card-title"><a href="https://jhejderup.github.io">Joseph Hejderup</a></div>
@@ -282,7 +282,7 @@ title: People
     </div>
   </div>
 
- <div class="card d-block">
+ <div class="card d-flex d-block">
     <img class="card-img-top" src="https://scholar.google.nl/citations?view_op=medium_photo&user=egl5tVQAAAAJ&citpid=2" alt="Bas Jansen">
     <div class="card-body">
       <div class="card-title">Bas Jansen</div>
@@ -295,7 +295,7 @@ title: People
     </div>
   </div>  
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
     <div class="card-body">
       <div class="card-title">
@@ -311,7 +311,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1163206?s=400&v=4" alt="Vladimir Kovalenko">
     <div class="card-body">
       <div class="card-title"><a href="https://vovak.me/">Vladimir Kovalenko</a></div>
@@ -325,7 +325,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
     <div class="card-body">
       <div class="card-title">
@@ -345,7 +345,7 @@ title: People
 
 <div class="card-deck non-top-row">
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
 	  <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
     <div class="card-body">
 		<div class="card-title">
@@ -358,7 +358,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
       <div class="card-title">
@@ -374,7 +374,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
     <div class="card-body">
       <div class="card-title">
@@ -390,7 +390,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5801581?s=400&v=4" alt="Sohon Roy">
     <div class="card-body">
       <div class="card-title">Sohon Roy</div>
@@ -404,7 +404,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/9136821?s=400&v=4" alt="Davide Spadini">
     <div class="card-body">
       <div class="card-title">
@@ -425,7 +425,7 @@ title: People
 ### Scientific Programmers
 
 <div class="card-deck">
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2283622?s=460&v=4" alt="Wouter Zorgdrager">
     <div class="card-body">
       <div class="card-title">Wouter Zorgdrager</div>
@@ -438,7 +438,7 @@ title: People
     </div>
   </div>
   
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/dstallenberg.jpeg" alt="Dimitri Stallenberg">
     <div class="card-body">
       <div class="card-title">Dimitri Stallenberg</div>
@@ -455,7 +455,7 @@ title: People
 
 <div class="card-deck">
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
     <div class="card-body">
       <div class="card-title">Hennie Huijgens</div>
@@ -468,7 +468,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/61319954?s=400&u=dd21f02007f396146cc0636498e909245d2caea0&v=4" alt="Maliheh Izadi">
     <div class="card-body">
       <div class="card-title">
@@ -482,7 +482,7 @@ title: People
     </div>
   </div> 
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
     <div class="card-body">
       <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
@@ -494,7 +494,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
       <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/45024191?s=460&v=4" alt="Xunhui Zhang">
       <div class="card-body">
         <div class="card-title"><a href="https://zhangxunhui.github.io/">Xunhui Zhang</a></div>
@@ -512,7 +512,7 @@ title: People
 ### Support
 
 <div class="card-deck">
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/ramsoekh.jpg" alt="Minaksi Ramsoekh">
     <div class="card-body">
       <div class="card-title">Minaksie Ramsoekh</div>
@@ -523,7 +523,7 @@ title: People
       <a href="mailto:m.w.s.ramsoekh@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
     </div>
   </div>
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/shemara-van-der-zwet.jpg" alt="Shemara van der Zwet">
     <div class="card-body">
       <div class="card-title">Shemara van der Zwet</div>
