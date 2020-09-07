@@ -185,6 +185,18 @@ title: People
 <div class="card-deck">
 
   <div class="card d-block">
+    <img class="card-img-top" src="img/Leonhard_A.jpeg" alt="Leonhard Applis">
+    <div class="card-body">      
+    <div class="card-title"><a href="https://twonki.github.io/">Leonhard Applis</a></div>
+      <p class="card-text">ML for (Security) Testing, Anger Management</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/lapplislazuli"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/twonki"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
     <img class="card-img-top" src="img/vivek.jpg" alt="Vivek Arora">
     <div class="card-body">
       <div class="card-title">Vivek Arora</div>
