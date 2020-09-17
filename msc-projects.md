@@ -28,6 +28,7 @@ You can make an appointment with one of the SERG group members to see what proje
 [theses-arie]: https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 [theses-rini]: https://repository.tudelft.nl/islandora/search/contributor%3Asolingen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 [theses-seb]: https://repository.tudelft.nl/islandora/search/contributor%3Aproksch?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-luis]: https://repository.tudelft.nl/islandora/search/contributor%3Acruz?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
 
 Supervisor | Topics | Examples
 |---|---|---|
@@ -38,6 +39,7 @@ Annibale Panichella | Software testing, search-based software engineering, secur
 Rini van Solingen | Globally distributed software engineering, agile practices | [Example theses][theses-rini]
 Andy Zaidman | Software testing, software evolution, repository mining | [Example theses][theses-andy]
 Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][theses-seb]
+Luís Cruz | Software engineering for AI, sustainable software engineering | [Example theses][theses-luis]
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
 
