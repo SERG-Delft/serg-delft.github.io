@@ -121,20 +121,6 @@ title: People
 
 <div class="card-deck">
 
-<div class="card d-flex d-block">
-    <img class="card-img-top" src="http://www.gemmacatolino.com/img/profile.jpg" alt="Gemma Catolino">
-    <div class="card-body">
-      <div class="card-title"><a href="http://www.gemmacatolino.com/">Gemma Catolino</a></div>
-      <p class="card-text">Effort prediction, testability.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/g_catolino" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://scholar.google.nl/citations?user=ziGvasEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://www.linkedin.com/in/gemma-catolino-175131ab"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/g-catolino(14e262ef-4039-43c5-84e2-cce7caa587a9)/publications.html?pageSize=100&page=0" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
@@ -544,6 +530,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Gemma Catolino](https://www.gemmacatolino.com)                        | 2019-2020 | Post-doc | University of Tilburg / JADS |
 [Luca Pascarella](http://lucapascarella.com/)                          | 2016-2020 | PhD student | USI, CH 
 [Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4)       | 2015-2020 | PhD student | |
 [Boris Cherry](https://www.linkedin.com/in/boris-c-250884b7/)          | 2020-2020 | Visitor | [University of Namur](https://www.unamur.be/en) |
