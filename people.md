@@ -86,6 +86,19 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+  
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/burcuku" alt="Burcu Kulahcioglu Ozkan">
+    <div class="card-body">
+      <div class="card-title"><a href="https://burcuku.github.io/home">Burcu Kulahcioglu Ozkan</a></div>
+      <p class="card-text">Software Testing, Concurrent and Distributed Systems</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/burcuku" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/burcukulahciogluozkan" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com.tr/citations?user=HwPJzFMAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
@@ -113,19 +126,6 @@ title: People
       <a href="https://github.com/proksch" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/sebastian-proksch-8aba8484" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=BBXa3QcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars.githubusercontent.com/burcuku" alt="Burcu Kulahcioglu Ozkan">
-    <div class="card-body">
-      <div class="card-title"><a href="https://burcuku.github.io/home">Burcu Kulahcioglu Ozkan</a></div>
-      <p class="card-text">Software Testing, Concurrent and Distributed Systems</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/burcuku" title="Github"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/burcukulahciogluozkan" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com.tr/citations?user=HwPJzFMAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
