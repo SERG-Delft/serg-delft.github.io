@@ -5,7 +5,7 @@ title: Vacancies
 
 The TU Delft Software Engineering Research Group has the following vacancies: 
 
-## PhD student in Software Testing and DevoOps for Cyber-Physical Systems
+## PhD student in Software Testing and DevOps for Cyber-Physical Systems
 
 The Software Engineering Research Group (SERG) has recently acquired an H2020 EU project called COSMOS that will reinforce the research lines of software testing, evolution, and maintenance at TU Delft by focusing on Cyber-Physical systems.
 
