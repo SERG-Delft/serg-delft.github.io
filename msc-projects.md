@@ -40,6 +40,7 @@ Rini van Solingen | Globally distributed software engineering, agile practices |
 Andy Zaidman | Software testing, software evolution, repository mining | [Example theses][theses-andy]
 Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][theses-seb]
 Luís Cruz | Software engineering for AI, sustainable software engineering | [Example theses][theses-luis]
+Burcu Kulahcioglu Ozkan | Software testing for distributed systems| 
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
 
