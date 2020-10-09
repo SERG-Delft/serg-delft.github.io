@@ -63,7 +63,7 @@ will make dependenchy management safer.
 
 
 
-## PhD / Postdoc on Machine Learning for Software Engineering
+## PhD / Postdoc on Logging Engineering and Analysis
 
 Developers and operations teams rely on monitoring to understand how the system behaves in production. Given the rich nature of data produced by large-scale systems in production and the popularization of machine learning, there is a increasingly trend to adopt artificial intelligence to automate operations.
 
