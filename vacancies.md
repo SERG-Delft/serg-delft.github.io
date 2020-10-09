@@ -48,4 +48,4 @@ Together with [Adyen](https://www.adyen.com), we are seeking for a PhD (4 years)
 
 We look for strong candidates with prior knowledge in machine/deep learning.
 
-**Contact:** Maurício Aniche (M.FinavaroAniche@tudelft.nl) and Sicco Verwer (S.Verwer@tudelft.nl)
+**Contact:** Maurício Aniche (M.FinavaroAniche@tudelft.nl) and Sicco Verwer (S.E.Verwer@tudelft.nl)
