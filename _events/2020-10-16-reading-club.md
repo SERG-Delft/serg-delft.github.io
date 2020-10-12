@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG Reading Club: The Nature of Theory in Information Systems"
+title: "SERG Reading Club: Diversity in software engineering research"
 categories: [events, reading-club]
 start: "13:00"
 end: "14:00"
