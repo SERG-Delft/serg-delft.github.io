@@ -25,7 +25,7 @@ For this project we are seeking enthusiastic Master students interested in obtai
 ### How to apply? 
 To apply, please create an application package containing:
 - A detailed CV (with contact information for 2 references; sending references letters yourself is not necessary)
-- A motivation letter that includes a paragraph on your vision of the TestShift project (e.g., what do you consider to be an urgent topic to address in the area of software testing, how would you go about the project, how does your vision relate to the topics of TestShift, etc.). Hint: be creative! (a generic letter of motivation is not appreciated)
+- A motivation letter that includes a paragraph on your vision of the COSMOS project (e.g., what do you consider to be an urgent topic to address in the area of software testing, how would you go about the project, how does your vision relate to the topics of COSMOS, etc.). Hint: be creative! (a generic letter of motivation is not appreciated)
 - A (draft) version of your Master thesis
 - Optional: (draft) versions of papers that you have submitted/published
 - A detailed transcript of university grades
