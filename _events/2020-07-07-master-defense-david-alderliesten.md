@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Master Thesis Defense on The Effect of “Good First Issue” Indicators upon Newcomer Developers"
+title: "Master Thesis Defense on The Effect of Good First Issue Indicators upon Newcomer Developers"
 categories: [events, defenses]
 start: "9:30"
 end: "11:30"
