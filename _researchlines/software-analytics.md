@@ -48,12 +48,10 @@ The following people are part of the Software Analytics lab:
 * Ayushi Rastogi (Postdoc, part-time) working on theory building for distributed software development
 
 * Joseph Hejderup (PhD student) working on ecosystem analysis/tics
-* Maliheh Izadi (visiting from Sharif University of Technology), working on ML-based software summarization
 * Elvan Kula (PhD student, also with ING), working on analytics for software process optimization
 * Mehdi Keshani (PhD student), working on scaling static analyses
 * Chandra Maddila (PhD student, also with Microsoft), working on tools for software engineering
 * Amir Mir (PhD student), working on making Python better through Machine Learning
-* Xunhui Zhang (visiting from NUDT, China), working on analytics for distributed software development
 
 ## Collaborators
 
@@ -85,6 +83,8 @@ The following people were part of the Software Analytics lab:
 * Chushu Gao (visitor, now at SIG)
 * Moritz Beller (Postdoc, now at Facebook)
 * Maria Kechagia (Postdoc, now at UCL)
+* Maliheh Izadi (visitor from Sharif University of Technology)
+* Xunhui Zhang (visitor from NUDT, China)
 
 ## Funding
 
