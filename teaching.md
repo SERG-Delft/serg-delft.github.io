@@ -21,7 +21,7 @@ Code | Subject | Teacher(s) | Materials
 [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51299) | Software Quality and Testing | Maurício Aniche and Frank Mulder | [2019](https://serg-delft.github.io/cse1110-2019/)
 [CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | Otto Visser, Annibale Panichella
 [CSE2115](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51714) | Software Engineering Methods | Annibale Panichella and Sander van den Oever
-[CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Georgios Gousios and Jan Rellermeyer | [Materials](http://gousios.org/courses/bigdata/)
+[CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Georgios Gousios and Burcu Kulahcioglu Ozkan | [Materials](http://gousios.org/courses/bigdata/)
 [CSE3000](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55132) | BSc Research Thesis | All SERG faculty | See [MSc topics](msc-projects.html)
 
 <br/>
