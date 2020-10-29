@@ -469,20 +469,6 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/61319954?s=400&u=dd21f02007f396146cc0636498e909245d2caea0&v=4" alt="Maliheh Izadi">
-    <div class="card-body">
-      <div class="card-title">
-	      <a href="http://ce.sharif.edu/~malizadi/">Maliheh Izadi</a>
-      </div>
-      <p class="card-text">ML for Software Engineering. Visiting from SUT.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://ir.linkedin.com/in/malihe-izadi" title="LinkedIn"><i class="fab fa-linkedin"></i></a>	    
-      <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div> 
-
-  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
     <div class="card-body">
       <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
@@ -493,18 +479,6 @@ title: People
       <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-
-  <div class="card d-flex d-block">
-      <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/45024191?s=460&v=4" alt="Xunhui Zhang">
-      <div class="card-body">
-        <div class="card-title"><a href="https://zhangxunhui.github.io/">Xunhui Zhang</a></div>
-        <p class="card-text">Software analytics. Visiting from NUDT.</p>
-      </div>
-      <div class="card-footer bg-transparent border-success">
-        <a href="https://github.com/zhangxunhui"><i class="fab fa-github"></i></a>
-        <a href="https://twitter.com/zhangxunhui9368"><i class="fab fa-twitter"></i></a>
-      </div>
-    </div>
 
 </div>
 
@@ -544,6 +518,8 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
+[Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
 [Gemma Catolino](https://www.gemmacatolino.com)                        | 2019-2020 | Post-doc | University of Tilburg / JADS |
 [Luca Pascarella](http://lucapascarella.com/)                          | 2016-2020 | PhD student | USI, CH 
 [Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4)       | 2015-2020 | PhD student | |
