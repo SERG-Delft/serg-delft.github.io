@@ -7,12 +7,12 @@ responsible: "Arie van Deursen"
 
 The financial sector is highly software-intensive. 
 Its correct, reliable, and secure functioning is crucial to society posing high demands on software engineering for the financial sector.
-At the same time, its sofware-intensive nature offers unique opportunities for the adoption of disruptive technologies such as crypto-currencies, natural language processing, and scalable online payments.
+At the same time, its software-intensive nature offers unique opportunities for the adoption of disruptive technologies such as crypto-currencies, natural language processing, and scalable online payments.
 
 FinTech, collectively refers to software technologies tailored towards the domain of finance.
 Within SERG, we conduct FinTech research aimed at strengthening and leveraging the software-intensive nature of the financial sector. Our FinTech research transcends the software engineering boundaries, and is conducted in close collaboration with other (Delft) research groups in such areas as databases, distributed systems, natural language processing, and software security.
 
-We presently conduct our research in the following projecs:
+We presently conduct our research in the following projects:
 
 - [UBRI], with partner Ripple. Within this project, we develop novel automated testing techniques for blockchain-based systems. This project is conducted together with the [Delft Blockchain Lab][dbl]. Contact Annibale Panichella for more information.
 - [AI4Fintech Research][afr], with partner ING. Within this (large) project, we work together with many researchers and ING engineers in such areas as testing, security, software analytics, and model lifecycle management. The project is led by Arie van Deursen.
