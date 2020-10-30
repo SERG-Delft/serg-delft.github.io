@@ -5,13 +5,11 @@ description: "Methods and tools to develop greener and socially sustainable soft
 responsible: "Luís Cruz"
 ---
 
-Sustainable software engineering can be divided into five major dimensions:
+Sustainable software engineering can be divided into five major dimensions: Technical, Economical,
+**Individual**, **Social**, and **Environmental**.
 
-- Technical
-- Economical
-- **Individual**
-- **Social**
-- **Environmental**
+![Sustainable Software Engineering](/img/sustainable-se.svg)
+
 
 Throughout the history of Software Engineering, we have witnessed a number of advancements in the
 way software systems are conceived. The software industry is now able to have business models and
