@@ -4,7 +4,7 @@ title: "SERG talk: Will It Rain Today? Understanding the Weather of Computing Cl
 categories: [events, lunch-talks]
 start: "14:00"
 end: "15:00"
-speaker: Alexandru Iosup
+speaker: "Alexandru Iosup, Vrije Universiteit Amsterdam"
 where: Online
 ---
 
