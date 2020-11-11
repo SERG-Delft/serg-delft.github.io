@@ -4,7 +4,7 @@ title: "SERG talk: Configuration Smells in Continuous Delivery Pipelines"
 categories: [events, lunch-talks]
 start: "14:00"
 end: "15:00"
-speaker: Dr. Carmine Vassallo, University of Zurich
+speaker: Carmine Vassallo, University of Zurich
 where: Online
 ---
 
