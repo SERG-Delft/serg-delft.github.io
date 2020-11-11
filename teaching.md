@@ -14,13 +14,13 @@ We offer a variety of courses in the TU Delft bachelor [Computer Science and Eng
 
 ### Bachelor Computer Science and Engineering
 
-Code | Subject | Teacher(s) | Materials
+Code | Subject | Lecturer(s) | Materials
 |---|---|---|---|
 [CSE1100](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51306) | Object-oriented programming | Andy Zaidman and Thomas Overklift
 [CSE1105](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51377) | Object-Oriented Programming Project|  Sebastian Proksch and Sander van den Oever
 [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51299) | Software Quality and Testing | Maurício Aniche and Frank Mulder | [2019](https://serg-delft.github.io/cse1110-2019/)
-[CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | Otto Visser, Annibale Panichella
-[CSE2115](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51714) | Software Engineering Methods | Annibale Panichella and Sander van den Oever
+[CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | Otto Visser, Thomas Overklift, Sander van den Oever and Huijuan Wang
+[CSE2115](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51714) | Software Engineering Methods | Annibale Panichella, Enrique Larios Vargas and Sander van den Oever
 [CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Georgios Gousios and Burcu Kulahcioglu Ozkan | [Materials](http://gousios.org/courses/bigdata/)
 [CSE3000](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55132) | BSc Research Thesis | All SERG faculty | See [MSc topics](msc-projects.html)
 
@@ -43,7 +43,7 @@ Code | Subject | Teacher(s) | Materials
 
 ### Computer Science Minor 
 
-Code | Subject | Teacher(s) | Materials
+Code | Subject | Lecturer(s) | Materials
 |---|---|---|---|
 [TI3100TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51332) | Minor Introduction | Georgios Gousios
 [TI3115TU](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51334) | Software Engineering Methods | Maurício Aniche | [2019](https://serg-delft.github.io/ti3115tu-2019/), [2018](https://serg-delft.github.io/ti3115tu-2018/)
