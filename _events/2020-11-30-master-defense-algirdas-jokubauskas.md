@@ -2,7 +2,7 @@
 layout: event
 title: "Master Thesis Defense on Investigating Dependency Code Reuse Using Callgraphs"
 categories: [events, defenses]
-start: "9:00"
+start: "09:00"
 end: "11:00"
 speaker: Algirdas Jokubauskas
 where: Online (Zoom)
