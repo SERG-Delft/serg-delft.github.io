@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Master Thesis Defense on Investigating dependency code reuse using callgraphs"
+title: "Master Thesis Defense on Investigating Dependency Code Reuse Using Callgraphs"
 categories: [events, defenses]
 start: "9:00"
 end: "11:00"
