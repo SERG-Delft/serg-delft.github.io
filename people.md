@@ -129,17 +129,11 @@ title: People
     </div>
   </div>
 
-</div>
-
-### Postdocs
-
-<div class="card-deck">
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
       <div class="card-title"><a href="https://luiscruz.github.io/">Luís Cruz</a></div>
-      <p class="card-text">Green computing, mobile computing</p>
+      <p class="card-text">Green SE, AI Engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a>
@@ -148,6 +142,12 @@ title: People
       <a href="https://scholar.google.com/citations?user=O13oaH0AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
    </div>
   </div>
+
+</div>
+
+### Postdocs
+
+<div class="card-deck">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/8514257?v=4" alt="Xavier Devroey">
