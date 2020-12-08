@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG talk: Configuration Smells in Continuous Delivery Pipelines"
+title: "SERG talk: Continuous Integration Anti-pattern Detection via Static and Dynamic Pipeline Analysis"
 categories: [events, lunch-talks]
 start: "14:00"
 end: "15:00"
@@ -8,4 +8,4 @@ speaker: Carmine Vassallo, University of Zurich
 where: Online
 ---
 
-An effective and efficient application of Continuous Integration (CI) and Delivery (CD) requires software projects to follow certain principles and good practices. However, configuring such a CI/CD pipeline is challenging and developers can introduce misconfigurations that potentially violate CD principles ("CD smells"). In this talk, Dr. Vassallo will introduce CD-Linter, a semantic linter that can automatically identify four different CD smells in build-pipeline configuration files. The talk will also contain the extended study that has been conducted with real developers to understand the value of this tool in production environments.
+**Abstract:** Continuous Integration (CI) is a software development practice that enables developers to build reliable software faster. Given its proven benefits, most organizations have started adopting CI and fostered the application of several principles, such as commit often, that reduce conflicts in the team and ensure that the build is continuously executable. However, when facing a deadline or a difficult task, developers can deviate from such best practices and follow anti-patterns, which are ineffective solutions to recurrent problems. Anti-patterns appear to be beneficial, but, in the end, they let CI decay and lower its effectiveness. In this talk, I will present our approaches for making developers aware of CI anti-patterns and their severity through the static and dynamic analysis of their CI pipelines.
