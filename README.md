@@ -43,6 +43,7 @@ To add yourself to the People page, copy and modify accordingly the following co
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/avandeursen" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/avandeursen" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://stackoverflow.com/users/165292/avandeursen" title="StackOverflow"><i class="fab fa-stack-overflow"></i></a>
       <a href="https://nl.linkedin.com/in/avandeursen" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=jjCkWXgAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/a-van-deursen(949eb2cc-4db0-4f33-bd56-13425fa5c24a)/publications.html?pageSize=all&page=0" title="Publications"><i class="fas fa-edit"></i></a>

@@ -48,6 +48,7 @@ title: People
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/CoolSWEng" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/DSpinellis" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://stackoverflow.com/users/20520/diomidis-spinellis" title="StackOverflow"><i class="fab fa-stack-overflow"></i></a>
       <a href="https://www.linkedin.com/in/dspinellis/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=RjXNgA8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://research.tudelft.nl/en/persons/d-spinellis/publications/" title="Publications"><i class="fas fa-edit"></i></a>
