@@ -41,7 +41,6 @@ To add yourself to the People page, copy and modify accordingly the following co
     </div>
     <!-- Links to other websites containing your content-->
     <div class="card-footer bg-transparent border-success">
-      <a href="https://avandeursen.com" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/avandeursen" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/avandeursen" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://nl.linkedin.com/in/avandeursen" title="LinkedIn"><i class="fab fa-linkedin"></i></a>

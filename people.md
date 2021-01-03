@@ -46,7 +46,6 @@ title: People
       <p class="card-text">Software Analytics, Software Tools (0.2fte) </p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://www.spinellis.gr" title="Home page"><i class="fas fa-home"></i></a>
       <a href="https://twitter.com/CoolSWEng" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/DSpinellis" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/dspinellis/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
