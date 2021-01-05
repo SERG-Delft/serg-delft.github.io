@@ -59,14 +59,17 @@ Code | Subject | Lecturer(s) | Materials
 
 Code | Subject | Lecturer(s)
 |---|---|---|
+[UnixTx][UnixTx2021] | Unix Tools: Data, Software and Production Engineering | Diomidis Spinellis
+[AIx][AIx2021] | AI in Practice: Applying AI | Hennie Huijgens, Arie van Deursen, Elvan Kula
 [ST1x][ST1x2021] | Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability | Maurício Aniche, Arie van Deursen
 [ST2x][ST2x2021] | Automated Software Testing: Model and State-based Testing | Maurício Aniche, Arie van Deursen
 | [Automated Software Testing in Java: Professional Certificate Program](https://www.edx.org/professional-certificate/delftx-automated-software-testing-in-java) | Maurício Aniche, Arie van Deursen
 | [Análisis y Visualización de Datos con Excel](https://www.edx.org/professional-certificate/delftx-analisis-y-visualizacion-de-datos-con-excel) | Felienne Hermans
 
-
 [ST1x2021]: https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2
 [ST2x2021]: https://www.edx.org/course/automated-software-testing-model-and-state-based-2
+[UnixTx2021]: https://www.edx.org/course/unix-tools-data-software-and-production-engineering
+[AIx2021]: https://www.edx.org/course/ai-in-practice-applying-ai
 
  <br/>
 ### Archived
