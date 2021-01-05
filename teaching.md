@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 
-We offer a variety of courses in the TU Delft bachelor [Computer Science and Engineering][cse], the masters in [Computer Science][msc] and in [Embedded Systems][es], in the minor [Computer Science][minor], and on line via the [EdX] platform.
+We offer a variety of courses in the TU Delft bachelor [Computer Science and Engineering][cse], the masters in [Computer Science][msc] and in [Embedded Systems][es], in the minor [Computer Science][minor], and online via the [EdX] platform.
 
 [cse]: https://www.tudelft.nl/en/education/programmes/bachelors/cse/bachelor-of-computer-science-and-engineering/
 [msc]: https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/
@@ -53,24 +53,38 @@ Code | Subject | Lecturer(s) | Materials
 
 ### [EdX](https://www.edx.org/school/delftx) MOOCs
 
+<!--
 <image src="img/edx-testing.png" style="float:right; width:300px; border:1px solid #000"/>
+-->
 
- * [Automated Software Testing: Practical Skills for Java Developers](https://www.edx.org/course/automated-software-testing-practical-skills-for-java-developers). Maurício Aniche, Arie van Deursen.
- * [Automated Software Testing: Advanced Skills for Java Developers](https://www.edx.org/course/automated-software-testing-advanced-skills-for-java-developers). Maurício Aniche, Arie van Deursen
- * [Automated Software Testing in Java: Professional Certificat Program](https://www.edx.org/professional-certificate/delftx-automated-software-testing-in-java). Maurício Aniche, Arie van Deursen
- * [Data Analysis: Take It to the MAX()](https://www.edx.org/course/data-analysis-take-it-to-the-max). Felienne Hermans.
- * [Data Analysis: Visualization and Dashboard Design](https://www.edx.org/course/data-analysis-visualization-and-dashboard-design). Felienne Hermans.
- * [Análisis y Visualización de Datos con Excel](https://www.edx.org/professional-certificate/delftx-analisis-y-visualizacion-de-datos-con-excel). Felienne Hermans.
- * [Scratch: Programmeren voor kinderen (8+)](https://www.edx.org/course/scratch-programmeren-voor-kinderen-8-delftx-scratchx-0). Felienne Hermans.
- * [Programmeren voor leerkrachten met Scratch](https://www.edx.org/course/programmeren-voor-leerkrachten-met-delftx-scratchtx). Felienne Hermans.
- * [Globally Distributed Software Engineering](https://www.edx.org/course/globally-distributed-software-engineering). Rini van Solingen.
+Code | Subject | Lecturer(s)
+|---|---|---|
+[ST1x][ST1x2021] | Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability | Maurício Aniche, Arie van Deursen
+[ST2x][ST2x2021] | Automated Software Testing: Model and State-based Testing | Maurício Aniche, Arie van Deursen
+| [Automated Software Testing in Java: Professional Certificate Program](https://www.edx.org/professional-certificate/delftx-automated-software-testing-in-java) | Maurício Aniche, Arie van Deursen
+| [Análisis y Visualización de Datos con Excel](https://www.edx.org/professional-certificate/delftx-analisis-y-visualizacion-de-datos-con-excel) | Felienne Hermans
 
+
+[ST1x2021]: https://www.edx.org/course/automated-software-testing-unit-testing-coverage-2
+[ST2x2021]: https://www.edx.org/course/automated-software-testing-model-and-state-based-2
+
+ <br/>
 ### Archived
 
-* [CS4190](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48292): _Psychology of Programming._ Felienne Hermans.
 * [TI2806](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45676):  _Contextproject._  Annibale Panichella.
-* [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0). Erik Meijer.
+* [CS4190](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=48292): _Psychology of Programming._ Felienne Hermans.
 * [IN4334](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45568): _Software Analytics._ Georgios Gousios ([materials](http://gousios.org/courses/softwanal/)).
+
+
+* [Automated Software Testing: Practical Skills for Java Developers](https://www.edx.org/course/automated-software-testing-practical-skills-for-java-developers). Maurício Aniche, Arie van Deursen.
+* [Automated Software Testing: Advanced Skills for Java Developers](https://www.edx.org/course/automated-software-testing-advanced-skills-for-java-developers). Maurício Aniche, Arie van Deursen
+* [Data Analysis: Take It to the MAX()](https://www.edx.org/course/data-analysis-take-it-to-the-max). Felienne Hermans
+* [Data Analysis: Visualization and Dashboard Design](https://www.edx.org/course/data-analysis-visualization-and-dashboard-design). Felienne Hermans
+* [Scratch: Programmeren voor kinderen (8+)](https://www.edx.org/course/scratch-programmeren-voor-kinderen-8-delftx-scratchx-0). Felienne Hermans.
+* [Programmeren voor leerkrachten met Scratch](https://www.edx.org/course/programmeren-voor-leerkrachten-met-delftx-scratchtx). Felienne Hermans.
+* [Globally Distributed Software Engineering](https://www.edx.org/course/globally-distributed-software-engineering). Rini van Solingen.
+* [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0). Erik Meijer.
+
 
 <!--
 <image src="img/lecture-davide.jpg" style="float:right; width:300px; border:1px solid #000"/>
