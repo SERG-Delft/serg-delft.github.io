@@ -40,7 +40,7 @@ Rini van Solingen | Globally distributed software engineering, agile practices |
 Diomidis Spinellis | Software analytics, software development tools | [1](https://doi.org/10.1109/MSR.2019.00085), [2](https://doi.org/10.1145/3338906.3342491), [3](https://dx.doi.org/10.1145/3183519.3183545), [4](https://dx.doi.org/10.1016/j.cose.2008.09.005)
 Andy Zaidman | Software testing, software evolution, repository mining | [Example theses][theses-andy]
 Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][theses-seb]
-Luís Cruz | Software engineering for AI, sustainable software engineering | [Example theses][theses-luis]
+Luís Cruz | Sustainable software engineering, AI Engineering  | [L1](https://link.springer.com/article/10.1007/s10664-019-09682-0#Sec2), [L2](https://arxiv.org/abs/2010.02716), [Theses][theses-luis]
 Burcu Kulahcioglu Ozkan | Software testing for distributed systems| 
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
