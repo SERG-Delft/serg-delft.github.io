@@ -77,7 +77,7 @@ title: People
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
       <div class="card-title"><a href="https://www.mauricioaniche.com">Maurício Aniche</a></div>
-      <p class="card-text">Software maintenance, software refactoring, empirical software engineering</p>
+      <p class="card-text">Software maintenance and testing, empirical software engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/mauricioaniche" title="Twitter"><i class="fab fa-twitter"></i></a>
