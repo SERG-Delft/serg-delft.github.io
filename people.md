@@ -554,12 +554,12 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
-[Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria |
+[Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
 [Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
 [Gemma Catolino](https://www.gemmacatolino.com)                        | 2019-2020 | Post-doc | University of Tilburg / JADS |
 [Luca Pascarella](http://lucapascarella.com/)                          | 2016-2020 | PhD student | USI, CH 
-[Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4)       | 2015-2020 | PhD student | |
+[Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4)       | 2015-2020 | PhD student | University of Edinburgh |
 [Boris Cherry](https://www.linkedin.com/in/boris-c-250884b7/)          | 2020-2020 | Visitor | [University of Namur](https://www.unamur.be/en) |
 [Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/)     | 2009-2019 | PhD student | UC Davis, USA |
 [Alaaeddin Swidan](https://nl.linkedin.com/in/aas-swidan)              | 2015-2019 | PhD student | Open Universiteit |
@@ -573,7 +573,7 @@ Name | Period | Role | Current Affiliation
 [Marileen Smit](https://dblp.uni-trier.de/pers/hd/s/Smit:Marileen)     | 2017-2018 | Teaching Support | [LIACS](http://perl.liacs.nl) & [FutureNL](https://futurenl.org/)
 [Robert Holwerda](https://dblp.uni-trier.de/pers/hd/h/Holwerda:Robert) | 2016-2018 | PhD student | [LIACS](httpL//perl.liacs.nl) & [HAN](https://www.han.nl/)
 [Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1) | 2009-2018 | PhD stud., assist. prof. | [LIACS](http://perl.liacs.nl)
-[Fabio Palomba](https://www.ifi.uzh.ch/en/zest/team/palomba.html)      | 2017-2017 | Postdoc | [U. Zurich](https://www.ifi.uzh.ch/en/zest.html), CH
+[Fabio Palomba](https://fpalomba.github.io) | 2017-2017 | Postdoc | Univesrity of Salarno, Italy
 [Alberto Bacchelli](https://sback.it/)                                 | 2013-2017 | Assistant professor | [U. Zurich](https://www.uzh.ch/en.html), CH
 [Nicolas Dintzner](https://dblp.org/pers/hd/d/Dintzner:Nicolas)        | 2013-2017 | PhD student | TU Delft / TPM
 [Tamara Brusik](https://nl.linkedin.com/in/tamara-brusik-202a037b)     | 2014-2017 | Secretary | TU Delft / HR
