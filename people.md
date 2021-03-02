@@ -377,6 +377,22 @@ title: People
 
 <div class="card-deck non-top-row">
 
+	<div class="card d-flex d-block">
+	  <img class="card-img-top" src="https://akhatami.com/wp-content/uploads/2020/09/Ali-Khatami-Photo.jpg" alt="Ali Khatami">
+    <div class="card-body">
+		<div class="card-title">
+			<a href="https://akhatami.com">Ali Khatami</a>
+		</div>
+		<p class="card-text">Software Quality Analytics</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+		 <a href="https://twitter.com/_akhatami_" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/akhatami" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/alikhatami/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <i class="ai ai-google-scholar-square"></i>
+    </div>
+  </div>
+  
   <div class="card d-flex d-block">
 	  <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
     <div class="card-body">
