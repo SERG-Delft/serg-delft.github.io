@@ -263,6 +263,20 @@ title: People
       <a href="https://scholar.google.com/citations?user=CEMIPmsAAAAJ&hl=en" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+  
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="https://media-exp1.licdn.com/dms/image/C5603AQGrmLGFbD6yhg/profile-displayphoto-shrink_200_200/0/1588339570216?e=1620259200&v=beta&t=Zyckzum8_eKoCdSBn9cnClkcsTtLaTJMoFvGZIgYHGY" alt="Imara van Dinten">
+    <div class="card-body">
+      <div class="card-title"><a href="">Imara van Dinten</a></div>
+      <p class="card-text">DevOps for cyberphysical systems</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <i class="fab fa-twitter"></i>
+      <i class="fab fa-github"></i>
+      <a href="https://www.linkedin.com/in/imara-van-dinten-00836b27"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=CEMIPmsAAAAJ&hl=en" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5766743?s=460&v=4" alt="Marco di Biase">
