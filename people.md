@@ -274,9 +274,13 @@ title: People
       <i class="fab fa-twitter"></i>
       <i class="fab fa-github"></i>
       <a href="https://www.linkedin.com/in/imara-van-dinten-00836b27"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=CEMIPmsAAAAJ&hl=en" title="Publications"><i class="fas fa-edit"></i></a>
+      <i class="fas fa-edit"></i>
     </div>
   </div>
+
+</div>
+
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5766743?s=460&v=4" alt="Marco di Biase">
@@ -294,9 +298,7 @@ title: People
     </div>
   </div>
 
-</div>
 
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://user-images.githubusercontent.com/2521475/48063837-7b1be500-e1c6-11e8-9dc7-78813d6f766c.png" alt="Joseph Hejderup">
