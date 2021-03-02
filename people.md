@@ -515,19 +515,7 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/16877168?v=4" alt="Enrique Larios Vargas">
-    <div class="card-body">
-      <div class="card-title"><a href="https://mediatechnology.leiden.edu/people/staff/larios-vargas-enrique">Enrique Larios Vargas</a></div>
-      <p class="card-text">Software analytics.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/elarios"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/enrique-larios-vargas"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
+  
 </div>
 
 
@@ -566,6 +554,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria |
 [Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
 [Gemma Catolino](https://www.gemmacatolino.com)                        | 2019-2020 | Post-doc | University of Tilburg / JADS |
