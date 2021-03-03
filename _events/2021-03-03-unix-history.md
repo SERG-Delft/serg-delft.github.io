@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "The History of Unix (Guest Lecture IN4315 Software Architecture)"
+title: "Evolution of the Unix System Architecture (Guest Lecture IN4315 Software Architecture)"
 categories: [events, guest-lecture]
 start: "13:45"
 end: "15:30"
@@ -8,9 +8,21 @@ speaker: Diomidis Spinellis
 where: Online (Zoom)
 ---
 
-The history and evolution of the Unix operating system is made available as a revision management repository, covering the period from its inception in 1972 as a five thousand line kernel, to 2016 as a widely-used 27 million line system. The 1.1GB repository contains 496 thousand commits and 2,523 branch merges. The repository employs the commonly used Git version control system for its storage, and is hosted on the popular GitHub archive. It has been created by synthesizing with custom software 24 snapshots of systems developed at Bell Labs, the University of California at Berkeley, and the 386BSD team, two legacy repositories, and the modern repository of the open source FreeBSD system. In total, 973 individual contributors are identified, the early ones through primary research. The data set can be used for empirical research in software engineering, information systems, and software archaeology.
+Unix has evolved for almost five decades, shaping modern operating systems, key software technologies, and development
+practices. Studying the evolution of this remarkable system from an architectural perspective can provide insights on how to manage
+the growth of large, complex, and long-lived software systems. Along main Unix releases leading to the FreeBSD lineage we examine
+core architectural design decisions, the number of features, and code complexity, based on the analysis of source code, reference
+documentation, and related publications. We report that the growth in size has been uniform, with some notable outliers, while
+cyclomatic complexity has been religiously safeguarded. A large number of Unix-defining design decisions were implemented right
+from the very early beginning, with most of them still playing a major role. Unix continues to evolve from an architectural perspective,
+but the rate of architectural innovation has slowed down over the system’s lifetime. Architectural technical debt has accrued in the
+forms of functionality duplication and unused facilities, but in terms of cyclomatic complexity it is systematically being paid back through
+what appears to be a self-correcting process. Some unsung architectural forces that shaped Unix are the emphasis on conventions
+over rigid enforcement, the drive for portability, a sophisticated ecosystem of other operating systems and development organizations,
+and the emergence of a federated architecture, often through the adoption of third-party subsystems. These findings have led us to
+form an initial theory on the architecture evolution of large, complex operating system software.
 
-More info: 
+This lecture is based on the IEEE TSE paper "Evolution of the Unix System Architecture: An Exploratory Case Study", authored by Diomidis Spinellis and Paris Avgeriou
 
-- [paper](https://www2.dmst.aueb.gr/dds/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html)
+- [paper](https://ieeexplore.ieee.org/document/8704965) (Open Access)
 - [GitHub Repo](https://github.com/dspinellis/unix-history-repo)
