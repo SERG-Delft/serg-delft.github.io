@@ -22,7 +22,9 @@ over rigid enforcement, the drive for portability, a sophisticated ecosystem of 
 and the emergence of a federated architecture, often through the adoption of third-party subsystems. These findings have led us to
 form an initial theory on the architecture evolution of large, complex operating system software.
 
-This lecture is based on the IEEE TSE paper "Evolution of the Unix System Architecture: An Exploratory Case Study", authored by Diomidis Spinellis and Paris Avgeriou
+This lecture is based on the IEEE TSE paper "Evolution of the Unix System Architecture: An Exploratory Case Study", authored by [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) and [Paris Avgeriou](http://www.cs.rug.nl/~paris/).
 
 - [paper](https://ieeexplore.ieee.org/document/8704965) (Open Access)
 - [GitHub Repo](https://github.com/dspinellis/unix-history-repo)
+
+[diomidis]: 
