@@ -468,6 +468,18 @@ title: People
     </div>
   </div>
 
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
+    <div class="card-body">
+      <div class="card-title">Mark Swillus</div>
+      <p class="card-text">Socio-technical enablers/inhibitors of software testing</a></p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/mswillus"><i class="fab fa-github"></i></a>
+      <a href="https://scholar.social/web/accounts/215562"><i class="fab fa-mastodon"></i></a>
+    </div>
+  </div>
+
 </div>
 
 ### Scientific Programmers
