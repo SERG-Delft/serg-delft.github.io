@@ -472,7 +472,7 @@ title: People
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
     <div class="card-body">
       <div class="card-title">Mark Swillus</div>
-      <p class="card-text">Socio-technical enablers/inhibitors of software testing</a></p>
+      <p class="card-text">Socio-technical enablers/inhibitors of software testing</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/mswillus"><i class="fab fa-github"></i></a>
