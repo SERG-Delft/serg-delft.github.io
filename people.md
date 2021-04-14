@@ -441,22 +441,6 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/9136821?s=400&v=4" alt="Davide Spadini">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://ishepard.github.io/" target="_blank">Davide Spadini</a>
-      </div>
-      <p class="card-text">Software testing. Also at SIG</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/DavideSpadini" target="_blank"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/ishepard" target="_blank"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/davidespadini/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/d-spadini(df3c7c1c-421b-413d-8f61-ba8a6b23b82b)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
     <div class="card-body">
       <div class="card-title">Mark Swillus</div>
@@ -555,6 +539,7 @@ title: People
 Name | Period | Role | Current Affiliation
 --|--|--|--
 [Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | University of Groningen, Netherlands |
+| [Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2020 | PhD student | Facebook |
 [Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
 [Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
