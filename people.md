@@ -179,19 +179,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/7066145?s=400&v=4" alt="Ayushi Rastogi">
-    <div class="card-body">
-      <div class="card-title"><a href="https://ayushirastogi.github.io/">Ayushi Rastogi</a></div>
-      <p class="card-text">Software analytics</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/AyushiRastogi"><i class="fab fa-github"></i></a>
-      <a href="hhttps://www.linkedin.com/in/ayushirastogi/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=W_V42b4AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/a-rastogi(1c9e7530-e9f0-4190-b884-c8e22beb246c)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
+  
 </div>
 
 ### PhD Students
@@ -566,6 +554,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | University of Groningen, Netherlands |
 [Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
 [Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
