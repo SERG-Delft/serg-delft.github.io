@@ -332,20 +332,6 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1163206?s=400&v=4" alt="Vladimir Kovalenko">
-    <div class="card-body">
-      <div class="card-title"><a href="https://vovak.me/">Vladimir Kovalenko</a></div>
-      <p class="card-text">Code review, AI. Also at JetBrains</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/vovak_"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/vovak"><i class="fab fa-github"></i></a>
-      <a href="https://www.instagram.com/vovak_/"><i class="fab fa-instagram"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/vv-kovalenko(a3cb122a-dde8-4d23-aa3e-5f23cf48b230)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
     <div class="card-body">
       <div class="card-title">
@@ -539,7 +525,8 @@ title: People
 Name | Period | Role | Current Affiliation
 --|--|--|--
 [Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | University of Groningen, Netherlands |
-| [Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2020 | PhD student | Facebook |
+| [Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/) | 2016-2021 | PhD student | JetBrains |
+| [Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2021 | PhD student | Facebook |
 [Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
 [Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
