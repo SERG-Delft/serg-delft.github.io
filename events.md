@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Upcoming vents at SERG
+title: Upcoming events at SERG
 ---
 
 We organize research talks and paper reading clubs.
