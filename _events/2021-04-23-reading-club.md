@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG Reading & Review Club: Paper TBD"
+title: "SERG Reading & Review Club: Build Systems and Build Philosophy"
 categories: [events, reading-club]
 start: "14:00"
 end: "15:00"
