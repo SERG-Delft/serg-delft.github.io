@@ -254,7 +254,7 @@ title: People
 
   
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://media-exp1.licdn.com/dms/image/C5603AQGrmLGFbD6yhg/profile-displayphoto-shrink_200_200/0/1588339570216?e=1620259200&v=beta&t=Zyckzum8_eKoCdSBn9cnClkcsTtLaTJMoFvGZIgYHGY" alt="Imara van Dinten">
+    <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
     <div class="card-body">
       <div class="card-title"><a href="">Imara van Dinten</a></div>
       <p class="card-text">DevOps for cyberphysical systems</p>
