@@ -5,7 +5,7 @@ title: Vacancy (Testshift)
 
 The TU Delft Software Engineering Research Group has the following vacancies: 
 
-## PhD student in Software Testing 
+## PhD student & post-doc in Software Testing 
 
 The Software Engineering Research Group (SERG) has recently acquired a NWO Vici grant called [TestShift](https://testshiftproject.github.io/). The Vici grant is the most prestigious personal research grant from the Dutch Science Foundation NWO and will reinforce the software testing research line at Delft University of Technology. 
 
@@ -39,8 +39,6 @@ Send your complete application package to Andy Zaidman (a.e.zaidman@tudelft.nl).
 
 Please contact Andy Zaidman (a.e.zaidman@tudelft.nl)  
 → you can also have a look at my research at [https://azaidman.github.io](https://azaidman.github.io)
-
-If you want to know more about the TestShift project & the Software Engineering Research Group from the PhD Student side you can contact Carolin Brandt (c.e.brandt@tudelft.nl) 😊
 
 ### About the research environment
 
