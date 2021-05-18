@@ -2,7 +2,7 @@
 layout: research-line
 title: "Software Quality"
 description: "Help developers in improving the internal and external quality of their software systems."
-responsible: "Andy Zaidman and Maurício Aniche"
+responsible: "Andy Zaidman, Maurício Aniche, and Diomidis Spinellis"
 ---
 
 Software quality takes on different forms. There is the internal perspective, or the perspective that software developers experience when working with the software: is the code easy to read, modify, test, etc. There is also the external perspective, or how the users of the software application perceive its dependability. 
