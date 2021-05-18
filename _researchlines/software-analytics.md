@@ -95,11 +95,3 @@ The Software Analytics Lab has received funding from:
 * Microsoft
 * Facebook
 * ING
-
-## MSc thesis topics
-
-The following list contains a list of indicative master thesis topics. Please contact [Georgios Gousios](mailto:g.gousios@tudelft.nl) for more up to date information.
-
-| Published | Where |  Project Title       | SERG contact           |
-|---------|-------|----------------------|------------------------|{% for post in site.posts %}{% if post.categories contains "sal-msc-topics" %}
-| {{ post.date | date: "%b-%Y" }} | {{ post.where }}  | <a href="{{ post.url }}">{{ post.title }}</a> | {{ post.contact }} |{% endif %}{% endfor %}
