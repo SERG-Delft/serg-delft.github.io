@@ -427,6 +427,25 @@ title: People
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top"
+    src="https://avatars.githubusercontent.com/u/6236828?v=4" alt="Arumoy Shome">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://arumoy.me">Arumoy Shome</a>
+      </div>
+      <p class="card-text">SE for AI</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/arumoy-shome"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
     <div class="card-body">
@@ -440,7 +459,6 @@ title: People
   </div>
 
 </div>
-
 ### Scientific Programmers
 
 <div class="card-deck">
