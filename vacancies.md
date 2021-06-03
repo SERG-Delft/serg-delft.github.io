@@ -5,6 +5,16 @@ title: Vacancies
 
 The TU Delft Software Engineering Research Group has the following vacancies: 
 
+## PhD student in Software Testing and DevOps for Cyber-Physical Systems
+
+The Software Engineering Research Group (SERG) has recently acquired an H2020 EU project called COSMOS that will reinforce the research lines of software testing, evolution, and maintenance at TU Delft by focusing on Cyber-Physical systems.
+
+Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.
+
+[I want to know more...](vacancies/cosmos.html)
+
+**Contact:** Annibale Panichella (a.panichella@tudelft.nl)
+
 ## PhD student in Software Testing
 
 The Software Engineering Research Group (SERG) has recently acquired a NWO Vici
@@ -21,7 +31,8 @@ deeper understanding, interacting with peers around the world, but also
 interacting with practitioners from both the open source and industrial domain
 to evaluate your research.
 
-TestShift is rooted in empirical software engineering and will make use of
+[TestShift](https://testshiftproject.github.io/) is rooted in empirical
+software engineering and will make use of
 research methods such as ethnography, longitudinal field studies and case
 studies.
 
@@ -30,25 +41,15 @@ studies.
 **Contact:** Andy Zaidman (a.e.zaidman@tudelft.nl)
 
 
-## PhD / Postdoc on Machine learning for Software Engineering
+## PhD student for Testing Distributed Systems and Blockchains
 
-Machine learning and AI have recently revolutionized research and practice in
-areas such as Image Processing, Natural Language Processing and autonomous
-systems. Recently, machine learning techniques, mostly stemming from the NLP
-domain, have been applied on software engineering problems, with promising
-results. Despite this, we are just at the beginning: the field is ripe with
-opportunity for high impact and exiting applications!
+We are looking for an enthusiastic PhD student to work on software testing for distributed systems and Byzantine fault-tolerant (BFT) blockchains.
 
-For this project, we are seeking both a PhD (4 years) and a PostDoc (2 years)
-to work on applying machine learning techniques in the context of dependency
-management. The goal is to come up with techniques to model, analyze and reason
-about problems with OSS library reuse, at the ecosystem level (e.g., analyzing
-the whole of Maven or PyPI) and use those techniques to come up with tools that
-will make dependenchy management safer. 
+Modern computation increasingly depends on large-scale distributed systems and blockchains. However, these systems are difficult to design and implement correctly. Their executions involve many sources of nondeterminism, such as the delivery order of asynchronous messages, message losses due to network failures, and process failures. Production distributed systems and blockchains must ensure correctness in the existence of unexpected executions and failures. The PhD project aims to develop program analysis and testing techniques specifically designed for detecting bugs in distributed systems and blockchains.
 
-[I want to know more...](vacancies/fasten.html)
+The project lies in the intersection of software testing, software quality, fault-tolerance, distributed systems, and blockchains.
+The prospective PhD student is expected to do high-quality research involving both theory and implementation: getting a deep understanding of theoretical abstractions of fault-tolerant systems and developing novel software analysis and testing techniques. 
 
-**Contact:** Georgios Gousios (g.gousios@tudelft.nl)
+[I want to know more...](vacancies/testds.html)
 
-
-
+**Contact:** Burcu Kulahcioglu Ozkan (b.ozkan@tudelft.nl)

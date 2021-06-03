@@ -6,6 +6,11 @@ title: SERG Dissertation Series
 Doctoral dissertations completed within the Software Engineering Research Group, and defended at Delft University of Technology are listed below.
 All dissertations are available from the [TU Delft repository](https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=research&f%5B0%5D=mods_genre_s%3A%22doctoral%5C%20thesis%22&display=tud_default).
 
+1. Pouria Derakhshanfar. [Carving Information Sources to Drive Search-Based Crash Reproduction and Test Case Generation](https://doi.org/10.4233/uuid:aac5f17a-63d5-45c7-9570-3cea057cd016). April 2021. Advisors: Andy Zaidman, Annibale Panichella, and Arie van Deursen
+1. Vladimir Kovalenko. [Data-Driven Software Engineering](https://doi.org/10.4233/uuid:e5da9c8d-02ab-42e3-9480-9af6bd5a7d49). March 2021. Advisors: Alberto Bacchelli and Arie van Deursen
+1. Davide Spadini. [Supporting Quality In Test Code For Higher Quality Software Systems](https://doi.org/10.4233/uuid:fed36b88-bd13-47a8-ad0c-add1e0575f7a). March 2021. _Cum laude_. Advisors: Alberto Bacchelli and Arie van Deursen.
+1. Luca Pascarella. [Augmented fine-grained defect prediction for code review](https://doi.org/10.4233/uuid:e553e8ae-73be-4718-ab93-81f466db7347). September 2020. Advisors: Alberto Bacchelli, Arie van Deursen.
+1. Qianqian Zhu. [The application perspective of mutation testing](https://doi.org/10.4233/uuid:116a487e-c14d-47f8-b1f5-8e9738d263d0). June 2020. Advisors: Andy Zaidman, Annibale Panichella, Arie van Deursen.
 1. Anand Ashok Sawant. [The impact of API evolution on API consumers and how this can be affected by API producers and language designers](https://doi.org/10.4233/uuid:3d7bc400-2447-4a88-8768-3025d7b54b7f). October 2019. Advisors: Alberto Bacchelli and Arie van Deursen.
 1. Alaaeddin Swidan. [Challenges of end-user programmers: Reflections from two groups of end-users](https://repository.tudelft.nl/islandora/object/uuid:01110abf-6e9e-4518-abd3-c4e0daa13f6f?collection=research). September 2019. Advisors: Felienne Hermans and Arie van Deursen.
 1. Moritz Beller. [An Empirical Evaluation of Feedback-Driven Software Development](https://doi.org/10.4233/uuid:b2946104-2092-42bb-a1ee-3b085d110466). November 2018. _Cum laude_. Advisors: Andy Zaidman, Georgios Gousios, and Arie van Deursen.
@@ -19,7 +24,7 @@ Advisors: Arie van Deursen, Rini van Solingen
 1. Anja Guzzi. [Supporting Developers' Teamwork from within the IDE](https://doi.org/10.4233/uuid:bb27eb90-fa46-4db2-a28b-7c719f0d6b7b). March 2015. Advisors: Arie van Deursen and Martin Pinzger.
 1. Tiago Espinha. [Web Service Growing Pains: Understanding Services and Their Clients](https://doi.org/10.4233/uuid:0b513351-7ce5-438c-b266-56fd9838b543). March 2015. Advisors: Andy Zaidman, Gerd Gross, and Arie van Deursen.
 1. Daniele Romano. [Analyzing the Change-Proneness of APIs and web APIs](https://doi.org/10.4233/uuid:215065f7-d22d-4189-a5cb-0b2e91897cd1). January 2015. Advisors: Martin Pinzger and Arie van Deursen.
-1. Markus Völter. [Generic Tools, Specific Languages](http://resolver.tudelft.nl/uuid:53c8e1e0-7a4c-43ed-9426-934c0a5a6522). June 2014. (pdf, dblp, scholar). Advisors: Arie van Deursen and Eelco Visser.
+1. Markus Völter. [Generic Tools, Specific Languages](http://resolver.tudelft.nl/uuid:53c8e1e0-7a4c-43ed-9426-934c0a5a6522). June 2014. Advisors: Arie van Deursen and Eelco Visser.
 1. Ben van Gameren. [Auto-Erecting Virtual Office Walls: Constructing a Virtual Office for Global Software Engineers](https://doi.org/10.4233/uuid:566a8fce-900a-425e-b18a-fd38af01ba3b). June 2014. Advisors: Rini van Solingen and Arie van Deursen.
 1. Kevin Dullemond. [Supporting Collaboration in Global Software Engineering](https://doi.org/10.4233/uuid:011b1333-c89d-426e-8bfb-77577deea2a3). June 2014. Advisors: Rini van Solingen and Arie van Deursen.
 1. Cor-Paul Bezemer. [Performance Optimization of Multi-Tenant Software Systems](https://doi.org/10.4233/uuid:c4722b45-252d-4385-9ece-378348d1df35). April 2014. Advisors: Andy Zaidman and Arie van Deursen.

@@ -1,13 +1,20 @@
 ---
 layout: research-line
-title: "Computational Intelligence for Software Engineering"
+title: "Computational Intelligence for Software Engineering (CISELab)"
 description: How can Computational Intelligence techniques automate software testing and other complex software development tasks?
 responsible: "Annibale Panichella"
 ---
 
+_Icon design by Srinivas Agra_
+
+<figure>
+  <img src="../../img/ciselab-logo.svg" alt="CISELab logo" style="display: block; margin-left: auto; margin-right: auto; width: 55%;"/>
+</figure>
+<br/>
+
 The development, maintenance, and testing of large software products involve many activities that are complex, expensive, and error-prone. For example, complex systems (e.g., autonomous cars) are typically built as a composition of features that tend to interact and impact one another’s behavior in unknown ways. Therefore, detecting feature interaction failures with manual testing becomes infeasible and too expensive when the number and the complexity of the features increase.
 
-There are many tribes of AI, namely Symbolists, Evolutionists, Bayesians, Kernel Conservatives, Connectionists). Our research focuses on applying **Computational Intelligence** (CI) to automate expensive development activities since more development automation would require fewer human resources.  One of the most common ways to make such automation is the **Search-Based Software Engineering** (SBSE), which reformulates traditional software engineering tasks as search (optimization) problems. Then, **CI algorithms** (e.g., genetic algorithms, genetic programming, simulated annealing) are used to automate the process of discovering (e.g., detecting software defects) and building optimal solutions (e.g., software fixes).
+There are many tribes of AI, namely Symbolists, Evolutionists, Bayesians, Kernel Conservatives, Connectionists). In the CISE Lab, we focus on applying **Computational Intelligence** (CI) to automate expensive development activities since more development automation would require fewer human resources.  One of the most common ways to make such automation is the **Search-Based Software Engineering** (SBSE), which reformulates traditional software engineering tasks as search (optimization) problems. Then, **CI algorithms** (e.g., genetic algorithms, genetic programming, simulated annealing) are used to automate the process of discovering (e.g., detecting software defects) and building optimal solutions (e.g., software fixes).
 
 SBSE is not only an academic research area, but it is achieving significant uptake in many industrial sectors. For example, **Facebook** uses multi-objective solvers to automatically design system-level test cases for mobile apps [[1]](https://link.springer.com/chapter/10.1007/978-3-319-99241-9_1);  Google uses multi-objective solvers for regression testing [[2]](http://sebase.cs.ucl.ac.uk/fileadmin/crest/sebasepaper/YooNH11_01.pdf). SSBSE techniques has been also applied in the automotive domain (**IEE S.A.** [[3]](https://pure.tudelft.nl/portal/files/45811366/paperASE18N2016pdf.pdf)), in satellite domain (**SES S.A.** [[4]](https://pure.tudelft.nl/admin/files/47344874/main.pdf)) and security testing.
 
@@ -33,8 +40,8 @@ Patching defective code is a human-intensive activity. The goal of this line for
 
 * Annibale Panichella (Lab leader)
 * Arie van Deursen (Leader of the Software Engineering group)
-* Mitchell Olsthoorn (Ph.D. student) working on Testing for Blockchain
-* Xavier  Devroey (internal collaborator)
+* Xavier Devroey (Postdoc), working on Search-based Testing
+* Mitchell Olsthoorn (Ph.D. student), working on Testing for Blockchain
 * Pouria Derakhshanfar (internal collaborator)
 
 ## Collaborators
@@ -50,10 +57,17 @@ The lab collaborates with the following people/organizations (reported in alphab
 * Paolo Tonella, Universita' della Svizzera Italiana, Switzerland
 * SVV Lab - Interdisciplinary Centre for Security, Reliability and Trust, University of Luxemburg
 
+## Student collaborators
+
+CISELab is always open to hosting/collaborating with smart and motivated MSc/BSc students to work on the exiting topics we offer. Currently, CISELab is hosting the following students:
+
+* Dimitri Stallenberg (MSc student), working on SBSE
+* Merel Steenbergen (BSc student), working on Ripple
+
 ## Funding
 
-The Computational Intelligence Lab (CIS-Lab) has received funding from:
+The Computational Intelligence for SE Lab (CISELab) has received funding from:
 
-* European Commission
-* Ripple
-* ING
+* 2020. European Commission
+* 2019. ING
+* 2019. Ripple
