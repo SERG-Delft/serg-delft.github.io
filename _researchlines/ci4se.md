@@ -36,13 +36,16 @@ Self-driving cars, and in general automotive systems, are feature-based systems 
 * **Automated Program Repair**: 
 Patching defective code is a human-intensive activity. The goal of this line for research is to develop techniques that can automatically generate correct patches boggy code without causing software regression. The most common techniques for program repair include evolutionary algorithms and machine learning (see, for example [Repairing Firewall](https://ieeexplore.ieee.org/document/8109099/), and [Self-driving cars](https://orbilu.uni.lu/bitstream/10993/43281/1/paper-CR.pdf)).
 
+* **Test Amplification**: The effort and time spent by developers in software testing activities lead to extensive test suites. However, these test suites are not adequate to fulfill all of the testing criteria. In Test Amplification, we aim to improve the existing test suites by utilizing the knowledge already available in these tests. To achieve this goal, we use AI and machine learning techniques to develop fully automated tools that detect and collect
+the available knowledge  (e.g., input data domains and object usages) from the manually-written tests and use these acquired pieces of intelligence to generate new test suites. As an example of our previous works on this topic, we have designed and implemented a strategy called behavioral model seeding. More information about this technique is available [here](https://stamp-project.github.io/botsing/pages/modelseeding.html). 
 ## Researchers
 
 * Annibale Panichella (Lab leader)
 * Arie van Deursen (Leader of the Software Engineering group)
 * Xavier Devroey (Postdoc), working on Search-based Testing
+* Pouria Derakhshanfar (Postdoc), working on Search-based Testing and Testing for Cyber-physical Systems
 * Mitchell Olsthoorn (Ph.D. student), working on Testing for Blockchain
-* Pouria Derakhshanfar (internal collaborator)
+
 
 ## Collaborators
 
