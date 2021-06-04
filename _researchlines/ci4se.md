@@ -44,6 +44,8 @@ the available knowledge  (e.g., input data domains and object usages) from the m
 * Arie van Deursen (Leader of the Software Engineering group)
 * Xavier Devroey (Postdoc), working on Search-based Testing
 * Pouria Derakhshanfar (Postdoc), working on Search-based Testing and Testing for Cyber-physical Systems
+* Imara van Dinten (Ph.D. student), working on COSMOS
+* Leonhard Applis (Ph.D. student), working on AI-based Sofware Testing and Quality
 * Mitchell Olsthoorn (Ph.D. student), working on Testing for Blockchain
 
 
