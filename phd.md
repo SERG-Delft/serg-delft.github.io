@@ -15,7 +15,7 @@ All dissertations are available from the [TU Delft repository](https://repositor
 1. Alaaeddin Swidan. [Challenges of end-user programmers: Reflections from two groups of end-users](https://repository.tudelft.nl/islandora/object/uuid:01110abf-6e9e-4518-abd3-c4e0daa13f6f?collection=research). September 2019. Advisors: Felienne Hermans and Arie van Deursen.
 1. Moritz Beller. [An Empirical Evaluation of Feedback-Driven Software Development](https://doi.org/10.4233/uuid:b2946104-2092-42bb-a1ee-3b085d110466). November 2018. _Cum laude_. Advisors: Andy Zaidman, Georgios Gousios, and Arie van Deursen.
 1. Hennie Huijgens. [Evidence-Based Software Portfolio Management
-Scientific](https://doi.org/10.4233/uuid:f8fa946a-0178-40e7-bf9c-b91962698481). February 2018.
+](https://doi.org/10.4233/uuid:f8fa946a-0178-40e7-bf9c-b91962698481). February 2018.
 Advisors: Arie van Deursen, Rini van Solingen
 1. Nicolas Dintzner. [Feature-Oriented Evolution of Variant-rich Software Systems](https://doi.org/10.4233/uuid:d23770ce-51ad-43d3-960b-3fa2ad7623f1). July 2017. Advisors: Arie van Deursen and Martin Pinzger.
 1. Petra Heck. [Quality of Just-in-Time Requirements: Just-Enough and Just-in-Time](https://doi.org/10.4233/uuid:5890f1cb-2a90-4bfa-83ba-81b602dca0d5). March 2016. Advisors: Andy Zaidman and Arie van Deursen
