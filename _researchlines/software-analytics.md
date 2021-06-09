@@ -42,8 +42,9 @@ _(Some) Members of the Software Analytics Lab in May 2020. Left to right: Elvan 
 
 The following people are part of the Software Analytics lab:
 
-* Georgios Gousios (Lab leader)
-* Arie van Deursen (Mentor, Leader of the Software Engineering group)
+* Diomidis Spinellis (Lab leader)
+* Arie van Deursen (Leader of the Software Engineering group)
+* Georgios Gousios (Lab leader emeritus)
 
 * Ayushi Rastogi (Postdoc, part-time) working on theory building for distributed software development
 
@@ -55,9 +56,8 @@ The following people are part of the Software Analytics lab:
 
 ## Collaborators
 
-The lab collaborates with the following people / organizations:
+The lab collaborates with the following organizations:
 
-* [Diomidis Spinellis](http://spinellis.gr) (AUEB / TU Delft)
 * FaceBook Probablity group
 * [Software Improvement Group](https://sig.eu)
 
