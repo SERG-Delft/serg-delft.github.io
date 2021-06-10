@@ -17,7 +17,7 @@ make informed decisions that enable continuous, feedback-driven improvement.
 
 At the Software Analytics lab, we work to make software analytics a core asset for software development teams. Our research touches topics such as computer-supported collaborative work (CSCW), big data systems, software engineering processes, software reliability, software analysis, machine learning, and data science.
 
-Currently, we focus on the following 3 research lines, even though we are always open to new ideas:
+Currently, we focus on the following 2 research lines, even though we are always open to new ideas:
 
 * **Engineering for (software) analytics**: creating platforms for data ingestion, integration and querying in a streaming fashion. Related projects:
 
@@ -57,7 +57,7 @@ The following people are part of the Software Analytics lab:
 
 The lab collaborates with the following organizations:
 
-* FaceBook Probablity group
+* [FaceBook Probablity group](https://research.fb.com/teams/probability/)
 * [Software Improvement Group](https://sig.eu)
 
 ## Student collaborators
@@ -82,10 +82,10 @@ The following people were part of the Software Analytics lab:
 * Chushu Gao (visitor, now at SIG)
 * Moritz Beller (Postdoc, now at Facebook)
 * Maria Kechagia (Postdoc, now at UCL)
-* Maliheh Izadi (visitor from Sharif University of Technology)
+* Maliheh Izadi (visitor from Sharif University of Technology, now postdoc at SERG)
 * Xunhui Zhang (visitor from NUDT, China)
 
-* Ilya Grishkov (BSc student). Working on FASTEN
+* Ilya Grishkov (BSc student). Worked on FASTEN
 
 ## Funding
 
