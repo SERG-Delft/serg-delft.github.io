@@ -2,7 +2,7 @@
 layout: research-line
 title: Software Analytics
 description: How can we harness the massive data modern development and deployment processes generate, as well as Big Code, to increase development productivity and operational efficiency?
-responsible: "Georgios Gousios"
+responsible: "Diomidis Spinellis"
 ---
 
 ## Introduction
@@ -46,11 +46,10 @@ The following people are part of the Software Analytics lab:
 * Arie van Deursen (Leader of the Software Engineering group)
 * Georgios Gousios (Lab leader emeritus)
 
-* Ayushi Rastogi (Postdoc, part-time) working on theory building for distributed software development
 
 * Joseph Hejderup (PhD student) working on ecosystem analysis/tics
-* Elvan Kula (PhD student, also with ING), working on analytics for software process optimization
 * Mehdi Keshani (PhD student), working on scaling static analyses
+* Elvan Kula (PhD student, also with ING), working on analytics for software process optimization
 * Chandra Maddila (PhD student, also with Microsoft), working on tools for software engineering
 * Amir Mir (PhD student), working on making Python better through Machine Learning
 
@@ -71,7 +70,6 @@ students:
 
 * Roberta Gismondi (BSc student). Working on ML-based auto-completion for Python
 * Evaldas Latoškinas (BSc student). Working on type prediction for Python
-* Ilya Grishkov (BSc student). Working on FASTEN
 * Mihhail Sokolov (BSc student). Working on FASTEN
 * Edoardo Lanzini (BSc student). Working on FASTEN
 
@@ -79,12 +77,15 @@ students:
 
 The following people were part of the Software Analytics lab:
 
-* Enrique Larios (Postdoc)
+* Ayushi Rastogi (Postdoc, now assist prof at U Groningen)
+* Enrique Larios (Postdoc, now postdoc at U Vic)
 * Chushu Gao (visitor, now at SIG)
 * Moritz Beller (Postdoc, now at Facebook)
 * Maria Kechagia (Postdoc, now at UCL)
 * Maliheh Izadi (visitor from Sharif University of Technology)
 * Xunhui Zhang (visitor from NUDT, China)
+
+* Ilya Grishkov (BSc student). Working on FASTEN
 
 ## Funding
 
