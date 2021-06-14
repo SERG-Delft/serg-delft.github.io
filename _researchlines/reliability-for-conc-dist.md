@@ -19,6 +19,22 @@ We currently focus on testing distributed systems, asking the following question
 * **Weakly consistent systems** - that provide weak levels of consistency such as causal or eventual consistency in favor of higher availability
 * **Blockchains** – that is basically a distributed, decentralized database that stores information in a chain of blocks 
 
-The research is related to the work in the [CI4SE]({% link _researchlines/ci4se.md %}), [Software Engineering for Fintech](https://se.ewi.tudelft.nl/research-lines/se-for-fintech/), and [Software Quality](https://se.ewi.tudelft.nl/research-lines/software-quality/) research lines.
+
+
+### Announcements:
+<span style="color:#00A6D6">**[Open PhD position (Application deadline: June 18)]**</span> We're looking for an enthusiastic PhD student to work on software testing for distributed systems and Byzantine fault-tolerant (BFT) blockchains. 
+You can find more information about the position and application on the 
+[<span style="color:#00A6D6">**application page**</span>](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=2915).
+
+<span style="color:#00A6D6">**[Available MSc projects]**</span> Looking for MSc students to work on:
+
+- [Probabilistic Testing for Weak Memory Concurrency](https://pl.ewi.tudelft.nl/master-projects/master/2021/06/07/Probabilistic-Testing-Weak-Memory-Concurrency/) (co-supervised with [Soham Chakraborty](https://www.st.ewi.tudelft.nl/sschakraborty/))
+- [Building a Conflict-Free Replicated Datatype (CRDT) Library for Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/157)
+
+
+[Contact](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains.
+
+<!--
+The research is related to the work in the [CI4SE]({% link _researchlines/ci4se.md %}), [Software Engineering for Fintech](https://se.ewi.tudelft.nl/research-lines/se-for-fintech/), and [Software Quality](https://se.ewi.tudelft.nl/research-lines/software-quality/) research lines. -->
 
 
