@@ -1,6 +1,6 @@
 ---
 layout: event
-title: SERG talk: "Research Workflow in Plain Text Using Emacs and
+title: "SERG talk: Research Workflow in Plain Text Using Emacs and
 org-mode"
 categories: [events, lunch-talks]
 start: "11:00"
