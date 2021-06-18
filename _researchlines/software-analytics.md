@@ -85,7 +85,9 @@ The following people were part of the Software Analytics lab:
 * Maliheh Izadi (visitor from Sharif University of Technology, now postdoc at SERG)
 * Xunhui Zhang (visitor from NUDT, China)
 
+
 * Ilya Grishkov (BSc student). Worked on FASTEN
+* Konstantinos Triantafyllou (MSc intern from ETH Zürich). Worked on [call graph generator](https://github.com/ktrianta/rust-callgraphs) for Rust
 
 ## Funding
 
