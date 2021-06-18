@@ -3,7 +3,7 @@ layout: event
 title: "TestKnight: Testing plugin for IntelliJ IDEA"
 categories: []
 start: "14:30"
-end: "15:"30
+end: "15:30"
 speaker: Cristian-Alexandru Botocan, Piyush Deshmukh, Jorge Romeu Huidobro, Pavlos Makridis, Mathanrajan Sundarrajan
 where: Online (zoom)
 ---
