@@ -17,4 +17,4 @@ Some of the features provided by TestKnight are:
 - Assertion suggestion
 - Visualization of coverage changes
 
-TestKnight was developed as part of the CSE2000 Software Project course. This presentation is also part of the course and will be held on [zoom](https://tudelft.zoom.us/j/99867803385?pwd=S0RwODhZRkgyV0VHanlPbXEza0xqdz09).
+TestKnight was developed as part of the CSE2000 Software Project course. This presentation is also part of the course and will be held on Zoom.
