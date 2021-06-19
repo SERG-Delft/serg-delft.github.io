@@ -89,21 +89,6 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
-    <div class="card-body">
-      <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
-      <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="http://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-  
-  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/burcuku" alt="Burcu Kulahcioglu Ozkan">
     <div class="card-body">
       <div class="card-title"><a href="https://burcuku.github.io/home">Burcu Kulahcioglu Ozkan</a></div>
@@ -491,21 +476,22 @@ title: People
 ### Guests
 
 <div class="card-deck">
-
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/hennie-huijgens.jpeg" alt="Hennie Huijgens">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
     <div class="card-body">
-      <div class="card-title">Hennie Huijgens</div>
-      <p class="card-text">Software analytics.</p>
+      <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
+      <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://www.linkedin.com/in/henniehuijgens/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=j9xJ60oAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/hkm-huijgens(796c553e-660f-4956-8bc2-13f22ea9d620)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="http://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-  
 </div>
+
 
 
 ### Support
@@ -543,6 +529,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Hennie Huijgens]("https://www.linkedin.com/in/henniehuijgens/) | 2013-2018 | PhD candidate | HU Uni. of Appl. Sciences, Utrecht, NL
 [Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | University of Groningen, Netherlands 
  [Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/) | 2016-2021 | PhD student | JetBrains 
  [Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2021 | PhD student | Facebook |
