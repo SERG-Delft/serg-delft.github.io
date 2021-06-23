@@ -17,6 +17,7 @@ Within our research lines, ongoing funded research projects include:
 
 Start | Name | Project Title | Funding | SERG Principal Investigators
 ------|------|---------------|---------|------------------------
+2021 | [COSMOS](https://www.cosmos-devops.org) | DevOps and testing for Cyber-physical systems | EU H2020 | Annibale Panichella
 2019  | [AFR](https://se.ewi.tudelft.nl/ai4fintech/)  | AI for Fintech Research | [ING](https://www.ing.com/Home.htm)  | Arie van Deursen
 2019  | [TestShift](https://testshiftproject.github.io/) | A Socio-Technical Shift in Software Testing | NWO Vici | Andy Zaidman |
 2019  | [UBRI](https://ubri.ripple.com) | Testing for Blockchain | Ripple | Annibale Panichella
