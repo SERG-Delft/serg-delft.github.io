@@ -5,13 +5,13 @@ title: Vacancies
 
 The TU Delft Software Engineering Research Group has the following vacancies: 
 
-## PhD student in Software Testing and DevOps for Cyber-Physical Systems
+## PhD student in Software Testing and Validation for AI-intense Systems
 
-The Software Engineering Research Group (SERG) has recently acquired an H2020 EU project called COSMOS that will reinforce the research lines of software testing, evolution, and maintenance at TU Delft by focusing on Cyber-Physical systems.
+The Ph.D. position will focus on the research and development of solutions to test and validate AI-intensive systems. AI-intensive systems involve multiple internal stages, pipelines, models, as well as interaction with other non-AI-based components. Often, they also process multimodal data requiring human interpretation. The question of quality assurance for AI thus is more refined than a single evaluation or testing approach, which often is seen today. In this Ph.D. project, we therefore will focus on bridging evaluation and testing methodologies from the software engineering and applied machine learning domains.
 
-Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.
+This project is a collaboration between the Multimedia Computing (MMC) Group at the Intelligent Systems (INSY) Department, and the Software Engineering Research Group (SERG) at the Software Technology (ST) Department. The INSY and ST departments closely work together in the faculty’s Computer Science research and education.
 
-[I want to know more...](vacancies/cosmos.html)
+[I want to know more...](vacancies/testing4ai.html)
 
 **Contact:** Annibale Panichella (a.panichella@tudelft.nl)
 
