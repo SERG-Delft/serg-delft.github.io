@@ -7,7 +7,7 @@ end: "16:00"
 where: Online
 ---
 
-In the [last session]({% post_url /_events/2021-06-25-reading-club %})
+In the last session
 we looked at how Machine Learning is being used in Software
 Engineering (specifically, to predict flakiness of tests). In this
 session, we explore the opposite perspective ie. how is Software
