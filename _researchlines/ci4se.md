@@ -51,12 +51,13 @@ the available knowledge  (e.g., input data domains and object usages) from the m
 
 ## Collaborators
 
-The lab collaborates with the following people/organizations (reported in alphabetic order):
+The lab collaborates with the following people/organizations (reported in alphabetic order by last name):
 
 * Andrea Arcuri, Kristiania University College, Norvegia
 * Gordon Fraser, University of Passau, Germany
 * Vincent Hellendoorn, UC Davis, USA
 * Fitsum Kifetew, Fondazione Bruno Kessler, Italy
+* Cynthia Liem - Delft University of technology
 * Sebastiano Panichella, Zurich University of Applied Sciences, Switzerland
 * Anand Ashok Sawant, UC Davis, USA
 * Paolo Tonella, Universita' della Svizzera Italiana, Switzerland
