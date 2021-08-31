@@ -165,16 +165,30 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/8514257?v=4" alt="Xavier Devroey">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/61319954?v=4" alt="Maliheh Izadi">
     <div class="card-body">
-      <div class="card-title"><a href="http://xdevroey.be">Xavier Devroey</a></div>
-      <p class="card-text">Search-based testing, variability</p>
+      <div class="card-title"><a href="http://ce.sharif.edu/~malizadi/index.html">Maliheh Izadi</a></div>
+      <p class="card-text">Software bots</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/xdevroey"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/xdevroey"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/xdevroey"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/xdm-devroey(374ab5e8-0b73-417d-a03b-7db03e3f1203)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+      <a href="https://twitter.com/malihehizadi"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/MalihehIzadi"><i class="fab fa-github"></i></a>
+      <a href="https://linkedin.com/in/malihe-izadi"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+  
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/5549736?v=4" alt="Mairieli Wessel">
+    <div class="card-body">
+      <div class="card-title"><a href="mairieli.github.io">Mairieli Wessel</a></div>
+      <p class="card-text">Software bots</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mairieli"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mairieli"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mairieli/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=qXE1jdQAAAAJ&hl=en&oi=ao" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -529,7 +543,8 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
-[Hennie Huijgens]("https://www.linkedin.com/in/henniehuijgens/) | 2013-2018 | PhD candidate | HU Uni. of Appl. Sciences, Utrecht, NL
+[Xavier Devroey](http://xdevroey.be) | 2017-2021 | Post-doc | University of Namur, Belgium
+[Hennie Huijgens](https://www.linkedin.com/in/henniehuijgens/) | 2013-2018 | PhD candidate | HU Uni. of Appl. Sciences, Utrecht, NL
 [Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | University of Groningen, Netherlands 
  [Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/) | 2016-2021 | PhD student | JetBrains 
  [Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2021 | PhD student | Facebook |
