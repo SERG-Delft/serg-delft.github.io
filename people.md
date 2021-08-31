@@ -168,7 +168,7 @@ title: People
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/61319954?v=4" alt="Maliheh Izadi">
     <div class="card-body">
       <div class="card-title"><a href="http://ce.sharif.edu/~malizadi/index.html">Maliheh Izadi</a></div>
-      <p class="card-text">Software bots</p>
+      <p class="card-text">Software analytics</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/malihehizadi"><i class="fab fa-twitter"></i></a>
