@@ -181,7 +181,7 @@ title: People
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/5549736?v=4" alt="Mairieli Wessel">
     <div class="card-body">
-      <div class="card-title"><a href="mairieli.github.io">Mairieli Wessel</a></div>
+      <div class="card-title"><a href="http://mairieli.github.io">Mairieli Wessel</a></div>
       <p class="card-text">Software bots</p>
     </div>
     <div class="card-footer bg-transparent border-success">
