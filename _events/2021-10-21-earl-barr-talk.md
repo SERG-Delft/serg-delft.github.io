@@ -5,7 +5,7 @@ categories: [events]
 start: "11:00"
 end: "12:00"
 speaker: "Earl Barr (UCL, UK)"
-where: "Social Data Lab (live!) and Online"
+where: "Zoom"
 ---
 
 **Abstract**
@@ -19,10 +19,9 @@ documentation. Natural type inference (NTI) reformulates probabilistic type infe
 
 **Venue**
 
-After over 100 online talks during the 2020/2021 pandemic, this talk will be the first in person SERG talk in 18 months.
+~~After over 100 online talks during the 2020/2021 pandemic, this talk will be the first in person SERG talk in 18 months.~~
 
-- Because of limited capacity let the us know upfront if you want to attend in person.
-- For those who can only attend online we will share a (Zoom or Teams) link (on Mattermost)
+The meeting will take place on Zoom, due to Dutch restrictions on travel from the UK.
 
 
 **Bio**
