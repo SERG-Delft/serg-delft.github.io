@@ -2,8 +2,8 @@
 layout: event
 title: "Dual Channel Constraints and Natural Type Inference"
 categories: [events]
-start: "10:30"
-end: "11:30"
+start: "11:00"
+end: "12:00"
 speaker: "Earl Barr (UCL, UK)"
 where: "Social Data Lab (live!) and Online"
 ---
