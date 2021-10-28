@@ -350,9 +350,8 @@ title: People
 </div>
 
 <div class="card-deck non-top-row">
-
-	<div class="card d-flex d-block">
-	  <img class="card-img-top" src="https://akhatami.com/wp-content/uploads/2020/09/Ali-Khatami-Photo.jpg" alt="Ali Khatami">
+<div class="card d-flex d-block">
+	  <img class="card-img-top" src="https://akhatami.com/wp-content/uploads/2021/10/Ali_Khatami.jpg" alt="Ali Khatami">
     <div class="card-body">
 		<div class="card-title">
 			<a href="https://akhatami.com">Ali Khatami</a>
