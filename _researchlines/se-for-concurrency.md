@@ -20,19 +20,19 @@ We currently focus on testing distributed systems, asking the following question
 * **Blockchains** – that is basically a distributed, decentralized database that stores information in a chain of blocks 
 
 
-<!--
 **Ongoing MSc projects**. 
 
-- Martijn van Meerten, *Search-based Testing of Ripple Consensus Implementation* (co-supervised with [Annibale Panichella](https://se.ewi.tudelft.nl/research-lines/ci4se/))
+- Martijn van Meerten, *Search-based Testing of Ripple Consensus* (co-supervised with Annibale Panichella)
 
--->
+- Mingyu Gao, *Probabilistic Testing for Weak Memory Concurrency* (co-supervised with Soham Chakraborty)
 
 **Available MSc projects**. 
 
-- [Probabilistic Testing for Weak Memory Concurrency](https://pl.ewi.tudelft.nl/master-projects/master/2021/06/07/Probabilistic-Testing-Weak-Memory-Concurrency/) (co-supervised with [Soham Chakraborty](https://www.st.ewi.tudelft.nl/sschakraborty/))
-- [Building a Conflict-Free Replicated Datatype (CRDT) Library for Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/157)
-- [Controlled Crash-recovery Testing of Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/161)
+<!--- [Probabilistic Testing for Weak Memory Concurrency](https://pl.ewi.tudelft.nl/master-projects/master/2021/06/07/Probabilistic-Testing-Weak-Memory-Concurrency/) (co-supervised with [Soham Chakraborty](https://www.st.ewi.tudelft.nl/sschakraborty/))-->
 
+- [Building a Conflict-Free Replicated Datatype (CRDT) Library for Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/157)
+
+- [Controlled Crash-recovery Testing of Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/161)
 
 
 [Contact](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains.
