@@ -41,14 +41,13 @@ studies.
 **Contact:** Andy Zaidman (a.e.zaidman@tudelft.nl)
 
 
-## PhD student for Testing Distributed Systems and Blockchains
+## PhD student in Testing Distributed Systems
 
-We are looking for an enthusiastic PhD student to work on software testing for distributed systems and Byzantine fault-tolerant (BFT) blockchains.
+Modern computation increasingly depends on large-scale distributed systems and blockchains. However, these systems are difficult to design and implement correctly. They may fail to ensure correctness in subtle executions with unexpected orderings of exchanged messages, network partitions, and process failures.
 
-Modern computation increasingly depends on large-scale distributed systems and blockchains. However, these systems are difficult to design and implement correctly. Their executions involve many sources of nondeterminism, such as the delivery order of asynchronous messages, message losses due to network failures, and process failures. Production distributed systems and blockchains must ensure correctness in the existence of unexpected executions and failures. The PhD project aims to develop program analysis and testing techniques specifically designed for detecting bugs in distributed systems and blockchains.
+The PhD project aims to develop program analysis and testing techniques for improving reliability of distributed systems and blockchains.
 
-The project lies in the intersection of software testing, software quality, fault-tolerance, distributed systems, and blockchains.
-The prospective PhD student is expected to do high-quality research involving both theory and implementation: getting a deep understanding of theoretical abstractions of fault-tolerant systems and developing novel software analysis and testing techniques. 
+The project lies in the intersection of software testing, program analysis, and distributed systems. The prospective PhD student is expected to do high-quality research involving both theory and implementation: getting a deep understanding of theoretical abstractions of fault-tolerant systems and developing novel software analysis and testing techniques.
 
 [I want to know more...](vacancies/testds.html)
 

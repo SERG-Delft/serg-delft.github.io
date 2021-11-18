@@ -5,14 +5,15 @@ title: Vacancy
 
 The TU Delft Software Engineering Research Group has the following vacancies: 
 
-## PhD student for Testing Distributed Systems and Blockchains 
+## PhD student for Testing Distributed Systems 
 
-We are looking for an enthusiastic PhD student to work on software testing for distributed systems and Byzantine fault-tolerant (BFT) blockchains.
+We are looking for a motivated PhD student to work on software testing for distributed systems.
 
-Modern computation increasingly depends on large-scale distributed systems and blockchains. However, these systems are difficult to design and implement correctly. Their executions involve many sources of nondeterminism, such as the delivery order of asynchronous messages, message losses due to network failures, and process failures. Production distributed systems and blockchains must ensure correctness in the existence of unexpected executions and failures. The PhD project aims to develop program analysis and testing techniques specifically designed for detecting bugs in distributed systems and blockchains.
+Modern computation increasingly depends on large-scale distributed systems and blockchains. However, these systems are difficult to design and implement correctly. They may fail to ensure correctness in subtle executions with unexpected orderings of exchanged messages, network partitions, and process failures.
 
-The project lies in the intersection of software testing, software quality, fault-tolerance, distributed systems, and blockchains.
-The prospective PhD student is expected to do high-quality research involving both theory and implementation: getting a deep understanding of theoretical abstractions of fault-tolerant systems and developing novel software analysis and testing techniques. 
+The PhD project aims to develop program analysis and testing techniques for improving reliability of distributed systems and blockchains.
+
+The project lies in the intersection of software testing, program analysis, and distributed systems. The prospective PhD student is expected to do high-quality research involving both theory and implementation: getting a deep understanding of theoretical abstractions of fault-tolerant systems and developing novel software analysis and testing techniques.
 
 
 ### Job requirements:
@@ -28,14 +29,14 @@ The prospective PhD student is expected to do high-quality research involving bo
 
 ### How to apply? 
 
-Prepare and submit the following documents on the [**online application page**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=2915).
+Prepare and submit the following documents on the [**online application page**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663).
 
 - A detailed CV (with contact information for 2-3 references; sending references letters yourself is not necessary).  
 - A motivation letter that includes your vision (e.g., what do you consider an urgent problem to address, how you would go about the project, etc.) and how your background or research interests relate to the PhD subject. A generic letter of motivation is not appreciated.  
 - A copy or link to your (draft) Master’s thesis.  
 - A transcript of BSc and MSc grades.  
  
-Please apply before **June 18, 2021**.
+Please apply before **December 17th, 2021**.
 
 
 ### More information?
