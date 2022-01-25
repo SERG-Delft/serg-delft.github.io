@@ -20,8 +20,8 @@ We currently focus on testing distributed systems, asking how can we design effi
 
 ### Ongoing projects:
 
-<span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. 
-You can find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)! 
+<!-- <span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. 
+You can find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)!  -->
 
 **Ongoing MSc projects:** 
 
@@ -31,18 +31,23 @@ You can find more information [on the application site](https://www.tudelft.nl/o
 
 **Available MSc projects:** 
 
-- [Machine Learning for Concurrent Programs](https://projectforum.tudelft.nl/admin/thesis_projects/206) (co-supervision with [Earl T. Barr](https://earlbarr.com/))
 
 <!--- [Probabilistic Testing for Weak Memory Concurrency](https://pl.ewi.tudelft.nl/master-projects/master/2021/06/07/Probabilistic-Testing-Weak-Memory-Concurrency/) (co-supervised with [Soham Chakraborty](https://www.st.ewi.tudelft.nl/sschakraborty/))-->
 
-- [Design and Implementation of a Conflict-Free Replicated Datatype (CRDT) Library for Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/157)
+<!-- [Controlled Crash-recovery Testing of Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/161) -->
 
-- [Controlled Crash-recovery Testing of Distributed Systems](https://projectforum.tudelft.nl/admin/thesis_projects/161)
+- Design and Implementation of a Conflict-Free Replicated Datatype (CRDT) Library for Distributed Systems [(more info)](https://projectforum.tudelft.nl/admin/thesis_projects/157)
+
+- Machine Learning for Concurrent Programs [(more info)](https://projectforum.tudelft.nl/admin/thesis_projects/206) (co-supervision with [Earl T. Barr](https://earlbarr.com/))
+
+- Testing Distributed Database Isolation through Anti-Pattern Detection [(more info)](https://projectforum.tudelft.nl/admin/thesis_projects/208) (co-supervision with [Stefania Dumbrava](https://web4.ensiie.fr/~stefania.dumbrava/), ENSIIE)
+
+- Analysis of Akka actor programs <!-- [(more info)](XXX)-->
 
 
 &nbsp;
 
-[Contact](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, concurrent programming, distributed systems, and blockchains.
+[Contact](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, program analysis, concurrent programming, distributed systems, and blockchains.
 
 <!--
 The research is related to the work in the [CI4SE]({% link _researchlines/ci4se.md %}), [Software Engineering for Fintech](https://se.ewi.tudelft.nl/research-lines/se-for-fintech/), and [Software Quality](https://se.ewi.tudelft.nl/research-lines/software-quality/) research lines. -->
