@@ -14,7 +14,7 @@ or subscribe to our calendar:
 | When | Event       | Speaker | Where           |
 |---------|-------|----------------------|------------------------|
 {% for event in site.events -%}
-  {%- if event.date > site.time -%}
+  {%- if event.date >= site.time -%}
     | {{ event.date | date: "%d-%b-%Y" }} {{ event.start }} - {{ event.end }} | <a href="{{ event.url }}">{{ event.title }}</a> | {{ event.speaker }} | {{ event.where }} |
     {% assign fut_events_seen = "yes" %}
   {% endif %}
