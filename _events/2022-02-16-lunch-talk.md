@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG talk"
+title: "Testing and Explaining the Behavior of Code Intelligence Models"
 categories: [events, lunch-talks]
 start: "16:00"
 end: "17:00"
