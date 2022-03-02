@@ -5,7 +5,7 @@ categories: [events, guest-lecture]
 start: "13:45"
 end: "15:30"
 speaker: Diomidis Spinellis
-where: "EWI Room Ampere and Zoom"
+where: "EWI Room Boole and Zoom"
 ---
 
 Unix has evolved for almost five decades, shaping modern operating systems, key software technologies, and development
