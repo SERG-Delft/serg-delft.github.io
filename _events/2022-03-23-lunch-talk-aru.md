@@ -12,7 +12,8 @@ In this talk, I will present our recent paper titled **Data Smells in
 Public Datasets** which was recently accepted in [CAIN
 '22](https://conf.researchr.org/home/cain-2022). If several people are
 in the office, perhaps we can do it in person (with online streaming
-for remote viewers)?
+for remote viewers)? Following is the abstract of the paper, the
+pre-print can be found on [arxiv](https://arxiv.org/abs/2203.08007).
 
 ***Abstract***
 
