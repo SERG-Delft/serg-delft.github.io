@@ -10,8 +10,9 @@ where: Hybrid
 
 In this talk, I will present our recent paper titled **Data Smells in
 Public Datasets** which was recently accepted in [CAIN
-'22](LINKME). If several people are in the office, perhaps we can do
-it in person (with online streaming for remote viewers)?
+'22](https://conf.researchr.org/home/cain-2022). If several people are
+in the office, perhaps we can do it in person (with online streaming
+for remote viewers)?
 
 ***Abstract***
 
