@@ -5,7 +5,7 @@ categories: [events, lunch-talks]
 start: "11:00"
 end: "12:00"
 speaker: Dimitri Stallenberg
-where: Hybrid
+where: Hybrid (Social Data Lab)
 ---
 
 In this talk, Dimitri will present the vision for his Master's thesis on Type Inference for Javascript.
