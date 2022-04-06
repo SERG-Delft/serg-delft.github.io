@@ -72,6 +72,23 @@ title: People
 
 </div> <!-- deck -->
 
+<div class="card-deck">
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
+    <div class="card-body">
+      <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
+      <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems (0.2fte)</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="http://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+</div>
+
 <div class="card-deck non-top-row">
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
@@ -459,20 +476,6 @@ title: People
 </div>
 ### Scientific Programmers
 
-<div class="card-deck">
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2283622?s=460&v=4" alt="Wouter Zorgdrager">
-    <div class="card-body">
-      <div class="card-title">Wouter Zorgdrager</div>
-      <p class="card-text">Software Analytics. Working on <a href="https://www.fasten-project.eu/">FASTEN</a>.</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/wouterdz"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/wzorgdrager"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/wouter-zorgdrager-a4746512a/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-  
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/dstallenberg.jpeg" alt="Dimitri Stallenberg">
     <div class="card-body">
@@ -487,24 +490,6 @@ title: People
 </div>
 
 ### Guests
-
-<div class="card-deck">
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
-    <div class="card-body">
-      <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
-      <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="http://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-</div>
-
 
 
 ### Support
@@ -542,6 +527,7 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Wouter Zorgdrager](https://www.linkedin.com/in/wouter-zorgdrager-a4746512a) | 2018-2021 | Research Engineer | Delivery Hero, Germany
 [Xavier Devroey](http://xdevroey.be) | 2017-2021 | Post-doc | University of Namur, Belgium
 [Hennie Huijgens](https://www.linkedin.com/in/henniehuijgens/) | 2013-2018 | PhD candidate | HU Uni. of Appl. Sciences, Utrecht, NL
 [Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | University of Groningen, Netherlands 
