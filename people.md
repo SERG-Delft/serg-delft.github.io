@@ -475,7 +475,7 @@ title: People
 
 </div>
 ### Scientific Programmers
-
+<div class="card-deck non-top-row">
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/dstallenberg.jpeg" alt="Dimitri Stallenberg">
     <div class="card-body">
