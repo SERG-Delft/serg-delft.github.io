@@ -1,11 +1,11 @@
 ---
 layout: event
-title: ""
+title: "Code Velocity: The Good, the Bad, and the Ugly"
 categories: [events, guest-lecture]
 start: "14:00"
 end: "15:00"
 speaker: Gunnar Kudrjavets
-where: "TBA"
+where: "Hybrid, details TBA"
 ---
 
 **Abstract:** Code velocity, or how fast the code changes integrate into a production environment from inception, plays a crucial role in daily engineering practices for companies like Google, Facebook, or Microsoft. We examine the motivation for research related to code velocity, actual findings versus the myths, and a set of impactful research topics that practitioners consider valuable. Brace yourself for contrarian views on software engineering from the trenches.
