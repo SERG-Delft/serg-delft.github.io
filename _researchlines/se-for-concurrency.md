@@ -18,7 +18,6 @@ We currently focus more on testing distributed systems, asking how can we design
 * Distributed systems with microservice architecture
 <!-- * Blockchains – that is basically a distributed, decentralized database that stores information in a chain of blocks -->
 
-&nbsp;
 
 ### Team:
 
@@ -57,13 +56,11 @@ You can find more information [on the application site](https://www.tudelft.nl/o
 - Analysis of Akka actor programs <!-- [(more info)](XXX)
 -->
 
-&nbsp;
 
 ### Related MSc Course:
 
 * CS4405 - Analysis of Concurrent and Distributed Programs ([course page](https://cs4405.github.io/))
 
-&nbsp;
 
 [Contact](mailto:b.ozkan@tudelft.nl) if you are interested in working on software testing, program analysis, concurrent programming, distributed systems, and blockchains.
 
