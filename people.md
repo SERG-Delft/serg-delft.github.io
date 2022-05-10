@@ -70,9 +70,6 @@ title: People
     </div>
   </div>
 
-</div> <!-- deck -->
-
-<div class="card-deck">
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
     <div class="card-body">
@@ -87,14 +84,15 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-</div>
+
+</div> <!-- deck -->
 
 <div class="card-deck non-top-row">
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/100812?v=4" alt="Mauricio Aniche">
     <div class="card-body">
       <div class="card-title"><a href="https://www.mauricioaniche.com">Maurício Aniche</a></div>
-      <p class="card-text">Software maintenance and testing, empirical software engineering</p>
+      <p class="card-text">Software maintenance and testing, empirical software engineering (0.2fte)</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/mauricioaniche" title="Twitter"><i class="fab fa-twitter"></i></a>
