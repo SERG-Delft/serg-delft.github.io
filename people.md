@@ -276,8 +276,8 @@ title: People
       <p class="card-text">DevOps for cyberphysical systems</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/IvDinten"><i class="fab fa-twitter"></i>
-      <a href="https://github.com/IvDinten"><i class="fab fa-github"></i>
+      <a href="https://twitter.com/IvDinten"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/IvDinten"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/imara-van-dinten/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
