@@ -270,6 +270,25 @@ title: People
 
   
   <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
+    <div class="card-body">
+      <div class="card-title"><a href="https://amirdeljouyi.com">Amirhossein Deljouyi</a></div>
+      <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/deljouyi"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/amirdeljouyi"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/amirhossein-deljouyi-3b929661/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=jEHXg2QAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+</div>
+
+<div class="card-deck non-top-row">
+
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
     <div class="card-body">
       <div class="card-title"><a href="">Imara van Dinten</a></div>
@@ -281,10 +300,6 @@ title: People
       <a href="https://www.linkedin.com/in/imara-van-dinten/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5766743?s=460&v=4" alt="Marco di Biase">
@@ -346,6 +361,9 @@ title: People
       <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
+</div>
+
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
@@ -363,11 +381,8 @@ title: People
     </div>
   </div>
 
-</div>
-
-<div class="card-deck non-top-row">
-<div class="card d-flex d-block">
-	  <img class="card-img-top" src="https://akhatami.com/wp-content/uploads/2021/10/Ali_Khatami.jpg" alt="Ali Khatami">
+  <div class="card d-flex d-block">
+	  <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
     <div class="card-body">
 		<div class="card-title">
 			<a href="https://akhatami.com">Ali Khatami</a>
@@ -426,6 +441,9 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+</div>
+
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5801581?s=400&v=4" alt="Sohon Roy">
@@ -440,10 +458,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/s-roy(3877362c-2ace-451c-9679-24c6e5b6ecf7)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top"
