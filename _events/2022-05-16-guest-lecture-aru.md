@@ -20,9 +20,9 @@ laptop to the lecture. Finally make sure to follow the [setup
 instructions] **prior** to the tutorial.
 
 You can attend the lecture physically at [Pulse Hall 7] or attend
-virtually using the [Zoom link]. Hope to see you there!
+virtually (contact Aru on mattermost for the link). Hope to see you
+there!
 
 [Tensorflow Data Validation]: https://github.com/tensorflow/data-validation
 [setup instructions]: https://github.com/arumoy-shome/remla
 [Pulse Hall 7]: https://esviewer.tudelft.nl/space/170/
-[Zoom link]: https://tudelft.zoom.us/j/94437843685?pwd=ZmtnSHVDc21MZjhVT1E3b0h4SjdaUT09
