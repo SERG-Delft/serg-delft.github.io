@@ -604,6 +604,7 @@ Name | Period | Role | Current Affiliation
 [Peter Zoeteweij](https://dblp.uni-trier.de/pers/hd/z/Zoeteweij:Peter) | 2005-2009 | Postdoc     | [IntelliMagic](https://www.intellimagic.com/), NL
 [Rui Maranhao Abreu](https://dblp.uni-trier.de/pers/hd/a/Abreu:Rui)    | 2005-2009 | PhD student | U. Lisbon, PO
 [Arjan van Gemund](https://dblp.uni-trier.de/pers/hd/g/Gemund:Arjan_J=_C=_van) | 2005-2009 | Professor | Retired
+[Alexander Feldman](https://dblp.org/pid/44/4566.html) | 2005-2009 | PhD student | PARC, USA
 [Marco Lormans](https://dblp.org/pers/hd/l/Lormans:Marco)              | 2002-2008 | PhD student | Xebia, NL
 [Leon Moonen](https://leonmoonen.com/)                                 | 2003-2008 | Assistant professor | Simula, NO
 [Magiel Bruntink](https://dblp.uni-trier.de/pers/hd/b/Bruntink:Magiel) | 2003-2008 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
