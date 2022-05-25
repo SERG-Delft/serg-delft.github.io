@@ -577,7 +577,7 @@ Name | Period | Role | Current Affiliation
 [Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                    | 2010-2015 | PhD Student |   |
 [Tiago Espinha](https://dblp.org/pers/hd/e/Espinha:Tiago)              | 2010-2015 | PhD student | [Ocado](https://www.ocadotechnology.com/), UK
 [Daniele Romano](https://dblp.org/pers/hd/r/Romano:Daniele)            | 2010-2015 | PhD student | [ING](https://www.ing.com/Home.htm), NL
-[Esther van Rooijen](https://www.linkedin.com/in/eevanrooijen/)        | 2009-2014 | Secretary | [NFI](https://www.forensischinstituut.nl/), NL
+[Esther van Seters](https://www.linkedin.com/in/eevanseters/)        | 2009-2014 | Secretary | [NFI](https://www.forensischinstituut.nl/), NL
 [Markus Völter](http://voelter.de/)                                    | 2013-2014 | PhD student | Independent, DE
 [Ben van Gameren](https://dblp.org/pers/hd/g/Gameren:Ben_van)          | 2010-2014 | PhD student | [iHomer](https://ihomer.nl/), NL
 [Kevin Dullemond](https://dblp.org/pers/hd/d/Dullemond:Kevin)          | 2010-2014 | PhD student | [Mendix](https://www.mendix.com/), NL
