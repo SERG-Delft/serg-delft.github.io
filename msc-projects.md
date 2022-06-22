@@ -42,6 +42,7 @@ Andy Zaidman | Software testing, software evolution, repository mining | [Exampl
 Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][theses-seb]
 Luís Cruz | Sustainable software engineering, AI Engineering  | [L1](https://link.springer.com/article/10.1007/s10664-019-09682-0#Sec2), [L2](https://arxiv.org/abs/2010.02716), [Theses][theses-luis]
 Burcu Kulahcioglu Ozkan | Software reliability for concurrent and distributed systems| [Available projects](https://projectforum.tudelft.nl/course_editions/13/themes/75)
+Thomas Durieux | Software maintenance, software evolution, repository mining | 
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
 
