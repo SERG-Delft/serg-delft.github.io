@@ -206,21 +206,6 @@ title: People
     </div>
   </div>
   
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/5549736?v=4" alt="Mairieli Wessel">
-    <div class="card-body">
-      <div class="card-title"><a href="http://mairieli.github.io">Mairieli Wessel</a></div>
-      <p class="card-text">Software bots</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/mairieli"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/mairieli"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/mairieli/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=qXE1jdQAAAAJ&hl=en&oi=ao" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  
 </div>
 
 ### PhD Students
@@ -240,18 +225,7 @@ title: People
       <a href="https://github.com/twonki"><i class="fab fa-github"></i></a>
     </div>
   </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/vivek.jpg" alt="Vivek Arora">
-    <div class="card-body">
-      <div class="card-title">Vivek Arora</div>
-      <p class="card-text">Software analytics, software security</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://www.linkedin.com/in/vivekar"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
+  
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
@@ -263,23 +237,7 @@ title: People
       <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/2225536?s=400&u=bc59f61dac1e584ca8b071a1e10792f228470072&v=4" alt="Jeanderson B. Candido">
-    <div class="card-body">
-      <div class="card-title"><a href="https://jeandersonbc.github.io">Jeanderson Candido</a></div>
-      <p class="card-text">Software Analytics, Software Testing</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/jbarroscandido"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/jeandersonbc"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/jeandersonbc"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=Vye8xT4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
-
-  
+ 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
     <div class="card-body">
@@ -294,10 +252,6 @@ title: People
       <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
@@ -328,6 +282,9 @@ title: People
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
 
 
   <div class="card d-flex d-block">
@@ -372,9 +329,7 @@ title: People
       <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-</div>
 
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
@@ -407,6 +362,9 @@ title: People
       <i class="ai ai-google-scholar-square"></i>
     </div>
   </div>
+</div>
+
+<div class="card-deck non-top-row">
   
   <div class="card d-flex d-block">
 	  <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
@@ -452,9 +410,6 @@ title: People
       <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/5801581?s=400&v=4" alt="Sohon Roy">
@@ -484,6 +439,9 @@ title: People
       <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+</div>
+
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
@@ -513,8 +471,8 @@ title: People
   </div>
 </div>
 
-### Guests
 
+<!-- ### Guests -->
 
 ### Support
 
@@ -551,12 +509,15 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Vivek Arora](https://www.linkedin.com/in/vivekar/) | 2019-2022| PhD | Microsoft, India
+[Jeanderson Cândido](https://www.linkedin.com/in/jeandersonbc/) | 2018-2022 | PhD | PicNic, NL
+[Marielli Wessel](https://www.linkedin.com/in/mairieli/) | 2021-2022 | Postdoc | Assistant professor, Radboud Universiteit Nijmegen
 [Wouter Zorgdrager](https://www.linkedin.com/in/wouter-zorgdrager-a4746512a) | 2018-2021 | Research Engineer | Delivery Hero, Germany
 [Xavier Devroey](http://xdevroey.be) | 2017-2021 | Post-doc | University of Namur, Belgium
 [Hennie Huijgens](https://www.linkedin.com/in/henniehuijgens/) | 2013-2018 | PhD candidate | HU Uni. of Appl. Sciences, Utrecht, NL
-[Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | University of Groningen, Netherlands 
- [Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/) | 2016-2021 | PhD student | JetBrains 
- [Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2021 | PhD student | Facebook |
+[Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | Assistant professor, University of Groningen, Netherlands 
+[Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/) | 2016-2021 | PhD student | JetBrains 
+[Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2021 | PhD student | Facebook |
 [Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
 [Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
@@ -577,7 +538,7 @@ Name | Period | Role | Current Affiliation
 [Robert Holwerda](https://dblp.uni-trier.de/pers/hd/h/Holwerda:Robert) | 2016-2018 | PhD student | [LIACS](httpL//perl.liacs.nl) & [HAN](https://www.han.nl/)
 [Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1) | 2009-2018 | PhD stud., assist. prof. | [LIACS](http://perl.liacs.nl)
 [Fabio Palomba](https://fpalomba.github.io) | 2017-2017 | Postdoc | Univesrity of Salarno, Italy
-[Alberto Bacchelli](https://sback.it/)                                 | 2013-2017 | Assistant professor | [U. Zurich](https://www.uzh.ch/en.html), CH
+[Alberto Bacchelli](https://sback.it/)                                 | 2013-2017 | Associate professor | [U. Zurich](https://www.uzh.ch/en.html), CH
 [Nicolas Dintzner](https://dblp.org/pers/hd/d/Dintzner:Nicolas)        | 2013-2017 | PhD student | TU Delft / TPM
 [Tamara Brusik](https://nl.linkedin.com/in/tamara-brusik-202a037b)     | 2014-2017 | Secretary | TU Delft / HR
 [Petra Heck](https://dblp.org/pers/hd/h/Heck:Petra)                    | 2012-2016 | PhD student | [Fontys](https://fontys.nl/), NL
@@ -626,3 +587,4 @@ Name | Period | Role | Current Affiliation
 [Frans Ververs](https://www.linkedin.com/in/fransververs/)             | 1969-2006 | Associate professor | Retired
 [Jan van Katwijk](https://www.linkedin.com/in/jan-katwijk-van-07946a/) | 1984-2002 | Professor, dean | Retired
 [Willem van der Poel](https://en.wikipedia.org/wiki/Willem_van_der_Poel) | 1962-1990 | Professor | Retired
+
