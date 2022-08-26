@@ -2,7 +2,7 @@
 layout: research-line
 title: Software Analytics
 description: How can we harness the massive data modern development and deployment processes generate, as well as Big Code, to increase development productivity and operational efficiency?
-responsible: "Diomidis Spinellis"
+responsible: "Diomidis Spinellis and Georgios Gousios"
 ---
 
 ## Introduction
@@ -22,16 +22,14 @@ Currently, we focus on the following 2 research lines, even though we are always
 * **Engineering for (software) analytics**: creating platforms for data ingestion, integration and querying in a streaming fashion. Related projects:
 
     * [AI4Fintech](https://se.ewi.tudelft.nl/ai4fintech/index.html) Making large software-based organizations more efficient.
-    * [Codefeedr](http://codefeedr.org) A platform to ingest and process
-      software analytics data in a streaming fashion
+    * [Codefeedr](http://codefeedr.org) A platform to ingest and process software analytics data in a streaming fashion
     * [GHTorrent](https://ghtorrent.org) Collects all data from the GitHub event API
 
 * **Software ecosystems**: We build ecosystem-wide, versioned call graphs out
 of package networks to make studies such as precise security vulnerability
 tracking, software license tracking, data-based API evolution, etc possible.
 
-   * [FASTEN](https://www.fasten-project.eu) A platform for analyzing dependency
-    management services at the call graph level granularity
+   * [FASTEN](https://www.fasten-project.eu) A platform for analyzing dependency management services at the call graph level granularity
 
 ## Researchers
 
@@ -44,7 +42,7 @@ The following people are part of the Software Analytics lab:
 
 * Diomidis Spinellis (Lab leader)
 * Arie van Deursen (Leader of the Software Engineering group)
-* Georgios Gousios (Lab leader emeritus)
+* Georgios Gousios (Lab co-leader)
 
 
 * Joseph Hejderup (PhD student) working on ecosystem analysis/tics
@@ -57,21 +55,14 @@ The following people are part of the Software Analytics lab:
 
 The lab collaborates with the following organizations:
 
+* [Endor Labs](https://www.endorlabs.com)
 * [FaceBook Probablity group](https://research.fb.com/teams/probability/)
 * [Software Improvement Group](https://sig.eu)
 
 ## Student collaborators
 
 SAL is always open to hosting brilliant MSc/BSc students to work on the exiting
-topics we offer. Currently, SAL has the privilege to host the following
-students:
-
-* Wouter Zorgdrager (MSc student). Working on FASTEN, system administration
-
-* Roberta Gismondi (BSc student). Working on ML-based auto-completion for Python
-* Evaldas Latoškinas (BSc student). Working on type prediction for Python
-* Mihhail Sokolov (BSc student). Working on FASTEN
-* Edoardo Lanzini (BSc student). Working on FASTEN
+topics we offer. 
 
 ## Alumni
 
@@ -86,7 +77,12 @@ The following people were part of the Software Analytics lab:
 * Xunhui Zhang (visitor from NUDT, China)
 
 
-* Ilya Grishkov (BSc student). Worked on FASTEN
+* Ilya Grishkov (BSc student). Worked on FASTEN.
+* Wouter Zorgdrager (MSc student). Worked on FASTEN, system administration
+* Roberta Gismondi (BSc student). Worked on ML-based auto-completion for Python
+* Evaldas Latoškinas (BSc student). Worked on type prediction for Python
+* Mihhail Sokolov (BSc student). Worked on FASTEN
+* Edoardo Lanzini (BSc student). Worked on FASTEN
 * Konstantinos Triantafyllou (MSc intern from ETH Zürich). Worked on [call graph generator](https://github.com/ktrianta/rust-callgraphs) for Rust
 
 ## Funding

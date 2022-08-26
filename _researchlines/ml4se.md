@@ -6,17 +6,19 @@ responsible: "Georgios Gousios, Maurício Aniche, Annibale Panichella"
 ---
 
 
-In the late years, researchers (and large companies, such as Microsoft, Google, and Facebook!) have been successfully applying artificial intelligence and deep learning techniques in software engineering tasks, such as finding bugs, detecting system anomalies, infering types in dynamic languages, and etc. 
+Lately, researchers (and large companies, such as Microsoft, Google, and Facebook) have been successfully applying artificial intelligence and deep learning techniques in software engineering tasks, such as finding bugs, detecting system anomalies, infering types, etc. 
 
-The goal of this research line is to explore how machine learning (ML) can help software engineers to produce. Our research topic regards **machine learning and deep learning for software engineering**. 
+The goal of this research line is to explore how techniques deriving from AI and machine learning (ML) can be applied on software engineering tasks.
 
-## Machine Learning and Deep Learning for Software Engineering
+## Machine Learning for Software Engineering
 
 Software repositories archive valuable software engineering data, such as source code, execution traces, historical code changes, mailing lists, and bug reports. This data contains a wealth of information about a project's status and history. Doing data science on software repositories, researchers can gain an empirically based understanding of software development practices, and practitioners can better manage, maintain, and evolve complex software projects.
 
 In the recent years, the advances in Machine Learning and AI technologies, as demonstrated by the successful application of Deep Neural Networks in various domains did not go unnoticed in the field of Software Engineering (see the [ML for Big Code and Naturalness](https://ml4code.github.io/papers.html) and the [Awesome ML on Code](https://github.com/src-d/awesome-machine-learning-on-source-code) repositories). Researchers have applied DNNs to tackle issues such as automated program repair, code summarization, code structure representation, defect prediction, etc.
 
 Our research topics include:
+
+* **Code completion**: Helping developers code faster.
 
 * **Type inference**: Inferring the type of a variable, especially in dynamically typed languages, can be a challenge. 
 

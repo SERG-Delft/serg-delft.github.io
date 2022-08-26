@@ -21,7 +21,7 @@ Code | Subject | Lecturer(s) | Materials
 [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51299) | Software Quality and Testing | Maurício Aniche and Frank Mulder | [2019](https://serg-delft.github.io/cse1110-2019/)
 [CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | Otto Visser, Thomas Overklift, Sander van den Oever and Huijuan Wang
 [CSE2115](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51714) | Software Engineering Methods | Annibale Panichella, Enrique Larios Vargas and Sander van den Oever
-[CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Georgios Gousios and Burcu Kulahcioglu Ozkan | [Materials](http://gousios.org/courses/bigdata/)
+[CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Burcu Kulahcioglu Ozkan | [Materials](https://burcuku.github.io/cse2520-bigdata/), [Older versions](https://www.gousios.org/courses/bigdata/)
 [CSE3000](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55132) | BSc Research Thesis | All SERG faculty | See [MSc topics](msc-projects.html)
 
 <br/>
@@ -35,7 +35,7 @@ Code | Subject | Teacher(s) | Materials
 [CS4300](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56384) | Software Refactoring (seminar) | Maurício Aniche and Andy Zaidman
 [CS4405](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60097) | Analysis of Concurrent and Distributed Programs | Soham Chakraborty and Burcu Kulahcioglu Ozkan
 [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51108) | Software Architecture | Arie van Deursen | [Materials](https://se.ewi.tudelft.nl/delftswa/index.html)
-[IN4334](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117) | Analytics and Machine Learning for Software Engineering (Seminar) | Georgios Gousios and Maurício Aniche | [2019](http://gousios.org/courses/ml4se/)
+[IN4334](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117) | Analytics and Machine Learning for Software Engineering (Seminar) | Georgios Gousios | [Materials](http://gousios.org/courses/ml4se/)
 [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602) | Globally Distributed Software Engineering | Rini van Solingen
 [IN4306](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45593) | Literature Survey | All SERG faculty
 [IN5000](msc-projects.html) | MSc Thesis Final Project | All SERG faculty | [Available topics](msc-projects.html)
