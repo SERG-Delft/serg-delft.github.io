@@ -455,6 +455,20 @@ title: People
     </div>
   </div>
 
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://github.com/Natsukashiii">Shujun Huang</a>
+      </div>
+      <p class="card-text"> Software engineering, DevOps, CI/CD</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/SJun36289288" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/Natsukashiii" title="GitHub"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
+
 </div>
 ### Scientific Programmers
 <div class="card-deck non-top-row">
@@ -471,19 +485,6 @@ title: People
   </div>
 </div>
 
-<div class="card d-flex d-block">
-    <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://github.com/Natsukashiii">Shujun Huang</a>
-      </div>
-      <p class="card-text"> Software engineer, DevOps, CI/CD</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/SJun36289288" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/Natsukashiii" title="GitHub"><i class="fab fa-github"></i></a>
-    </div>
-  </div>
 
 
 <!-- ### Guests -->
