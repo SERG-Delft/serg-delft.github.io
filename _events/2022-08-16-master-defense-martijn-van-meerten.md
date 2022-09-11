@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Master Thesis Defense titled "DiscoTest: Evolutionary Distributed Concurrency Testing of Blockchain" Consensus Algorithms"
+title: "Master Thesis Defense on Evolutionary Distributed Concurrency Testing of Blockchain Consensus Algorithms"
 categories: [events, defenses]
 start: "14:00"
 end: "16:00"
