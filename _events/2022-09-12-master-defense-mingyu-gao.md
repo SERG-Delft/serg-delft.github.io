@@ -5,7 +5,7 @@ categories: [events, defenses]
 start: "13:30"
 end: "15:30"
 speaker: Mingyu Gao
-where: 1.W950 Hardy, Building 28
+where: 2.W510 Hilbert, Building 28
 ---
 ***Abstract***
 
