@@ -493,14 +493,14 @@ title: People
 
 <div class="card-deck">
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/ramsoekh.jpg" alt="Minaksi Ramsoekh">
+    <img class="card-img-top" src="img/Kim_Boudewijn.jpg" alt="Kim Boudewijn">
     <div class="card-body">
-      <div class="card-title">Minaksie Ramsoekh</div>
+      <div class="card-title">Kim Boudewijn</div>
       <p class="card-text">Secretary</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://nl.linkedin.com/in/minaksie-ramsoekh-8956b164" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="mailto:m.w.s.ramsoekh@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
+      <a href="https://nl.linkedin.com/in/kim-boudewijn-095189230" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:K.Boudewijn@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
     </div>
   </div>
   <div class="card d-flex d-block">
