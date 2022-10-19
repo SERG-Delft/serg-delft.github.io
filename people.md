@@ -217,8 +217,7 @@ Modelling</p>
       <a href="https://twitter.com/junesallou"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/Jnsll"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/june-sallou"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=Cf2d4FkAAAAJ&hl=en" title="Publications"><i 
-class="fas fa-edit"></i></a>
+      <a href="https://scholar.google.com/citations?user=Cf2d4FkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
   
