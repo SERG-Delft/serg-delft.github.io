@@ -241,7 +241,7 @@ title: People
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
     <div class="card-body">
-      <div class="card-title"><a href="https://amirdeljouyi.com">Amirhossein Deljouyi</a></div>
+      <div class="card-title"><a href="https://adeljouyi.com">Amirhossein Deljouyi</a></div>
       <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
     </div>
     <div class="card-footer bg-transparent border-success">
