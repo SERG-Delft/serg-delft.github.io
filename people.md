@@ -205,6 +205,21 @@ title: People
       <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/june_sallou.jpg" alt="June Sallou">
+    <div class="card-body">
+      <div class="card-title"><a href="https://jnsll.github.io">June Sallou</a></div>
+      <p class="card-text">Approximate Computing, Green Software/AI, SE for Sustainability, Scientific 
+Modelling</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/junesallou"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/Jnsll"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/june-sallou"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=Cf2d4FkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
   
 </div>
 
