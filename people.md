@@ -375,6 +375,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
 	  <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
     <div class="card-body">
@@ -390,10 +393,7 @@ Modelling</p>
       <i class="ai ai-google-scholar-square"></i>
     </div>
   </div>
-</div>
 
-<div class="card-deck non-top-row">
-  
   <div class="card d-flex d-block">
 	  <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/12489862?s=400&v=4" alt="Chandra Maddila">
     <div class="card-body">
@@ -453,6 +453,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top"
     src="https://avatars.githubusercontent.com/u/6236828?v=4" alt="Arumoy Shome">
@@ -467,9 +470,6 @@ Modelling</p>
       <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
