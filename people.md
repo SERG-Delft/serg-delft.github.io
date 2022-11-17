@@ -571,7 +571,7 @@ Name | Period | Role | Current Affiliation
 [Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/)     | 2009-2019 | PhD student | UC Davis, USA |
 [Alaaeddin Swidan](https://nl.linkedin.com/in/aas-swidan)              | 2015-2019 | PhD student | Open Universiteit |
 [Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
-[Moritz Beller](https://inventitech.com/)                              | 2013-2019 | PhD student, postdoc | Facebook |
+[Moritz Beller](https://inventitech.com/)                              | 2014-2019 | PhD student, postdoc | Facebook |
 [Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
 [Mozhan Soltani](https://www.linkedin.com/in/mozhan-soltani-307990174/) | 2016-2019 | PhD student | [LIACS](http://perl.liacs.nl) |
 [Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)          | 2018-2018 | Visitor | [SIG](https://www.softwareimprovementgroup.com/), NL
