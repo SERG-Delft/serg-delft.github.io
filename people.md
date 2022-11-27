@@ -230,6 +230,20 @@ Modelling</p>
 <div class="card-deck">
 
   <div class="card d-flex d-block">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/33690937?v=4" alt="Ali Al-Kaswan">
+    <div class="card-body">
+    <div class="card-title"><a href="https://aalkaswan.github.io/" title="Ali's home page">Ali Al-Kaswan</a></div>
+      <p class="card-text">NLP for Software Engineering, Cyber Security</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/aalkaswan1" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/aalkaswan" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://nl.linkedin.com/in/aalkaswan" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://research.tudelft.nl/en/persons/a-al-kaswan" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/Leonhard_A.jpeg" alt="Leonhard Applis">
     <div class="card-body">      
     <div class="card-title"><a href="https://twonki.github.io/">Leonhard Applis</a></div>
