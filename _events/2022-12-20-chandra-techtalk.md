@@ -5,13 +5,12 @@ categories: [events, lunch-talks]
 start: "11:00"
 end: "12:00"
 speaker: Chandra Maddila (Meta)
-where: Hybrid
+where: Zoom & Social Data Lab
 ---
 
+Chandra Maddila is presently a senior engineer at Meta. Previously he was Microsoft Research.
 
-***Abstract***
-
-In this techtalk, Chandra Maddilla will present two results he presented last month at ESEC/FSE in Singapore:
+In this techtalk, Chandra Maddilla will present two results from his work at Microsoft Research, that he presented last month at ESEC/FSE in Singapore:
 
 - ConE: A Concurrent Edit Detection Tool for Large Scale Software Development ([link](https://2022.esec-fse.org/details/fse-2022-journal-first/21/ConE-A-Concurrent-Edit-Detection-Tool-for-Large-Scale-Software-Development))
 
