@@ -6,7 +6,7 @@ title: SERG Dissertation Series
 Doctoral dissertations completed within the Software Engineering Research Group, and defended at Delft University of Technology are listed below.
 All dissertations are available from the [TU Delft repository](https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=research&f%5B0%5D=mods_genre_s%3A%22doctoral%5C%20thesis%22&display=tud_default).
 
-1. Chandra Sekar Maddila. [Recommender Systems for DevOps](https://doi.org/10.4233/uuid:769d3d81-8a84-4f59-80a6-2d237aa878a4). December 2022. Advisors: Arie van Deursen, Nachiappan Nagappan, and Georgios Gousios.
+1. Chandra Sekhar Maddila. [Recommender Systems for DevOps](https://doi.org/10.4233/uuid:769d3d81-8a84-4f59-80a6-2d237aa878a4). December 2022. Advisors: Arie van Deursen, Nachiappan Nagappan, and Georgios Gousios.
 1. Bas Jansen. [XLBlocks: On the Effect of a Visual Language on Formula Creation and Comprehension in Spreadsheets](https://doi.org/10.4233/uuid:2df1b141-cd35-41e8-abde-9910134bbda0). September 2022. Advisors: Felienne Hermans and Arie van Deursen
 1. Pouria Derakhshanfar. [Carving Information Sources to Drive Search-Based Crash Reproduction and Test Case Generation](https://doi.org/10.4233/uuid:aac5f17a-63d5-45c7-9570-3cea057cd016). April 2021. Advisors: Andy Zaidman, Annibale Panichella, and Arie van Deursen
 1. Vladimir Kovalenko. [Data-Driven Software Engineering](https://doi.org/10.4233/uuid:e5da9c8d-02ab-42e3-9480-9af6bd5a7d49). March 2021. Advisors: Alberto Bacchelli and Arie van Deursen
