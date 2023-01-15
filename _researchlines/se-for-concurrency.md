@@ -24,11 +24,11 @@ We currently focus more on testing distributed systems, asking how can we design
 <!-- <span style="color:#00A6D6">**[Open PhD position, application deadline: December 17th, 2021]**</span> We're looking for a motivated PhD student to work on testing fault-tolerance of distributed systems. 
 You can find more information [on the application site](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663)!  -->
 
+**PhD students:**
+
+- Ege Berkay Gülcan (starts Feb. 2023)
+
 **MSc students:** 
-
-- Martijn van Meerten (co-supervised with Annibale Panichella) <!--, *Search-based Testing of Ripple Consensus* (co-supervised with Annibale Panichella) -->
-
-- Mingyu Gao (co-supervised with Soham Chakraborty) <!--, *Probabilistic Testing for Weak Memory Concurrency* (co-supervised with Soham Chakraborty) -->
 
 - Yanzhuo Zhou (co-supervised with Jérémie Decouchant) <!-- , *Probabilistic Testing for Weak Memory Concurrency* (co-supervised with Soham Chakraborty) -->
 
@@ -36,8 +36,22 @@ You can find more information [on the application site](https://www.tudelft.nl/o
 
 - Mantas Zdanavičius 
 
-- Nick Dekker
+- Nick Dekker (MSc research intern at Adyen)
 
+- Marcus Schutte (co-supervised with Asterios Katsifodimos)
+
+**BSc Honours Programme students:**
+
+- Florena Buse
+
+- Levin Winter
+
+
+**Former members:**
+
+- Martijn van Meerten (graduated MSc student ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854)), Aug. 2022) <!--, *Search-based Testing of Ripple Consensus* (co-supervised with Annibale Panichella) -->
+
+- Mingyu Gao (graduated MSc student ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129)), Sep. 2022) <!--, *Probabilistic Testing for Weak Memory Concurrency* (co-supervised with Soham Chakraborty) -->
 
 <!--
 **Available MSc projects:** 
