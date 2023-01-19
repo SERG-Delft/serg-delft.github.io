@@ -4,7 +4,7 @@ title: "SERG talk"
 categories: [events, lunch-talks]
 start: "11:00"
 end: "12:00"
-speaker: Shujun Huanggit
+speaker: Shujun Huang
 where: Hybrid
 ---
 
