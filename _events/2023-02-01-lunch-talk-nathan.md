@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "[TBD] Social Software Engineering"
+title: "Sentiment in Software Engineering: Detection and Application"
 categories: [events, lunch-talks]
 start: "11:00"
 end: "12:00"
