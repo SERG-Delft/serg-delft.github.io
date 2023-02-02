@@ -4,7 +4,7 @@ title: "SERG talk: SBOM vs. SBOM: Why can the same app have two different SBOMs"
 categories: [events, lunch-talks]
 start: "11:00"
 end: "12:00"
-speaker: Chandra Maddila (Meta)
+speaker: Henrik Platte (EndorLabs)
 where: LB 01.170 Timmanzaal & Zoom
 ---
 
