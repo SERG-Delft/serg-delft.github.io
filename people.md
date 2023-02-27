@@ -575,7 +575,6 @@ Name | Period | Role | Current Affiliation
 [Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/) | 2016-2021 | PhD student | JetBrains 
 [Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2021 | PhD student | Facebook |
 [Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
-[Maliheh Izadi](http://ce.sharif.edu/~malizadi/index.html)             | 2020-2020 | Visitor  | Sharif University, Iran|
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
 [Gemma Catolino](https://www.gemmacatolino.com)                        | 2019-2020 | Post-doc | University of Tilburg / JADS |
 [Luca Pascarella](http://lucapascarella.com/)                          | 2016-2020 | PhD student | USI, CH 
