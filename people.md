@@ -544,17 +544,6 @@ Modelling</p>
       <a href="mailto:K.Boudewijn@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
     </div>
   </div>
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/shemara-van-der-zwet.jpg" alt="Shemara van der Zwet">
-    <div class="card-body">
-      <div class="card-title">Shemara van der Zwet</div>
-      <p class="card-text">Secretary</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="mailto:s.j.vanderzwet@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
-    </div>
-  </div>
 </div>
 
 
@@ -565,6 +554,7 @@ Modelling</p>
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Shemara van der Zet](https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122) | 2018-2022 | Support | DIAM, TU Delft
 [Vivek Arora](https://www.linkedin.com/in/vivekar/) | 2019-2022| PhD | Microsoft, India
 [Jeanderson Cândido](https://www.linkedin.com/in/jeandersonbc/) | 2018-2022 | PhD | PicNic, NL
 [Marielli Wessel](https://www.linkedin.com/in/mairieli/) | 2021-2022 | Postdoc | Assistant professor, Radboud Universiteit Nijmegen
