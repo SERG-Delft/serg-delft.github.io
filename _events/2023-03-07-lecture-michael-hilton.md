@@ -3,7 +3,7 @@ layout: event
 title: "Promoting Human Flourishing through Ethical Software Development"
 categories: [events, guest-lecture]
 start: "15:45"
-end: "16:45 (CET)"
+end: "16:45"
 speaker: Michael Hilton, CMU
 where: Zoom
 ---
