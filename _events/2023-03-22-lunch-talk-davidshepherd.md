@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "SERG talk"
+title: "Use-Inspired Research"
 categories: [events, lunch-talks]
 start: "11:00"
 end: "12:00"
