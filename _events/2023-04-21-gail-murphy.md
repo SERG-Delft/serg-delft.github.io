@@ -3,9 +3,9 @@ layout: event
 title: "Creating Usable and Useful Software Tools"
 categories: [events,distinguished-lecture]
 start: "14:00"
-end: "15:00"
+end: "15:30"
 speaker: Gail Murphy
-where: "Turing room, Building 28"
+where: "Arena, Room Echo"
 ---
 
 **Creating Usable and Useful Software Tools**
