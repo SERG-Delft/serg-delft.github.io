@@ -290,7 +290,10 @@ Modelling</p>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+</div>
+
+<div class="card-deck non-top-row">
+	<div class="card d-flex d-block">
     <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
     <div class="card-body">
       <div class="card-title"><a href="">Imara van Dinten</a></div>
@@ -302,11 +305,7 @@ Modelling</p>
       <a href="https://www.linkedin.com/in/imara-van-dinten/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
-
+  
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5766743?s=460&v=4" alt="Marco di Biase">
     <div class="card-body">
@@ -351,6 +350,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
     <div class="card-body">
@@ -366,9 +368,6 @@ Modelling</p>
       <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
@@ -418,6 +417,10 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
     <div class="card-body">
@@ -433,10 +436,7 @@ Modelling</p>
       <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-</div>
-
-<div class="card-deck non-top-row">
-
+  
   <div class="card d-flex d-block">
     <img class="card-img-top"
     src="https://avatars.githubusercontent.com/u/6236828?v=4" alt="Arumoy Shome">
