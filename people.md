@@ -455,7 +455,9 @@ Modelling</p>
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
     <div class="card-body">
-      <div class="card-title">Mark Swillus</div>
+      <div class="card-title">
+        <a href="https://mark.swillus.me">Mark Swillus</a>
+      </div>
       <p class="card-text">Socio-technical enablers/inhibitors of software testing</p>
     </div>
     <div class="card-footer bg-transparent border-success">
