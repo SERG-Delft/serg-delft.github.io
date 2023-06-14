@@ -203,20 +203,6 @@ title: People
 <div class="card-deck">
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/61319954?v=4" alt="Maliheh Izadi">
-    <div class="card-body">
-      <div class="card-title"><a href="http://ce.sharif.edu/~malizadi/index.html">Maliheh Izadi</a></div>
-      <p class="card-text">Software analytics</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/malihehizadi"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/MalihehIzadi"><i class="fab fa-github"></i></a>
-      <a href="https://linkedin.com/in/malihe-izadi"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/june_sallou.jpg" alt="June Sallou">
     <div class="card-body">
       <div class="card-title"><a href="https://jnsll.github.io">June Sallou</a></div>
