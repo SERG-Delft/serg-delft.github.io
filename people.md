@@ -53,6 +53,21 @@ title: People
    </div>
   </div>
 
+<div class="card d-flex d-block">
+  <img class="card-img-top" src="https://avatars.githubusercontent.com/u/61319954?v=4" alt="Maliheh Izadi">
+  <div class="card-body">
+    <div class="card-title"><a href="https://malihehizadi.github.io/PersonalWebsite/">Maliheh Izadi</a></div>
+    <p class="card-text">AI-enabled SE, Large Language Models, Recommender Systems, NLP</p>
+  </div>
+  <div class="card-footer bg-transparent border-success">
+    <a href="https://twitter.com/malihehizadi"  title="Twitter"><i class="fab fa-twitter"></i></a>
+    <a href="https://github.com/MalihehIzadi"  title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://linkedin.com/in/malihe-izadi"  title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    <a href="https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en" title="Google Scholar"><i class="fas fa-edit"></i></a>
+    <a href="https://research.tudelft.nl/en/persons/m-izadi" title="Publications"><i class="fas fa-edit"></i></a>
+  </div>
+</div>
+	
 </div> <!-- deck -->
 
 <div class="card-deck non-top-row">
