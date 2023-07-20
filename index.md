@@ -1,6 +1,5 @@
 ---
-layout: index
-title: The Software Engineering Research Group
+layout: page
 ---
 
 <image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/>
