@@ -528,7 +528,7 @@ Modelling</p>
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
-[Pouria Derakhshanfar](https://pouria-d.me/) | 2017-2021 | PhD, postdoc | JetBrains
+[Pouria Derakhshanfar](https://pouria-d.me/) | 2017-2022 | PhD, postdoc | JetBrains
 [Chandra Maddila](https://chandramaddila.github.io/) | 2019-2022 | PhD (external) | Meta, USA |
 [Sohon Roy](https://nl.linkedin.com/in/sohon-roy-8a337014) | 2014--2022 | PhD candidate | Independent |
 [Shemara van der Zet](https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122) | 2018-2022 | Support | DIAM, TU Delft
