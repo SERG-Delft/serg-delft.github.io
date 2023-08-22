@@ -43,6 +43,7 @@ Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][th
 Luís Cruz | Sustainable software engineering, AI Engineering  | [L1](https://link.springer.com/article/10.1007/s10664-019-09682-0#Sec2), [L2](https://arxiv.org/abs/2010.02716), [Theses][theses-luis]
 Burcu Kulahcioglu Ozkan | Software reliability for concurrent and distributed systems| [1](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [2](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [3](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62), [4](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046), [More](https://repository.tudelft.nl/islandora/search/contributor%3Aozkan?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22)
 Thomas Durieux | Software maintenance, software evolution, repository mining | 
+Maliheh Izadi | ML4SE, Large Language Models (LLM) for code, NLP, Recommender Systems | [Theses](https://repository.tudelft.nl/islandora/search/contributor%3Aizadi?collection=education), [P1](https://ieeexplore.ieee.org/abstract/document/10123452), [P2](https://arxiv.org/abs/2304.12269)
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ... -->
 
