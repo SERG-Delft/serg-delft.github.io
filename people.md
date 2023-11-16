@@ -545,7 +545,7 @@ Name | Period | Role | Current Affiliation
 [Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
 [Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
 [Gemma Catolino](https://www.gemmacatolino.com)                        | 2019-2020 | Post-doc | University of Tilburg / JADS |
-[Luca Pascarella](http://lucapascarella.com/)                          | 2016-2020 | PhD student | USI, CH 
+[Luca Pascarella](http://lucapascarella.com/)                          | 2016-2020 | PhD student | [ETH Zurich, CH](https://ethz.ch/en/utils/search.MzExMzYw.html)
 [Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4)       | 2015-2020 | PhD student | University of Edinburgh |
 [Boris Cherry](https://www.linkedin.com/in/boris-c-250884b7/)          | 2020-2020 | Visitor | [University of Namur](https://www.unamur.be/en) |
 [Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/)     | 2009-2019 | PhD student | UC Davis, USA |
