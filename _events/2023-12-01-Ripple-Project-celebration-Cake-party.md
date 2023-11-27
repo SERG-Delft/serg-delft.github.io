@@ -3,7 +3,7 @@ layout: event
 title: "Ripple Project Celebration Cake Party"
 categories: [events, lunch-talks]
 start: "12:30"
-end: "13:30"
+end: "13:00"
 speaker: Annibale Panichella, Burcu Kulahcioglu Ozkan
 where: SERG corridor, Floor 1 (Building 28)
 ---
