@@ -485,8 +485,25 @@ Modelling</p>
   </div>
 
 </div>
+
 ### Scientific Programmers
-<div class="card-deck non-top-row">
+
+<div class="card-deck">
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/aral-de-moor.jpg" alt="Aral de Moor">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://aral.cc">Aral de Moor</a>
+      </div>
+      <p class="card-text">AI for SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/Ar4l" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/aral-dm/"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/dstallenberg.jpeg" alt="Dimitri Stallenberg">
     <div class="card-body">
@@ -498,6 +515,7 @@ Modelling</p>
       <a href="https://www.linkedin.com/in/dimitri-stallenberg-22ab3a159/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+
 </div>
 
 
