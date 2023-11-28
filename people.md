@@ -278,21 +278,6 @@ Modelling</p>
       <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
- 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
-    <div class="card-body">
-      <div class="card-title"><a href="https://adeljouyi.com">Amirhossein Deljouyi</a></div>
-      <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/deljouyi"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/amirdeljouyi"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/amirhossein-deljouyi-3b929661/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=jEHXg2QAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
 
 </div>
 
@@ -484,6 +469,23 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+
+<div class="card-deck non-top-row">
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
+    <div class="card-body">
+      <div class="card-title"><a href="https://adeljouyi.com">Amirhossein Deljouyi</a></div>
+      <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/deljouyi"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/amirdeljouyi"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/amirhossein-deljouyi-3b929661/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=jEHXg2QAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
 </div>
 
 ### Scientific Programmers
