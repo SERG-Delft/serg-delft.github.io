@@ -486,6 +486,20 @@ Modelling</p>
       <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/jonathan-katzy.jpg" alt="Jonathan Katzy">
+    <div class="card-body">
+      <div class="card-title"><a href="https://jkatzy.nl/">Jonathan Katzy</a></div>
+      <p class="card-text">AI-enabled SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/katzy_jonathan"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/jkatzy"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/jonathan-katzy-568263138/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=mmy9FeIAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
 </div>
 
 ### Scientific Programmers
