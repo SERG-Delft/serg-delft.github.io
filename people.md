@@ -268,6 +268,23 @@ Modelling</p>
   </div>
   
   <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/antony_bartlett.png" alt="Antony Bartlett">
+    <div class="card-body">      
+    <div class="card-title"><a target="_blank" href="https://codegonewild.com">Antony Bartlett</a></div>
+      <p class="card-text">Traditional test techniques for the validation of AI</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a target="_blank" href="https://github.com/checkdgt" title="Github"><i class="fab fa-github"></i></a>
+      <a target="_blank" href="https://twitter.com/_test_ninja" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a target="_blank" href="https://nl.linkedin.com/in/antony-bartlett-test-ninja" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a target="_blank" href="https://www.researchgate.net/profile/Antony-Bartlett" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+</div>
+
+<div class="card-deck non-top-row">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
       <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
@@ -279,9 +296,6 @@ Modelling</p>
     </div>
   </div>
 
-</div>
-
-<div class="card-deck non-top-row">
 	<div class="card d-flex d-block">
     <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
     <div class="card-body">
@@ -325,7 +339,10 @@ Modelling</p>
       <a href="https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
- 
+
+</div>
+<div class="card-deck non-top-row">
+
  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/eileen-kapel.png" alt="Eileen Kapel">
     <div class="card-body">
@@ -338,9 +355,6 @@ Modelling</p>
       <i class="ai ai-google-scholar-square"></i>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
@@ -390,6 +404,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
@@ -405,10 +422,6 @@ Modelling</p>
 	  <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
@@ -455,6 +468,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
     <div class="card-body">
@@ -469,9 +485,6 @@ Modelling</p>
     </div>
   </div>
 
-</div>
-
-<div class="card-deck non-top-row">
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
     <div class="card-body">
