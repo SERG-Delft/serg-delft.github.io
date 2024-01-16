@@ -10,4 +10,4 @@ where: SERG corridor, Floor 1 (Building 28)
 
 **Abstract:**
 
-To celebrate the announcement of the project with Ripple, Annibale and Burcu will bring some cakes to be tasted and enjoyed after lunch on Dec, 1st. *Congrats to them!*
+To celebrate the announcement of the project with Ripple, Annibale and Burcu will bring some cakes to be tasted and enjoyed after lunch on Dec, 8th. *Congrats to them!*
