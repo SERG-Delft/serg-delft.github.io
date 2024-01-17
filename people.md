@@ -425,6 +425,22 @@ Modelling</p>
       <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/24494761?v=4" alt="Lorena Poenaru-Olaru">
+    <div class="card-body">
+      <div class="card-title">
+        <a>Lorena Poenaru-Olaru</a>
+      </div>
+      <p class="card-text">SE4AI, ML Systems Lifecycle, Monitoring and Maintaining ML Systems</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/LorenaPoenaru" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/LorenaPoenaru" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://nl.linkedin.com/in/lorena-poenaru-olaru-6b5273124 title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=KE5PsRUAAAAJ&hl=ro&inst=6173373803492361994&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
   
   <div class="card d-flex d-block">
     <img class="card-img-top"
