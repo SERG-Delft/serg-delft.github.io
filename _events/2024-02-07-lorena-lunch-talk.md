@@ -1,8 +1,7 @@
 ---
 layout: event
-title: Is Your Anomaly Detector Ready for Change? Adapting AIOps
-Solutions to the Real World
-categories: [events,talks]
+title: "Is Your Anomaly Detector Ready for Change? Adapting AIOps Solutions to the Real World"
+categories: [events,lunch-talks]
 start: "11:00"
 end: "12:00"
 speaker: Lorena Poenaru-Olaru
