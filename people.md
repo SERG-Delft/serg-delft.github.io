@@ -469,6 +469,9 @@ Modelling</p>
       <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+  
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
@@ -483,9 +486,6 @@ Modelling</p>
       <a href="https://scholar.social/web/accounts/215562"><i class="fab fa-mastodon"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
