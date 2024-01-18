@@ -437,7 +437,7 @@ Modelling</p>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/LorenaPoenaru" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/LorenaPoenaru" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://nl.linkedin.com/in/lorena-poenaru-olaru-6b5273124 title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/lorena-poenaru-olaru-6b5273124/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=KE5PsRUAAAAJ&hl=ro&inst=6173373803492361994&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
