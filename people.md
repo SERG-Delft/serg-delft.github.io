@@ -591,6 +591,7 @@ Modelling</p>
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Sara Regali](https://www.linkedin.com/in/sararegali/) | 2023-2024 | Visitor, Master Thesis Intern | Università degli studi di Milano
 [Pouria Derakhshanfar](https://pouria-d.me/) | 2017-2022 | PhD, postdoc | JetBrains
 [Chandra Maddila](https://chandramaddila.github.io/) | 2019-2022 | PhD (external) | Meta, USA |
 [Sohon Roy](https://nl.linkedin.com/in/sohon-roy-8a337014) | 2014--2022 | PhD candidate | Independent |
