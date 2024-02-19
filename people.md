@@ -423,6 +423,23 @@ Modelling</p>
     </div>
   </div>
 
+  <div class="card d-block">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://joao.neto.pt" title="João's home page">João Neto</a>
+      </div>
+      <p class="card-text">Distributed Systems &amp; Software Testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/joaomlneto" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://stackoverflow.com/users/4288486" title="StackOverflow"><i class="fab fa-stack-overflow"></i></a>
+      <a href="https://www.linkedin.com/in/joaomlneto" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=Ku-T5lIAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://research.tudelft.nl/en/persons/jm-louro-neto/publications" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
     <div class="card-body">
