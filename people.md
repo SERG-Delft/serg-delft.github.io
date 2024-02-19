@@ -296,7 +296,7 @@ Modelling</p>
     </div>
   </div>
 
-	<div class="card d-flex d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
     <div class="card-body">
       <div class="card-title"><a href="">Imara van Dinten</a></div>
@@ -423,7 +423,7 @@ Modelling</p>
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
     <div class="card-body">
       <div class="card-title">
@@ -471,6 +471,9 @@ Modelling</p>
       <a href="https://scholar.google.com/citations?user=KE5PsRUAAAAJ&hl=ro&inst=6173373803492361994&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
+
+</div>
+<div class="card-deck non-top-row">
   
   <div class="card d-flex d-block">
     <img class="card-img-top"
@@ -486,9 +489,6 @@ Modelling</p>
       <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-  
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
@@ -532,6 +532,9 @@ Modelling</p>
       <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/jonathan-katzy.jpg" alt="Jonathan Katzy">
