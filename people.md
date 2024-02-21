@@ -205,6 +205,19 @@ title: People
 
 <div class="card-deck">
 
+	<div class="card d-flex d-block">
+    <img class="card-img-top" src="" alt="Quentin Le Dilavrec">
+    <div class="card-body">
+      <div class="card-title"><a href="https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html">Quentin Le Dilavrec</a></div>
+      <p class="card-text">Source code analysis, software testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+    <a href="https://github.com/quentinLeDilavrec"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/quentinledilavrec/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=wo4b1CgAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/june_sallou.jpg" alt="June Sallou">
     <div class="card-body">
