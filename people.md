@@ -206,7 +206,7 @@ title: People
 <div class="card-deck">
 
 	<div class="card d-flex d-block">
-    <img class="card-img-top" src="" alt="Quentin Le Dilavrec">
+    <img class="card-img-top" src="img/quentin_le_delivrac.jpg" alt="Quentin Le Dilavrec">
     <div class="card-body">
       <div class="card-title"><a href="https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html">Quentin Le Dilavrec</a></div>
       <p class="card-text">Source code analysis, software testing</p>
