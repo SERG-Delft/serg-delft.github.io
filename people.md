@@ -70,7 +70,7 @@ title: People
     <a href="https://research.tudelft.nl/en/persons/m-izadi" title="Publications"><i class="fas fa-edit"></i></a>
   </div>
 </div>
-	
+  
 </div> <!-- deck -->
 
 <div class="card-deck non-top-row">
@@ -205,7 +205,7 @@ title: People
 
 <div class="card-deck">
 
-	<div class="card d-flex d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/quentin_le_delivrac.jpg" alt="Quentin Le Dilavrec">
     <div class="card-body">
       <div class="card-title"><a href="https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html">Quentin Le Dilavrec</a></div>
@@ -338,6 +338,23 @@ Modelling</p>
     </div>
   </div>
 
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/ege_berkay_gulcan.jpeg" alt="Ege Berkay Gulcan">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://eldarfin.github.io/" title="Berkay's home page">Ege Berkay Gulcan</a>
+      </div>
+      <p class="card-text">Distributed Systems &amp; Software Testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/egeberkaygulcan" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=9wBFN5YAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://user-images.githubusercontent.com/2521475/48063837-7b1be500-e1c6-11e8-9dc7-78813d6f766c.png" alt="Joseph Hejderup">
@@ -352,9 +369,6 @@ Modelling</p>
       <a href="https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/eileen-kapel.png" alt="Eileen Kapel">
@@ -401,6 +415,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
     <div class="card-body">
@@ -417,9 +434,6 @@ Modelling</p>
     </div>
   </div>
 
-</div>
-<div class="card-deck non-top-row">
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
@@ -432,7 +446,7 @@ Modelling</p>
       <a href="https://github.com/mir-am" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/mir93/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=IZB4GI8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-	  <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
+    <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -469,6 +483,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/24494761?v=4" alt="Lorena Poenaru-Olaru">
     <div class="card-body">
@@ -484,9 +501,6 @@ Modelling</p>
       <a href="https://scholar.google.com/citations?user=KE5PsRUAAAAJ&hl=ro&inst=6173373803492361994&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
   
   <div class="card d-flex d-block">
     <img class="card-img-top"
@@ -531,6 +545,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
     <div class="card-body">
@@ -545,9 +562,6 @@ Modelling</p>
       <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/jonathan-katzy.jpg" alt="Jonathan Katzy">
