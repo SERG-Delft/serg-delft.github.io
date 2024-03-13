@@ -597,7 +597,23 @@ Modelling</p>
 
 
 
-<!-- ### Guests -->
+### Guests 
+
+<div class="card-deck">
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/Fabio-Salerno.png" alt="Fabio Salerno"> 
+    <div class="card-body">
+      <div class="card-title">Fabio Salerno</div>
+      <p class="card-text">Visitor, Master Thesis Intern </p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/fabiosalern" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/fabiosalern/"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+  
+</div>
 
 ### Support
 
