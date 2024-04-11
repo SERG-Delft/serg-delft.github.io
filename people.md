@@ -356,7 +356,7 @@ Modelling</p>
   </div>
 
  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/eileen-kapel.png" alt="Eileen Kapel">
+    <img class="card-img-top" src="img/eileen_pic.jpeg" alt="Eileen Kapel">
     <div class="card-body">
       <div class="card-title">Eileen Kapel</div>
       <p class="card-text">Incident Management, AI. Also at ING.</p>
@@ -364,7 +364,7 @@ Modelling</p>
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/ekapel22" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/eileenkapel/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <i class="ai ai-google-scholar-square"></i>
+      <a href="https://scholar.google.com/citations?user=f-o2w7MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
