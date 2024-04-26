@@ -1,10 +1,21 @@
 ---
 layout: page
+carousels:
+  - images:
+    - image: /img/serg-icse-lisbon-2024.jpg
+      text: "ICSE 2024 in Lisbon"
+    - image: /img/serg-halloween-2021.jpg
+      text: "Halloween 2021"
+    - image: /img/serg-retreat-antwerpen-2019.jpg
+      text: "Retreat Fall 2019 Antwerpen"
+    - image: /img/serg-retreat-2019.jpg
+      text: "Retreat Spring 2019"
 ---
 
-<image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/>
-<br/>
+<!-- <image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/>
+<br/> -->
 
+{% include carousel.html height="38" unit="%" duration="10" number="1" %}
 
 # The Software Engineering Research Group
 
