@@ -191,6 +191,19 @@ title: People
 <div class="card-deck">
 
   <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
+    <div class="card-body">
+      <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
+      <p class="card-text">Developer - Automation Collaboration,<br> Test Amplification, Software Testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=gYM4MwkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/quentin_le_delivrac.jpg" alt="Quentin Le Dilavrec">
     <div class="card-body">
       <div class="card-title"><a href="https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html">Quentin Le Dilavrec</a></div>
@@ -200,6 +213,22 @@ title: People
     <a href="https://github.com/quentinLeDilavrec"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/quentinledilavrec/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=wo4b1CgAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://mitchellolsthoorn.com" target="_blank">Mitchell Olsthoorn</a>
+      </div>
+      <p class="card-text">Computational Intelligence for SE, Security Testing, Blockchain</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mitchellolstho" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
@@ -239,6 +268,17 @@ Modelling</p>
       <a href="https://research.tudelft.nl/en/persons/a-al-kaswan" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/leonhard-applis.jpeg" alt="Leonhard Applis">
+    <div class="card-body">
+    <div class="card-title">Leonhard Applis</div>
+      <p class="card-text">The good,the bad and the ugly of ML4SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/lapplislazuli"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
   
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/Baris-Ardic.jpg" alt="Baris Ardic">
@@ -251,17 +291,6 @@ Modelling</p>
       <a href="https://github.com/barisardic" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/barisardic/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/leonhard-applis.jpeg" alt="Leonhard Applis">
-    <div class="card-body">      
-    <div class="card-title">Leonhard Applis</div>
-      <p class="card-text">The good,the bad and the ugly of ML4SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/lapplislazuli"><i class="fab fa-github"></i></a>
     </div>
   </div>
   
@@ -280,30 +309,20 @@ Modelling</p>
   </div>
 
 </div>
-
 <div class="card-deck non-top-row">
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
-    <div class="card-body">
-      <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
-      <p class="card-text"><a href="https://testshiftproject.github.io/visualizing-amplification">Test visualization and amplification</a></p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
+    <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
     <div class="card-body">
-      <div class="card-title"><a href="">Imara van Dinten</a></div>
-      <p class="card-text">DevOps for cyberphysical systems</p>
+      <div class="card-title"><a href="https://adeljouyi.com">Amirhossein Deljouyi</a></div>
+      <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
     </div>
     <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/IvDinten"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/IvDinten"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/imara-van-dinten/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://twitter.com/deljouyi"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/amirdeljouyi"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/amirhossein-deljouyi-3b929661/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=jEHXg2QAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
   
@@ -320,6 +339,19 @@ Modelling</p>
       <a href="https://github.com/mardibiase" target="_blank"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/mardibiase/" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/m-di-biase(175bd28e-fb78-485c-816e-fcd1369d5f3d)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
+    <div class="card-body">
+      <div class="card-title"><a href="">Imara van Dinten</a></div>
+      <p class="card-text">DevOps for cyberphysical systems</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/IvDinten"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/IvDinten"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/imara-van-dinten/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 
@@ -355,6 +387,20 @@ Modelling</p>
     </div>
   </div>
 
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://github.com/Natsukashiii">Shujun Huang</a>
+      </div>
+      <p class="card-text"> Software engineering, DevOps, CI/CD</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/SJun36289288" title="Twitter"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/Natsukashiii" title="GitHub"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
+
  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/eileen_pic.jpeg" alt="Eileen Kapel">
     <div class="card-body">
@@ -367,6 +413,23 @@ Modelling</p>
       <a href="https://scholar.google.com/citations?user=f-o2w7MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/jonathan-katzy.jpg" alt="Jonathan Katzy">
+    <div class="card-body">
+      <div class="card-title"><a href="https://jkatzy.nl/">Jonathan Katzy</a></div>
+      <p class="card-text">AI-enabled SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/katzy_jonathan"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/jkatzy"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/jonathan-katzy-568263138/"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=mmy9FeIAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
@@ -400,9 +463,6 @@ Modelling</p>
     </div>
   </div>
 
-</div>
-<div class="card-deck non-top-row">
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
     <div class="card-body">
@@ -435,6 +495,9 @@ Modelling</p>
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
     <div class="card-body">
@@ -451,25 +514,6 @@ Modelling</p>
       <a href="https://research.tudelft.nl/en/persons/jm-louro-neto/publications" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://mitchellolsthoorn.com" target="_blank">Mitchell Olsthoorn</a>
-      </div>
-      <p class="card-text">Computational Intelligence for SE, Security Testing, Blockchain</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/mitchellolstho" target="_blank"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/24494761?v=4" alt="Lorena Poenaru-Olaru">
@@ -516,51 +560,6 @@ Modelling</p>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://github.com/Natsukashiii">Shujun Huang</a>
-      </div>
-      <p class="card-text"> Software engineering, DevOps, CI/CD</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/SJun36289288" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/Natsukashiii" title="GitHub"><i class="fab fa-github"></i></a>
-    </div>
-  </div>
-
-</div>
-<div class="card-deck non-top-row">
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
-    <div class="card-body">
-      <div class="card-title"><a href="https://adeljouyi.com">Amirhossein Deljouyi</a></div>
-      <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/deljouyi"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/amirdeljouyi"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/amirhossein-deljouyi-3b929661/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=jEHXg2QAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-      <a href="https://research.tudelft.nl/en/persons/a-deljouyi" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/jonathan-katzy.jpg" alt="Jonathan Katzy">
-    <div class="card-body">
-      <div class="card-title"><a href="https://jkatzy.nl/">Jonathan Katzy</a></div>
-      <p class="card-text">AI-enabled SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/katzy_jonathan"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/jkatzy"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/jonathan-katzy-568263138/"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=mmy9FeIAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
 </div>
 
 ### Scientific Programmers
