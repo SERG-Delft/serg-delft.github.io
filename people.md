@@ -371,6 +371,7 @@ Modelling</p>
   </div>
 
 </div>
+<div class="card-deck non-top-row">
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
     <div class="card-body">
@@ -411,10 +412,7 @@ Modelling</p>
       <a href="https://scholar.google.com/citations?user=mmy9FeIAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
-
+  
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
     <div class="card-body">
@@ -429,7 +427,9 @@ Modelling</p>
       <a href="https://www.linkedin.com/in/mehdi-keshani-73b751158/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
-  </div>
+  </div>  
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
