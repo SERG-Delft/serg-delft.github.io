@@ -371,22 +371,6 @@ Modelling</p>
   </div>
 
 </div>
-<div class="card-deck non-top-row">
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://user-images.githubusercontent.com/2521475/48063837-7b1be500-e1c6-11e8-9dc7-78813d6f766c.png" alt="Joseph Hejderup">
-    <div class="card-body">
-      <div class="card-title"><a href="https://jhejderup.github.io">Joseph Hejderup</a></div>
-      <p class="card-text">Software ecosystems</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/jhejderup"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/jhejderup"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/josephhejderup"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/ji-hejderup(65f98b5d-e9d8-47a0-b720-9a1270f816e0)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
     <div class="card-body">
@@ -638,7 +622,8 @@ Modelling</p>
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
-[Mauricio Aniche]() | 2016-2024 | post-doc, assistant professor | Adyen |
+[Joseph Hejderup](https://www.linkedin.com/in/josephhejderup/) | 2015-2024 | Research Engineer, PhD | Endor Labs |
+[Mauricio Aniche](https://www.mauricioaniche.com) | 2016-2024 | Postdoc, Assistant professor | Adyen |
 [Sara Regali](https://www.linkedin.com/in/sararegali/) | 2023-2024 | Visitor, Master Thesis Intern | Università degli studi di Milano
 [Pouria Derakhshanfar](https://pouria-d.me/) | 2017-2022 | PhD, postdoc | JetBrains
 [Chandra Maddila](https://chandramaddila.github.io/) | 2019-2022 | PhD (external) | Meta, USA |
