@@ -6,6 +6,18 @@ title: People
 ### Faculty
 
  <div class="card-deck">
+    <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
+    <div class="card-body">
+      <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
+      <p class="card-text">Developer - Automation Collaboration,<br> Test Amplification, Software Testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=gYM4MwkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
@@ -88,6 +100,22 @@ title: People
     </div>
   </div>
 
+	<div class="card d-flex d-block">
+    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://mitchellolsthoorn.com" target="_blank">Mitchell Olsthoorn</a>
+      </div>
+      <p class="card-text">Computational Intelligence for SE, Security Testing, Blockchain</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://twitter.com/mitchellolstho" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
+  
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
@@ -191,19 +219,6 @@ title: People
 <div class="card-deck">
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
-    <div class="card-body">
-      <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
-      <p class="card-text">Developer - Automation Collaboration,<br> Test Amplification, Software Testing</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=gYM4MwkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/quentin_le_delivrac.jpg" alt="Quentin Le Dilavrec">
     <div class="card-body">
       <div class="card-title"><a href="https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html">Quentin Le Dilavrec</a></div>
@@ -213,22 +228,6 @@ title: People
     <a href="https://github.com/quentinLeDilavrec"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/quentinledilavrec/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=wo4b1CgAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://mitchellolsthoorn.com" target="_blank">Mitchell Olsthoorn</a>
-      </div>
-      <p class="card-text">Computational Intelligence for SE, Security Testing, Blockchain</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/mitchellolstho" target="_blank"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://pure.tudelft.nl/portal/en/persons/mjg-olsthoorn(7e06b8fd-4be5-45f8-8a97-bd9c8ac80fd5).html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
