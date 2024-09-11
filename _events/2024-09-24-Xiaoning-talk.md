@@ -4,7 +4,7 @@ title: "Towards Faster and Greener Intelligent Code Generation"
 categories: [events,lunch-talks]
 start: "11:00"
 end: "12:00"
-speaker: Xiaoning Du
+speaker: Dr. Xiaoning Du
 where: "Hybrid"
 ---
 
