@@ -10,7 +10,7 @@ title: People
     <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
       <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
-      <p class="card-text">Developer - Automation Collaboration,<br> Test Amplification, Software Testing</p>
+      <p class="card-text">Human- and Developer-centered Software Engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
