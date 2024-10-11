@@ -4,8 +4,7 @@ title: "SERG Meeting: Intro Cathrine + Matteo's visiting Master Thesis"
 categories: [events,lunch-talks]
 start: "11:00"
 end: "12:00"
-speaker: 	
-Cathrine Paulsen, Aprile Matteo
+speaker: Cathrine Paulsen, Aprile Matteo
 where: "B28, Hilbert 2.W510"
 ---
 
