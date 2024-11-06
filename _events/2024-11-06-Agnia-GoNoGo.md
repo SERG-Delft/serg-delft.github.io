@@ -8,4 +8,5 @@ speaker: Agnia Sergeyuk
 where: "Hybrid"
 ---
 
-Location: Online and Hilbert
+Location: Online and Bayes
+Topic: Human/AI Interaction inside IDE, Joint work with JetBrains
