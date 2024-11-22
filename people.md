@@ -217,21 +217,6 @@ title: People
       <a href="https://scholar.google.com/citations?user=wo4b1CgAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/june_sallou.jpg" alt="June Sallou">
-    <div class="card-body">
-      <div class="card-title"><a href="https://jnsll.github.io">June Sallou</a></div>
-      <p class="card-text">Approximate Computing, Green Software/AI, SE for Sustainability, Scientific 
-Modelling</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/junesallou"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/Jnsll"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/june-sallou"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=Cf2d4FkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
   
 </div>
 
@@ -252,17 +237,6 @@ Modelling</p>
       <a href="https://github.com/aalkaswan" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://nl.linkedin.com/in/aalkaswan" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://research.tudelft.nl/en/persons/a-al-kaswan" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/leonhard-applis.jpeg" alt="Leonhard Applis">
-    <div class="card-body">
-    <div class="card-title">Leonhard Applis</div>
-      <p class="card-text">The good,the bad and the ugly of ML4SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/lapplislazuli"><i class="fab fa-github"></i></a>
     </div>
   </div>
   
@@ -419,22 +393,6 @@ Modelling</p>
 
 </div>
 <div class="card-deck non-top-row">
-  
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://ashkboos.github.io/MyWebsite/">Mehdi Keshani</a>
-      </div>
-      <p class="card-text">Software analytics, Software Evolution</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/mehkeshani" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/ashkboos" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/mehdi-keshani-73b751158/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
@@ -555,32 +513,6 @@ Modelling</p>
 
 <div class="card-deck">
 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/aral-de-moor.jpg" alt="Aral de Moor">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://aral.cc">Aral de Moor</a>
-      </div>
-      <p class="card-text">AI for SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/Ar4l" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/aral-dm/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/dstallenberg.jpeg" alt="Dimitri Stallenberg">
-    <div class="card-body">
-      <div class="card-title">Dimitri Stallenberg</div>
-      <p class="card-text">Computational Intelligence for SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/dstallenberg"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/dimitri-stallenberg-22ab3a159/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
 </div>
 
 
@@ -589,18 +521,6 @@ Modelling</p>
 
 <div class="card-deck">
 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/Fabio-Salerno.png" alt="Fabio Salerno"> 
-    <div class="card-body">
-      <div class="card-title">Fabio Salerno</div>
-      <p class="card-text">Visitor, Master Thesis Intern </p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/fabiosalern" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/fabiosalern/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-  
 </div>
 
 ### Support
@@ -627,7 +547,13 @@ Modelling</p>
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Leonhard Applis](https://github.com/lapplislazuli) | 2020-2024 | PhD | National University of Singapore |
+[Mehdi Keshani](https://ashkboos.github.io/MyWebsite/) | 2019-2024 | PhD | [REIT](https://reit.tudelft.nl/), TU Delft |
 [Thomas Durieux](https://www.linkedin.com/in/thomasdurieux/) | 2022-2024 | Assistant professor | Endor Labs | 
+[June Sallou](https://june.sallou.org/) | 2022-2024 | Postdoc | Assistant professor, Wageningen University & Research |
+[Aral de Moor](https://aral.cc/work) | 2023-2024 | Scientific Developer | JetBrains |
+[Fabio Salerno](https://www.linkedin.com/in/fabiosalern/) | 2024 | Visitor, Master Thesis Intern | Milano Bicocca University |
+[Dimitri Stallenberg](https://dimitri.stallenberg.com/) | 2020-2023 | Scientific Developer | BlockTech |
 [Joseph Hejderup](https://www.linkedin.com/in/josephhejderup/) | 2015-2024 | Research Engineer, PhD | Endor Labs |
 [Mauricio Aniche](https://www.mauricioaniche.com) | 2016-2024 | Postdoc, Assistant professor | Adyen |
 [Sara Regali](https://www.linkedin.com/in/sararegali/) | 2023-2024 | Visitor, Master Thesis Intern | Università degli studi di Milano
