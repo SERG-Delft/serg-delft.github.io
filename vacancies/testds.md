@@ -29,15 +29,19 @@ The project lies in the intersection of software testing, program analysis, and 
 
 ### How to apply? 
 
-Prepare and submit the following documents on the [**online application page**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663).
+Prepare and submit the following documents:
 
 - A detailed CV (with contact information for 2-3 references; sending references letters yourself is not necessary).  
 - A motivation letter that includes your vision (e.g., what do you consider an urgent problem to address, how you would go about the project, etc.) and how your background or research interests relate to the PhD subject. A generic letter of motivation is not appreciated.  
 - A copy or link to your (draft) Master’s thesis.  
 - A transcript of BSc and MSc grades.  
- 
-Please apply before **December 17th, 2021**.
 
+You can see the currently open vacancies on the [**online application page**](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=4663).
+
+For additional information about this vacancy, you can contact:
+- dr. Burcu Kulahcioglu Ozkan, email: b.ozkan@tudelft.nl
+ 
+<!-- Please apply before **December 17th, 2021**. -->
 
 ### More information?
 
