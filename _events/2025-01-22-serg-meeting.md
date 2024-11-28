@@ -4,7 +4,7 @@ title: "SERG Seminar"
 categories: [events,lunch-talks]
 start: "11:00"
 end: "12:00"
-speaker: Eileen Kapel, ?
+speaker: Eileen Kapel, Daniele Cipollone
 where: "B28, Hilbert 2.W510"
 ---
 
