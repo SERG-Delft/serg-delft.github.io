@@ -550,7 +550,7 @@ Name | Period | Role | Current Affiliation
 [Leonhard Applis](https://github.com/lapplislazuli) | 2020-2024 | PhD | National University of Singapore |
 [Mehdi Keshani](https://ashkboos.github.io/MyWebsite/) | 2019-2024 | PhD | [REIT](https://reit.tudelft.nl/), TU Delft |
 [Thomas Durieux](https://www.linkedin.com/in/thomasdurieux/) | 2022-2024 | Assistant professor | Endor Labs | 
-[June Sallou](https://june.sallou.org/) | 2022-2024 | Postdoc | Assistant professor, Wageningen University & Research |
+[June Sallou](https://jnsll.github.io) | 2022-2024 | Postdoc | Assistant Professor, [Wageningen University & Research](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Information-Technology-Group.htm), NL |
 [Aral de Moor](https://aral.cc/work) | 2023-2024 | Scientific Developer | JetBrains |
 [Fabio Salerno](https://www.linkedin.com/in/fabiosalern/) | 2024 | Visitor, Master Thesis Intern | Milano Bicocca University |
 [Dimitri Stallenberg](https://dimitri.stallenberg.com/) | 2020-2023 | Scientific Developer | BlockTech |
