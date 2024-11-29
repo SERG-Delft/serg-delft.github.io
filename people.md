@@ -286,7 +286,20 @@ title: People
     </div>
   </div>
 
-
+  <div class="card d-block">
+    <img class="card-img-top" src="img/daniele-cipollone.jpeg" alt="Daniele Cipollone">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/dancip00/" title="Daniele's home page">Daniele Cipollone</a>
+      </div>
+      <p class="card-text">AI-enabled SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/DanCip00" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/dancip00/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://research.tudelft.nl/en/persons/d-cipollone" title="Publications"><i class="fas fa-edit"></i></a>
+    </div>
+  </div>
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
