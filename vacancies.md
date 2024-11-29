@@ -5,6 +5,19 @@ title: Vacancies
 
 The TU Delft Software Engineering Research Group has the following vacancies: 
 
+## PhD Position Developer-centred Just-in-Time Test Generation
+
+Tired of writing endless tests? Join our research team and help us revolutionize software development with Just-in-Time Test Generation tools for developers.
+
+Software developers are asked to write comprehensive tests for the code they are creating, which can be a tedious and time-consuming task for them. To help them, researchers are developing a variety of automatic test generation tools. However, current state-of-the-art test generation methods often require the code under test to be fully completed before tests can be generated. This conflicts with our requests to developers to create tests directly when they are writing their production code.  
+To support developers, we aim to develop tools that closely collaborate with them by studying the code they write and directly proposing relevant generated tests. This type of Just-in-Time test generation would enable many new possibilities to create high-quality software with comprehensive and effective tests early in the programming process.  
+As a PhD student in this postion, you will lay out the foundations for Just-in-Time test generation and have the opportunity to design, prototype and evaluate new tools and techniques for test generation.  
+The technologies you work with will be driven by your interest. This could be test amplification, search-based test generation or generative artificial intelligence and large language models.
+To realize Just-in-Time test generation you will work with source code analysis tools and build prototypes for developer IDEs such as IntelliJ, VS Code or others.
+
+[I want to know more...](vacancies/dev-centered-test-gen.md)
+
+**Contact:** Carolin Brandt (c.e.brandt@tudelft.nl)
 
 
 ## PhD student in Software Testing and Validation for AI-intense Systems

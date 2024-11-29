@@ -2,7 +2,7 @@
 layout: research-line
 title: "Software Quality"
 description: "Help developers in improving the internal and external quality of their software systems."
-responsible: "Andy Zaidman, Maurício Aniche, and Diomidis Spinellis"
+responsible: "Andy Zaidman, Carolin Brandt, and Diomidis Spinellis"
 ---
 
 Software quality takes on different forms. There is the internal perspective, or the perspective that software developers experience when working with the software: is the code easy to read, modify, test, etc. There is also the external perspective, or how the users of the software application perceive its dependability. 
@@ -32,5 +32,5 @@ Some current topics:
 * **Test analytics**: how can we make software engineers more aware of their test activities (and help them in steering their future test activities)
 * **Test code quality**: How does test code quality influence the ease by which bugs can be located?
 * **Test case generation**: related to the work done in the [CI4SE research line]({% link _researchlines/ci4se.md %}).
-* **Developer-centric perspective on testing**: what are some of the difficulties that developers encounter when starting/willing to test?
+* **Developer-centric perspective on testing**: what are some of the difficulties that developers encounter when starting/willing to test? Related to the work done in the [Human- and Developer-centered research line]({% link _researchlines/human-and-developer-centered-se.md %}).
 

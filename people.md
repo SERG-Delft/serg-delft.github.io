@@ -10,7 +10,7 @@ title: People
     <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
       <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
-      <p class="card-text">Developer - Automation Collaboration,<br> Test Amplification, Software Testing</p>
+      <p class="card-text">Human- and Developer-centered Software Engineering</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
@@ -55,20 +55,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/5577568?v=4" alt="Thomas Durieux">
-    <div class="card-body">
-      <div class="card-title"><a href="https://durieux.me">Thomas Durieux</a></div>
-      <p class="card-text">Software maintenance, Software evolution, Software debloat, Empirical SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/thodurieux"><i class="fab fa-twitter"></i></a>
-      <a href="http://github.com/tdurieux"><i class="fab fa-github"></i></a>
-      <a href="https://scholar.google.com/citations?user=CoUKVbUAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-   </div>
-  </div>
-
-<div class="card d-flex d-block">
+ <div class="card d-flex d-block">
   <img class="card-img-top" src="https://avatars.githubusercontent.com/u/61319954?v=4" alt="Maliheh Izadi">
   <div class="card-body">
     <div class="card-title"><a href="https://malihehizadi.github.io/PersonalWebsite/">Maliheh Izadi</a></div>
@@ -252,17 +239,6 @@ title: People
       <a href="https://research.tudelft.nl/en/persons/a-al-kaswan" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/leonhard-applis.jpeg" alt="Leonhard Applis">
-    <div class="card-body">
-    <div class="card-title">Leonhard Applis</div>
-      <p class="card-text">The good,the bad and the ugly of ML4SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/lapplislazuli"><i class="fab fa-github"></i></a>
-    </div>
-  </div>
   
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/Baris-Ardic.jpg" alt="Baris Ardic">
@@ -417,22 +393,6 @@ title: People
 
 </div>
 <div class="card-deck non-top-row">
-  
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/mehdi-keshani.jpg" alt="Mehdi Keshani">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://ashkboos.github.io/MyWebsite/">Mehdi Keshani</a>
-      </div>
-      <p class="card-text">Software analytics, Software Evolution</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/mehkeshani" title="Twitter"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/ashkboos" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/mehdi-keshani-73b751158/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.nl/citations?user=EwgnxxoAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    </div>
-  </div>
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
@@ -553,32 +513,6 @@ title: People
 
 <div class="card-deck">
 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/aral-de-moor.jpg" alt="Aral de Moor">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://aral.cc">Aral de Moor</a>
-      </div>
-      <p class="card-text">AI for SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/Ar4l" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/aral-dm/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/dstallenberg.jpeg" alt="Dimitri Stallenberg">
-    <div class="card-body">
-      <div class="card-title">Dimitri Stallenberg</div>
-      <p class="card-text">Computational Intelligence for SE</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/dstallenberg"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/dimitri-stallenberg-22ab3a159/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
 </div>
 
 
@@ -587,18 +521,6 @@ title: People
 
 <div class="card-deck">
 
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/Fabio-Salerno.png" alt="Fabio Salerno"> 
-    <div class="card-body">
-      <div class="card-title">Fabio Salerno</div>
-      <p class="card-text">Visitor, Master Thesis Intern </p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/fabiosalern" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/fabiosalern/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-  
 </div>
 
 ### Support
@@ -625,13 +547,19 @@ title: People
 
 Name | Period | Role | Current Affiliation
 --|--|--|--
+[Leonhard Applis](https://github.com/lapplislazuli) | 2020-2024 | PhD | National University of Singapore |
+[Mehdi Keshani](https://ashkboos.github.io/MyWebsite/) | 2019-2024 | PhD | [REIT](https://reit.tudelft.nl/), TU Delft |
+[Thomas Durieux](https://www.linkedin.com/in/thomasdurieux/) | 2022-2024 | Assistant professor | Endor Labs | 
 [June Sallou](https://jnsll.github.io) | 2022-2024 | Postdoc | Assistant Professor, [Wageningen University & Research](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Information-Technology-Group.htm), NL |
+[Aral de Moor](https://aral.cc/work) | 2023-2024 | Scientific Developer | JetBrains |
+[Fabio Salerno](https://www.linkedin.com/in/fabiosalern/) | 2024 | Visitor, Master Thesis Intern | Milano Bicocca University |
+[Dimitri Stallenberg](https://dimitri.stallenberg.com/) | 2020-2023 | Scientific Developer | BlockTech |
 [Joseph Hejderup](https://www.linkedin.com/in/josephhejderup/) | 2015-2024 | Research Engineer, PhD | Endor Labs |
 [Mauricio Aniche](https://www.mauricioaniche.com) | 2016-2024 | Postdoc, Assistant professor | Adyen |
 [Sara Regali](https://www.linkedin.com/in/sararegali/) | 2023-2024 | Visitor, Master Thesis Intern | Università degli studi di Milano
 [Pouria Derakhshanfar](https://pouria-d.me/) | 2017-2022 | PhD, postdoc | JetBrains
 [Chandra Maddila](https://chandramaddila.github.io/) | 2019-2022 | PhD (external) | Meta, USA |
-[Sohon Roy](https://nl.linkedin.com/in/sohon-roy-8a337014) | 2014--2022 | PhD candidate | Independent |
+[Sohon Roy](https://nl.linkedin.com/in/sohon-roy-8a337014) | 2014-2022 | PhD candidate | Independent |
 [Shemara van der Zet](https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122) | 2018-2022 | Support | DIAM, TU Delft
 [Bas Jansen](https://scholar.google.com/citations?hl=en&user=egl5tVQAAAAJ) | 2015-2022 | PhD (part time) | Independent
 [Vivek Arora](https://www.linkedin.com/in/vivekar/) | 2019-2022| PhD | Microsoft, India
