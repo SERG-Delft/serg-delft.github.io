@@ -290,7 +290,7 @@ title: People
 </div>
 <div class="card-deck non-top-row">
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/daniele-cipollone.jpeg" alt="Daniele Cipollone">
     <div class="card-body">
       <div class="card-title">
