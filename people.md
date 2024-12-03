@@ -476,6 +476,20 @@ title: People
   </div>
 
   <div class="card d-block">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/CathrinePaulsen" alt="Cathrine Paulsen">
+    <div class="card-body">
+      <div class="card-title">
+        <a>Cathrine Paulsen</a>
+      </div>
+      <p class="card-text">Dependency Management, Software Quality and Maintenance</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/CathrinePaulsen" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/cathrine-paulsen-33a855197/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/24494761?v=4" alt="Lorena Poenaru-Olaru">
     <div class="card-body">
       <div class="card-title">
