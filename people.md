@@ -27,7 +27,7 @@ title: People
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a>
-      <a href="http://github.com/luiscruz"><i class="fab fa-github"></i></a>
+      <a href="https://github.com/luiscruz"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/luismirandacruz"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=O13oaH0AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
    </div>
@@ -87,7 +87,7 @@ title: People
     </div>
   </div>
 
-	<div class="card d-flex d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
     <div class="card-body">
       <div class="card-title">
@@ -132,6 +132,10 @@ title: People
     </div>
   </div>
 
+</div> <!-- deck -->
+
+<div class="card-deck non-top-row">
+
  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
     <div class="card-body">
@@ -156,14 +160,14 @@ title: People
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
     <div class="card-body">
-      <div class="card-title"><a href="http://gousios.org">Georgios Gousios</a></div>
-      <p class="card-text"><a href="softanalytics.html">Software analytics</a>, software ecosystems (0.2fte)</p>
+      <div class="card-title"><a href="https://gousios.org">Georgios Gousios</a></div>
+      <p class="card-text"><a href="research-lines/software-analytics">Software analytics</a>, software ecosystems (0.2fte)</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="http://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+      <a href="https://scholar.google.gr/citations?hl=el&user=-NI5S50AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
       <a href="https://pure.tudelft.nl/portal/en/persons/g-gousios(f5ab9c4d-5210-48b6-8c39-e6e44361ac0e)/publications.html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
@@ -172,7 +176,7 @@ title: People
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/rini-van-solingen.jpeg" alt="Rini van Solingen">
     <div class="card-body">
-      <div class="card-title"><a href="http://www.rinivansolingen.nl/">Rini van Solingen</a></div>
+      <div class="card-title"><a href="https://www.rinivansolingen.nl/">Rini van Solingen</a></div>
       <p class="card-text">Software Startups (0.2fte) </p>
     </div>
     <div class="card-footer bg-transparent border-success">
@@ -186,7 +190,7 @@ title: People
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/diomidis-spinellis.jpeg" alt="Diomidis Spinellis">
     <div class="card-body">
-      <div class="card-title"><a href="http://www.spinellis.gr/">Diomidis Spinellis</a></div>
+      <div class="card-title"><a href="https://www.spinellis.gr/">Diomidis Spinellis</a></div>
       <p class="card-text">Software Analytics, Software Tools (0.2fte) </p>
     </div>
     <div class="card-footer bg-transparent border-success">
@@ -269,9 +273,6 @@ title: People
     </div>
   </div>
 
-</div>
-<div class="card-deck non-top-row">
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/antony_bartlett.png" alt="Antony Bartlett">
     <div class="card-body">      
@@ -285,6 +286,9 @@ title: People
       <a target="_blank" href="https://www.researchgate.net/profile/Antony-Bartlett" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="img/daniele-cipollone.jpeg" alt="Daniele Cipollone">
@@ -455,9 +459,6 @@ title: People
     </div>
   </div>
 
-</div>
-<div class="card-deck non-top-row">
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
     <div class="card-body">
@@ -474,6 +475,9 @@ title: People
       <a href="https://research.tudelft.nl/en/persons/jm-louro-neto/publications" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/CathrinePaulsen" alt="Cathrine Paulsen">
@@ -572,98 +576,98 @@ title: People
 
 <!-- Dear alumnus: Please feel free to offer your change of affiliation in a pull request! -->
 
-Name | Period | Role | Current Affiliation
---|--|--|--
-[Leonhard Applis](https://github.com/lapplislazuli) | 2020-2024 | PhD | National University of Singapore |
-[Mehdi Keshani](https://ashkboos.github.io/MyWebsite/) | 2019-2024 | PhD | [REIT](https://reit.tudelft.nl/), TU Delft |
-[Thomas Durieux](https://www.linkedin.com/in/thomasdurieux/) | 2022-2024 | Assistant professor | Endor Labs | 
-[June Sallou](https://jnsll.github.io) | 2022-2024 | Postdoc | Assistant Professor, [Wageningen University & Research](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Information-Technology-Group.htm), NL |
-[Aral de Moor](https://aral.cc/work) | 2023-2024 | Scientific Developer | JetBrains |
-[Fabio Salerno](https://www.linkedin.com/in/fabiosalern/) | 2024 | Visitor, Master Thesis Intern | Milano Bicocca University |
-[Dimitri Stallenberg](https://dimitri.stallenberg.com/) | 2020-2023 | Scientific Developer | BlockTech |
-[Joseph Hejderup](https://www.linkedin.com/in/josephhejderup/) | 2015-2024 | Research Engineer, PhD | Endor Labs |
-[Mauricio Aniche](https://www.mauricioaniche.com) | 2016-2024 | Postdoc, Assistant professor | Adyen |
-[Sara Regali](https://www.linkedin.com/in/sararegali/) | 2023-2024 | Visitor, Master Thesis Intern | Università degli studi di Milano
-[Pouria Derakhshanfar](https://pouria-d.me/) | 2017-2022 | PhD, postdoc | JetBrains
-[Chandra Maddila](https://chandramaddila.github.io/) | 2019-2022 | PhD (external) | Meta, USA |
-[Sohon Roy](https://nl.linkedin.com/in/sohon-roy-8a337014) | 2014-2022 | PhD candidate | Independent |
-[Shemara van der Zet](https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122) | 2018-2022 | Support | DIAM, TU Delft
-[Bas Jansen](https://scholar.google.com/citations?hl=en&user=egl5tVQAAAAJ) | 2015-2022 | PhD (part time) | Independent
-[Vivek Arora](https://www.linkedin.com/in/vivekar/) | 2019-2022| PhD | Microsoft, India
-[Jeanderson Cândido](https://www.linkedin.com/in/jeandersonbc/) | 2018-2022 | PhD | PicNic, NL
-[Marielli Wessel](https://www.linkedin.com/in/mairieli/) | 2021-2022 | Postdoc | Assistant professor, Radboud Universiteit Nijmegen
-[Wouter Zorgdrager](https://www.linkedin.com/in/wouter-zorgdrager-a4746512a) | 2018-2021 | Research Engineer | Delivery Hero, Germany
-[Xavier Devroey](http://xdevroey.be) | 2017-2021 | Post-doc | University of Namur, Belgium
-[Hennie Huijgens](https://www.linkedin.com/in/henniehuijgens/) | 2013-2018 | PhD candidate | HU Uni. of Appl. Sciences, Utrecht, NL
-[Ayushi Rastogi](https://ayushirastogi.github.io) | 2018-2021 | Post-doc | Assistant professor, University of Groningen, Netherlands 
-[Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/) | 2016-2021 | PhD student | JetBrains 
-[Davide Spadini](https://www.linkedin.com/in/davidespadini/) | 2016-2021 | PhD student | Facebook |
-[Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/) | 2017-2020 | Post-doc | University of Victoria, Canada
-[Xunhui Zhang](https://zhangxunhui.github.io)                          | 2019-2020 | Visitor  | NUDT, China|
-[Gemma Catolino](https://www.gemmacatolino.com)                        | 2019-2020 | Post-doc | University of Tilburg / JADS |
-[Luca Pascarella](http://lucapascarella.com/)                          | 2016-2020 | PhD student | [ETH Zurich, CH](https://ethz.ch/en/utils/search.MzExMzYw.html)
-[Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4)       | 2015-2020 | PhD student | University of Edinburgh |
-[Boris Cherry](https://www.linkedin.com/in/boris-c-250884b7/)          | 2020-2020 | Visitor | [University of Namur](https://www.unamur.be/en) |
-[Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/)     | 2009-2019 | PhD student | UC Davis, USA |
-[Alaaeddin Swidan](https://nl.linkedin.com/in/aas-swidan)              | 2015-2019 | PhD student | Open Universiteit |
-[Efthimia Aivaloglou](https://aivaloglou.org/)                         | 2013-2019 | Developer, guest researcher | [LIACS](http://perl.liacs.nl) |
-[Moritz Beller](https://inventitech.com/)                              | 2014-2019 | PhD student, postdoc | Facebook |
-[Maria Kechagia](https://mkechagia.github.io)                          | 2017-2019 | Postdoc | UCL, UK
-[Mozhan Soltani](https://www.linkedin.com/in/mozhan-soltani-307990174/) | 2016-2019 | PhD student | [LIACS](http://perl.liacs.nl) |
-[Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)          | 2018-2018 | Visitor | [SIG](https://www.softwareimprovementgroup.com/), NL
-[Gema Rodriguez-Perez](https://gemarodri.github.io/Presentacion/)      | 2017-2018 | Postdoc | U. Waterloo, CA
-[Marlies Aldewereld](https://dblp.uni-trier.de/pers/hd/a/Aldewereld:Marlies) | 2018-2018 | PhD Student | [LIACS](http://perl.liacs.nl) & [Windesheim](https://www.windesheim.nl/onderzoek/onderzoeksthemas/educatie/leiderschap-in-onderwijs-en-opvoeding/team)
-[Marileen Smit](https://dblp.uni-trier.de/pers/hd/s/Smit:Marileen)     | 2017-2018 | Teaching Support | [LIACS](http://perl.liacs.nl) & [FutureNL](https://futurenl.org/)
-[Robert Holwerda](https://dblp.uni-trier.de/pers/hd/h/Holwerda:Robert) | 2016-2018 | PhD student | [LIACS](httpL//perl.liacs.nl) & [HAN](https://www.han.nl/)
-[Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1) | 2009-2018 | PhD stud., assist. prof. | [LIACS](http://perl.liacs.nl)
-[Fabio Palomba](https://fpalomba.github.io) | 2017-2017 | Postdoc | Univesrity of Salarno, Italy
-[Alberto Bacchelli](https://sback.it/)                                 | 2013-2017 | Associate professor | [U. Zurich](https://www.uzh.ch/en.html), CH
-[Nicolas Dintzner](https://dblp.org/pers/hd/d/Dintzner:Nicolas)        | 2013-2017 | PhD student | TU Delft / TPM
-[Tamara Brusik](https://nl.linkedin.com/in/tamara-brusik-202a037b)     | 2014-2017 | Secretary | TU Delft / HR
-[Petra Heck](https://dblp.org/pers/hd/h/Heck:Petra)                    | 2012-2016 | PhD student | [Fontys](https://fontys.nl/), NL
-[Eelco Visser](https://eelcovisser.org/)                               | 2006-2015 | Professor | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
-[Danny Groenewegen](https://dblp.org/pers/hd/g/Groenewegen:Danny_M=)   | 2009-2015 | PhD student | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)
-[Guido Wachsmuth](https://dblp.org/pers/hd/w/Wachsmuth:Guido)          | 2009-2015 | Assistant professor | [Oracle Labs](https://labs.oracle.com/), CH
-[Marco Vit](https://www.linkedin.com/in/marco-vit-145b71106/)          | 2015-2015 | Scientific programmer | DiTech, IT
-[Steven Raemaekers](https://dblp.org/pers/hd/r/Raemaekers:Steven)      | 2011-2015 | PhD student | [ATS Distributed](https://www.atsdistributed.com/), NL
-[Cuiting Chen](https://dblp.org/pers/hd/c/Chen:Cuiting)                | 2011-2015 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
-[Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                    | 2010-2015 | PhD Student |   |
-[Tiago Espinha](https://dblp.org/pers/hd/e/Espinha:Tiago)              | 2010-2015 | PhD student | [Ocado](https://www.ocadotechnology.com/), UK
-[Daniele Romano](https://dblp.org/pers/hd/r/Romano:Daniele)            | 2010-2015 | PhD student | [ING](https://www.ing.com/Home.htm), NL
-[Esther van Seters](https://www.linkedin.com/in/eevanseters/)        | 2009-2014 | Secretary | [NFI](https://www.forensischinstituut.nl/), NL
-[Markus Völter](http://voelter.de/)                                    | 2013-2014 | PhD student | Independent, DE
-[Ben van Gameren](https://dblp.org/pers/hd/g/Gameren:Ben_van)          | 2010-2014 | PhD student | [iHomer](https://ihomer.nl/), NL
-[Kevin Dullemond](https://dblp.org/pers/hd/d/Dullemond:Kevin)          | 2010-2014 | PhD student | [Mendix](https://www.mendix.com/), NL
-[Hans Geers](https://www.linkedin.com/in/hans-geers-3533b062/)         | 1986-2014 | Senior lecturer    | Retired
-[Cor-Paul Bezemer](https://www.ece.ualberta.ca/~bezemer/)              | 2009-2013 | PhD student | U. Alberta, CA
-[Maartje de Jonge](https://dblp.uni-trier.de/pers/hd/j/Jonge:Maartje_de)| 2009-2013 | PhD student | Independent, NL
-[Eric Bouwers](https://dblp.uni-trier.de/pers/hd/b/Bouwers:Eric)       | 2009-2013 | PhD student | [Grasple](https://www.grasple.com/), NL
-[Michaela Greiler](https://dblp.org/pers/hd/g/Greiler:Michaela)        | 2008-2013 | PhD student | Independent, Austria
-[Martin Pinzger](https://www.aau.at/en/isys/serg/team/pinzger-martin/) | 2008-2013 | Assistant professor | [U. Klagenfurt](https://www.aau.at/en/), Austria
-[Kees Pronk](https://dblp.uni-trier.de/pers/hd/p/Pronk:Cornelis)       | 1981-2013 | Assistant professor | Retired
-[Sander van der Burg](http://sandervanderburg.nl/)                     | 2008-2012 | PhD student | [Mendix](https://www.mendix.com/), NL
-[Hans-Gerhard Gross](https://dblp.org/pers/hd/g/Gro=szlig=:Hans=Gerhard) | 2005-2012 | Assistant professor | [Hochschule Esslingen](https://www.hs-esslingen.de/), DE
-[Sander Vermolen](https://dblp.uni-trier.de/pers/hd/v/Vermolen:Sander) | 2008-2012 | PhD student | [ASML](https://www.asml.com), NL
-[Eelco Dolstra](https://dblp.org/pers/hd/d/Dolstra:Eelco)              | 2008-2012 | Postdoc | [Tweag I/O](https://www.tweag.io/), NL
-[Éric Piel](https://dblp.dagstuhl.de/pers/hd/p/Piel:=Eacute=ric)       | 2008-2012 | Postdoc | [DELMIC](http://www.delmic.com/), NL
-[Alberto González-Sanchez](https://dblp.dagstuhl.de/pers/hd/g/Gonz=aacute=lez=Sanchez:Alberto) | 2007-2011 | PhD student | Google, UK
-[Rob Vermaas](https://dblp.org/pers/hd/v/Vermaas:Rob)                  | 2009-2011 | Scientific Programmer | [RelationalAI](http://relational.ai/), NL
-[Zef Hemel](https://zef.me/)                                           | 2008-2011 | PhD student | [OLX GROUP](https://www.olxgroup.com/), PL
-[Lennart Kats](https://dblp.org/pers/hd/k/Kats:Lennart_C=_L=)          | 2008-2011 | PhD student | Amazon, [AWS Cloud9](https://aws.amazon.com/cloud9/), NL
-[Peter Kluit](https://www.linkedin.com/in/peterkluit/)                 | 1986-2010 | Senior lecturer    | Retired
-[Ali Mesbah](https://dblp.uni-trier.de/pers/hd/m/Mesbah_0001:Ali)      | 2005-2010 | PhD student, postdoc | UBC, CA
-[Cathal Boogerd](https://dblp.org/pers/hd/b/Boogerd:Cathal)            | 2005-2009 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
-[Bas Cornelissen](https://dblp.org/pers/hd/c/Cornelissen:Bas)          | 2005-2009 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
-[Peter Zoeteweij](https://dblp.uni-trier.de/pers/hd/z/Zoeteweij:Peter) | 2005-2009 | Postdoc     | [IntelliMagic](https://www.intellimagic.com/), NL
-[Rui Maranhao Abreu](https://dblp.uni-trier.de/pers/hd/a/Abreu:Rui)    | 2005-2009 | PhD student | U. Lisbon, PO
-[Arjan van Gemund](https://dblp.uni-trier.de/pers/hd/g/Gemund:Arjan_J=_C=_van) | 2005-2009 | Professor | Retired
-[Alexander Feldman](https://dblp.org/pid/44/4566.html) | 2005-2009 | PhD student | PARC, USA
-[Marco Lormans](https://dblp.org/pers/hd/l/Lormans:Marco)              | 2002-2008 | PhD student | Xebia, NL
-[Leon Moonen](https://leonmoonen.com/)                                 | 2003-2008 | Assistant professor | Simula, NO
-[Magiel Bruntink](https://dblp.uni-trier.de/pers/hd/b/Bruntink:Magiel) | 2003-2008 | PhD student | [SIG](https://www.softwareimprovementgroup.com/), NL
-[Marius Marin](https://dblp.uni-trier.de/pers/hd/m/Marin:Marius)       | 2003-2007 | PhD student | Microsoft, USA
-[Bas Graaf](https://dblp.org/pers/hd/g/Graaf:Bas)                      | 2002-2007 | PhD student | [SimCorp](https://www.simcorp.com/), DK
-[Frans Ververs](https://www.linkedin.com/in/fransververs/)             | 1969-2006 | Associate professor | Retired
-[Jan van Katwijk](https://www.linkedin.com/in/jan-katwijk-van-07946a/) | 1984-2002 | Professor, dean | Retired
-[Willem van der Poel](https://en.wikipedia.org/wiki/Willem_van_der_Poel) | 1962-1990 | Professor | Retired
+| Name                                                                                           | Period    | Role                          | Current Affiliation                                                                                                                                               |
+|------------------------------------------------------------------------------------------------|-----------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Leonhard Applis](https://github.com/lapplislazuli)                                            | 2020-2024 | PhD                           | National University of Singapore                                                                                                                                  |
+| [Mehdi Keshani](https://ashkboos.github.io/MyWebsite/)                                         | 2019-2024 | PhD                           | [REIT](https://reit.tudelft.nl/), TU Delft                                                                                                                        |
+| [Thomas Durieux](https://www.linkedin.com/in/thomasdurieux/)                                   | 2022-2024 | Assistant professor           | Endor Labs                                                                                                                                                        | 
+| [June Sallou](https://jnsll.github.io)                                                         | 2022-2024 | Postdoc                       | Assistant Professor, [Wageningen University & Research](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Information-Technology-Group.htm), NL |
+| [Aral de Moor](https://aral.cc/work)                                                           | 2023-2024 | Scientific Developer          | JetBrains                                                                                                                                                         |
+| [Fabio Salerno](https://www.linkedin.com/in/fabiosalern/)                                      | 2024      | Visitor, Master Thesis Intern | Milano Bicocca University                                                                                                                                         |
+| [Dimitri Stallenberg](https://dimitri.stallenberg.com/)                                        | 2020-2023 | Scientific Developer          | BlockTech                                                                                                                                                         |
+| [Joseph Hejderup](https://www.linkedin.com/in/josephhejderup/)                                 | 2015-2024 | Research Engineer, PhD        | Endor Labs                                                                                                                                                        |
+| [Mauricio Aniche](https://www.mauricioaniche.com)                                              | 2016-2024 | Postdoc, Assistant professor  | Adyen                                                                                                                                                             |
+| [Sara Regali](https://www.linkedin.com/in/sararegali/)                                         | 2023-2024 | Visitor, Master Thesis Intern | Università degli studi di Milano                                                                                                                                  |
+| [Pouria Derakhshanfar](https://pouria-d.me/)                                                   | 2017-2022 | PhD, postdoc                  | JetBrains                                                                                                                                                         |
+| [Chandra Maddila](https://chandramaddila.github.io/)                                           | 2019-2022 | PhD (external)                | Meta, USA                                                                                                                                                         |
+| [Sohon Roy](https://nl.linkedin.com/in/sohon-roy-8a337014)                                     | 2014-2022 | PhD candidate                 | Independent                                                                                                                                                       |
+| [Shemara van der Zet](https://www.linkedin.com/in/shemara-van-der-zwet-1a5b70122)              | 2018-2022 | Support                       | DIAM, TU Delft                                                                                                                                                    |
+| [Bas Jansen](https://scholar.google.com/citations?hl=en&user=egl5tVQAAAAJ)                     | 2015-2022 | PhD (part time)               | Independent                                                                                                                                                       |
+| [Vivek Arora](https://www.linkedin.com/in/vivekar/)                                            | 2019-2022 | PhD                           | Microsoft, India                                                                                                                                                  |
+| [Jeanderson Cândido](https://www.linkedin.com/in/jeandersonbc/)                                | 2018-2022 | PhD                           | PicNic, NL                                                                                                                                                        |
+| [Marielli Wessel](https://www.linkedin.com/in/mairieli/)                                       | 2021-2022 | Postdoc                       | Assistant professor, Radboud Universiteit Nijmegen                                                                                                                |
+| [Wouter Zorgdrager](https://www.linkedin.com/in/wouter-zorgdrager-a4746512a)                   | 2018-2021 | Research Engineer             | Delivery Hero, Germany                                                                                                                                            |
+| [Xavier Devroey](http://xdevroey.be)                                                           | 2017-2021 | Post-doc                      | University of Namur, Belgium                                                                                                                                      |
+| [Hennie Huijgens](https://www.linkedin.com/in/henniehuijgens/)                                 | 2013-2018 | PhD candidate                 | HU Uni. of Appl. Sciences, Utrecht, NL                                                                                                                            |
+| [Ayushi Rastogi](https://ayushirastogi.github.io)                                              | 2018-2021 | Post-doc                      | Assistant professor, University of Groningen, Netherlands                                                                                                         |
+| [Vladimir Kovalenko](https://www.linkedin.com/in/vladimir-kovalenko-01416b88/)                 | 2016-2021 | PhD student                   | JetBrains                                                                                                                                                         |
+| [Davide Spadini](https://www.linkedin.com/in/davidespadini/)                                   | 2016-2021 | PhD student                   | Facebook                                                                                                                                                          |
+| [Enrique Larios Vargas](https://www.linkedin.com/in/enrique-larios-vargas/)                    | 2017-2020 | Post-doc                      | University of Victoria, Canada                                                                                                                                    |
+| [Xunhui Zhang](https://zhangxunhui.github.io)                                                  | 2019-2020 | Visitor                       | NUDT, China                                                                                                                                                       |
+| [Gemma Catolino](https://www.gemmacatolino.com)                                                | 2019-2020 | Post-doc                      | University of Tilburg / JADS                                                                                                                                      |
+| [Luca Pascarella](http://lucapascarella.com/)                                                  | 2016-2020 | PhD student                   | [ETH Zurich, CH](https://ethz.ch/en/utils/search.MzExMzYw.html)                                                                                                   |
+| [Qianqian Zhu](https://nl.linkedin.com/in/qianqian-zhu-801077a4)                               | 2015-2020 | PhD student                   | University of Edinburgh                                                                                                                                           |
+| [Boris Cherry](https://www.linkedin.com/in/boris-c-250884b7/)                                  | 2020-2020 | Visitor                       | [University of Namur](https://www.unamur.be/en)                                                                                                                   |
+| [Anand Sawant](https://www.linkedin.com/in/anand-sawant-03351a29/)                             | 2009-2019 | PhD student                   | UC Davis, USA                                                                                                                                                     |
+| [Alaaeddin Swidan](https://nl.linkedin.com/in/aas-swidan)                                      | 2015-2019 | PhD student                   | Open Universiteit                                                                                                                                                 |
+| [Efthimia Aivaloglou](https://aivaloglou.org/)                                                 | 2013-2019 | Developer, guest researcher   | [LIACS](http://perl.liacs.nl)                                                                                                                                     |
+| [Moritz Beller](https://inventitech.com/)                                                      | 2014-2019 | PhD student, postdoc          | Facebook                                                                                                                                                          |
+| [Maria Kechagia](https://mkechagia.github.io)                                                  | 2017-2019 | Postdoc                       | UCL, UK                                                                                                                                                           |
+| [Mozhan Soltani](https://www.linkedin.com/in/mozhan-soltani-307990174/)                        | 2016-2019 | PhD student                   | [LIACS](http://perl.liacs.nl)                                                                                                                                     |
+| [Chushu Gao](https://www.linkedin.com/in/chushu-gao-b14b42b/)                                  | 2018-2018 | Visitor                       | [SIG](https://www.softwareimprovementgroup.com/), NL                                                                                                              |
+| [Gema Rodriguez-Perez](https://gemarodri.github.io/Presentacion/)                              | 2017-2018 | Postdoc                       | U. Waterloo, CA                                                                                                                                                   |
+| [Marlies Aldewereld](https://dblp.uni-trier.de/pers/hd/a/Aldewereld:Marlies)                   | 2018-2018 | PhD Student                   | [LIACS](http://perl.liacs.nl) & [Windesheim](https://www.windesheim.nl/onderzoek/onderzoeksthemas/educatie/leiderschap-in-onderwijs-en-opvoeding/team)            |
+| [Marileen Smit](https://dblp.uni-trier.de/pers/hd/s/Smit:Marileen)                             | 2017-2018 | Teaching Support              | [LIACS](http://perl.liacs.nl) & [FutureNL](https://futurenl.org/)                                                                                                 |
+| [Robert Holwerda](https://dblp.uni-trier.de/pers/hd/h/Holwerda:Robert)                         | 2016-2018 | PhD student                   | [LIACS](http://perl.liacs.nl) & [HAN](https://www.han.nl/)                                                                                                        |
+| [Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1)   | 2009-2018 | PhD stud., assist. prof.      | [LIACS](http://perl.liacs.nl)                                                                                                                                     |
+| [Fabio Palomba](https://fpalomba.github.io)                                                    | 2017-2017 | Postdoc                       | Univesrity of Salarno, Italy                                                                                                                                      |
+| [Alberto Bacchelli](https://sback.it/)                                                         | 2013-2017 | Associate professor           | [U. Zurich](https://www.uzh.ch/en.html), CH                                                                                                                       |
+| [Nicolas Dintzner](https://dblp.org/pers/hd/d/Dintzner:Nicolas)                                | 2013-2017 | PhD student                   | TU Delft / TPM                                                                                                                                                    |
+| [Tamara Brusik](https://nl.linkedin.com/in/tamara-brusik-202a037b)                             | 2014-2017 | Secretary                     | TU Delft / HR                                                                                                                                                     |
+| [Petra Heck](https://dblp.org/pers/hd/h/Heck:Petra)                                            | 2012-2016 | PhD student                   | [Fontys](https://fontys.nl/), NL                                                                                                                                  |
+| [Eelco Visser](https://eelcovisser.org/)                                                       | 2006-2015 | Professor                     | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)                                               |
+| [Danny Groenewegen](https://dblp.org/pers/hd/g/Groenewegen:Danny_M=)                           | 2009-2015 | PhD student                   | TU Delft / [PL](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/programming-languages/)                                               |
+| [Guido Wachsmuth](https://dblp.org/pers/hd/w/Wachsmuth:Guido)                                  | 2009-2015 | Assistant professor           | [Oracle Labs](https://labs.oracle.com/), CH                                                                                                                       |
+| [Marco Vit](https://www.linkedin.com/in/marco-vit-145b71106/)                                  | 2015-2015 | Scientific programmer         | DiTech, IT                                                                                                                                                        |
+| [Steven Raemaekers](https://dblp.org/pers/hd/r/Raemaekers:Steven)                              | 2011-2015 | PhD student                   | [ATS Distributed](https://www.atsdistributed.com/), NL                                                                                                            |
+| [Cuiting Chen](https://dblp.org/pers/hd/c/Chen:Cuiting)                                        | 2011-2015 | PhD student                   | [SIG](https://www.softwareimprovementgroup.com/), NL                                                                                                              |
+| [Anja Guzzi](https://dblp.org/pers/hd/g/Guzzi:Anja)                                            | 2010-2015 | PhD Student                   |                                                                                                                                                                   |
+| [Tiago Espinha](https://dblp.org/pers/hd/e/Espinha:Tiago)                                      | 2010-2015 | PhD student                   | [Ocado](https://www.ocadotechnology.com/), UK                                                                                                                     |
+| [Daniele Romano](https://dblp.org/pers/hd/r/Romano:Daniele)                                    | 2010-2015 | PhD student                   | [ING](https://www.ing.com/Home.htm), NL                                                                                                                           |
+| [Esther van Seters](https://www.linkedin.com/in/eevanseters/)                                  | 2009-2014 | Secretary                     | [NFI](https://www.forensischinstituut.nl/), NL                                                                                                                    |
+| [Markus Völter](http://voelter.de/)                                                            | 2013-2014 | PhD student                   | Independent, DE                                                                                                                                                   |
+| [Ben van Gameren](https://dblp.org/pers/hd/g/Gameren:Ben_van)                                  | 2010-2014 | PhD student                   | [iHomer](https://ihomer.nl/), NL                                                                                                                                  |
+| [Kevin Dullemond](https://dblp.org/pers/hd/d/Dullemond:Kevin)                                  | 2010-2014 | PhD student                   | [Mendix](https://www.mendix.com/), NL                                                                                                                             |
+| [Hans Geers](https://www.linkedin.com/in/hans-geers-3533b062/)                                 | 1986-2014 | Senior lecturer               | Retired                                                                                                                                                           |
+| [Cor-Paul Bezemer](https://www.ece.ualberta.ca/~bezemer/)                                      | 2009-2013 | PhD student                   | U. Alberta, CA                                                                                                                                                    |
+| [Maartje de Jonge](https://dblp.uni-trier.de/pers/hd/j/Jonge:Maartje_de)                       | 2009-2013 | PhD student                   | Independent, NL                                                                                                                                                   |
+| [Eric Bouwers](https://dblp.uni-trier.de/pers/hd/b/Bouwers:Eric)                               | 2009-2013 | PhD student                   | [Grasple](https://www.grasple.com/), NL                                                                                                                           |
+| [Michaela Greiler](https://dblp.org/pers/hd/g/Greiler:Michaela)                                | 2008-2013 | PhD student                   | Independent, Austria                                                                                                                                              |
+| [Martin Pinzger](https://www.aau.at/en/isys/serg/team/pinzger-martin/)                         | 2008-2013 | Assistant professor           | [U. Klagenfurt](https://www.aau.at/en/), Austria                                                                                                                  |
+| [Kees Pronk](https://dblp.uni-trier.de/pers/hd/p/Pronk:Cornelis)                               | 1981-2013 | Assistant professor           | Retired                                                                                                                                                           |
+| [Sander van der Burg](http://sandervanderburg.nl/)                                             | 2008-2012 | PhD student                   | [Mendix](https://www.mendix.com/), NL                                                                                                                             |
+| [Hans-Gerhard Gross](https://dblp.org/pers/hd/g/Gro=szlig=:Hans=Gerhard)                       | 2005-2012 | Assistant professor           | [Hochschule Esslingen](https://www.hs-esslingen.de/), DE                                                                                                          |
+| [Sander Vermolen](https://dblp.uni-trier.de/pers/hd/v/Vermolen:Sander)                         | 2008-2012 | PhD student                   | [ASML](https://www.asml.com), NL                                                                                                                                  |
+| [Eelco Dolstra](https://dblp.org/pers/hd/d/Dolstra:Eelco)                                      | 2008-2012 | Postdoc                       | [Tweag I/O](https://www.tweag.io/), NL                                                                                                                            |
+| [Éric Piel](https://dblp.dagstuhl.de/pers/hd/p/Piel:=Eacute=ric)                               | 2008-2012 | Postdoc                       | [DELMIC](http://www.delmic.com/), NL                                                                                                                              |
+| [Alberto González-Sanchez](https://dblp.dagstuhl.de/pers/hd/g/Gonz=aacute=lez=Sanchez:Alberto) | 2007-2011 | PhD student                   | Google, UK                                                                                                                                                        |
+| [Rob Vermaas](https://dblp.org/pers/hd/v/Vermaas:Rob)                                          | 2009-2011 | Scientific Programmer         | [RelationalAI](http://relational.ai/), NL                                                                                                                         |
+| [Zef Hemel](https://zef.me/)                                                                   | 2008-2011 | PhD student                   | [OLX GROUP](https://www.olxgroup.com/), PL                                                                                                                        |
+| [Lennart Kats](https://dblp.org/pers/hd/k/Kats:Lennart_C=_L=)                                  | 2008-2011 | PhD student                   | Amazon, [AWS Cloud9](https://aws.amazon.com/cloud9/), NL                                                                                                          |
+| [Peter Kluit](https://www.linkedin.com/in/peterkluit/)                                         | 1986-2010 | Senior lecturer               | Retired                                                                                                                                                           |
+| [Ali Mesbah](https://dblp.uni-trier.de/pers/hd/m/Mesbah_0001:Ali)                              | 2005-2010 | PhD student, postdoc          | UBC, CA                                                                                                                                                           |
+| [Cathal Boogerd](https://dblp.org/pers/hd/b/Boogerd:Cathal)                                    | 2005-2009 | PhD student                   | [SIG](https://www.softwareimprovementgroup.com/), NL                                                                                                              |
+| [Bas Cornelissen](https://dblp.org/pers/hd/c/Cornelissen:Bas)                                  | 2005-2009 | PhD student                   | [SIG](https://www.softwareimprovementgroup.com/), NL                                                                                                              |
+| [Peter Zoeteweij](https://dblp.uni-trier.de/pers/hd/z/Zoeteweij:Peter)                         | 2005-2009 | Postdoc                       | [IntelliMagic](https://www.intellimagic.com/), NL                                                                                                                 |
+| [Rui Maranhao Abreu](https://dblp.uni-trier.de/pers/hd/a/Abreu:Rui)                            | 2005-2009 | PhD student                   | U. Lisbon, PO                                                                                                                                                     |
+| [Arjan van Gemund](https://dblp.uni-trier.de/pers/hd/g/Gemund:Arjan_J=_C=_van)                 | 2005-2009 | Professor                     | Retired                                                                                                                                                           |
+| [Alexander Feldman](https://dblp.org/pid/44/4566.html)                                         | 2005-2009 | PhD student                   | PARC, USA                                                                                                                                                         |
+| [Marco Lormans](https://dblp.org/pers/hd/l/Lormans:Marco)                                      | 2002-2008 | PhD student                   | Xebia, NL                                                                                                                                                         |
+| [Leon Moonen](https://leonmoonen.com/)                                                         | 2003-2008 | Assistant professor           | Simula, NO                                                                                                                                                        |
+| [Magiel Bruntink](https://dblp.uni-trier.de/pers/hd/b/Bruntink:Magiel)                         | 2003-2008 | PhD student                   | [SIG](https://www.softwareimprovementgroup.com/), NL                                                                                                              |
+| [Marius Marin](https://dblp.uni-trier.de/pers/hd/m/Marin:Marius)                               | 2003-2007 | PhD student                   | Microsoft, USA                                                                                                                                                    |
+| [Bas Graaf](https://dblp.org/pers/hd/g/Graaf:Bas)                                              | 2002-2007 | PhD student                   | [SimCorp](https://www.simcorp.com/), DK                                                                                                                           |
+| [Frans Ververs](https://www.linkedin.com/in/fransververs/)                                     | 1969-2006 | Associate professor           | Retired                                                                                                                                                           |
+| [Jan van Katwijk](https://www.linkedin.com/in/jan-katwijk-van-07946a/)                         | 1984-2002 | Professor, dean               | Retired                                                                                                                                                           |
+| [Willem van der Poel](https://en.wikipedia.org/wiki/Willem_van_der_Poel)                       | 1962-1990 | Professor                     | Retired                                                                                                                                                           |
 
