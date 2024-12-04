@@ -538,6 +538,21 @@ title: People
     </div>
   </div>
 
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/ziyou-li.jpg" alt="Ziyou Li">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/ziyouli/" title="Ziyou's home page">Ziyou Li</a>
+      </div>
+      <p class="card-text">AI-enabled SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/li-ziyou/" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/ziyouli/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?hl=en&user=NPrzWy8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
 </div>
 
 ### Scientific Programmers
