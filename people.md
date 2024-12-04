@@ -444,6 +444,21 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
+    <img class="card-img-top" src="img/ziyou-li.jpg" alt="Ziyou Li">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/ziyouli/" title="Ziyou's home page">Ziyou Li</a>
+      </div>
+      <p class="card-text">AI-enabled SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/li-ziyou/" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/ziyouli/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?hl=en&user=NPrzWy8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
+    </div>
+  </div>
+
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
       <div class="card-title">
@@ -458,6 +473,9 @@ title: People
     <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
+
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
@@ -475,9 +493,6 @@ title: People
       <a href="https://research.tudelft.nl/en/persons/jm-louro-neto/publications" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/CathrinePaulsen" alt="Cathrine Paulsen">
@@ -523,6 +538,9 @@ title: People
       <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+
+</div>
+<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
