@@ -494,7 +494,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/CathrinePaulsen" alt="Cathrine Paulsen">
     <div class="card-body">
       <div class="card-title">
@@ -508,7 +508,7 @@ title: People
     </div>
   </div>
 
-  <div class="card d-block">
+  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/24494761?v=4" alt="Lorena Poenaru-Olaru">
     <div class="card-body">
       <div class="card-title">
