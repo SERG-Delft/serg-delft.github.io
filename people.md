@@ -384,7 +384,9 @@ title: People
  <div class="card d-flex d-block">
     <img class="card-img-top" src="img/eileen_pic.jpeg" alt="Eileen Kapel">
     <div class="card-body">
-      <div class="card-title">Eileen Kapel</div>
+      <div class="card-title">
+        <a href="javascript:void(0);">Eileen Kapel</a>
+      </div>
       <p class="card-text">Incident Management, AI. Also at ING.</p>
     </div>
     <div class="card-footer bg-transparent border-success">
@@ -498,7 +500,7 @@ title: People
     <img class="card-img-top" src="https://avatars.githubusercontent.com/CathrinePaulsen" alt="Cathrine Paulsen">
     <div class="card-body">
       <div class="card-title">
-        <a>Cathrine Paulsen</a>
+        <a href="javascript:void(0);">Cathrine Paulsen</a>
       </div>
       <p class="card-text">Dependency Management, Software Quality and Maintenance</p>
     </div>
@@ -512,7 +514,7 @@ title: People
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/24494761?v=4" alt="Lorena Poenaru-Olaru">
     <div class="card-body">
       <div class="card-title">
-        <a>Lorena Poenaru-Olaru</a>
+        <a href="javascript:void(0);">Lorena Poenaru-Olaru</a>
       </div>
       <p class="card-text">SE4AI, ML Systems Lifecycle, Monitoring and Maintaining ML Systems</p>
     </div>
@@ -578,7 +580,9 @@ title: People
   <div class="card d-flex d-block">
     <img class="card-img-top" src="img/Kim_Boudewijn.jpg" alt="Kim Boudewijn">
     <div class="card-body">
-      <div class="card-title">Kim Boudewijn</div>
+      <div class="card-title">
+        <a href="javascript:void(0);">Kim Boudewijn</a>
+      </div>
       <p class="card-text">Secretary</p>
     </div>
     <div class="card-footer bg-transparent border-success">
