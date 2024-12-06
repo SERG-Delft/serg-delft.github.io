@@ -542,7 +542,7 @@ title: People
     <img class="card-img-top" src="img/ziyou-li.jpg" alt="Ziyou Li">
     <div class="card-body">
       <div class="card-title">
-        <a href="https://www.linkedin.com/in/ziyouli/" title="Ziyou's home page">Ziyou Li</a>
+        <a href="https://li-ziyou.github.io/" title="Ziyou's home page">Ziyou Li</a>
       </div>
       <p class="card-text">AI-enabled SE</p>
     </div>
