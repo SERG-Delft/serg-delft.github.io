@@ -450,7 +450,7 @@ description: People in the Software Engineering Research Group
     <img class="card-img-top" src="/img/ziyou-li.jpg" alt="Ziyou Li">
     <div class="card-body">
       <div class="card-title">
-        <a href="https://www.linkedin.com/in/ziyouli/" title="Ziyou's home page">Ziyou Li</a>
+        <a href="https://li-ziyou.github.io/" title="Ziyou's home page">Ziyou Li</a>
       </div>
       <p class="card-text">AI-enabled SE</p>
     </div>
@@ -564,7 +564,19 @@ description: People in the Software Engineering Research Group
 ### Scientific Programmers
 
 <div class="card-deck">
-
+<div class="card d-block">
+    <img class="card-img-top" src="./img/roham_koohestani.jpg" alt="Roham Koohestani">
+    <div class="card-body">
+      <div class="card-title">
+        <a href="https://rohamkoohestani.com/" title="Roham's Personal Website">Roham Koohestani</a>
+      </div>
+      <p class="card-text">AI-enabled SE</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://github.com/rebelofdeath" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://nl.linkedin.com/in/rohamkoohestani" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    </div>
+</div>
 </div>
 
 
