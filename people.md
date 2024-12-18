@@ -1,13 +1,14 @@
 ---
 layout: page
 title: People
+description: People in the Software Engineering Research Group
 ---
 
 ### Faculty
 
  <div class="card-deck">
     <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/carolin-brandt.jpg" alt="Carolin Brandt">
+    <img class="card-img-top" src="/img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
       <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
       <p class="card-text">Human- and Developer-centered Software Engineering</p>
@@ -174,7 +175,7 @@ title: People
 
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/rini-van-solingen.jpeg" alt="Rini van Solingen">
+    <img class="card-img-top" src="/img/rini-van-solingen.jpeg" alt="Rini van Solingen">
     <div class="card-body">
       <div class="card-title"><a href="https://www.rinivansolingen.nl/">Rini van Solingen</a></div>
       <p class="card-text">Software Startups (0.2fte) </p>
@@ -188,7 +189,7 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/diomidis-spinellis.jpeg" alt="Diomidis Spinellis">
+    <img class="card-img-top" src="/img/diomidis-spinellis.jpeg" alt="Diomidis Spinellis">
     <div class="card-body">
       <div class="card-title"><a href="https://www.spinellis.gr/">Diomidis Spinellis</a></div>
       <p class="card-text">Software Analytics, Software Tools (0.2fte) </p>
@@ -210,7 +211,7 @@ title: People
 <div class="card-deck">
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/quentin_le_delivrac.jpg" alt="Quentin Le Dilavrec">
+    <img class="card-img-top" src="/img/quentin_le_delivrac.jpg" alt="Quentin Le Dilavrec">
     <div class="card-body">
       <div class="card-title"><a href="https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html">Quentin Le Dilavrec</a></div>
       <p class="card-text">Source code analysis, software testing</p>
@@ -245,7 +246,7 @@ title: People
   </div>
   
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/Baris-Ardic.jpg" alt="Baris Ardic">
+    <img class="card-img-top" src="/img/Baris-Ardic.jpg" alt="Baris Ardic">
     <div class="card-body">
     <div class="card-title"><a href="https://barisardic.github.io" title="Baris' home page">Baris Ardic</a></div>
       <p class="card-text">Software testing</p>
@@ -274,7 +275,7 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/antony_bartlett.png" alt="Antony Bartlett">
+    <img class="card-img-top" src="/img/antony_bartlett.png" alt="Antony Bartlett">
     <div class="card-body">      
     <div class="card-title"><a target="_blank" href="https://codegonewild.com">Antony Bartlett</a></div>
       <p class="card-text">Traditional test techniques for the validation of AI</p>
@@ -291,7 +292,7 @@ title: People
 <div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/daniele-cipollone.jpeg" alt="Daniele Cipollone">
+    <img class="card-img-top" src="/img/daniele-cipollone.jpeg" alt="Daniele Cipollone">
     <div class="card-body">
       <div class="card-title">
         <a href="https://www.linkedin.com/in/dancip00/" title="Daniele's home page">Daniele Cipollone</a>
@@ -306,7 +307,7 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/amir-deljouyi.jpg" alt="Amir Deljouyi">
+    <img class="card-img-top" src="/img/amir-deljouyi.jpg" alt="Amir Deljouyi">
     <div class="card-body">
       <div class="card-title"><a href="https://adeljouyi.com">Amirhossein Deljouyi</a></div>
       <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
@@ -337,7 +338,7 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/imara-van-dinten.jpg" alt="Imara van Dinten">
+    <img class="card-img-top" src="/img/imara-van-dinten.jpg" alt="Imara van Dinten">
     <div class="card-body">
       <div class="card-title"><a href="">Imara van Dinten</a></div>
       <p class="card-text">DevOps for cyberphysical systems</p>
@@ -353,7 +354,7 @@ title: People
 <div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/ege_berkay_gulcan.jpeg" alt="Ege Berkay Gulcan">
+    <img class="card-img-top" src="/img/ege_berkay_gulcan.jpeg" alt="Ege Berkay Gulcan">
     <div class="card-body">
       <div class="card-title">
         <a href="https://eldarfin.github.io/" title="Berkay's home page">Ege Berkay Gulcan</a>
@@ -368,7 +369,7 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/shujun-huang.jpg" alt="Shujun Huang">
+    <img class="card-img-top" src="/img/shujun-huang.jpg" alt="Shujun Huang">
     <div class="card-body">
       <div class="card-title">
         <a href="https://github.com/Natsukashiii">Shujun Huang</a>
@@ -382,7 +383,7 @@ title: People
   </div>
 
  <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/eileen_pic.jpeg" alt="Eileen Kapel">
+    <img class="card-img-top" src="/img/eileen_pic.jpeg" alt="Eileen Kapel">
     <div class="card-body">
       <div class="card-title">
         <a href="javascript:void(0);">Eileen Kapel</a>
@@ -397,7 +398,7 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/jonathan-katzy.jpg" alt="Jonathan Katzy">
+    <img class="card-img-top" src="/img/jonathan-katzy.jpg" alt="Jonathan Katzy">
     <div class="card-body">
       <div class="card-title"><a href="https://jkatzy.nl/">Jonathan Katzy</a></div>
       <p class="card-text">AI-enabled SE</p>
@@ -446,7 +447,7 @@ title: People
   </div>
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/ziyou-li.jpg" alt="Ziyou Li">
+    <img class="card-img-top" src="/img/ziyou-li.jpg" alt="Ziyou Li">
     <div class="card-body">
       <div class="card-title">
         <a href="https://www.linkedin.com/in/ziyouli/" title="Ziyou's home page">Ziyou Li</a>
@@ -578,7 +579,7 @@ title: People
 
 <div class="card-deck">
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/Kim_Boudewijn.jpg" alt="Kim Boudewijn">
+    <img class="card-img-top" src="/img/Kim_Boudewijn.jpg" alt="Kim Boudewijn">
     <div class="card-body">
       <div class="card-title">
         <a href="javascript:void(0);">Kim Boudewijn</a>

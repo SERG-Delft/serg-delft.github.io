@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SERG Dissertation Series
+description: Doctoral dissertations completed within the Software Engineering Research Group, and defended at Delft University of Technology
 ---
 
 Doctoral dissertations completed within the Software Engineering Research Group, and defended at Delft University of Technology are listed below.

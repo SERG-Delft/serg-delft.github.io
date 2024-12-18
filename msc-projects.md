@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Master thesis projects
+description: Master Thesis projects available at the Software Engineering Research Group
 ---
 
 ### Finding a Thesis Project

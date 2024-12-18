@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vacancies
+description: Open positions at the Software Engineering Research Group
 ---
 
 The TU Delft Software Engineering Research Group has the following vacancies: 

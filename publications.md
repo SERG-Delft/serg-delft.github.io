@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SERG Publications
+description: Publications by the Software Engineering Research Group at TU Delft.
 ---
 
 
