@@ -2,8 +2,8 @@
 layout: event
 title: "SERG Seminar"
 categories: [events,lunch-talks]
-start: "14:00"
-end: "15:00"
+start: "11:00"
+end: "12:00"
 speaker: Cor-Paul Bezemer
 where: "B28, Hilbert 2.W510"
 ---
