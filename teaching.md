@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+description: Courses taught by the Software Engineering Research Group at TU Delft
 ---
 
 

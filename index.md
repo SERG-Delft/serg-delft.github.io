@@ -1,4 +1,5 @@
 ---
+title: Software Engineering Research Group at TU Delft
 layout: page
 carousels:
   - images:
@@ -10,6 +11,7 @@ carousels:
       text: "Retreat Fall 2019 Antwerpen"
     - image: /img/serg-retreat-2019.jpg
       text: "Retreat Spring 2019"
+description: The Software Engineering Research Group at TU Delft
 ---
 
 <!-- <image src="img/serg-halloween-2021.jpg" style="float:center; max-width:100%; max-height:100%;"/>
@@ -58,7 +60,7 @@ source tools whenever possible.
 
 ## Education
 
-<image src="img/lecture.jpg" style="float:right; width:300px; border:1px solid #000"/>
+<image src="img/lecture.jpg" style="float:right; width:300px; border:1px solid #000" alt="A lecture by SERG"/>
 
 We have a passion for teaching and a deep desire to share what we learn about software engineering
 with our students. Our [teaching activities](teaching.html) include:
