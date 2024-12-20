@@ -231,7 +231,7 @@ title: People
 <div class="card-deck">
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars.githubusercontent.com/u/33690937?v=4" alt="Ali Al-Kaswan">
+    <img class="card-img-top" src="img/ali_alkaswan.jpg" alt="Ali Al-Kaswan">
     <div class="card-body">
     <div class="card-title"><a href="https://aalkaswan.github.io/" title="Ali's home page">Ali Al-Kaswan</a></div>
       <p class="card-text">NLP for Software Engineering, Cyber Security</p>
