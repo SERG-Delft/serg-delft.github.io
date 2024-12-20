@@ -8,7 +8,7 @@ speaker: Anders Møller (Aarhus/Coana), Ivan Pashchenko (TomTom), Fabio Massacci
 where: "SDL Lab"
 ---
 
-[Before the PhD defense of Joseph Hejderup](https://se.ewi.tudelft.nl/events/2024/05/21/PhD-Defense-Joseph-Hedjerup/), we will host a seminar on software supply chains featuring four area experts and a panel discussion. This seminar aims to explore cutting-edge trends, challenges, and research in the analysis, security, and management of software supply chains.
+[Before the PhD defense of Joseph Hejderup](/events/2024/05/21/PhD-Defense-Joseph-Hedjerup/), we will host a seminar on software supply chains featuring four area experts and a panel discussion. This seminar aims to explore cutting-edge trends, challenges, and research in the analysis, security, and management of software supply chains.
 
 ## Agenda
 
