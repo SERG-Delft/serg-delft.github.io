@@ -10,8 +10,8 @@ where: "B28, Hilbert 2.W510"
 
 In this edition of our weekly SERG seminar we will have two speakers:
 
-**Antony Bartlett** 
-topic TBA
+**Antony Bartlett** will introduce their work on road optimization using “dangerous” roads as a baseline. This work was presented at last years SSBSE in Brazil, focusing on the use of evolutionary algorithms to gradually mutate existing base roads into failing roads for the testing of self-driving cars.
+The paper is entitled “Danger is My Middle Lane: Simulations from Real-World Dangerous Roads“ and can be found here (https://link.springer.com/chapter/10.1007/978-3-031-64573-0_8)
 
 **Tolgahan Bardakcı**, who is visiting us for the day from the University of Antwerp.
 He will demonstrate how to use LLMs to amplify REST API test scripts. He will show a series of prompts they used to obtain strong and readable test cases that can be readily deployed in the DevOps build pipeline. We will see how we can potentially save days or even weeks of development effort.
