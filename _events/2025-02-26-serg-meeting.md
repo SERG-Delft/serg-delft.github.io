@@ -14,8 +14,8 @@ In this edition of our weekly SERG seminar we will have two speakers:
 topic TBA
 
 
-**You?** 
-The second spot is still free! If you have a complimentary (not too similar) topic you'd like to present in our seminar, please poke Caro!
+**Roham Koohestani** 
+topic TBA (IDE paper)
 
 
 ---
