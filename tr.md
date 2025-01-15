@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SERG Technical Report Series
+description: Technical reports by the Software Engineering Research Group at TU Delft.
 ---
 
 The TU Delft Software Engineering Research Group has maintained a list of technical reports since 2006, numbered TUD-SERG-20xx-abc.

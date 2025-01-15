@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Past events at SERG
+description: Past events at the Software Engineering Research Group
 ---
 
 We organize research talks and paper reading clubs.
 Below are the events we organized in the past -- see also our list of
-<a href="events.html">upcoming events</a>.
+<a href="events">upcoming events</a>.
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 

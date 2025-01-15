@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research Projects
+description: Research projects at the Software Engineering Research Group
 ---
 
 Our research can be divided into the following research lines:
