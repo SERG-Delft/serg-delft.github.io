@@ -561,6 +561,26 @@ description: People in the Software Engineering Research Group
 
 </div>
 
+<div class="card">
+  <img class="card-img-top" src="/img/Ali-Asgari.jpg" alt="Portrait of Ali Asgari">
+  <div class="card-body">
+    <h5 class="card-title">
+      <a href="https://github.com/leanerr" target="_blank" rel="noopener noreferrer">Ali Asgari</a>
+    </h5>
+    <p class="card-text">Software Testing, Validating AI-Generated Code, Empirical Software Engineering</p>
+  </div>
+  <div class="card-footer bg-transparent border-success">
+    <a href="https://www.linkedin.com/in/ali-a-9a79931a8/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn Profile">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=B29YZp0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" title="Google Scholar" aria-label="Google Scholar Profile">
+      <i class="fab fa-google"></i>
+    </a>
+  </div>
+</div>
+
+
+
 ### Scientific Programmers
 
 <div class="card-deck">
