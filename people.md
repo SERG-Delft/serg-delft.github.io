@@ -232,7 +232,7 @@ description: People in the Software Engineering Research Group
 <div class="card-deck">
 
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="img/ali_alkaswan.jpg" alt="Ali Al-Kaswan">
+    <img class="card-img-top" src="/img/ali_alkaswan.jpg" alt="Ali Al-Kaswan">
     <div class="card-body">
     <div class="card-title"><a href="https://aalkaswan.github.io/" title="Ali's home page">Ali Al-Kaswan</a></div>
       <p class="card-text">NLP for Software Engineering, Cyber Security</p>
@@ -258,7 +258,23 @@ description: People in the Software Engineering Research Group
       <a href="" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-  
+
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="/img/Ali-Asgari.jpg" alt="Portrait of Ali Asgari">
+    <div class="card-body">
+    <div class="card-title"><a href="https://github.com/leanerr" target="_blank" rel="noopener noreferrer">Ali Asgari</a></div>
+      <p class="card-text">Software Testing, Validating AI-Generated Code, Empirical Software Engineering</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+      <a href="https://www.linkedin.com/in/ali-a-9a79931a8/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn Profile">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?user=B29YZp0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" title="Google Scholar" aria-label="Google Scholar Profile">
+        <i class="fab fa-google"></i>
+      </a>
+    </div>
+  </div>
+    
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/35747594?v=4" alt="Enrique Barba Roque">
     <div class="card-body">
@@ -274,6 +290,9 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/antony_bartlett.png" alt="Antony Bartlett">
     <div class="card-body">      
@@ -287,9 +306,6 @@ description: People in the Software Engineering Research Group
       <a target="_blank" href="https://www.researchgate.net/profile/Antony-Bartlett" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/daniele-cipollone.jpeg" alt="Daniele Cipollone">
@@ -337,6 +353,9 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/imara-van-dinten.jpg" alt="Imara van Dinten">
     <div class="card-body">
@@ -349,9 +368,6 @@ description: People in the Software Engineering Research Group
       <a href="https://www.linkedin.com/in/imara-van-dinten/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/ege_berkay_gulcan.jpeg" alt="Ege Berkay Gulcan">
@@ -397,6 +413,9 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/jonathan-katzy.jpg" alt="Jonathan Katzy">
     <div class="card-body">
@@ -410,9 +429,6 @@ description: People in the Software Engineering Research Group
       <a href="https://scholar.google.com/citations?user=mmy9FeIAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
@@ -461,6 +477,9 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
+</div>
+<div class="card-deck non-top-row">
+
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
     <div class="card-body">
@@ -476,9 +495,6 @@ description: People in the Software Engineering Research Group
     <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
@@ -526,6 +542,9 @@ description: People in the Software Engineering Research Group
       <a href="https://scholar.google.com/citations?user=KE5PsRUAAAAJ&hl=ro&inst=6173373803492361994&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
+
+</div>
+<div class="card-deck non-top-row">
   
   <div class="card d-flex d-block">
     <img class="card-img-top"
@@ -541,9 +560,6 @@ description: People in the Software Engineering Research Group
       <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
@@ -561,23 +577,6 @@ description: People in the Software Engineering Research Group
 
 </div>
 
-<div class="card">
-  <img class="card-img-top" src="/img/Ali-Asgari.jpg" alt="Portrait of Ali Asgari">
-  <div class="card-body">
-    <h5 class="card-title">
-      <a href="https://github.com/leanerr" target="_blank" rel="noopener noreferrer">Ali Asgari</a>
-    </h5>
-    <p class="card-text">Software Testing, Validating AI-Generated Code, Empirical Software Engineering</p>
-  </div>
-  <div class="card-footer bg-transparent border-success">
-    <a href="https://www.linkedin.com/in/ali-a-9a79931a8/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn Profile">
-      <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://scholar.google.com/citations?user=B29YZp0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" title="Google Scholar" aria-label="Google Scholar Profile">
-      <i class="fab fa-google"></i>
-    </a>
-  </div>
-</div>
 
 
 
@@ -585,7 +584,7 @@ description: People in the Software Engineering Research Group
 
 <div class="card-deck">
 <div class="card d-block">
-    <img class="card-img-top" src="./img/roham_koohestani.jpg" alt="Roham Koohestani">
+    <img class="card-img-top" src="/img/roham_koohestani.jpg" alt="Roham Koohestani">
     <div class="card-body">
       <div class="card-title">
         <a href="https://rohamkoohestani.com/" title="Roham's Personal Website">Roham Koohestani</a>
