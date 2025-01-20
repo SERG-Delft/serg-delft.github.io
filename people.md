@@ -562,7 +562,7 @@ description: People in the Software Engineering Research Group
   </div>
 
 <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Zahra Seyedghorban">
+    <img class="card-img-top" src="https://avatars.githubusercontent.com/vagabondboffin" alt="Zahra Seyedghorban">
     <div class="card-body">
       <div class="card-title">
         <a href="javascript:void(0);">Zahra Seyedghorban</a>
