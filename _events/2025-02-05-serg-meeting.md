@@ -19,21 +19,8 @@ by providing a sandboxed scripting interface focussing on usability and robustne
 Quentin will also make a short demo of this tool through its GUI, and show some other features, 
 notably on temporal analysis (presented at BENEVOL 2024).
 
-**Carolin Brandt** will introduce a novel way to look at code coverage in software testing. 
-The corresponding short paper will be presented at ICST 2025.
-[Towards Refined Code Coverage: A New Predictive Problem in Software Testing](https://carolin-brandt.de/works/brandt-icst25)
-
-Abstract:
-
-To measure and improve the strength of test suites, software projects and their developers commonly use code coverage and aim for a threshold of around 80%. 
-But what is the 80% of the source code that should be covered? 
-To prepare for the development of new, more refined code coverage criteria, we introduce a novel predictive problem in software testing: whether a code line is, or should be, covered by the test suite. 
-In this short paper, we propose the collection of coverage information, source code metrics, and abstract syntax tree data and explore whether they are relevant to predict whether a code line is exercised by the test suite or not. 
-We present a preliminary experiment using four machine learning (ML) algorithms and an open source Java project. 
-We observe that ML classifiers can achieve high accuracy (up to 90%) on this novel predictive problem. 
-We also apply an explainable method to better understand the characteristics of code lines that make them more “appealing” to be covered.
-Our work opens a research line worth to investigate further, where the focus of the prediction is the code to be tested. 
-Our innovative approach contrasts with most predictive problems in software testing, which aim to predict the test case failure probability.
+**Carolin Brandt** will present her short paper for ICST 2025: ["Towards Refined Code Coverage: A New Predictive Problem in Software Testing"](https://carolin-brandt.de/works/brandt-icst25).
+Together with Aurora Ramírez, she explores whether we can use metrics and traditional machine learning to predict whether a code line is (not) covered by the test suite.
 
 
 ---
