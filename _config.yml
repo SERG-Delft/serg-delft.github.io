@@ -12,7 +12,7 @@ author :
   github : serg-delft
   twitter : serg_delft
 
-production_url : se.ewi.tudelft.nl
+url: https://se.ewi.tudelft.nl
 
 collections:
   events:
@@ -26,4 +26,5 @@ collections:
     output: true
     permalink: /research-lines/:title/
 
-
+plugins:
+  - jekyll-sitemap
