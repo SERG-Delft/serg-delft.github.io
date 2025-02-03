@@ -4,7 +4,7 @@ title: "SERG Seminar"
 categories: [events]
 start: "13:45"
 end: "14:45"
-speaker: Ziyou Li
+speaker: Ziyou Li, Annibale Panichella
 where: "B28, Hilbert 2.W510"
 ---
 
