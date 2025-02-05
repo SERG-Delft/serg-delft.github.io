@@ -5,7 +5,7 @@ categories: [events]
 start: "09:30"
 end: "10:30"
 speaker: Michael Pradel
-where: "Social Data Lab"
+where: "Social Data Lab and Zoom"
 ---
 
 [Michael Pradel][pradel], Stuttgart University
@@ -17,8 +17,8 @@ Large language models (LLMs) are revolutionizing many aspects of software engine
 
 ### Papers
 
-- https://arxiv.org/abs/2403.17134
-- https://arxiv.org/abs/2412.10133
+- [https://arxiv.org/abs/2403.17134](https://arxiv.org/abs/2403.17134)
+- [https://arxiv.org/abs/2412.10133](https://arxiv.org/abs/2412.10133)
 
 ### Bio
 
