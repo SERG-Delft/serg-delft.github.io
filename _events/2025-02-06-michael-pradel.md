@@ -1,14 +1,12 @@
 ---
 layout: event
-title: "SERG Seminar"
+title: LLM Agents for Program Repair and Project Setup
 categories: [events]
 start: "09:30"
 end: "10:30"
 speaker: Michael Pradel
 where: "Social Data Lab"
 ---
-
-# LLM Agents for Program Repair and Project Setup
 
 [Michael Pradel][pradel], Stuttgart University
 
