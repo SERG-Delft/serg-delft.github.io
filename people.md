@@ -223,6 +223,19 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
   
+  <div class="card d-flex d-block">
+    <img class="card-img-top" src="/img/x.jpg" alt="Xutong Liu">
+    <div class="card-body">
+      <div class="card-title">Xutong Liu</div>
+      <p class="card-text">Software testing</p>
+    </div>
+    <div class="card-footer bg-transparent border-success">
+    <i class="fab fa-github"></i>
+      <i class="fab fa-linkedin"></i>
+      <i class="ai ai-google-scholar-square"></i>
+    </div>
+  </div>
+
 </div>
 
 ### PhD Students
