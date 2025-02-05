@@ -12,6 +12,8 @@ George Vegelien, a master student working with Exact and supervised by Carolin B
 
 ## Addressing Test Flakiness: Practical Approaches in a Database-Reliant Industrial System
 
+[Link to Thesis on the repository](https://resolver.tudelft.nl/uuid:ad279f6c-fbc6-4104-90b7-0a5b9e1f0088)
+
 #### Abstract:
 In today's rapidly evolving software landscape, where continuous integration and continuous delivery are paramount, the presence of flaky tests poses a significant obstacle. These tests, exhibiting unpredictable pass/fail behavior, hinder development progress, waste valuable resources, and erode developer trust. This research delves into the root causes and mitigation strategies for flaky tests within a large-scale, database-driven industrial setting: Exact.  
 The increasing reliance on databases in modern software systems, including Exact's own platform, necessitates a deeper understanding of the unique challenges posed by database-dependent tests. By analyzing flaky test behavior through repeated test runs on the same code, we identified key contributors to flakiness, including resource contention, test order dependencies, dirty tests that leave the system in an inconsistent state, platform-specific issues, and combinations thereof.  
