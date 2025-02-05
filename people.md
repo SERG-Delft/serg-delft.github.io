@@ -353,22 +353,6 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-</div>
-<div class="card-deck non-top-row">
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="/img/imara-van-dinten.jpg" alt="Imara van Dinten">
-    <div class="card-body">
-      <div class="card-title"><a href="">Imara van Dinten</a></div>
-      <p class="card-text">DevOps for cyberphysical systems</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://twitter.com/IvDinten"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/IvDinten"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/imara-van-dinten/"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/ege_berkay_gulcan.jpeg" alt="Ege Berkay Gulcan">
     <div class="card-body">
@@ -647,6 +631,7 @@ description: People in the Software Engineering Research Group
 
 | Name                                                                                           | Period    | Role                          | Current Affiliation                                                                                                                                               |
 |------------------------------------------------------------------------------------------------|-----------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Imara van Dinten](https://www.imaravandinten.com)                                            | 2021-2025 | PhD                           | Now at Multimedia Computing group @ TU Delft.                                                                                                                                  |
 | [Leonhard Applis](https://github.com/lapplislazuli)                                            | 2020-2024 | PhD                           | National University of Singapore                                                                                                                                  |
 | [Mehdi Keshani](https://ashkboos.github.io/MyWebsite/)                                         | 2019-2024 | PhD                           | [REIT](https://reit.tudelft.nl/), TU Delft                                                                                                                        |
 | [Thomas Durieux](https://www.linkedin.com/in/thomasdurieux/)                                   | 2022-2024 | Assistant professor           | Endor Labs                                                                                                                                                        | 
