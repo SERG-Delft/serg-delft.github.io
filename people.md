@@ -224,7 +224,7 @@ description: People in the Software Engineering Research Group
   </div>
   
   <div class="card d-flex d-block">
-    <img class="card-img-top" src="/img/x.jpg" alt="Xutong Liu">
+    <img class="card-img-top" src="/img/xutong-liu.jpg" alt="Xutong Liu">
     <div class="card-body">
       <div class="card-title">Xutong Liu</div>
       <p class="card-text">Software testing</p>
