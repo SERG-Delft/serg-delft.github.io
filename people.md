@@ -38,7 +38,7 @@ description: People in the Software Engineering Research Group
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Arie van Deursen">
     <div class="card-body">
       <div class="card-title"><a href="https://avandeursen.com">Arie van Deursen</a></div>
-      <p class="card-text">Group leader, head of Department of Software Technology</p>
+      <p class="card-text">Group leader</p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://fediscience.org/@avandeursen" title="Mastodon"><i class="fab fa-mastodon"></i></a>
@@ -141,7 +141,7 @@ description: People in the Software Engineering Research Group
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
     <div class="card-body">
       <div class="card-title"><a href="https://azaidman.github.io">Andy Zaidman</a></div>
-      <p class="card-text">Software Testing, Software Evolution</p>
+      <p class="card-text">Software Testing, Software Evolution. Head of <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology">Department of Software Technology</a></p>
     </div>
     <div class="card-footer bg-transparent border-success">
       <a href="https://twitter.com/azaidman"><i class="fab fa-twitter"></i></a>
