@@ -478,23 +478,6 @@ description: People in the Software Engineering Research Group
 
 </div>
 <div class="card-deck non-top-row">
-
-  <div class="card d-flex d-block">
-    <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/8937990?s=460&v=4" alt="Amir M. Mir">
-    <div class="card-body">
-      <div class="card-title">
-        <a href="https://mirblog.net/" title="Amir's personal blog">Amir M. Mir</a>
-      </div>
-      <p class="card-text">Machine Learning, Software Analytics</p>
-    </div>
-    <div class="card-footer bg-transparent border-success">
-      <a href="https://github.com/mir-am" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/mir93/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://scholar.google.com/citations?user=IZB4GI8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
-    <a href="https://pure.tudelft.nl/portal/en/persons/sam-mir(6b4ddcf8-e30c-4da1-b667-a1f47d755217).html" title="Publications"><i class="fas fa-edit"></i></a>
-    </div>
-  </div>
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
     <div class="card-body">
@@ -646,6 +629,8 @@ description: People in the Software Engineering Research Group
 
 | Name                                                                                           | Period    | Role                          | Current Affiliation                                                                                                                                               |
 |------------------------------------------------------------------------------------------------|-----------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Amir M. Mir](https://www.linkedin.com/in/mir93/)                                              | 2019-2025 | PhD                          | 
+Independent                                                                                                                               |
 | [Imara van Dinten](https://www.imaravandinten.com)                                            | 2021-2025 | PhD                           | Now at Multimedia Computing group @ TU Delft.                                                                                                                                  |
 | [Leonhard Applis](https://github.com/lapplislazuli)                                            | 2020-2024 | PhD                           | National University of Singapore                                                                                                                                  |
 | [Mehdi Keshani](https://ashkboos.github.io/MyWebsite/)                                         | 2019-2024 | PhD                           | [REIT](https://reit.tudelft.nl/), TU Delft                                                                                                                        |
