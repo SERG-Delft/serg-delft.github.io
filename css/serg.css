@@ -92,6 +92,12 @@ h3 {
   max-width: 12rem;
 }
 
+.card-img-top {
+  max-height: 190px;
+  min-height: 190px;
+  object-fit: cover;
+}
+
 .card-body {
   padding: 0.25rem;
 }
