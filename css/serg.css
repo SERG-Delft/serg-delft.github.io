@@ -1,4 +1,7 @@
-.card-deck { width: 54rem; }
+.card-deck {
+  display: flex;
+  max-width: 80rem;
+}
 
 html,
 body {
@@ -83,6 +86,7 @@ h3 {
 
 /*People*/
 .card {
+  min-width: 10rem;
   max-width: 10rem;
 }
 

@@ -70,10 +70,6 @@ description: People in the Software Engineering Research Group
     <a href="https://research.tudelft.nl/en/persons/m-izadi" title="Publications"><i class="fas fa-edit"></i></a>
   </div>
 </div>
-  
-</div> <!-- deck -->
-
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/burcuku" alt="Burcu Kulahcioglu Ozkan">
@@ -132,10 +128,6 @@ description: People in the Software Engineering Research Group
       <a href="https://scholar.google.com/citations?user=BBXa3QcAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-</div> <!-- deck -->
-
-<div class="card-deck non-top-row">
 
  <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
@@ -303,9 +295,6 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-</div>
-<div class="card-deck non-top-row">
-
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/antony_bartlett.png" alt="Antony Bartlett">
     <div class="card-body">      
@@ -365,8 +354,6 @@ description: People in the Software Engineering Research Group
       <a href="https://pure.tudelft.nl/portal/en/persons/m-di-biase(175bd28e-fb78-485c-816e-fcd1369d5f3d)/publications.html" title="Publications" target="_blank"><i class="fas fa-edit"></i></a>
     </div>
   </div>
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/ege_berkay_gulcan.jpeg" alt="Ege Berkay Gulcan">
@@ -411,9 +398,6 @@ description: People in the Software Engineering Research Group
       <a href="https://scholar.google.com/citations?user=f-o2w7MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
 
   <div class="card d-flex d-block">
     <img class="card-img-top" src="/img/jonathan-katzy.jpg" alt="Jonathan Katzy">
@@ -476,8 +460,6 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-</div>
-<div class="card-deck non-top-row">
   <div class="card d-flex d-block">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
     <div class="card-body">
@@ -524,9 +506,6 @@ description: People in the Software Engineering Research Group
       <a href="https://scholar.google.com/citations?user=KE5PsRUAAAAJ&hl=ro&inst=6173373803492361994&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
-
-</div>
-<div class="card-deck non-top-row">
   
   <div class="card d-flex d-block">
     <img class="card-img-top"
