@@ -6,27 +6,27 @@ description: People in the Software Engineering Research Group
 
 ### Faculty
 
- <div class="card-deck">
-    <div class="card d-flex d-block">
+ <div class="card-deck mb-4">
+    <div class="card">
     <img class="card-img-top" src="/img/carolin-brandt.jpg" alt="Carolin Brandt">
     <div class="card-body">
       <div class="card-title"><a href="https://carolin-brandt.de/">Carolin Brandt</a></div>
       <p class="card-text">Human- and Developer-centered Software Engineering</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/lacinoire"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/carolin-brandt"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=gYM4MwkAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/1080714?s=460&v=4" alt="Luis Cruz">
     <div class="card-body">
       <div class="card-title"><a href="https://luiscruz.github.io/">Luís Cruz</a></div>
       <p class="card-text">Green SE, AI Engineering</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/luismcruz"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/luiscruz"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/luismirandacruz"><i class="fab fa-linkedin"></i></a>
@@ -34,13 +34,13 @@ description: People in the Software Engineering Research Group
    </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/220701?v=4" alt="Arie van Deursen">
     <div class="card-body">
       <div class="card-title"><a href="https://avandeursen.com">Arie van Deursen</a></div>
       <p class="card-text">Group leader</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://fediscience.org/@avandeursen" title="Mastodon"><i class="fab fa-mastodon"></i></a>
       <!--
       <a href="https://twitter.com/avandeursen" title="Twitter"><i class="fab fa-twitter"></i></a>
@@ -56,13 +56,13 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
- <div class="card d-flex d-block">
+ <div class="card">
   <img class="card-img-top" src="https://avatars.githubusercontent.com/u/61319954?v=4" alt="Maliheh Izadi">
   <div class="card-body">
     <div class="card-title"><a href="https://malihehizadi.github.io/PersonalWebsite/">Maliheh Izadi</a></div>
     <p class="card-text">AI-enabled SE, Large Language Models, Recommender Systems, NLP</p>
   </div>
-  <div class="card-footer bg-transparent border-success">
+  <div class="card-footer bg-transparent">
     <a href="https://twitter.com/malihehizadi"  title="Twitter"><i class="fab fa-twitter"></i></a>
     <a href="https://github.com/MalihehIzadi"  title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://linkedin.com/in/malihe-izadi"  title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -71,20 +71,20 @@ description: People in the Software Engineering Research Group
   </div>
 </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/burcuku" alt="Burcu Kulahcioglu Ozkan">
     <div class="card-body">
       <div class="card-title"><a href="https://burcuku.github.io/home">Burcu Kulahcioglu Ozkan</a></div>
       <p class="card-text">Software Testing, Concurrent and Distributed Systems</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/burcuku" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/burcukulahciogluozkan" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com.tr/citations?user=HwPJzFMAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1785526?s=400&v=4" alt="Mitchell Olsthoorn">
     <div class="card-body">
       <div class="card-title">
@@ -92,7 +92,7 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Computational Intelligence for SE, Security Testing, Blockchain</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/mitchellolstho" target="_blank"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/mitchellolsthoorn" target="_blank"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/mitchellolsthoorn/" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -100,13 +100,13 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
   
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/10740831?v=4" alt="Annibale Panichella">
     <div class="card-body">
       <div class="card-title"><a href="https://apanichella.github.io">Annibale Panichella</a></div>
       <p class="card-text">Computational Intelligence for SE, Automated Software Testing, Evolutionary Algorithms</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/AnniPanic" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/apanichella" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/annibale-panichella-84081186/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -115,13 +115,13 @@ description: People in the Software Engineering Research Group
     </div>
   </div>    
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://proks.ch/images/portrait2.jpg" alt="Sebastian Proksch">
     <div class="card-body">
       <div class="card-title"><a href="https://proks.ch">Sebastian Proksch</a></div>
       <p class="card-text">CI/CD, DevOps, Collaborative SE, Empirical SE</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/prksch" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/proksch" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/sebastian-proksch-8aba8484" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -129,13 +129,13 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
- <div class="card d-flex d-block">
+ <div class="card">
     <img class="card-img-top" src="https://avatars1.githubusercontent.com/u/3475457?v=4" alt="Card image cap">
     <div class="card-body">
       <div class="card-title"><a href="https://azaidman.github.io">Andy Zaidman</a></div>
       <p class="card-text">Software Testing, Software Evolution. Head of <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology">Department of Software Technology</a></p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/azaidman"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/azaidman"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/andyzaidman/"><i class="fab fa-linkedin"></i></a>
@@ -148,15 +148,15 @@ description: People in the Software Engineering Research Group
 
 ### Part Time Faculty
 
-<div class="card-deck">
+<div class="card-deck mb-4">
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/386172?v=4" alt="Georgios Gousios">
     <div class="card-body">
       <div class="card-title"><a href="https://gousios.org">Georgios Gousios</a></div>
       <p class="card-text"><a href="research-lines/software-analytics">Software analytics</a>, software ecosystems (0.2fte)</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/gousiosg" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/gousiosg" title="Github"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/gousiosg" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -166,13 +166,13 @@ description: People in the Software Engineering Research Group
   </div>
 
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/rini-van-solingen.jpeg" alt="Rini van Solingen">
     <div class="card-body">
       <div class="card-title"><a href="https://www.rinivansolingen.nl/">Rini van Solingen</a></div>
       <p class="card-text">Software Startups (0.2fte) </p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/solingen" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://nl.linkedin.com/in/solingen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.nl/citations?user=9LxiPOUAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
@@ -180,13 +180,13 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/diomidis-spinellis.jpeg" alt="Diomidis Spinellis">
     <div class="card-body">
       <div class="card-title"><a href="https://www.spinellis.gr/">Diomidis Spinellis</a></div>
       <p class="card-text">Software Analytics, Software Tools (0.2fte) </p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/CoolSWEng" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/DSpinellis" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://stackoverflow.com/users/20520/diomidis-spinellis" title="StackOverflow"><i class="fab fa-stack-overflow"></i></a>
@@ -200,28 +200,28 @@ description: People in the Software Engineering Research Group
 
 ### Postdocs
 
-<div class="card-deck">
+<div class="card-deck mb-4">
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/quentin_le_delivrac.jpg" alt="Quentin Le Dilavrec">
     <div class="card-body">
       <div class="card-title"><a href="https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html">Quentin Le Dilavrec</a></div>
       <p class="card-text">Source code analysis, software testing</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
     <a href="https://github.com/quentinLeDilavrec"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/quentinledilavrec/"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=wo4b1CgAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
   
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/xutong-liu.jpg" alt="Xutong Liu">
     <div class="card-body">
       <div class="card-title">Xutong Liu</div>
       <p class="card-text">Software testing</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
     <i class="fab fa-github"></i>
       <i class="fab fa-linkedin"></i>
       <i class="ai ai-google-scholar-square"></i>
@@ -234,15 +234,15 @@ description: People in the Software Engineering Research Group
 
 <!-- Registered in TU Delft EEMCS Graduate School -->
 
-<div class="card-deck">
+<div class="card-deck mb-4">
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/ali_alkaswan.jpg" alt="Ali Al-Kaswan">
     <div class="card-body">
     <div class="card-title"><a href="https://aalkaswan.github.io/" title="Ali's home page">Ali Al-Kaswan</a></div>
       <p class="card-text">NLP for Software Engineering, Cyber Security</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/aalkaswan1" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/aalkaswan" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://nl.linkedin.com/in/aalkaswan" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -250,13 +250,13 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
   
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/Baris-Ardic.jpg" alt="Baris Ardic">
     <div class="card-body">
     <div class="card-title"><a href="https://barisardic.github.io" title="Baris' home page">Baris Ardic</a></div>
       <p class="card-text">Software testing</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/barisardic_" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/barisardic" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/barisardic/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -264,13 +264,13 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/Ali-Asgari.jpg" alt="Portrait of Ali Asgari">
     <div class="card-body">
     <div class="card-title"><a href="https://github.com/leanerr" target="_blank" rel="noopener noreferrer">Ali Asgari</a></div>
       <p class="card-text">Software Testing, Validating AI-Generated Code, Empirical Software Engineering</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://www.linkedin.com/in/ali-a-9a79931a8/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn Profile">
         <i class="fab fa-linkedin"></i>
       </a>
@@ -280,7 +280,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
     
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/35747594?v=4" alt="Enrique Barba Roque">
     <div class="card-body">
       <div class="card-title">
@@ -288,20 +288,20 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">PhD Student, Green AI</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/enriquebarba97" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/enrique-barba-roque/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=viTT5aoAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/antony_bartlett.png" alt="Antony Bartlett">
     <div class="card-body">      
     <div class="card-title"><a target="_blank" href="https://codegonewild.com">Antony Bartlett</a></div>
       <p class="card-text">Traditional test techniques for the validation of AI</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a target="_blank" href="https://github.com/checkdgt" title="Github"><i class="fab fa-github"></i></a>
       <a target="_blank" href="https://twitter.com/_test_ninja" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a target="_blank" href="https://nl.linkedin.com/in/antony-bartlett-test-ninja" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -309,7 +309,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/daniele-cipollone.jpeg" alt="Daniele Cipollone">
     <div class="card-body">
       <div class="card-title">
@@ -317,20 +317,20 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">AI-enabled SE</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/DanCip00" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/dancip00/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://research.tudelft.nl/en/persons/d-cipollone" title="Publications"><i class="fas fa-edit"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/amir-deljouyi.jpg" alt="Amir Deljouyi">
     <div class="card-body">
       <div class="card-title"><a href="https://adeljouyi.com">Amirhossein Deljouyi</a></div>
       <p class="card-text">Test Visualization, Test Decomposition, Test Automation</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/deljouyi"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/amirdeljouyi"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/amirhossein-deljouyi-3b929661/"><i class="fab fa-linkedin"></i></a>
@@ -339,7 +339,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
   
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/5766743?s=460&v=4" alt="Marco di Biase">
     <div class="card-body">
       <div class="card-title">
@@ -347,7 +347,7 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Maintainability. Also at SIG</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/mardibiase" target="_blank"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/mardibiase" target="_blank"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/mardibiase/" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -355,7 +355,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/ege_berkay_gulcan.jpeg" alt="Ege Berkay Gulcan">
     <div class="card-body">
       <div class="card-title">
@@ -363,14 +363,14 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Distributed Systems &amp; Software Testing</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/egeberkaygulcan" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=9wBFN5YAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/shujun-huang.jpg" alt="Shujun Huang">
     <div class="card-body">
       <div class="card-title">
@@ -378,13 +378,13 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text"> Software engineering, DevOps, CI/CD</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/SJun36289288" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/Natsukashiii" title="GitHub"><i class="fab fa-github"></i></a>
     </div>
   </div>
 
- <div class="card d-flex d-block">
+ <div class="card">
     <img class="card-img-top" src="/img/eileen_pic.jpeg" alt="Eileen Kapel">
     <div class="card-body">
       <div class="card-title">
@@ -392,20 +392,20 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Incident Management, AI. Also at ING.</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/ekapel22" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/eileenkapel/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=f-o2w7MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/jonathan-katzy.jpg" alt="Jonathan Katzy">
     <div class="card-body">
       <div class="card-title"><a href="https://jkatzy.nl/">Jonathan Katzy</a></div>
       <p class="card-text">AI-enabled SE</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/katzy_jonathan"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/jkatzy"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/jonathan-katzy-568263138/"><i class="fab fa-linkedin"></i></a>
@@ -413,7 +413,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/38954034?v=4" alt="Ali Khatami">
     <div class="card-body">
     <div class="card-title">
@@ -421,7 +421,7 @@ description: People in the Software Engineering Research Group
     </div>
     <p class="card-text">Software Quality Analytics</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
      <a href="https://twitter.com/_akhatami_" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/akhatami" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/alikhatami/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -429,7 +429,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars3.githubusercontent.com/u/17578536?s=460&v=4" alt="Elvan Kula">
     <div class="card-body">
       <div class="card-title">
@@ -437,7 +437,7 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Software analytics, AI. Also at ING</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/kulaelvan" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/ekula" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/elvan-kula/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -445,7 +445,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="/img/ziyou-li.jpg" alt="Ziyou Li">
     <div class="card-body">
       <div class="card-title">
@@ -453,14 +453,14 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">AI-enabled SE</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/li-ziyou/" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/ziyouli/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?hl=en&user=NPrzWy8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars2.githubusercontent.com/u/1539767?v=4" alt="Joao Neto">
     <div class="card-body">
       <div class="card-title">
@@ -468,7 +468,7 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Distributed Systems &amp; Software Testing</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/joaomlneto" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://stackoverflow.com/users/4288486" title="StackOverflow"><i class="fab fa-stack-overflow"></i></a>
       <a href="https://www.linkedin.com/in/joaomlneto" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -477,7 +477,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/CathrinePaulsen" alt="Cathrine Paulsen">
     <div class="card-body">
       <div class="card-title">
@@ -485,13 +485,13 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Dependency Management, Software Quality and Maintenance</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/CathrinePaulsen" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/cathrine-paulsen-33a855197/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/24494761?v=4" alt="Lorena Poenaru-Olaru">
     <div class="card-body">
       <div class="card-title">
@@ -499,7 +499,7 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">SE4AI, ML Systems Lifecycle, Monitoring and Maintaining ML Systems</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://twitter.com/LorenaPoenaru" title="Twitter"><i class="fab fa-twitter"></i></a>
       <a href="https://github.com/LorenaPoenaru" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/lorena-poenaru-olaru-6b5273124/"><i class="fab fa-linkedin"></i></a>
@@ -507,7 +507,7 @@ description: People in the Software Engineering Research Group
     </div>
   </div>
   
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top"
     src="https://avatars.githubusercontent.com/u/6236828?v=4" alt="Arumoy Shome">
     <div class="card-body">
@@ -516,13 +516,13 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">SE for AI</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/arumoy-shome"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/arumoyshome/"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 
-<div class="card d-flex d-block">
+<div class="card">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/vagabondboffin" alt="Zahra Seyedghorban">
     <div class="card-body">
       <div class="card-title">
@@ -530,14 +530,14 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">AI4SE</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/vagabondboffin" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://nl.linkedin.com/in/zarseyedghorban" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://scholar.google.com/citations?user=9nEm45MAAAAJ&hl=en&oi=sra" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>
     </div>
   </div>
 
-  <div class="card d-flex d-block">
+  <div class="card">
     <img class="card-img-top" src="https://avatars.githubusercontent.com/u/81824608?v=4" alt="Mark Swillus">
     <div class="card-body">
       <div class="card-title">
@@ -545,7 +545,7 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Socio-technical enablers/inhibitors of software testing</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/mswillus"><i class="fab fa-github"></i></a>
       <a href="https://scholar.social/web/accounts/215562"><i class="fab fa-mastodon"></i></a>
     </div>
@@ -553,12 +553,9 @@ description: People in the Software Engineering Research Group
 
 </div>
 
-
-
-
 ### Scientific Programmers
 
-<div class="card-deck">
+<div class="card-deck mb-4">
 <div class="card d-block">
     <img class="card-img-top" src="/img/roham_koohestani.jpg" alt="Roham Koohestani">
     <div class="card-body">
@@ -567,25 +564,23 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">AI-enabled SE</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://github.com/rebelofdeath" title="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://nl.linkedin.com/in/rohamkoohestani" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     </div>
 </div>
 </div>
 
-
-
 ### Guests 
 
-<div class="card-deck">
+<div class="card-deck mb-4">
 
 </div>
 
 ### Support
 
-<div class="card-deck">
-  <div class="card d-flex d-block">
+<div class="card-deck mb-4">
+  <div class="card">
     <img class="card-img-top" src="/img/Kim_Boudewijn.jpg" alt="Kim Boudewijn">
     <div class="card-body">
       <div class="card-title">
@@ -593,16 +588,14 @@ description: People in the Software Engineering Research Group
       </div>
       <p class="card-text">Secretary</p>
     </div>
-    <div class="card-footer bg-transparent border-success">
+    <div class="card-footer bg-transparent">
       <a href="https://nl.linkedin.com/in/kim-boudewijn-095189230" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="mailto:K.Boudewijn@tudelft.nl" title="Email"><i class="far fa-envelope"></i></a>
     </div>
   </div>
 </div>
 
-
 ### Alumni
-<a id="alumni"></a>
 
 <!-- Dear alumnus: Please feel free to offer your change of affiliation in a pull request! -->
 

@@ -1,12 +1,13 @@
 .card-deck {
-  display: flex;
-  max-width: 80rem;
+  max-width: 77rem;
+  gap: 1rem;
+  margin-left: 0px;
 }
 
 html,
 body {
   margin:0;
-   padding:0;
+  padding:0;
   font-family: Arial, sans-serif;
   height: 100%;
 }
@@ -85,9 +86,10 @@ h3 {
 }
 
 /*People*/
-.card {
-  min-width: 10rem;
-  max-width: 10rem;
+.card-deck .card {
+  margin: 0;
+  min-width: 12rem;
+  max-width: 12rem;
 }
 
 .card-body {
@@ -110,10 +112,6 @@ h3 {
 
 .row {
   margin: 0rem;
-}
-
-.non-top-row {
-  padding-top: 25px
 }
 
 /* Tables, for examples used for listing research projects. */
