@@ -8,7 +8,7 @@ role: PhD Student
 start_date:
 end_date:
 
-website_url:
+website_url: https://github.com/LorenaPoenaru
 github: LorenaPoenaru
 linkedin: lorena-poenaru-olaru-6b5273124
 google_scholar: KE5PsRUAAAAJ
