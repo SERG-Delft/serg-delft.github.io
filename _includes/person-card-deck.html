@@ -1,0 +1,16 @@
+{% comment %}
+This is a card deck for a list of people. It is used in the people page.
+Pass the parameter "heading" to this include to render a heading.
+Pass the parameter `people` to this include to render the card.
+{% endcomment %}
+
+{% if include.people.size > 0 %}
+{% if include.heading %}
+### {{ include.heading }}
+{% endif %}
+<div class="card-deck mb-4">
+{% for person in include.people %}
+    {% include person-card.html person=person %}
+{% endfor %}
+</div>
+{% endif %}
