@@ -1,0 +1,24 @@
+{% comment %}
+    This is a card for a person. It is used in the people page.
+    Pass the parameter `person` to this include to render the card.
+{% endcomment %}
+
+<div class="card">
+    <img class="card-img-top" src="/img/people/{{include.person.slug}}.jpg" alt="{{ include.person.given_name }} {{ include.person.surname }}">
+    <div class="card-body">
+        <div class="card-title"><a {% if include.person.website_url %} href="{{ include.person.website_url }}"{% endif %}>{{ include.person.given_name }} {{ include.person.surname }}</a></div>
+        <p class="card-text">{{include.person.interests}}</p>
+    </div>
+    <div class="card-footer bg-transparent">
+        {% if include.person.email %}<a href="mailto:{{include.person.email}}" title="Email"><i class="far fa-envelope"></i></a>{% endif %}
+        {% if include.person.mastodon %}<a href="{{include.person.mastodon}}" title="Mastodon"><i class="fab fa-mastodon"></i></a>{% endif %}
+        {% if include.person.xdotcom %}<a href="https://twitter.com/{{include.person.xdotcom}}" title="X"><i class="fab fa-twitter"></i></a>{% endif %}
+        {% if include.person.github %}<a href="https://github.com/{{include.person.github}}" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
+        {% if include.person.stackoverflow %}<a href="https://stackoverflow.com/users/{{include.person.stackoverflow}}" title="StackOverflow"><i class="fab fa-stack-overflow"></i></a>{% endif %}
+        {% if include.person.speakerdeck %}<a href="https://speakerdeck.com/{{include.person.speakerdeck}}" title="SpeakerDeck"><i class="fab fa-speaker-deck"></i></a>{% endif %}
+        {% if include.person.linkedin %}<a href="https://www.linkedin.com/in/{{include.person.linkedin}}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>{% endif %}
+        {% if include.person.google_scholar %}<a href="https://scholar.google.com/citations?user={{include.person.google_scholar}}" title="Google Scholar"><i class="ai ai-google-scholar-square"></i></a>{% endif %}
+        {% if include.person.tudelft_research %}<a href="https://research.tudelft.nl/en/persons/{{include.person.tudelft_research}}" title="Publications"><i class="fas fa-edit"></i></a>{% endif %}
+        {% if include.person.researchgate %}<a href="https://www.researchgate.net/profile/{{include.person.researchgate}}" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>{% endif %}
+    </div>
+</div>
