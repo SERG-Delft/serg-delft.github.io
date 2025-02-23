@@ -47,6 +47,10 @@ speakerdeck:
 ---
 ```
 
+Also, add a picture of yourself to the [`img/people`](./img/people) directory.
+The file name should match that of the markdown file, but with a `.jpg` extension.
+The picture should be square-ish and have a resolution of at least 200x200 pixels and less than 600x600 pixels.
+
 Take a look at the existing files in the [`_people`](./_people) directory for examples.
 
 #### Adding master thesis topics
