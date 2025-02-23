@@ -25,6 +25,11 @@ collections:
   researchlines:
     output: true
     permalink: /research-lines/:title/
+  people:
+    output: true
+    published: false # don't publish people pages by default
+    permalink: /people/:title/
+    sort_by: surname
 
 plugins:
   - jekyll-sitemap
