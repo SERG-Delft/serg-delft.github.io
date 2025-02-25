@@ -92,3 +92,12 @@ export JEKYLL_VERSION=3.8.4
 # Build the web site
 docker run --rm -p4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll serve
 ```
+
+#### Running with docker-compose
+
+Docker Compose makes it even easier to start up the container. Run 
+
+```shell
+docker compose up
+``` 
+Stop with `Ctrl + C` when done.
