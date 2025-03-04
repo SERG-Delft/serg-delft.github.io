@@ -4,14 +4,11 @@ title: "SERG Seminar"
 categories: [events]
 start: "13:45"
 end: "14:45"
-speaker: Ziyou Li, Annibale Panichella
-where: "B28, Hilbert 2.W510"
+speaker: Annibale Panichella
+where: "Social Data Lab, B28"
 ---
 
-In this edition of our weekly SERG seminar we will have two speakers:
-
-**Ziyou Li** 
-topic TBA
+In this edition of our weekly SERG seminar we will have one speaker:
 
 **Annibale Panichella** will talk about his recently accepted (single author!) ICSE paper "Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks".
 
