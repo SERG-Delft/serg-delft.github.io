@@ -5,7 +5,7 @@ categories: [events]
 start: "13:45"
 end: "14:45"
 speaker: Mathieu Nassif
-where: "B28, Hilbert 2.W510"
+where: "Social Data Lab, B28"
 ---
 
 In this edition of our weekly SERG seminar we will have two speakers:
