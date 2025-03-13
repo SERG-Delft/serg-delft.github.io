@@ -4,13 +4,13 @@ title: "SERG Seminar"
 categories: [events]
 start: "13:45"
 end: "14:45"
-speaker: Mathieu Nassif, ?
+speaker: Ali Asgari, ?
 where: "Social Data Lab, B28"
 ---
 
 In this edition of our weekly SERG seminar we will have two speakers:
 
-**Mathieu Nassif**, topic TBA
+**Ali Asgari**, topic TBA
 
 **You?** 
 The second spot is still free! If you have a complimentary (not too similar) topic you'd like to present in our seminar, please poke Caro!
