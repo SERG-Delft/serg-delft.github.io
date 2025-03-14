@@ -3,13 +3,21 @@ title: Software Engineering Research Group at TU Delft
 layout: page
 carousels:
   - images:
-    - image: /img/serg-icse-lisbon-2024.jpg
+    - image: /img/group_photos/serg-icse-lisbon-2024.jpg
       text: "ICSE 2024 in Lisbon"
-    - image: /img/serg-halloween-2021.jpg
+    - image: /img/group_photos/faculty-retreat-spring2025.jpeg
+      text: "Faculty Retreat Spring 2025"
+    - image: /img/group_photos/serg-christmas-foto-2024.jpg
+      text: "Christmas 2024"
+    - image: /img/group_photos/groupretreat-fall-2023_fixed.jpeg
+      text: "Retreat Fall 2023"
+    - image: /img/group_photos/icse-2023.jpg
+      text: "ICSE 2023"
+    - image: /img/group_photos/serg-halloween-2021.jpg
       text: "Halloween 2021"
-    - image: /img/serg-retreat-antwerpen-2019.jpg
+    - image: /img/group_photos/serg-retreat-antwerpen-2019.jpg
       text: "Retreat Fall 2019 Antwerpen"
-    - image: /img/serg-retreat-2019.jpg
+    - image: /img/group_photos/serg-retreat-2019.jpg
       text: "Retreat Spring 2019"
 description: The Software Engineering Research Group at TU Delft
 ---
