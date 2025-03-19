@@ -1,7 +1,7 @@
 ---
 layout: research-line
-title: "Lightweight Formal Methods for Software Engineering"
-description: Bringing rigorous formal methods together with practical software engineering (FORSE).
+title: "Lightweight Formal Methods for Software Engineering (FORSE)"
+description: Bringing rigorous formal methods together with practical software engineering.
 responsible: "Burcu Kulahcioglu Ozkan"
 ---
 
