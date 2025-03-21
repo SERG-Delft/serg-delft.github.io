@@ -28,7 +28,7 @@ Diomidis Spinellis | Software analytics, software development tools | [1](https:
 Annibale Panichella | Software testing, search-based software engineering, test amplification , fuzzing, security testing | [Example theses][theses-annibale]
 Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][theses-seb]
 Burcu Kulahcioglu Ozkan | Software reliability for concurrent and distributed systems| [1](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [2](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [3](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62), [4](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046), [More](https://repository.tudelft.nl/islandora/search/contributor%3Aozkan?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22)
-Maliheh Izadi | ML4SE, Large Language Models (LLM) for code, Agents, Human-AI Interaction ( | [Example theses][theses-mali]
+Maliheh Izadi | ML4SE, Large Language Models (LLM) for code, Agents, Human-AI Interaction | [Example theses][theses-mali]
 Luís Cruz | Sustainable software engineering, AI Engineering  | [L1](https://link.springer.com/article/10.1007/s10664-019-09682-0#Sec2), [L2](https://arxiv.org/abs/2010.02716), [Theses][theses-luis]
 Rini van Solingen | Globally distributed software engineering, agile practices | [Example theses][theses-rini]
 
