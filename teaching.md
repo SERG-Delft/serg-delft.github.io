@@ -22,9 +22,9 @@ Code | Subject | Lecturer(s) | Materials
 [CSE1110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51299) | Software Quality and Testing | Maurício Aniche and Frank Mulder | [2019](https://serg-delft.github.io/cse1110-2019/)
 [CSE2115](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51714) | Software Engineering Methods | Annibale Panichella, and Frank Mulder | –
 [CSE2520](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51726) | Big Data Processing | Burcu Kulahcioglu Ozkan, and Diomidis Spinellis | [Materials](https://burcuku.github.io/cse2520-bigdata/), [Older versions](https://www.gousios.org/courses/bigdata/)
-[CSE3000](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55132) | BSc Research Thesis | All SERG faculty | See [MSc topics](msc-projects.html)  | –
+[CSE3000](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55132) | BSc Research Thesis | All SERG faculty | See [MSc topics](msc-projects.html)
 [CSE2000](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51713) | Software Project | All SERG faculty  | –
-<br/>
+
 
 ### Master of Computer Science and DSAIT
 
