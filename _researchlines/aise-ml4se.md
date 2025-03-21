@@ -52,10 +52,7 @@ Additionally, you can find our recent publications [here][mali-scholar].
 [CS4570: Machine Learning for Software Engineering][ml4se-course]
 Offered in both CS and DSAIT MSc programs.
 
-### AISE Team:
-#### Lab director
-[Maliheh Izadi][mali-website]
-
+### AISE Team (Lab Manager: [Maliheh Izadi][mali-website])
 #### PhD students
 - 2025: Razvan Popescu
 - 2024: [Ziyou Li][ziyou]
@@ -65,13 +62,13 @@ Offered in both CS and DSAIT MSc programs.
 - 2023: [Jonathan Katzy][jonathank]
 - 2022: [Ali Al-kaswan][alia]
 
-#### Research Assistants
-- 2024-2025: Roham Koohestani
-
 #### MSc Students
 - 2025: Nadine Kuo (intern at [JetBrains Research][jetbrains])
 - 2025: Venelina Pocheva (intern at [NXP][nxp])
 - 2025: Yash Mundhra (intern at [ASML][asml])
+
+#### Research Assistants
+- 2024-2025: Roham Koohestani
 
 #### Alumni
 - 2025: Razvan Popescu (MSc student, next a PhD candidate at TU Delft)
