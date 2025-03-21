@@ -2,7 +2,7 @@
 layout: research-line
 title: "Machine Learning for Software Engineering"
 description: How can machine/deep learning be used to improve complex software development tasks and increase developer productivity?
-responsible: "[Maliheh Izadi][mali-website]"
+responsible: "Maliheh Izadi"
 ---
 
 # Machine Learning for Software Engineering (ML4SE)
