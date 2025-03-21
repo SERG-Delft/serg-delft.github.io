@@ -32,7 +32,7 @@ Code | Subject | Teacher(s) | Materials
 |---|---|---|---|
 [IN4315](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51108) | Software Architecture | Arie van Deursen | [Materials](https://se.ewi.tudelft.nl/delftswa/index.html)
 [CS4110](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51125) | AI for Software Testing and Reverse Engineering | Sicco Verwer and Annibale Panichella
-[CS4570]([https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51117](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70144)) | Machine Learning for Software Engineering | Maliheh Izadi
+[CS4570](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70144) | Machine Learning for Software Engineering | Maliheh Izadi
 [CS4295](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56383) | Release Engineering for Machine Learning Applications | Sebastian Proksch and Luís Cruz
 [CS4720](https://www.studyguide.tudelft.nl/a101_displayCourse.do?course_id=70150) | Research in Program Analysis | Burcu Kulahcioglu Ozkan and Arie van Deursen
 [IN4185](http://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=45602) | Globally Distributed Software Engineering | Rini van Solingen
