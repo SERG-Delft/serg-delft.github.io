@@ -5,7 +5,7 @@ description: How can machine/deep learning be used to improve complex software d
 responsible: "Maliheh Izadi"
 ---
 
-### Broad topic category
+### Broad Topic Categories
 - AI-enabled Software Engineering (AISE)
 - Large language models (LLMs) for Code (opportunities and challenges)
 - Intelligent development tools
@@ -33,9 +33,8 @@ At the [AISE Lab](https://github.com/AISE-TUDelft), our research explores severa
 
 
 ### Industrial Collaborators/Funding
-- **JetBrains Research** through the AI4SE ICAI lab, leading Track 2 on [LLM adaptation for coding tasks][ai4se-track2] and Track 3 on [Interactive and Aligned IDEs in the LLM Era][ai4se-track3].
-- **Amazon Research Award** by Maliheh Izadi on ["Understanding and Regulating Memorization in Large Language Models for Code"][amazon-award]
-- MSc theses with ASML and NXP
+- Two fully-funded PhD positions funded by **JetBrains Research** through the AI4SE ICAI lab. Maliheh is leading two tracks; namely, [LLM adaptation for coding tasks][ai4se-track2] (track 2) and [Interactive and Aligned IDEs in the LLM Era][ai4se-track3] (track 3).
+- **Amazon Research Award** (personal grant) on ["Understanding and Regulating Memorization in Large Language Models for Code"][amazon-award]
 
 ### Awards
 - **ACM Distinguished Paper Award** at AIWare 2024 conference for our work on "A Transformer-Based Approach for Smart Invocation of Automatic Code Completion"
@@ -48,7 +47,7 @@ At the [AISE Lab](https://github.com/AISE-TUDelft), our research explores severa
 You can find relevant [AISE BSc and MSc theses][mali-theses] in the TU Delft repository.
 Additionally, you can find our recent publications [here][mali-scholar].
 
-## Related MSc Courses:
+### Related MSc Courses:
 [CS4570: Machine Learning for Software Engineering][ml4se-course]
 Offered in both CS and DSAIT MSc programs.
 
@@ -82,7 +81,7 @@ Offered in both CS and DSAIT MSc programs.
 - 2022-2023: Ali Al-kaswan (MSc student, now a PhD candidate at TU Delft)
 
 #### Contact
-If you have questions or are interested in joining the AISE lab, please reach out to [Maliheh Izadi][mailto:m.izadi@tudelft.nl].
+If you have questions or are interested in joining the AISE lab, please reach out to [Maliheh Izadi](mailto:m.izadi@tudelft.nl).
 
 [mali-website]: https://malihehizadi.github.io/PersonalWebsite/
 [alia]: https://aalkaswan.github.io/
