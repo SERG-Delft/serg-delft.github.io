@@ -1,7 +1,7 @@
 ---
 given_name: Maliheh
 surname: Izadi
-interests: AI-enabled SE, Large Language Models, Recommender Systems, NLP
+interests: AI-enabled SE, Large Language Models, Evaluations, Agents
 
 current_affiliation: SERG
 role: Faculty
