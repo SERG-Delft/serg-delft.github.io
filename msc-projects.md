@@ -4,6 +4,8 @@ title: Master thesis projects
 description: Master Thesis projects available at the Software Engineering Research Group
 ---
 
+*For up-to-date information on the MSc research areas, please have a look at Projectforum for [CS](https://projectforum.tudelft.nl/course_editions/13/real_themes/1019) and [DSAIT](https://projectforum.tudelft.nl/course_editions/119/real_themes/1009).*
+
 ### Finding a Thesis Project
 
 For students participating in the TU Delft computer science and DSAIT master's programs, we have several openings for research thesis projects. Usually these topics can also be adjusted to fit in the scope of a BSc research project.
@@ -27,18 +29,23 @@ Andy Zaidman | Software testing, software evolution, repository mining | [Exampl
 Diomidis Spinellis | Software analytics, software development tools | [1](https://doi.org/10.1109/MSR.2019.00085), [2](https://doi.org/10.1145/3338906.3342491), [3](https://dx.doi.org/10.1145/3183519.3183545), [4](https://dx.doi.org/10.1016/j.cose.2008.09.005)
 Annibale Panichella | Software testing, search-based software engineering, test amplification , fuzzing, security testing | [Example theses][theses-annibale]
 Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][theses-seb]
-Burcu Kulahcioglu Ozkan | Software reliability for concurrent and distributed systems| [1](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [2](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [3](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62), [4](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046), [More](https://repository.tudelft.nl/islandora/search/contributor%3Aozkan?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22)
+Burcu Kulahcioglu Ozkan | Software reliability for concurrent and distributed systems| [1](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [2](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [3](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62), [4](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046), [More](https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=Burcu+Ozkan)
 Maliheh Izadi | ML4SE, Large Language Models (LLM) for code, Agents, Human-AI Interaction | [Example theses][theses-mali]
+Carolin Brandt | Human- and Developer-centred Software Engineering, Software Quality | [Example theses][theses-caro]
+Mitchell Olsthoorn | Artificial Intelligence (AI) and Large Language Models (LLM) for Software Testing, Security Testing | [Example theses][theses-mitchell]
 Luís Cruz | Sustainable software engineering, AI Engineering  | [L1](https://link.springer.com/article/10.1007/s10664-019-09682-0#Sec2), [L2](https://arxiv.org/abs/2010.02716), [Theses][theses-luis]
 Rini van Solingen | Globally distributed software engineering, agile practices | [Example theses][theses-rini]
 
-[theses-arie]: https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
-[theses-andy]: https://repository.tudelft.nl/islandora/search/contributor%3Azaidman?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
-[theses-annibale]: https://repository.tudelft.nl/islandora/search/contributor%3Apanichella?collection=education
-[theses-seb]: https://repository.tudelft.nl/islandora/search/contributor%3Aproksch?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
-[theses-luis]: https://repository.tudelft.nl/islandora/search/contributor%3Acruz?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-arie]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=arie+van+deursen
+[theses-andy]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=andy+zaidman
+[theses-annibale]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=annibale+panichella
+[theses-seb]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=sebastian+proksch
+[theses-luis]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=luis+cruz
 [theses-mali]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=maliheh+izadi
-[theses-rini]: https://repository.tudelft.nl/islandora/search/contributor%3Asolingen?collection=education&f%5B0%5D=mods_genre_s%3A%22master%5C%20thesis%22
+[theses-rini]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=rini+van+solingen
+[theses-caro]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=carolin+brandt
+[theses-mitchell]: https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=mitchell+olsthoorn
+
 
 <!-- Maybe add some student papers as well, e.g., ICSE 2018, ICSE SEIP, MSR, TSE, ...
 Maurício Aniche | Software maintenance and testing, empirical software engineering | [Example theses][theses-mauricio]
