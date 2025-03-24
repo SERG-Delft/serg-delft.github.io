@@ -28,8 +28,7 @@ Code | Subject | Instructors | Materials
 
 ### Master of Computer Science and DSAIT
 
-Code | Subject | Code | Subject | Instructors | Materials
- | Materials
+Code | Subject | Instructors | Materials
 |---|---|---|---|
 [CS4505](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4505&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Architecture | Arie van Deursen and Diomidis Spinellis | [Materials](https://se.ewi.tudelft.nl/delftswa/index.html)
 [DSAIT4015](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=DSAIT4015&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Engineering and Testing for AI Systems | Annibale Panichella and Cynthia Liem
