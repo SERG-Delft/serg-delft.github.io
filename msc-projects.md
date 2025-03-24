@@ -10,7 +10,7 @@ description: Master Thesis projects available at the Software Engineering Resear
 
 For students participating in the TU Delft computer science and DSAIT master's programs, we have several openings for research thesis projects. Usually these topics can also be adjusted to fit in the scope of a BSc research project.
 
-All MSc projects are aligned with our research. They often are connected to one of our ongoing [research projects](research.html), but we also frequently use MSc projects to explore new research directions. Projects can be conducted at:
+All MSc projects are aligned with our research. They often are connected to one of our ongoing [research projects](research), but we also frequently use MSc projects to explore new research directions. Projects can be conducted at:
 - TU Delft in our own research labs, in close collaboration with our postdocs and PhD students
 - Industry (as part of an internship), usually with companies (in The Netherlands or abroad) with which we have an ongoing research collaboration (e.g., JetBrains, ING, SIG, Adyen, ATOS, XWiki, Microsoft, Google, Meta, Infotron, ...)
 - Other (international) universities -- we have a rich network of academic friends around the world.
@@ -32,7 +32,7 @@ Sebastian Proksch | Empirical software engineering, DevOps | [Example theses][th
 Burcu Kulahcioglu Ozkan | Software reliability for concurrent and distributed systems| [1](https://repository.tudelft.nl/islandora/object/uuid%3A5ac105ac-f2d0-4891-8b20-f5caae141854), [2](https://repository.tudelft.nl/islandora/object/uuid%3A28878472-f58d-42ad-b889-ef5e23d3d129), [3](https://repository.tudelft.nl/islandora/object/uuid%3A748773c5-9651-49db-a694-7c157a8adc62), [4](https://repository.tudelft.nl/islandora/object/uuid%3A40833173-cbe2-497f-8a44-6ea35e65e046), [More](https://repository.tudelft.nl/search?object_type=master_thesis%2Bbachelor_thesis%2Bstudent_report&search_by=content&keyword=&collection=&file_extension=&search_term=Burcu+Ozkan)
 Maliheh Izadi | ML4SE, Large Language Models (LLM) for code, Agents, Human-AI Interaction | [Example theses][theses-mali]
 Carolin Brandt | Human- and Developer-centred Software Engineering, Software Quality | [Example theses][theses-caro]
-Mitchell Olsthoorn | Artificial Intelligence (AI) and Large Language Models (LLM) for Software Testing, Security Testing | [Example theses][theses-mitchell]
+Mitchell Olsthoorn | Artificial Intelligence (AI) and Large Language Models (LLM) for Software Testing, Security Testing | [1](https://repository.tudelft.nl/record/uuid:abbcd2b6-e2b9-44ca-a9e3-a348d5057063), [2](https://repository.tudelft.nl/record/uuid:30ff4dfd-9e26-4638-9116-dbc20626e9a4), [3](https://repository.tudelft.nl/record/uuid:4ce70a5f-777a-4b9a-9b37-1fe39ea1f98f), [4](https://repository.tudelft.nl/record/uuid:8fcb91db-8d82-402e-938e-72c3cf73f805), [More][theses-mitchell]
 Luís Cruz | Sustainable software engineering, AI Engineering  | [L1](https://link.springer.com/article/10.1007/s10664-019-09682-0#Sec2), [L2](https://arxiv.org/abs/2010.02716), [Theses][theses-luis]
 Rini van Solingen | Globally distributed software engineering, agile practices | [Example theses][theses-rini]
 
@@ -69,7 +69,7 @@ Under certain conditions it can also be possible to propose your project.
 In those cases, it is important to 
 
 - Study several [existing MSc theses](#supervisors).
-- Identify an ongoing [research project](research.html) to which your proposal is connected.
+- Identify an ongoing [research project](research) to which your proposal is connected.
 
 In particular, you need to carefully think about the research component of your proposal, and have a clear idea on why your proposal is novel -- it should advance the world's knowledge in software engineering.
 If you wish to pursue this route it is advisable to select and contact a possible [supervisor](#supervisor) as early as possible.

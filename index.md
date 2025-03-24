@@ -71,7 +71,7 @@ source tools whenever possible.
 <image src="img/lecture.jpg" style="float:right; width:300px; border:1px solid #000" alt="A lecture by SERG"/>
 
 We have a passion for teaching and a deep desire to share what we learn about software engineering
-with our students. Our [teaching activities](teaching.html) include:
+with our students. Our [teaching activities](teaching) include:
 
 - Undergraduate courses in the TU Delft bachelor in computer science, covering such topics as object-oriented programming, various projects, software testing, big data processing, and software engineering.
 

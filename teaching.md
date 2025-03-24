@@ -15,7 +15,7 @@ We offer a variety of courses in the TU Delft bachelor [Computer Science and Eng
 
 ### Bachelor of Computer Science and Engineering
 
-Code | Subject | Lecturer(s) | Materials
+Code | Subject | Instructors | Materials
 |---|---|---|---|
 [CSE1100](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE1100&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Introduction to Programming | Andy Zaidman and Thomas Overklift  | –
 [CSE1105](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE1105&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Collaborative Software Engineering Project | Sebastian Proksch and Ivar de Bruin | –
@@ -28,7 +28,8 @@ Code | Subject | Lecturer(s) | Materials
 
 ### Master of Computer Science and DSAIT
 
-Code | Subject | Teacher(s) | Materials
+Code | Subject | Code | Subject | Instructors | Materials
+ | Materials
 |---|---|---|---|
 [CS4505](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4505&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Architecture | Arie van Deursen and Diomidis Spinellis | [Materials](https://se.ewi.tudelft.nl/delftswa/index.html)
 [DSAIT4015](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=DSAIT4015&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Engineering and Testing for AI Systems | Annibale Panichella and Cynthia Liem

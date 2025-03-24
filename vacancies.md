@@ -27,7 +27,7 @@ The Ph.D. position will focus on the research and development of solutions to te
 
 This project is a collaboration between the Multimedia Computing (MMC) Group at the Intelligent Systems (INSY) Department, and the Software Engineering Research Group (SERG) at the Software Technology (ST) Department. The INSY and ST departments closely work together in the faculty’s Computer Science research and education.
 
-[I want to know more...](vacancies/testing4ai.html)
+[I want to know more...](vacancies/testing4ai)
 
 **Contact:** Annibale Panichella (a.panichella@tudelft.nl)
 
@@ -40,6 +40,6 @@ The PhD project aims to develop program analysis and testing techniques for impr
 
 The project lies in the intersection of software testing, program analysis, and distributed systems. The prospective PhD student is expected to do high-quality research involving both theory and implementation: getting a deep understanding of theoretical abstractions of fault-tolerant systems and developing novel software analysis and testing techniques.
 
-[I want to know more...](vacancies/testds.html)
+[I want to know more...](vacancies/testds)
 
 **Contact:** Burcu Kulahcioglu Ozkan (b.ozkan@tudelft.nl)
