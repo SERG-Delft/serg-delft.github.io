@@ -10,7 +10,7 @@ description: Master Thesis projects available at the Software Engineering Resear
 
 For students participating in the TU Delft computer science and DSAIT master's programs, we have several openings for research thesis projects. Usually these topics can also be adjusted to fit in the scope of a BSc research project.
 
-All MSc projects are aligned with our research. They often are connected to one of our ongoing [research projects](research), but we also frequently use MSc projects to explore new research directions. Projects can be conducted at:
+All MSc projects are aligned with our research. They often are connected to one of our ongoing [research projects](/research), but we also frequently use MSc projects to explore new research directions. Projects can be conducted at:
 - TU Delft in our own research labs, in close collaboration with our postdocs and PhD students
 - Industry (as part of an internship), usually with companies (in The Netherlands or abroad) with which we have an ongoing research collaboration (e.g., JetBrains, ING, SIG, Adyen, ATOS, XWiki, Microsoft, Google, Meta, Infotron, ...)
 - Other (international) universities -- we have a rich network of academic friends around the world.
@@ -57,7 +57,7 @@ Thomas Durieux | Software maintenance, software evolution, repository mining |
 
 ### Composing your Study Program
 
-If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](teaching.html#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture, software analytics, or software testing and reverse engineering courses.
+If you plan to conduct your MSc project at SERG, you will need to include at least two of the CS [MSc courses](/teaching#msc) SERG teaches in your IEP (Individual Exam Program). We strongly recommend you to follow our software architecture, software analytics, or software testing and reverse engineering courses.
 Besides our own software engineering-related courses, when choosing the electives in your program you can consider including courses in such areas as machine learning, computational intelligence, data science, compiler construction, distributed systems, or security.
 
 Optionally, you can start your research with a 7-8 week literature survey (IN4306, 10EC). This assignment is concluded with a report containing an overview of the state-of-the-art in a particular branch of research.
@@ -69,10 +69,10 @@ Under certain conditions it can also be possible to propose your project.
 In those cases, it is important to 
 
 - Study several [existing MSc theses](#supervisors).
-- Identify an ongoing [research project](research) to which your proposal is connected.
+- Identify an ongoing [research project](/research) to which your proposal is connected.
 
 In particular, you need to carefully think about the research component of your proposal, and have a clear idea on why your proposal is novel -- it should advance the world's knowledge in software engineering.
-If you wish to pursue this route it is advisable to select and contact a possible [supervisor](#supervisor) as early as possible.
+If you wish to pursue this route it is advisable to select and contact a possible [supervisor](#supervisors) as early as possible.
 
 ### Writing your Thesis
 

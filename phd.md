@@ -7,6 +7,12 @@ description: Doctoral dissertations completed within the Software Engineering Re
 Doctoral dissertations completed within the Software Engineering Research Group, and defended at Delft University of Technology are listed below.
 All dissertations are available from the [TU Delft repository](https://repository.tudelft.nl/islandora/search/contributor%3Adeursen?collection=research&f%5B0%5D=mods_genre_s%3A%22doctoral%5C%20thesis%22&display=tud_default).
 
+1. Amir Mir. [Machine Learning-assisted Software Analysis](https://doi.org/10.4233/uuid:2d59214f-2d2f-48f0-ae10-003fd3b83e61). February 2025. Advisors: Sebastian Proksch and Arie van Deursen.
+1. Leonhard Applis. [Tool-Driven Quality Assurance for Functional Programming and Machine Learning](https://doi.org/10.4233/uuid:4d048249-e59d-4a82-9e11-714b2b25163f). October 2024. Advisors: Annibale Panichella and Arie van Deursen.
+1. Mehdi Keshani. [Enhancing the Security of Software Supply Chains: Methods and Practices](https://doi.org/10.4233/uuid:e0c6d9a9-9249-4890-8f48-374bd5f49b5d). October 2024. Advisors: Sebastian Proksch and Arie van Deursen.
+1. Carolin Brandt. [Test Amplification For and With Developers](https://doi.org/10.4233/uuid:aedfd7b6-f9ae-4b76-9122-29e43995d36f). July 2024. _Cum laude_. Adivsors: Andy Zaidman and Arie van Deursen.
+1. Mitchell Olsthoorn. [More Effective Test Case Generation with Multiple Tribes of AI](https://doi.org/10.4233/uuid:14dde577-54bb-46a8-a61a-85a940e416e2). June 2024. _Cum laude_. Advisors: Annibale Panichella and Arie van Deursen.
+1. Joseph Hejderup. [Fine-Grained Analysis of Software Supply Chains](https://doi.org/10.4233/uuid:0c46d4a2-148f-4661-a196-6be7bcc7b9db). May 2024. Advisors: Georgios Gousios and Arie van Deursen.
 1. Chandra Sekhar Maddila. [Recommender Systems for DevOps](https://doi.org/10.4233/uuid:769d3d81-8a84-4f59-80a6-2d237aa878a4). December 2022. Advisors: Arie van Deursen, Nachiappan Nagappan, and Georgios Gousios.
 1. Bas Jansen. [XLBlocks: On the Effect of a Visual Language on Formula Creation and Comprehension in Spreadsheets](https://doi.org/10.4233/uuid:2df1b141-cd35-41e8-abde-9910134bbda0). September 2022. Advisors: Felienne Hermans and Arie van Deursen
 1. Pouria Derakhshanfar. [Carving Information Sources to Drive Search-Based Crash Reproduction and Test Case Generation](https://doi.org/10.4233/uuid:aac5f17a-63d5-45c7-9570-3cea057cd016). April 2021. Advisors: Andy Zaidman, Annibale Panichella, and Arie van Deursen
@@ -17,8 +23,7 @@ All dissertations are available from the [TU Delft repository](https://repositor
 1. Anand Ashok Sawant. [The impact of API evolution on API consumers and how this can be affected by API producers and language designers](https://doi.org/10.4233/uuid:3d7bc400-2447-4a88-8768-3025d7b54b7f). October 2019. Advisors: Alberto Bacchelli and Arie van Deursen.
 1. Alaaeddin Swidan. [Challenges of end-user programmers: Reflections from two groups of end-users](https://repository.tudelft.nl/islandora/object/uuid:01110abf-6e9e-4518-abd3-c4e0daa13f6f?collection=research). September 2019. Advisors: Felienne Hermans and Arie van Deursen.
 1. Moritz Beller. [An Empirical Evaluation of Feedback-Driven Software Development](https://doi.org/10.4233/uuid:b2946104-2092-42bb-a1ee-3b085d110466). November 2018. _Cum laude_. Advisors: Andy Zaidman, Georgios Gousios, and Arie van Deursen.
-1. Hennie Huijgens. [Evidence-Based Software Portfolio Management
-](https://doi.org/10.4233/uuid:f8fa946a-0178-40e7-bf9c-b91962698481). February 2018.
+1. Hennie Huijgens. [Evidence-Based Software Portfolio Management](https://doi.org/10.4233/uuid:f8fa946a-0178-40e7-bf9c-b91962698481). February 2018.
 Advisors: Arie van Deursen, Rini van Solingen
 1. Nicolas Dintzner. [Feature-Oriented Evolution of Variant-rich Software Systems](https://doi.org/10.4233/uuid:d23770ce-51ad-43d3-960b-3fa2ad7623f1). July 2017. Advisors: Arie van Deursen and Martin Pinzger.
 1. Petra Heck. [Quality of Just-in-Time Requirements: Just-Enough and Just-in-Time](https://doi.org/10.4233/uuid:5890f1cb-2a90-4bfa-83ba-81b602dca0d5). March 2016. Advisors: Andy Zaidman and Arie van Deursen

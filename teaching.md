@@ -13,6 +13,7 @@ We offer a variety of courses in the TU Delft bachelor [Computer Science and Eng
 [minor]: https://www.tudelft.nl/en/eemcs/study/minors/computer-science/
 [edx]: https://www.edx.org/school/delftx
 
+<a id="bsc"></a>
 ### Bachelor of Computer Science and Engineering
 
 Code | Subject | Instructors | Materials
@@ -26,6 +27,7 @@ Code | Subject | Instructors | Materials
 [CSE3000](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE3000&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | BSc Research Thesis | All SERG faculty | See [MSc topics](/msc-projects)
 
 
+<a id="msc"></a>
 ### Master of Computer Science and DSAIT
 
 Code | Subject | Instructors | Materials
@@ -43,9 +45,10 @@ Code | Subject | Instructors | Materials
 
 <br/>
 
+<a id="minor"></a>
 ### Computer Science Minor 
 
-Code | Subject | Lecturer(s) | Materials
+Code | Subject | Instructors | Materials
 |---|---|---|---|
 [TI3115TU](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=TI3115TU&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Engineering Methods | Maliheh Izadi 
 
@@ -57,7 +60,7 @@ Code | Subject | Lecturer(s) | Materials
 <image src="img/edx-testing.png" style="float:right; width:300px; border:1px solid #000"/>
 -->
 
-Code | Subject | Lecturer(s)
+Code | Subject | Instructors
 |---|---|---|
 [UnixTx][UnixTx2021] | Unix Tools: Data, Software and Production Engineering | Diomidis Spinellis
 [AIx][AIx2021] | AI in Practice: Applying AI | Hennie Huijgens, Arie van Deursen, Elvan Kula

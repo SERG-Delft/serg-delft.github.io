@@ -18,7 +18,7 @@ Within our research lines, ongoing funded research projects include:
 
 Start | Name | Project Title | Funding | SERG Principal Investigators
 ------|------|---------------|---------|------------------------
-2024 | [ARA](Amazon.science/research-awards/recipients/maliheh-izadi) | Memorization in LLMs for Code | [Amazon Science](https://www.amazon.science/) | Maliheh Izadi
+2024 | [ARA](https://www.Amazon.science/research-awards/recipients/maliheh-izadi) | Memorization in LLMs for Code | [Amazon Science](https://www.amazon.science/) | Maliheh Izadi
 2023 | [AI4SE](https://se.ewi.tudelft.nl/ai4se/) | AI for Software Engineering | [JetBrains Research](https://www.jetbrains.com/research/) | Maliheh Izadi, Annibale Panichella, Arie van Deursen
 2021 | [COSMOS](https://www.cosmos-devops.org) | DevOps and testing for Cyber-physical systems | EU H2020 | Annibale Panichella
 2019 | [AFR](https://se.ewi.tudelft.nl/ai4fintech/)  | AI for Fintech Research | [ING](https://www.ing.com/Home.htm)  | Arie van Deursen
