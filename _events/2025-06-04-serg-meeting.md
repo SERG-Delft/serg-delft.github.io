@@ -4,13 +4,13 @@ title: "SERG Seminar"
 categories: [events]
 start: "13:45"
 end: "14:45"
-speaker: François Bechet, ?
+speaker: Shujun Huang, ?
 where: "Social Data Lab, B28"
 ---
 
 In this edition of our weekly SERG seminar we will have two speakers:
 
-**François Bechet** will share the results of his ongoing work during his visit to our research group.
+**Shujun Huang**, topic TBA
 
 **You?** 
 The second spot is still free! If you have a complimentary (not too similar) topic you'd like to present in our seminar, please poke Caro!
