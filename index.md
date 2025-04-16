@@ -7,6 +7,8 @@ carousels:
       text: "ICSE 2024 in Lisbon"
     - image: /img/group_photos/faculty-retreat-spring2025.jpeg
       text: "Faculty Retreat Spring 2025"
+    - image: /img/group_photos/luis-last-day-april-2025-fun.jpg
+      text: "April 2025 @ the Office"
     - image: /img/group_photos/serg-christmas-foto-2024.jpg
       text: "Christmas 2024"
     - image: /img/group_photos/groupretreat-fall-2023_fixed.jpeg
