@@ -8,11 +8,11 @@ role: Faculty
 start_date:
 end_date:
 
-website_url: https://malihehizadi.github.io/PersonalWebsite/
+website_url: https://malihehizadi.github.io/
 github: MalihehIzadi
 linkedin: malihe-izadi
 google_scholar: F2D5RawAAAAJ
-xdotcom: malihehizadi
+xdotcom:
 stackoverflow:
 tudelft_research: m-izadi
 mastodon:
