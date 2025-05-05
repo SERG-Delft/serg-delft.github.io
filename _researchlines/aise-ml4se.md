@@ -18,28 +18,28 @@ In recent years, Machine Learning and AI technologies have made remarkable strid
 
 Most recently, Transformer-based LLMs and other deep neural networks have been employed to tackle key challenges in Software Engineering, such as code generation, automated program repair, code summarization, structural code representations, and defect prediction.
 
-At the [AISE Lab](https://github.com/AISE-TUDelft), our research explores several topics at the intersection of AI and Software Engineering, including:
+At the [AISE Lab](https://malihehizadi.github.io/aise/), our research explores several topics at the intersection of AI and Software Engineering, including:
 
-- **LLMs for Code Generation, Summarization, Refactoring, and Bug Fixing**: Leverage LLMs to accelerate various development tasks.
-- **Human-AI Collaboration in IDEs**: Design intuitive IDE interfaces and workflows that foster seamless collaboration between developers and GenAI assistants, maximizing productivity and usability.
-- **Explainability in Code LLMs**: Improve the transparency of LLM-generated suggestions to enhance developer trust and facilitate understanding of model behavior.
-- **Mitigating Memorization and Hallucination**: Investigate strategies to reduce factual inaccuracies, hallucinated code, and overfitting in LLM outputs, ensuring reliability in practical applications.
-- **Domain-Specific Adaptation of LLMs**: Fine-tune models to specific domains or codebases to improve contextual relevance, precision, and performance.
-- **Longitudinal Evaluation and Benchmarking of Code LLMs**: Study the long-term performance of LLMs across languages, tools, and developer workflows. Develop comprehensive benchmarks to assess and compare LLM effectiveness in diverse software engineering tasks.
-- **Autonomous Software Engineering Agents**: Build intelligent, task-driven agents capable of independently executing and managing software engineering workflows.
-- **Automated Issue-Commit Linking**: Develop techniques to automatically associate commits with relevant issues, enhancing traceability and project maintainability.
-- **Intelligent Issue Report Management**: Automate issue triaging, assignment, and resolution support using LLMs to streamline project workflows and boost developer efficiency.
-- **Automated Documentation Generation**: Use LLMs to synthesize high-quality, human-readable documentation from codebases, commit history, and other project artifacts.
+**Intelligent systems for software creation with large language models**: Exploring how generative technologies can support and transform key aspects of software development workflows across diverse contexts and coding tasks, including code generation, summarization, refactoring, and bug fixing.
+
+**Trust, Transparency, and Model Behavior**: Investigating challenges around explainability, hallucination, memorization, and aligned behavior in learning-based systems as they integrate into developer-facing tools.
+
+**Evaluating Generative Capabilities in Practice**: Developing strategies to assess evolving generative systems across tasks, time, and toolchains, with a focus on actionable insights and practical relevance.
+
+**Hybrid Intelligence in Development Environments**: Designing future collaboration paradigms between human developers and adaptive, assistive systems, ranging from conversational interfaces to agentic behavior.
+
+**Learning from software histories at scale**: Using large-scale project data to uncover patterns, enable automation, and shape more intelligent development support systems, including issue report management, triage, and automated documentation.
 
 
 ### Industrial Collaborators/Funding
-- Two fully-funded PhD positions funded by **JetBrains Research** through the AI4SE ICAI lab. Maliheh is leading two tracks; namely, [LLM adaptation for coding tasks][ai4se-track2] (track 2) and [Interactive and Aligned IDEs in the LLM Era][ai4se-track3] (track 3).
 - **Amazon Research Award** (personal grant) on ["Understanding and Regulating Memorization in Large Language Models for Code"][amazon-award]
+- Two fully-funded PhD positions funded by **JetBrains Research** through the AI4SE ICAI lab. Maliheh is leading two tracks; namely, [LLM adaptation for coding tasks][ai4se-track2] (track 2) and [Interactive and Aligned IDEs in the LLM Era][ai4se-track3] (track 3).
 
 ### Awards
+- **ACM Distinguished Paper Award** at MSR 2025 conference for our work on "How Much Do Code Language Models Remember? An Investigation on Data Extraction Attacks before and after Fine-tuning"
 - **ACM Distinguished Paper Award** at AIWare 2024 conference for our work on "A Transformer-Based Approach for Smart Invocation of Automatic Code Completion"
 - **Best Tool Award** at NLBSE for code comment classification (2023)
-- **Best Attack** for extracting training data from LLMs at the SatML conference (2023).
+- **Best Attack Award** for extracting training data from LLMs at the SatML conference (2023).
 - **Best Tool Award** at NLBSE for issue report management (2022).
 
 
@@ -53,8 +53,8 @@ Offered in both CS and DSAIT MSc programs.
 
 ### AISE Team (Lab Manager: [Maliheh Izadi][mali-website])
 #### PhD students
-- 2025: Razvan Popescu
-- 2024: [Ziyou Li][ziyou]
+- 2025: [Razvan Popescu][razvanp]
+- 2024: [Ziyou Li][ziyoul]
 - 2024: [Daniele Cipollone][danielec]
 - 2024: [Agnia Sergeyuk][agnias]
 - 2024: [Egor Bogomolov][egorb]
@@ -67,13 +67,13 @@ Offered in both CS and DSAIT MSc programs.
 - 2025: Yash Mundhra (intern at [ASML][asml])
 
 #### Research Assistants
-- 2024-2025: Roham Koohestani
+- 2024-2025: [Roham Koohestani][rohamk]
 
 #### Alumni
 - 2025: Razvan Popescu (MSc student, next a PhD candidate at TU Delft)
 - 2024: Andrei Ionesco (interned at [JetBrains Research][jetbrains], next an intern at [Microsoft][microsoft])
-- 2023-2024: [Aral de Moor][arald] (BSc student+Scientific developer, next a machine learning engineer at [JetBrains Research][jetbrains])
-- 2024: Fabio Salerno (Visiting MSc student), next software engineer at Blue Reply
+- 2023-2024: [Aral de Moor][arald] (BSc student and scientific developer, next machine learning engineer at [JetBrains Research][jetbrains])
+- 2024: Fabio Salerno (Visiting MSc student), next software engineer at Stema, Italy
 - 2022-2024: Tim van Dam (MSc student, interned at [JetBrains Research][jetbrains])
 - 2022-2024: Frank van der Heijden (MSc student, interned at [JetBrains Research][jetbrains])
 - 2023-2024: Philippe de Bekker (MSc student, next software engineer at [Booking.com][booking])
@@ -83,14 +83,16 @@ Offered in both CS and DSAIT MSc programs.
 #### Contact
 If you have questions or are interested in joining the AISE lab, please reach out to [Maliheh Izadi](mailto:m.izadi@tudelft.nl).
 
-[mali-website]: https://malihehizadi.github.io/PersonalWebsite/
+[mali-website]: https://malihehizadi.github.io/
 [alia]: https://aalkaswan.github.io/
 [jonathank]: https://jkatzy.nl/
 [egorb]: https://scholar.google.com/citations?user=rxacRcwAAAAJ&hl=en
 [agnias]: https://scholar.google.com/citations?user=EHnCIIwAAAAJ&hl=en
 [arald]: https://aral.cc/
 [danielec]: https://www.linkedin.com/in/dancip00/
-[ziyou]: https://li-ziyou.github.io/
+[ziyoul]: https://li-ziyou.github.io/
+[razvanp]: https://razvain.github.io/
+[rohamk]: https://rohamkoohestani.com/
 [nxp]: https://www.nxp.com/
 [asml]: https://www.asml.nl/
 [jetbrains]: https://www.jetbrains.com/research/
