@@ -5,6 +5,8 @@ carousels:
   - images:
     - image: /img/group_photos/serg-icse-lisbon-2024.jpg
       text: "ICSE 2024 in Lisbon"
+    - image: /img/group_photos/serg-at-icse2025.jpg
+      text: "ICSE 2025 in Ottawa"
     - image: /img/group_photos/faculty-retreat-spring2025.jpeg
       text: "Faculty Retreat Spring 2025"
     - image: /img/group_photos/luis-last-day-april-2025-fun.jpg
@@ -21,6 +23,8 @@ carousels:
       text: "Retreat Fall 2019 Antwerpen"
     - image: /img/group_photos/serg-retreat-2019.jpg
       text: "Retreat Spring 2019"
+    - image: /img/group_photos/serg-delft-2009.jpg
+      text: "Group photo by Eelco Visser, in 2009"
 description: The Software Engineering Research Group at TU Delft
 ---
 
