@@ -5,7 +5,7 @@ categories: [events]
 start: "13:45"
 end: "14:45"
 speaker: Cathrine Paulsen
-where: 
+where: "Hilbert 2.W510, B28"
 ---
 
 In this edition of our weekly SERG seminar we will have two speakers:
