@@ -3,7 +3,7 @@ given_name: Luís
 surname: Cruz
 interests: Green SE, AI Engineering
 
-role: Faculty
+role: Part Time Faculty
 
 website_url: https://luiscruz.github.io/
 github: luiscruz
