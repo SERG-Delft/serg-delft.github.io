@@ -1,7 +1,7 @@
 ---
 given_name: Razvan
 surname: Popescu
-interests: Robust Datasests for LLM4Code
+interests: AI-enabled SE
 
 current_affiliation: SERG
 role: PhD Student
