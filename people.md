@@ -32,6 +32,7 @@ description: People in the Software Engineering Research Group
 
 | Name                                                                                           | Period    | Role                           | Current Affiliation                                                                                                                                               |
 |------------------------------------------------------------------------------------------------|-----------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Elvan Kula](https://www.linkedin.com/in/elvan-kula/) | 2019-2025 | PhD | Schiphol | 
 | [Georgios Gousios](https://gousios.gr) | 2012-2025 | Associate Professor | Endor Labs | 
 | [Amir M. Mir](https://www.linkedin.com/in/mir93/)                                              | 2019-2025 | PhD                            | Independent                                                                                                                                                       |
 | [Imara van Dinten](https://www.imaravandinten.com)                                             | 2021-2025 | PhD                            | Now at Multimedia Computing group @ TU Delft.                                                                                                                     |
