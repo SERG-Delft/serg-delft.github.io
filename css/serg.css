@@ -120,6 +120,18 @@ h3 {
   margin: 0rem;
 }
 
+/* Group Pictures */
+
+.group-picture {
+  max-width: 1200px;
+  max-height: 400px;
+}
+
+.card-deck .group-picture-card {
+  min-width: 30rem;
+  max-width: 60rem;
+}
+
 /* Tables, for examples used for listing research projects. */
 
 th, td {

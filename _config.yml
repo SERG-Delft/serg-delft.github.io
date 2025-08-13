@@ -30,6 +30,11 @@ collections:
     published: false # don't publish people pages by default
     permalink: /people/:title/
     sort_by: surname
+  group_pictures:
+    output: true
+    published: false
+    permalink: /group-picture/:title/
+    sort_by: year
 
 plugins:
   - jekyll-sitemap

@@ -1,0 +1,12 @@
+{% comment %}
+    This is a card for a group picture. It is used in the group pictures page.
+    Pass the parameter `picture` to this include to render the card.
+{% endcomment %}
+
+<div class="card group-picture-card">
+    <img class="card-img-top group-picture" src="/img/group_photos/{{include.picture.slug}}.jpg" alt="{{ include.picture.event }} {{ include.picture.location }}">
+    <div class="card-body">
+        <!-- <div class="card-title">{{ include.picture.event }} {{ include.picture.location }}</div> -->
+        <p class="card-text">{{ include.picture.event }} {{ include.picture.location }}</p>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+{% comment %}
+This is a card deck for a list of group pictures. It is used in the group pictures page.
+Pass the parameter "heading" to this include to render a heading.
+Pass the parameter `pictures` to this include to render the card.
+{% endcomment %}
+
+{% if include.pictures.size > 0 %}
+{% if include.heading %}
+### {{ include.heading }}
+{% endif %}
+<div class="card-deck mb-4">
+{% for picture in include.pictures %}
+    {% include group-picture-card.html picture=picture %}
+{% endfor %}
+</div>
+{% endif %}
