@@ -7,9 +7,9 @@ role: PhD Student
 start_date: 01-09-2025
 end_date:
 
-website_url:
+website_url: https://github.com/lililuanluan
 email: L.Li-12@tudelft.nl
-github: https://github.com/lililuanluan
+github: lililuanluan
 linkedin:
 google_scholar:
 xdotcom:
