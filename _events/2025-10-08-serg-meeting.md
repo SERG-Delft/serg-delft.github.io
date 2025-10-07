@@ -10,7 +10,7 @@ where: "2.W510 Hilbert"
 
 In this edition of our weekly SERG seminar, we will hear from:
 
-**Pooja Rani**, Senior Resarch at the University of Zurich.
+**Pooja Rani**, Senior Researcher at the University of Zurich.
 
 Her talk is titled: "Can UI Design Make Users Energy Aware?"
 
