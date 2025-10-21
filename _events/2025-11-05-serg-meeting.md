@@ -11,7 +11,7 @@ where: "Turing, ground floor B28"
 In this edition of our weekly SERG seminar, we will hear from:
 
 **Ziyou Li** about his research in the first PhD year and plans for the coming three years. 
-
+This will be part of his GoNoGo Meeting.
 
 ---
 If you are interested to give a talk or host a discussion session in one of our next meetings, please contact Carolin Brandt via Mattermost or email.

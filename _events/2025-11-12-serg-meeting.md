@@ -4,13 +4,13 @@ title: "SERG Seminar"
 categories: [events]
 start: "13:45"
 end: "14:45"
-speaker: Daniele Cipollone
+speaker: Enrique Barba Roque
 where: "Social Data Lab, B28"
 ---
 
 In this edition of our weekly SERG seminar, we will hear from:
 
-**Daniele Cipollone** about his research in the first PhD year and plans for the coming three years. 
+**Enrique Barba Roque** about his research in the first PhD year and plans for the coming three years. This will be part of his GoNoGo Meeting.
 
 
 ---
