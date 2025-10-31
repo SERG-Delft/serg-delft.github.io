@@ -62,6 +62,8 @@ To accomplish our research goals, our research is organized across the following
 {% endfor %}
 </ul>
 
+SERG also hosts these research labs: [AI for Software Engineering (AI4SE)](https://se.ewi.tudelft.nl/ai4se/), [The Future of Software Engineering Lab (FUSE)](https://se.ewi.tudelft.nl/fuse-lab/).
+
 We conduct our research in mixed teams, in collaboration with practitioners and
 international researchers. We publish our research in the top venues in the
 field. Members of SERG actively serve in organizational and program committees
