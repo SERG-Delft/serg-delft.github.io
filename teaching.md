@@ -19,7 +19,7 @@ We offer a variety of courses in the TU Delft bachelor [Computer Science and Eng
 Code | Subject | Instructors | Materials
 |---|---|---|---|
 [CSE1100](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE1100&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Introduction to Programming | Andy Zaidman and Thomas Overklift  | –
-[CSE1105](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE1105&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Collaborative Software Engineering Project | Sebastian Proksch and Ivar de Bruin | –
+[CSE1105](https://studyguide.tudelft.nl/courses/study-guide/educations/14248) | Collaborative Software Engineering Project | Sebastian Proksch and Ivar de Bruin | All on Brightspace
 [CSE1110](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE1110&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Quality and Testing | Carolin Brandt and Frank Mulder | [2019](https://serg-delft.github.io/cse1110-2019/)
 [CSE2115](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE2115&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Engineering Methods | Mitchell Olsthoorn and Taico Aerts | –
 [CSE2520](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CSE2520&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Big Data Processing | Burcu Kulahcioglu Ozkan and Diomidis Spinellis | [Materials](https://burcuku.github.io/cse2520-bigdata/), [Older versions](https://www.gousios.org/courses/bigdata/)
@@ -36,7 +36,7 @@ Code | Subject | Instructors | Materials
 [DSAIT4015](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=DSAIT4015&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Software Engineering and Testing for AI Systems | Annibale Panichella and Cynthia Liem
 [CS4570](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4570&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Machine Learning for Software Engineering | Maliheh Izadi
 [CS4575](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4575&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Sustainable Software Engineering | Luís Cruz and Carolin Brandt | [Materials](https://luiscruz.github.io/course_sustainableSE/)
-[CS4295](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4295&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Release Engineering for Machine Learning Applications | Sebastian Proksch
+[CS4295](https://studyguide.tudelft.nl/courses/study-guide/educations/14776) | Development and Operation of Distributed Applications | Sebastian Proksch | All on Brightspace
 [CS4580](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4580&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Automated Software Testing and Reverse Engineering | Annibale Panichella and Sicco Verwer
 [CS4720](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4720&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Research in Program Analysis | Burcu Kulahcioglu Ozkan and Arie van Deursen
 [CS4500](https://www.studiegids.tudelft.nl/a101_searchCtrl.do?course_code=CS4500&surname=&item_value=&tag_id=&deleteTag_id=&operation=searchOnCode) | Responsible Computer Science | C. Liem, S. Pera, A. Anand, L. Cavalcante Siebert and Rini van Solingen
