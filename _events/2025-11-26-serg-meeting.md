@@ -10,7 +10,7 @@ where: "Social Data Lab, B28"
 
 In this edition of our weekly SERG seminar, we will hear from:
 
-**Mahdiyeh Barzegar**, who will share about her research from before joining us for a PhD and will give an outlook on her PhD reseach project.
+**Mahdiyeh Barzegar** a "Short Introduction to Mahdiyeh and her PhD. Journey".
 
 
 ---

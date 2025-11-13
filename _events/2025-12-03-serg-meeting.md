@@ -10,7 +10,7 @@ where: "Turing, ground floor B28"
 
 In this edition of our weekly SERG seminar, we will hear from:
 
-**Xutong Liu**
+**Xutong Liu** about "Can LLMs Make Software Testing Greener? An Empirical Study on JUnit Test Energy Reengineering".
 
 
 ---
