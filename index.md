@@ -3,6 +3,8 @@ title: Software Engineering Research Group at TU Delft
 layout: page
 carousels:
   - images:
+    - image: /img/group_photos/serg-october-2025.jpg
+      text: "October 2025 @ the Office"
     - image: /img/group_photos/serg-icse-lisbon-2024.jpg
       text: "ICSE 2024 in Lisbon"
     - image: /img/group_photos/serg-at-icse2025.jpg
