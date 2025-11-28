@@ -1,11 +1,11 @@
 ---
 layout: event
-title: "SERG Seminar"
+title: "Code of Conduct Review/Discussion/Comments"
 categories: [events]
 start: "11:00"
 end: "12:00"
 speaker: SERG + Caro
-where: "TBA, B28"
+where: "Turing 0.W.100, B28"
 ---
 
 Whoever is interested can join us to read, discuss and comment on the new Code of Conduct Draft for the TU Delft.
