@@ -10,7 +10,7 @@ where: "Social Data Lab, B28"
 
 In this edition of our weekly SERG seminar, we will hear from:
 
-**Shujun Huang**
+**Shujun Huang** who will talk about her project "CIMMI: A Maturity Model for CI/CD Practices".
 
 
 ---

@@ -10,7 +10,7 @@ where: "Social Data Lab (B28, ground floor)"
 
 In this edition of our weekly SERG seminar, we will hear from:
 
-**Sára Juhošová** on ""Type-Driven Development" OR "Property-Based Testing in the Wild!""
+**Sára Juhošová** on "Type-Driven Development" 
 
 ---
 If you are interested to give a talk or host a discussion session in one of our next meetings, please contact Carolin Brandt via Mattermost or email.
