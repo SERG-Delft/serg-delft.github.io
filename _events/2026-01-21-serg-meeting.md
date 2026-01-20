@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "TBD (Awakenings, sed redux, or software hotspots)"
+title: "Software Hotspots"
 categories: [events]
 start: "13:45"
 end: "14:45"
@@ -10,7 +10,7 @@ where: "Social Data Lab (B28, ground floor)"
 
 In this edition of our weekly SERG seminar, we will hear from:
 
-**Diomidis Spinellis** who will talk about "TBD (Awakenings, sed redux, or software hotspots)".
+**Diomidis Spinellis** who will talk about "Software Hotspots".
 
 
 ---
