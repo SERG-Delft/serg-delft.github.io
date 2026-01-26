@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
 Interactive script to create SERG meeting event markdown files.
+Run with 
+```
+python scripts/create_serg_talk_event.py
+```
 """
 
 from datetime import datetime
