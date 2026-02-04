@@ -21,7 +21,7 @@ sections:
 
       To support developers, we aim to develop tools that closely collaborate with them by studying the code they write and directly proposing relevant generated tests. This type of Just-in-Time test generation would enable many new possibilities to create high-quality software with comprehensive and effective tests early in the programming process.
 
-      As a PhD student in this postion, you will lay out the foundations for Just-in-Time test generation and have the opportunity to design, prototype and evaluate new tools and techniques for test generation.
+      As a PhD student in this position, you will lay out the foundations for Just-in-Time test generation and have the opportunity to design, prototype and evaluate new tools and techniques for test generation.
 
       The technologies you work with will be driven by your interest. This could be test amplification, search-based test generation or generative artificial intelligence and large language models.
       To realize Just-in-Time test generation you will work with source code analysis tools and build prototypes for developer IDEs such as IntelliJ, VS Code or others.
