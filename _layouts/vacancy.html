@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+  {% if page.tagline %}<small>{{ page.tagline }}</small>{% endif %}
+</div>
+
+<div class="row">
+  <div class="span12">
+    {% if page.summary %}
+      {{ page.summary | markdownify }}
+    {% endif %}
+
+    {% if page.position_type or page.project or page.deadline %}
+      <ul>
+        {% if page.position_type %}<li><strong>Role:</strong> {{ page.position_type }}</li>{% endif %}
+        {% if page.project %}<li><strong>Project:</strong> {{ page.project }}</li>{% endif %}
+        {% if page.deadline %}<li><strong>Deadline:</strong> {{ page.deadline }}</li>{% endif %}
+      </ul>
+    {% endif %}
+
+    {% if page.apply_url or page.apply_email %}
+      <h2>Apply</h2>
+      <ul>
+        {% if page.apply_url %}<li><a href="{{ page.apply_url }}">Application website</a></li>{% endif %}
+        {% if page.apply_email %}<li>Email: <a href="mailto:{{ page.apply_email }}">{{ page.apply_email }}</a></li>{% endif %}
+      </ul>
+    {% endif %}
+
+    {% if page.contacts %}
+      <h2>Contact</h2>
+      {% if page.contact_note %}
+        {{ page.contact_note | markdownify }}
+      {% endif %}
+      <ul>
+        {% for contact in page.contacts %}
+          <li>
+            {% if contact.url %}<a href="{{ contact.url }}">{{ contact.name }}</a>{% else %}{{ contact.name }}{% endif %}
+            {% if contact.email %} &lt;<a href="mailto:{{ contact.email }}">{{ contact.email }}</a>&gt;{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if page.research_lines %}
+      <h2>Related research lines</h2>
+      <ul>
+        {% for line_path in page.research_lines %}
+          {% assign line = site.researchlines | where: "path", line_path | first %}
+          {% if line %}
+            <li><a href="{{ line.url }}">{{ line.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if page.sections %}
+      {% for section in page.sections %}
+        <h2>{{ section.title }}</h2>
+        {{ section.body | markdownify }}
+      {% endfor %}
+    {% endif %}
+
+    {{ content }}
+  </div>
+</div>
