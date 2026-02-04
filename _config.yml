@@ -30,6 +30,10 @@ collections:
     published: false # don't publish people pages by default
     permalink: /people/:title/
     sort_by: surname
+  vacancies:
+    output: true
+    permalink: /vacancies/:name/
+    sort_by: order
 
 plugins:
   - jekyll-sitemap
