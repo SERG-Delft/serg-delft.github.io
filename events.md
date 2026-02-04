@@ -6,9 +6,7 @@ title: Upcoming events at SERG
 We organize research talks and paper reading clubs.
 Feel free to join us!
 You can also browse through our <a href="/past-events">past events</a>,
-or subscribe to our calendar: 
-<a href="https://se.ewi.tudelft.nl/serg-events.ics">https://se.ewi.tudelft.nl/serg-events.ics</a>.
-
+or subscribe to our calendar: <a href="/serg-events.ics">{{ site.url }}/serg-events.ics</a>.
 
 {% comment %}
 WARNING!!!
