@@ -16,7 +16,7 @@ contact_note: "For additional information about this vacancy, you can contact:"
 sections:
   - title: "Project overview"
     body: |-
-      The *Software Engineering Research Group* (SERG) and the *Multimedia Computing Group* (MMC) have the following join vacancy.
+      The *Software Engineering Research Group* (SERG) and the *Multimedia Computing Group* (MMC) have the following joint vacancy.
 
       AI-intensive systems involve multiple internal stages, pipelines, models, as well as interaction with other non-AI-based components. Often, they also process multimodal data requiring human interpretation. The question of quality assurance for AI thus is more refined than a single evaluation or testing approach, which often is seen today. In this Ph.D. project, we therefore will focus on bridging evaluation and testing methodologies from the software engineering and applied machine learning domains.
 
