@@ -3,6 +3,8 @@ title: Software Engineering Research Group at TU Delft
 layout: page
 carousels:
   - images:
+    - image: /img/group_photos/serg-retreat-2016-january.jpg
+      text: "Group retreat - January 2026"
     - image: /img/group_photos/serg-january-2026.jpg
       text: "January 2026 @ the Office"
     - image: /img/group_photos/serg-october-2025.jpg
