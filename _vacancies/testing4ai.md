@@ -36,7 +36,7 @@ sections:
       - Commitment to research and engineering.
   - title: "How to apply?"
     body: |-
-      Are you interested in this vacancy? Please apply before by **July 15, 2021** uploading the following documents in the [application form](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=1495&nPostingTargetId=3308&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external):
+      Are you interested in this vacancy? Please apply by **July 15, 2021** uploading the following documents in the [application form](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=1495&nPostingTargetId=3308&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external):
 
       - A motivation letter, in which you describe your research interests and background and how they relate to the position;
       - A succinct curriculum vitae;
