@@ -29,8 +29,8 @@ END:VTIMEZONE
 {% for post in items limit:30 %}BEGIN:VEVENT
 UID:{{ post.id | slugify }}@se.ewi.tudelft.nl
 ORGANIZER;CN="SERG":MAILTO:noreply@se.ewi.tudelft.nl
-LOCATION:{{ post.where }}
-SUMMARY:{{ post.speaker }}: {{ post.title }}
+LOCATION:{{ post.where | replace: "\\", "\\\\" | replace: ",", "\\," | replace: ";", "\\;" }}
+SUMMARY:{{ post.speaker | replace: "\\", "\\\\" | replace: ",", "\\," | replace: ";", "\\;" }}: {{ post.title | replace: "\\", "\\\\" | replace: ",", "\\," | replace: ";", "\\;" }}
 CLASS:PUBLIC
 DTSTART;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.start | replace: ":", ""}}00
 DTEND;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T{{post.end | replace: ":", ""}}00
