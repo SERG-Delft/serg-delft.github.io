@@ -15,16 +15,3 @@ This project is a collaboration between the Multimedia Computing (MMC) Group at 
 [I want to know more...](/vacancies/testing4ai)
 
 **Contact:** Annibale Panichella (a.panichella@tudelft.nl)
-
-
-## PhD student in Testing Distributed Systems
-
-Modern computation increasingly depends on large-scale distributed systems and blockchains. However, these systems are difficult to design and implement correctly. They may fail to ensure correctness in subtle executions with unexpected orderings of exchanged messages, network partitions, and process failures.
-
-The PhD project aims to develop program analysis and testing techniques for improving reliability of distributed systems and blockchains.
-
-The project lies in the intersection of software testing, program analysis, and distributed systems. The prospective PhD student is expected to do high-quality research involving both theory and implementation: getting a deep understanding of theoretical abstractions of fault-tolerant systems and developing novel software analysis and testing techniques.
-
-[I want to know more...](/vacancies/testds)
-
-**Contact:** Burcu Kulahcioglu Ozkan (b.ozkan@tudelft.nl)
