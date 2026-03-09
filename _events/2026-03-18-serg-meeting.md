@@ -8,8 +8,7 @@ speaker: Marije Severs
 where: "Social Data Lab (B28, ground floor)"
 ---
 
-TBA
-
+EDI Session on social norms, unconscious bias, microagression
 
 ---
 If you are interested to give a talk or host a discussion session in one of our next meetings, please contact Carolin Brandt via Mattermost or email.
