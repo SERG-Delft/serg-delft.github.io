@@ -6,6 +6,13 @@ description: Open positions at the Software Engineering Research Group
 
 The TU Delft Software Engineering Research Group has the following vacancies: 
 
+## Assistant Professor in Software Engineering 
+
+The Software Technology department has an open call for an assistant professor in computer science. This vacancy is open to all disciplines that are covered in the
+[Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology) department, including Software Engineering! See [here](https://careers.tudelft.nl/job/Delft-Assistant-Professor-in-Computer-Science-2628-CD/1357916157/)
+
+The closing date is May 11th, 2026.
+
 ## PhD student in Software Testing and Validation for AI-intense Systems
 
 The Ph.D. position will focus on the research and development of solutions to test and validate AI-intensive systems. AI-intensive systems involve multiple internal stages, pipelines, models, as well as interaction with other non-AI-based components. Often, they also process multimodal data requiring human interpretation. The question of quality assurance for AI thus is more refined than a single evaluation or testing approach, which often is seen today. In this Ph.D. project, we therefore will focus on bridging evaluation and testing methodologies from the software engineering and applied machine learning domains.
