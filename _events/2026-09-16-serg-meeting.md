@@ -5,7 +5,7 @@ categories: [events]
 start: "13:45"
 end: "14:45"
 speaker: Yongcheng Huang
-where: "Social Data Lab (B28, ground floor)"
+where: "Turing (B28, ground floor)"
 ---
 
 In this edition of our weekly SERG seminar, we will hear from:
