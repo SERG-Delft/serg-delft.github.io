@@ -32,6 +32,7 @@ description: People in the Software Engineering Research Group
 
 | Name                                                                                           | Period    | Role                           | Current Affiliation                                                                                                                                               |
 |------------------------------------------------------------------------------------------------|-----------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Xutong Liu](https://liu906.github.io/) | 2025-2026 | Postdoc | University of Twente |
 | [Arumoy Shome](https://arumoy.me) | 2021-2025 | PhD | Dot Robot |
 | [Quentin Le Dilavrec](https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html) | 2024-2026 | Postdoc | Independent | 
 | [Lorena Poenaru-Olaru](https://www.linkedin.com/in/lorena-poenaru-olaru/) | 2020-2026 | PhD | ING | 
