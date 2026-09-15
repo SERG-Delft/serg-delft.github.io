@@ -3,10 +3,10 @@ layout: page
 title: Assistant Professor vacancy
 ---
 
-The Software Technology Department, of which the Software Engineering Group is part, has an opening for an assisant professor:
+## Assistant Professor in Software Engineering
 
-## Assistant Professor in Software Engineering PhD student & post-doc in Software Testing 
+The Software Technology Department, of which the Software Engineering Group is part, has 4 openings for an assisant professor. **Software Engineering** is one of the focal areas that we are searching for, so if you are interested, please apply [here](https://careers.tudelft.nl/job/Delft-Assistant-Professor-in-Computer-Science-2628-CD/1371842257/). 
 
-The Software Technology department has an open call for an assistant professor in computer science. See [here](https://careers.tudelft.nl/job/Delft-Assistant-Professor-in-Computer-Science-2628-CD/1357916157/)
+As a research group, we are open to candidates in all areas of software engineering. We are looking for an enthusiastic colleague to collaborate with, a colleague that has a passion for both research and education. 
 
-The closing date is May 11th, 2026.
+The closing date is November 1st, 2026.
