@@ -3,7 +3,7 @@ given_name: Mitrasree
 surname: Deb
 interests: Human-Computer Interaction, Developer Productivity
 current_affiliation: SERG, FUSE Lab
-role: PhD Candidate
+role: PhD Student
 start_date: 
 end_date: 
 website_url: https://www.linkedin.com/in/mitrasreedeb/
