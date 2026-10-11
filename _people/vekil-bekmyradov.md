@@ -1,7 +1,7 @@
 ---
 given_name: Vekil
 surname: Bekmyradov
-interests: AI/ML for SE, Software Testing, Testing AI/ML Systems
+interests: AI/ML for SE, Software Testing, Testing for and with AI/ML Systems
 
 current_affiliation: SERG, FUSE Lab
 role: PhD Student
