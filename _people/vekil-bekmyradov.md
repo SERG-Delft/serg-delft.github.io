@@ -1,18 +1,18 @@
 ---
 given_name: Vekil
 surname: Bekmyradov
-interests: PhD Candidate at FUSE Lab
+interests: AI/ML for SE, Software Testing, Testing AI/ML Systems
 
 current_affiliation: SERG, FUSE Lab
 role: PhD Student
 start_date:
 end_date:
 
-website_url:
-email: V.Bekmyradov@tudelft.nl
+website_url: https://vklb.github.io/
+email: v.bekmyradov@tudelft.nl
 github: vklb
 linkedin: vklb
-google_scholar:
+google_scholar: GhPQc1YAAAAJ
 xdotcom:
 stackoverflow:
 tudelft_research:
