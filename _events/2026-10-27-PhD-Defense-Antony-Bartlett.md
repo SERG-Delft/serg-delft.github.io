@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "PhD Defense: Understanding Software Quality Assurance in Open-Source Communities: Awareness, Adoption, and Tool Utilization"
+title: "PhD Defense: The Good, the Bad, and the Adversarial: Multi-Objective Testing for Deep Learning Systems"
 categories: [events, talk]
 start: "12:30"
 end: "13:30"
