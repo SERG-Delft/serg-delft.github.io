@@ -5,7 +5,7 @@ categories: [events]
 start: "09:30"
 end: "11:00"
 speaker: Shane McIntosh, Gregorio Robles, Tom Mens
-where: To be announced
+where: 0.W100 Turing
 ---
 
 We are hosting a symposium to celebrate the PhD Defense of Ali Khatami. Three excellent researchers, who are also the external committee members of Ali's defense, will share their recent research interests.
