@@ -5,7 +5,7 @@ categories: [events]
 start: "11:00"
 end: "12:00"
 speaker: Martin Monperrus (KTH)
-where: "TBD"
+where: "Building 28, room 1.W510 (Banach) and Zoom"
 ---
 
 **Title**: CHAINS: Consistent Hardening and Analysis of Software Supply Chains
